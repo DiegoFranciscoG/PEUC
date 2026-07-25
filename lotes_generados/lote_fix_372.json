@@ -1,0 +1,189 @@
+[
+  {
+    "id": "cn_372_ex_006",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.2",
+    "enunciado": "Un proyectil es lanzado horizontalmente desde un acantilado de 20 m de altura con una velocidad de 15 m/s. Considerando g = 10 m/s², ¿cuánto tiempo tarda en llegar al suelo?",
+    "opciones": ["2 s", "4 s", "1.5 s", "3 s"],
+    "respuesta_correcta": "2 s",
+    "explicacion_detallada": "El tiempo de vuelo en un lanzamiento horizontal depende únicamente de la altura desde la que cae. Se calcula usando la fórmula de caída libre h = (1/2)gt².",
+    "pasos_resolucion": ["Paso 1: Identificar datos: h = 20 m, g = 10 m/s², V_iy = 0 m/s.", "Paso 2: Aplicar la fórmula h = (1/2)gt².", "Paso 3: Sustituir valores: 20 = (1/2)(10)t².", "Paso 4: Resolver para t: 20 = 5t² => t² = 4 => t = 2 s."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_372_ex_007",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.2",
+    "enunciado": "Un objeto es lanzado horizontalmente desde una altura de 20 m con una velocidad de 15 m/s (g = 10 m/s²). ¿Cuál es el alcance horizontal (distancia desde la base) al impactar el suelo?",
+    "opciones": ["30 m", "15 m", "45 m", "20 m"],
+    "respuesta_correcta": "30 m",
+    "explicacion_detallada": "El alcance horizontal se calcula multiplicando la velocidad horizontal (constante) por el tiempo de vuelo. Ya sabemos que el tiempo es de 2 segundos desde esa altura.",
+    "pasos_resolucion": ["Paso 1: Calcular el tiempo de vuelo: t = √(2h/g) = √(2*20/10) = 2 s.", "Paso 2: Identificar la velocidad horizontal constante: V_x = 15 m/s.", "Paso 3: Calcular el alcance: x = V_x * t = 15 * 2 = 30 m."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_372_ex_008",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.2",
+    "enunciado": "Se patea un balón de fútbol con una velocidad inicial de 20 m/s formando un ángulo de 30° con la horizontal. ¿Cuál es el tiempo que tarda en alcanzar su altura máxima? (g = 10 m/s²)",
+    "opciones": ["1 s", "2 s", "1.5 s", "0.5 s"],
+    "respuesta_correcta": "1 s",
+    "explicacion_detallada": "El tiempo de subida depende de la componente vertical de la velocidad inicial. Alcanza su altura máxima cuando su velocidad vertical es cero.",
+    "pasos_resolucion": ["Paso 1: Calcular la velocidad inicial vertical: V_iy = V_i * sen(30°) = 20 * 0.5 = 10 m/s.", "Paso 2: Usar la ecuación V_fy = V_iy - g*t de ascenso.", "Paso 3: En la altura máxima, V_fy = 0, por lo tanto 0 = 10 - 10*t.", "Paso 4: Despejar t: t = 1 s."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_372_ex_009",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.2",
+    "enunciado": "En un movimiento parabólico, ¿cuál es el ángulo de lanzamiento que permite alcanzar la máxima distancia horizontal (alcance máximo) sobre un terreno plano?",
+    "opciones": ["45°", "30°", "60°", "90°"],
+    "respuesta_correcta": "45°",
+    "explicacion_detallada": "Matemáticamente, el alcance máximo se da cuando el factor sen(2θ) en la ecuación de alcance R = (V² * sen(2θ))/g es igual a 1, lo cual ocurre cuando θ = 45°.",
+    "pasos_resolucion": ["Paso 1: Recordar la fórmula del alcance horizontal: R = (V² * sen(2θ))/g.", "Paso 2: Para maximizar R para una V dada, sen(2θ) debe ser máximo.", "Paso 3: El valor máximo de la función seno es 1.", "Paso 4: sen(2θ) = 1 implica que 2θ = 90°, entonces θ = 45°."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_372_ex_010",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.2",
+    "enunciado": "Un proyectil se lanza con una velocidad de 40 m/s bajo un ángulo de 60°. En el punto más alto de su trayectoria, su velocidad es:",
+    "opciones": ["20 m/s", "0 m/s", "40 m/s", "34.6 m/s"],
+    "respuesta_correcta": "20 m/s",
+    "explicacion_detallada": "En el punto más alto del movimiento parabólico, la componente vertical de la velocidad es nula, pero la componente horizontal se mantiene constante y es igual a V_ix.",
+    "pasos_resolucion": ["Paso 1: Entender que en la altura máxima, V_y = 0.", "Paso 2: La velocidad total en ese punto es únicamente la componente horizontal V_x.", "Paso 3: Calcular V_x: V_x = V_i * cos(60°).", "Paso 4: Sustituir valores: V_x = 40 * 0.5 = 20 m/s."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_372_ex_011",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.2",
+    "enunciado": "Un avión vuela horizontalmente a una velocidad constante y deja caer un paquete. Despreciando la resistencia del aire, la trayectoria del paquete vista por un observador en reposo en tierra es:",
+    "opciones": ["Parabólica", "Línea recta vertical", "Línea recta diagonal", "Circular"],
+    "respuesta_correcta": "Parabólica",
+    "explicacion_detallada": "El paquete conserva la velocidad horizontal inicial del avión y experimenta aceleración hacia abajo debido a la gravedad, lo que resulta en una trayectoria parabólica o semiparabólica.",
+    "pasos_resolucion": ["Paso 1: Analizar la velocidad inicial del paquete: tiene V_x igual a la del avión, y V_y inicial de 0.", "Paso 2: Analizar las aceleraciones: a_x = 0 (movimiento rectilíneo uniforme horizontal) y a_y = -g (caída libre vertical).", "Paso 3: La combinación de MRU y MRUV genera una curva geométrica que es una parábola."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_372_ex_012",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.2",
+    "enunciado": "Se lanza un objeto hacia arriba en un ángulo oblicuo. Si el tiempo de subida hasta su altura máxima es de 3 segundos, ¿cuál es el tiempo de vuelo total si regresa al mismo nivel de lanzamiento?",
+    "opciones": ["6 s", "3 s", "9 s", "1.5 s"],
+    "respuesta_correcta": "6 s",
+    "explicacion_detallada": "Por la simetría del movimiento parabólico en ausencia de fricción del aire, el tiempo que tarda en alcanzar la altura máxima (tiempo de subida) es igual al tiempo que tarda en caer desde ella al mismo nivel.",
+    "pasos_resolucion": ["Paso 1: Recordar el principio de simetría en el movimiento parabólico.", "Paso 2: Tiempo de vuelo = Tiempo de subida + Tiempo de bajada.", "Paso 3: Tiempo de subida = 3 s. Tiempo de bajada = 3 s.", "Paso 4: Tiempo total = 3 + 3 = 6 s."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_372_ex_013",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.2",
+    "enunciado": "Desde la azotea de un edificio de 45 metros de altura se lanza una pelota horizontalmente con una velocidad de 10 m/s. ¿Con qué velocidad vertical choca contra el suelo? (g = 10 m/s²)",
+    "opciones": ["30 m/s", "10 m/s", "45 m/s", "15 m/s"],
+    "respuesta_correcta": "30 m/s",
+    "explicacion_detallada": "La velocidad vertical de impacto depende de la altura de caída y la aceleración de la gravedad, usando la ecuación de cinemática independiente del tiempo.",
+    "pasos_resolucion": ["Paso 1: Usar la ecuación (V_fy)² = (V_iy)² + 2gh.", "Paso 2: Como el lanzamiento es horizontal, V_iy = 0.", "Paso 3: Sustituir valores: (V_fy)² = 0 + 2(10)(45).", "Paso 4: (V_fy)² = 900. Extraer raíz cuadrada: V_fy = 30 m/s."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_372_ex_014",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.2",
+    "enunciado": "En un tiro parabólico ideal, la aceleración del cuerpo mientras está en el aire es:",
+    "opciones": ["Constante, dirigida hacia abajo, igual a la gravedad", "Cero en el punto más alto de la trayectoria", "Variable dependiendo de la velocidad", "Constante, dirigida horizontalmente"],
+    "respuesta_correcta": "Constante, dirigida hacia abajo, igual a la gravedad",
+    "explicacion_detallada": "En ausencia de fricción del aire, la única fuerza que actúa sobre un proyectil es su peso. Según la segunda ley de Newton, esto provoca una aceleración constante de 9.8 m/s² (o g) dirigida hacia el centro de la Tierra.",
+    "pasos_resolucion": ["Paso 1: Analizar las fuerzas que actúan sobre el proyectil una vez lanzado.", "Paso 2: Identificar que solo actúa el peso (fuerza gravitatoria).", "Paso 3: Concluir que la aceleración debida a esta fuerza es g, dirigida hacia abajo, en todos los puntos de la trayectoria."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_372_ex_015",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.2",
+    "enunciado": "Se dispara un cañón con una velocidad de 50 m/s y un ángulo de 53° sobre la horizontal (sen 53° ≈ 0.8, cos 53° ≈ 0.6). ¿Cuál es la altura máxima alcanzada? (g = 10 m/s²)",
+    "opciones": ["80 m", "100 m", "40 m", "125 m"],
+    "respuesta_correcta": "80 m",
+    "explicacion_detallada": "La altura máxima se obtiene cuando la velocidad vertical final es cero. Se utiliza la fórmula h_max = (V_iy)² / (2g).",
+    "pasos_resolucion": ["Paso 1: Calcular la velocidad inicial vertical: V_iy = 50 * sen(53°) = 50 * 0.8 = 40 m/s.", "Paso 2: Utilizar la fórmula h_max = (V_iy)² / (2g).", "Paso 3: Sustituir valores: h_max = (40)² / (2*10).", "Paso 4: Calcular: h_max = 1600 / 20 = 80 m."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_372_ex_016",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.2",
+    "enunciado": "Dos proyectiles A y B son lanzados con la misma velocidad inicial. El proyectil A se lanza a 30° y el B a 60°. Comparando sus alcances horizontales sobre un terreno nivelado, se puede afirmar que:",
+    "opciones": ["Tienen el mismo alcance", "A llega más lejos que B", "B llega más lejos que A", "Falta información para comparar"],
+    "respuesta_correcta": "Tienen el mismo alcance",
+    "explicacion_detallada": "Para una misma velocidad inicial en un plano, dos proyectiles lanzados con ángulos complementarios (que suman 90°, como 30° y 60°) alcanzan la misma distancia horizontal.",
+    "pasos_resolucion": ["Paso 1: Recordar la fórmula de alcance: R = (V² * sen(2θ))/g.", "Paso 2: Calcular sen(2θ) para 30°: sen(2*30°) = sen(60°).", "Paso 3: Calcular sen(2θ) para 60°: sen(2*60°) = sen(120°).", "Paso 4: Notar que sen(60°) = sen(120°), por tanto los alcances son iguales."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_372_ex_017",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.2",
+    "enunciado": "Un ciclista salta horizontalmente desde una rampa a 12 m/s y aterriza en el suelo plano después de 1.5 segundos. ¿Qué distancia horizontal recorrió en el aire?",
+    "opciones": ["18 m", "12 m", "24 m", "9 m"],
+    "respuesta_correcta": "18 m",
+    "explicacion_detallada": "En el movimiento semiparabólico, el movimiento horizontal es rectilíneo uniforme. La distancia horizontal es simplemente velocidad horizontal por tiempo.",
+    "pasos_resolucion": ["Paso 1: Identificar la componente de velocidad horizontal constante: V_x = 12 m/s.", "Paso 2: Identificar el tiempo total de vuelo: t = 1.5 s.", "Paso 3: Usar la ecuación de MRU para el eje X: d = V_x * t.", "Paso 4: d = 12 m/s * 1.5 s = 18 m."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_372_ex_018",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.2",
+    "enunciado": "¿Qué magnitud se mantiene siempre constante en las componentes rectangulares de la velocidad durante el movimiento de un proyectil? (Desprecie la fricción del aire)",
+    "opciones": ["La velocidad horizontal (Vx)", "La velocidad vertical (Vy)", "El módulo de la velocidad resultante", "La altura (y)"],
+    "respuesta_correcta": "La velocidad horizontal (Vx)",
+    "explicacion_detallada": "En la cinemática de proyectiles idealizada, no hay fuerzas actuando en el eje horizontal, por lo que la aceleración horizontal es cero. Por la primera ley de Newton, la velocidad horizontal se mantiene constante.",
+    "pasos_resolucion": ["Paso 1: Analizar las fuerzas horizontales: son nulas (sin fricción).", "Paso 2: Aceleración horizontal a_x = 0.", "Paso 3: Si la aceleración es nula, la velocidad no cambia en esa dirección. Vx = constante."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_372_ex_019",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.2",
+    "enunciado": "Desde una mesa de 1.25 m de altura rueda una canica y cae al suelo con un lanzamiento horizontal. ¿Cuánto tiempo se mantiene en el aire? (g = 10 m/s²)",
+    "opciones": ["0.5 s", "1 s", "0.25 s", "1.25 s"],
+    "respuesta_correcta": "0.5 s",
+    "explicacion_detallada": "El tiempo de vuelo para un objeto lanzado horizontalmente se calcula con la componente vertical, que es una caída libre. t = √(2h/g).",
+    "pasos_resolucion": ["Paso 1: Identificar datos: h = 1.25 m, g = 10 m/s².", "Paso 2: Fórmula h = (1/2)gt².", "Paso 3: Despejar y reemplazar: 1.25 = (1/2)(10)t² -> 1.25 = 5t².", "Paso 4: t² = 1.25 / 5 = 0.25. t = √0.25 = 0.5 s."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_372_ex_020",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.2",
+    "enunciado": "Un proyectil se lanza con velocidad inicial V_0 y un ángulo θ. La ecuación para la trayectoria del proyectil resulta en:",
+    "opciones": ["Una parábola de eje vertical", "Una línea recta", "Una parábola de eje horizontal", "Una hipérbola"],
+    "respuesta_correcta": "Una parábola de eje vertical",
+    "explicacion_detallada": "Al eliminar el tiempo de las ecuaciones paramétricas x(t) e y(t), se obtiene una ecuación de segundo grado y(x) = ax - bx², que describe una parábola que se abre hacia abajo con su eje de simetría vertical.",
+    "pasos_resolucion": ["Paso 1: Recordar las ecuaciones x(t) = V_x*t y y(t) = V_iy*t - (1/2)gt².", "Paso 2: Despejar t en la de x y sustituir en la de y.", "Paso 3: La expresión resultante tiene la forma matemática de una parábola en el plano xy (y cuadrática respecto a x)."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_372_ex_021",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.2",
+    "enunciado": "Un bateador golpea una pelota de béisbol con un ángulo de 45° a 20 m/s. Considerando g = 10 m/s², ¿qué distancia horizontal total recorre antes de tocar el suelo?",
+    "opciones": ["40 m", "20 m", "80 m", "30 m"],
+    "respuesta_correcta": "40 m",
+    "explicacion_detallada": "El alcance máximo ocurre a 45° y se calcula simplificando la fórmula de alcance R = V_i² / g, ya que sen(2*45°) = sen(90°) = 1.",
+    "pasos_resolucion": ["Paso 1: Identificar datos: V_i = 20 m/s, θ = 45°.", "Paso 2: Fórmula: R = (V_i² * sen(2θ)) / g.", "Paso 3: Sustituir: R = (20² * sen(90°)) / 10.", "Paso 4: Calcular: R = (400 * 1) / 10 = 40 m."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_372_ex_022",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.2",
+    "enunciado": "Dos piedras se lanzan simultáneamente desde un mismo punto a la misma velocidad. Una en tiro horizontal y la otra se deja caer (caída libre). Despreciando el aire, ¿cuál llega primero al suelo?",
+    "opciones": ["Llegan al mismo tiempo", "La que cae en caída libre", "La del tiro horizontal", "Depende de la masa de cada piedra"],
+    "respuesta_correcta": "Llegan al mismo tiempo",
+    "explicacion_detallada": "El movimiento horizontal es independiente del movimiento vertical. Ambas piedras inician sin velocidad vertical inicial y son aceleradas hacia abajo por la misma gravedad, por lo que recorren la misma altura en el mismo tiempo.",
+    "pasos_resolucion": ["Paso 1: Analizar la velocidad vertical inicial: para ambas V_iy = 0.", "Paso 2: Analizar la aceleración: ambas experimentan g = 9.8 m/s².", "Paso 3: Analizar la distancia vertical: ambas recorren la misma altura h.", "Paso 4: Según h = (1/2)gt², el tiempo t es el mismo para ambas."],
+    "video_explicativo_url": ""
+  }
+]

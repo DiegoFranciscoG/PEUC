@@ -1,0 +1,90 @@
+[
+  {
+    "id": "cn_332_ex_015",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.3.2",
+    "enunciado": "¿Qué hormona es producida por el cuerpo lúteo durante la segunda mitad del ciclo menstrual para preparar el endometrio para una posible implantación?",
+    "opciones": ["La hormona foliculoestimulante (FSH)", "La hormona luteinizante (LH)", "La progesterona", "El estrógeno"],
+    "respuesta_correcta": "La progesterona",
+    "explicacion_detallada": "Después de la ovulación, el folículo roto se transforma en el cuerpo lúteo, el cual secreta principalmente progesterona. Esta hormona engrosa y mantiene el revestimiento del útero (endometrio) para recibir al óvulo fecundado.",
+    "pasos_resolucion": ["Recordar las fases del ciclo menstrual y las estructuras ováricas involucradas.", "Identificar el cuerpo lúteo como la glándula endocrina temporal que se forma tras la ovulación.", "Relacionar el cuerpo lúteo con la producción predominante de progesterona para el mantenimiento del endometrio."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_332_ex_016",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.3.2",
+    "enunciado": "En el sistema reproductor masculino, ¿cuál es la función principal del epidídimo?",
+    "opciones": ["Producir los espermatozoides y la testosterona", "Almacenar y promover la maduración de los espermatozoides", "Producir el líquido seminal que nutre a los espermatozoides", "Conducir los espermatozoides desde la uretra hacia el exterior"],
+    "respuesta_correcta": "Almacenar y promover la maduración de los espermatozoides",
+    "explicacion_detallada": "El epidídimo es un tubo enrollado situado sobre cada testículo. Su función es almacenar los espermatozoides producidos en los túbulos seminíferos hasta que maduren y adquieran movilidad y capacidad de fecundación.",
+    "pasos_resolucion": ["Identificar las partes del sistema reproductor masculino.", "Recordar que los testículos (túbulos seminíferos) producen los espermatozoides.", "Reconocer que el epidídimo actúa como un sitio de almacenamiento y maduración antes de la eyaculación."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_332_ex_017",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.3.2",
+    "enunciado": "¿En qué estructura del sistema reproductor femenino ocurre normalmente la fecundación del óvulo por el espermatozoide?",
+    "opciones": ["En el tercio externo de las trompas de Falopio", "En la cavidad uterina (endometrio)", "En el cuello uterino (cérvix)", "En los folículos ováricos"],
+    "respuesta_correcta": "En el tercio externo de las trompas de Falopio",
+    "explicacion_detallada": "La fecundación, que es la unión del espermatozoide con el óvulo, ocurre habitualmente en la región de la ampolla, en el tercio externo de las trompas de Falopio, antes de que el cigoto viaje hacia el útero para la implantación.",
+    "pasos_resolucion": ["Analizar el recorrido del óvulo tras la ovulación.", "Recordar que el espermatozoide asciende por el útero hasta las trompas.", "Identificar el tercio externo (ampolla) de las trompas de Falopio como el sitio exacto de la fecundación."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_332_ex_018",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.3.2",
+    "enunciado": "Durante el desarrollo embrionario, ¿qué capa germinativa da origen al sistema nervioso y a la epidermis?",
+    "opciones": ["El mesodermo", "El endodermo", "El ectodermo", "El trofoblasto"],
+    "respuesta_correcta": "El ectodermo",
+    "explicacion_detallada": "Durante la gastrulación se forman tres capas germinativas. El ectodermo (capa externa) da origen al sistema nervioso, la epidermis y sus anexos. El mesodermo forma músculos, huesos y sistema circulatorio, mientras que el endodermo forma el tracto digestivo y respiratorio.",
+    "pasos_resolucion": ["Revisar las tres capas germinativas formadas durante la gastrulación.", "Asociar el endodermo con órganos internos y tractos, y el mesodermo con el sistema musculoesquelético y circulatorio.", "Concluir que el ectodermo forma las estructuras externas (epidermis) y el sistema nervioso."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_332_ex_019",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.3.2",
+    "enunciado": "¿Qué método anticonceptivo actúa previniendo mecánicamente que el espermatozoide alcance el óvulo y a la vez reduce el riesgo de transmisión de Infecciones de Transmisión Sexual (ITS)?",
+    "opciones": ["El dispositivo intrauterino (DIU)", "Las píldoras anticonceptivas orales", "El condón masculino o femenino", "El implante subdérmico"],
+    "respuesta_correcta": "El condón masculino o femenino",
+    "explicacion_detallada": "El condón es un método anticonceptivo de barrera que impide físicamente el contacto de los fluidos genitales. Es el único método de la lista que, además de prevenir embarazos, ofrece protección significativa contra las ITS.",
+    "pasos_resolucion": ["Clasificar los métodos anticonceptivos según su mecanismo (barrera, hormonal, intrauterino).", "Identificar cuáles métodos de barrera previenen físicamente el paso de espermatozoides.", "Recordar que solo los métodos de barrera como el condón previenen las Infecciones de Transmisión Sexual."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_332_ex_020",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.3.2",
+    "enunciado": "El agente causal de la sífilis, una Infección de Transmisión Sexual (ITS) que cursa con etapas primaria, secundaria y terciaria, es:",
+    "opciones": ["Un virus llamado Virus del Papiloma Humano (VPH)", "Una bacteria llamada Treponema pallidum", "Un hongo llamado Candida albicans", "Un protozoo llamado Trichomonas vaginalis"],
+    "respuesta_correcta": "Una bacteria llamada Treponema pallidum",
+    "explicacion_detallada": "La sífilis es causada por la bacteria espiroqueta Treponema pallidum. El VPH causa verrugas genitales o cáncer, Candida causa candidiasis (infección fúngica) y Trichomonas causa tricomoniasis (infección parasitaria).",
+    "pasos_resolucion": ["Identificar el agente patógeno responsable de la sífilis.", "Descartar los agentes virales, fúngicos y parasitarios listados.", "Confirmar que Treponema pallidum es la bacteria que causa las lesiones características de la sífilis."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_332_ex_021",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.3.2",
+    "enunciado": "¿Cuál de las siguientes afirmaciones describe correctamente la función de la hormona luteinizante (LH) en el sistema reproductor masculino?",
+    "opciones": ["Estimula a las células de Sertoli para la espermatogénesis", "Estimula a las células de Leydig para la producción de testosterona", "Inhibe la liberación de gonadotropinas en la hipófisis", "Promueve la contracción de las vesículas seminales durante la eyaculación"],
+    "respuesta_correcta": "Estimula a las células de Leydig para la producción de testosterona",
+    "explicacion_detallada": "En los hombres, la LH se une a los receptores en las células de Leydig (células intersticiales) en los testículos y estimula la síntesis y secreción de testosterona. La FSH, por otro lado, actúa sobre las células de Sertoli para promover la espermatogénesis.",
+    "pasos_resolucion": ["Diferenciar las funciones de la FSH y la LH en el varón.", "Asociar la FSH con las células de Sertoli y la formación de espermatozoides.", "Relacionar la LH con las células de Leydig y la síntesis de andrógenos (testosterona)."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_332_ex_022",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.3.2",
+    "enunciado": "La implantación del blastocisto en la pared uterina ocurre típicamente alrededor de cuántos días después de la fecundación:",
+    "opciones": ["Entre 1 y 2 días", "Entre 3 y 4 días", "Entre 6 y 7 días", "A los 14 días"],
+    "respuesta_correcta": "Entre 6 y 7 días",
+    "explicacion_detallada": "Después de la fecundación, el cigoto experimenta múltiples divisiones celulares (segmentación) mientras viaja por la trompa de Falopio. Alcanza el estadio de blastocisto y comienza a implantarse en el endometrio aproximadamente entre el sexto y séptimo día post-fecundación.",
+    "pasos_resolucion": ["Seguir la cronología del desarrollo temprano post-fecundación.", "Saber que el viaje por la trompa de Falopio toma varios días.", "Determinar que la etapa de blastocisto lista para la implantación se alcanza unos 6-7 días después de la fecundación."],
+    "video_explicativo_url": ""
+  }
+]

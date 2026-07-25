@@ -1,0 +1,423 @@
+﻿[
+    {
+        "id":  "cs_461_001",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "En la evoluciÃ³n del pensamiento econÃ³mico europeo (siglos XVI-XVIII), el mercantilismo fue la doctrina econÃ³mica dominante durante la consolidaciÃ³n de los Estados-naciÃ³n absolutistas. Â¿CuÃ¡l era la premisa central del mercantilismo respecto a la riqueza de una naciÃ³n?",
+        "opciones":  [
+                         "La riqueza de una naciÃ³n se mide por la cantidad de metales preciosos (oro y plata) que posee en sus reservas, lo que requiere un Estado intervencionista que fomente las exportaciones y restrinja las importaciones (balanza comercial positiva).",
+                         "La riqueza de una naciÃ³n proviene exclusivamente del trabajo agrÃ­cola y la tierra, siendo los metales preciosos meras representaciones estÃ©riles del verdadero valor.",
+                         "La riqueza de una naciÃ³n se maximiza cuando el Estado se retira completamente de la economÃ­a y permite el libre comercio absoluto sin aranceles entre todos los paÃ­ses.",
+                         "La riqueza de una naciÃ³n se mide por el nivel de equidad en la distribuciÃ³n del ingreso entre los trabajadores y la eliminaciÃ³n absoluta de la propiedad privada."
+                     ],
+        "respuesta_correcta":  "La riqueza de una naciÃ³n se mide por la cantidad de metales preciosos (oro y plata) que posee en sus reservas, lo que requiere un Estado intervencionista que fomente las exportaciones y restrinja las importaciones (balanza comercial positiva).",
+        "explicacion_detallada":  "El mercantilismo (aplicado por Colbert en Francia o la Corona espaÃ±ola) sostenÃ­a que la riqueza global era fija (juego de suma cero). Para que un paÃ­s enriqueciera, debÃ­a acumular oro y plata vendiendo mucho (exportando) y comprando poco (importando mediante altos aranceles/proteccionismo), apoyado por un Estado fuerte y monopolios comerciales (ej. flotas de Indias).",
+        "pasos_resolucion":  [
+                                 "Escuela: Mercantilismo (s. XVI-XVIII).",
+                                 "Concepto central: AcumulaciÃ³n de metales preciosos (bullionismo) y proteccionismo estatal.",
+                                 "Descartar el enfoque agrÃ­cola (eso es la Fisiocracia) o el libre comercio (eso es el liberalismo clÃ¡sico de Smith)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=mercantilismo+teoria+economica+metales+preciosos"
+    },
+    {
+        "id":  "cs_461_002",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "Adam Smith, considerado el padre de la economÃ­a clÃ¡sica, publicÃ³ en 1776 su obra \u0027La Riqueza de las Naciones\u0027. En ella introdujo la famosa metÃ¡fora de la \u0027mano invisible\u0027. Â¿QuÃ© significa este concepto en su teorÃ­a de los mercados?",
+        "opciones":  [
+                         "Que los individuos, al buscar egoÃ­stamente su propio beneficio econÃ³mico personal, son guiados indirectamente por el mercado para promover el bienestar general de la sociedad de manera mÃ¡s eficiente que si el Estado intentara planificarlo.",
+                         "Que existe una fuerza divina inobservable que distribuye la riqueza equitativamente entre todas las clases sociales si se reza con devociÃ³n.",
+                         "Que el Estado debe intervenir de manera oculta (invisible) en los mercados financieros para manipular las tasas de interÃ©s y evitar las crisis inflacionarias.",
+                         "Que las corporaciones monopolÃ­sticas controlan secretamente los precios globales, manipulando el mercado para exprimir a los consumidores sin que estos se den cuenta."
+                     ],
+        "respuesta_correcta":  "Que los individuos, al buscar egoÃ­stamente su propio beneficio econÃ³mico personal, son guiados indirectamente por el mercado para promover el bienestar general de la sociedad de manera mÃ¡s eficiente que si el Estado intentara planificarlo.",
+        "explicacion_detallada":  "Smith argumentaba que no es por la benevolencia del carnicero o el panadero que obtenemos nuestra cena, sino por su interÃ©s en ganar dinero. Al competir libremente por maximizar su ganancia, los individuos mejoran la calidad y bajan los precios, produciendo (como guiados por una \u0027mano invisible\u0027) el orden y la prosperidad social sin necesidad de planificaciÃ³n centralizada (laissez-faire).",
+        "pasos_resolucion":  [
+                                 "TeÃ³rico: Adam Smith (Escuela ClÃ¡sica).",
+                                 "Concepto: \u0027Mano invisible\u0027 = el interÃ©s propio genera el bienestar general a travÃ©s de los mercados competitivos libres.",
+                                 "Descartar intervencionismo estatal u oligopolios, que son contrarios al libre mercado clÃ¡sico."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=adam+smith+mano+invisible+la+riqueza+de+las+naciones"
+    },
+    {
+        "id":  "cs_461_003",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "Karl Marx, en su obra \u0027El Capital\u0027 (1867), desarrollÃ³ el concepto de \u0027plusvalÃ­a\u0027 para explicar el funcionamiento y la injusticia inherente al sistema capitalista. Â¿CÃ³mo se define econÃ³micamente la plusvalÃ­a en la teorÃ­a marxista?",
+        "opciones":  [
+                         "Es el valor adicional creado por el trabajo no remunerado del obrero, que excede el valor de su fuerza de trabajo (su salario) y que es apropiado por el capitalista, constituyendo la fuente de la ganancia y la base de la explotaciÃ³n.",
+                         "Es el impuesto adicional (IVA) que el Estado cobra a los empresarios burgueses por cada producto de lujo vendido en el mercado internacional, destinado a financiar escuelas.",
+                         "Es el beneficio adicional que obtienen los obreros cuando invierten sus ahorros en la bolsa de valores comprando acciones de las fÃ¡bricas donde trabajan.",
+                         "Es el aumento generalizado de los precios en la economÃ­a (inflaciÃ³n) causado por la excesiva impresiÃ³n de papel moneda sin respaldo en oro."
+                     ],
+        "respuesta_correcta":  "Es el valor adicional creado por el trabajo no remunerado del obrero, que excede el valor de su fuerza de trabajo (su salario) y que es apropiado por el capitalista, constituyendo la fuente de la ganancia y la base de la explotaciÃ³n.",
+        "explicacion_detallada":  "Marx sostiene la teorÃ­a del valor-trabajo. Si un obrero trabaja 8 horas, quizÃ¡ en 4 horas ya produjo el valor equivalente a lo que necesita para subsistir (su salario). Las otras 4 horas de trabajo generan un valor extra (plus-valor o plusvalÃ­a) que no se le paga al obrero, sino que el dueÃ±o de los medios de producciÃ³n (el burguÃ©s) se queda con Ã©l. Para Marx, esto no es un accidente, es el mecanismo estructural de robo (explotaciÃ³n) sobre el que se sostiene el capitalismo.",
+        "pasos_resolucion":  [
+                                 "Autor: Karl Marx (CrÃ­tica de la EconomÃ­a PolÃ­tica).",
+                                 "Concepto: PlusvalÃ­a (Mehrwert).",
+                                 "DefiniciÃ³n: Trabajo no pagado al obrero (valor excedente) apropiado por el capitalista (fuente de la ganancia)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=marx+plusvalia+explicacion+el+capital"
+    },
+    {
+        "id":  "cs_461_004",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "La Gran DepresiÃ³n de 1929 demostrÃ³ que los mercados libres no siempre se autorregulan hacia el pleno empleo. En respuesta, John Maynard Keynes publicÃ³ la \u0027TeorÃ­a General del Empleo, el InterÃ©s y el Dinero\u0027 (1936). Â¿CuÃ¡l fue la propuesta central del Keynesianismo para superar las recesiones econÃ³micas?",
+        "opciones":  [
+                         "El Estado debe intervenir activamente en la economÃ­a incrementando el gasto pÃºblico (inversiÃ³n en obras, dÃ©ficit fiscal) para estimular la \u0027demanda agregada\u0027, generando empleo y reactivando el consumo cuando el sector privado no invierte.",
+                         "El Estado debe reducir los impuestos a las corporaciones y flexibilizar los salarios a la baja para que las empresas recuperen su margen de ganancia, esperando que el mercado se ajuste por sÃ­ solo a largo plazo.",
+                         "El Estado debe expropiar inmediatamente todos los medios de producciÃ³n, prohibir la propiedad privada e instaurar una economÃ­a centralmente planificada dirigida por un comitÃ© obrero.",
+                         "El Estado debe abandonar el uso de dinero fiduciario y retornar obligatoriamente al patrÃ³n oro, eliminando cualquier tipo de banco central que regule la emisiÃ³n de billetes."
+                     ],
+        "respuesta_correcta":  "El Estado debe intervenir activamente en la economÃ­a incrementando el gasto pÃºblico (inversiÃ³n en obras, dÃ©ficit fiscal) para estimular la \u0027demanda agregada\u0027, generando empleo y reactivando el consumo cuando el sector privado no invierte.",
+        "explicacion_detallada":  "La escuela clÃ¡sica creÃ­a que la oferta crea su propia demanda (Ley de Say) y que los mercados se ajustan solos. Keynes refutÃ³ esto: en una crisis, la gente ahorra por miedo y las empresas no invierten (baja demanda agregada), creando un cÃ­rculo vicioso de desempleo. La soluciÃ³n de Keynes: el Estado debe endeudarse y gastar (ej. construir carreteras) para poner dinero en los bolsillos de la gente, que al consumir reactivarÃ¡ a las empresas privadas. Esta teorÃ­a fundamentÃ³ el Estado de Bienestar posterior a la II Guerra Mundial.",
+        "pasos_resolucion":  [
+                                 "TeÃ³rico: John Maynard Keynes.",
+                                 "Problema: RecesiÃ³n/Desempleo por falta de demanda.",
+                                 "SoluciÃ³n keynesiana: IntervenciÃ³n estatal, aumento del gasto pÃºblico para estimular la demanda agregada (polÃ­tica fiscal expansiva)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=keynesianismo+teoria+general+demanda+agregada"
+    },
+    {
+        "id":  "cs_461_005",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "En la dÃ©cada de 1970, el modelo keynesiano entrÃ³ en crisis mundial (\u0027estanflaciÃ³n\u0027: estancamiento + inflaciÃ³n). Esto dio paso al auge del Neoliberalismo y la Escuela Monetarista liderada por Milton Friedman. Â¿CuÃ¡l fue el diagnÃ³stico y la receta econÃ³mica de los monetaristas frente a la inflaciÃ³n?",
+        "opciones":  [
+                         "La inflaciÃ³n es siempre y en todas partes un fenÃ³meno monetario causado por la emisiÃ³n excesiva de dinero por parte del Estado; la receta es reducir drÃ¡sticamente el gasto pÃºblico, controlar la emisiÃ³n de moneda y desregular los mercados.",
+                         "La inflaciÃ³n es causada por el egoÃ­smo de los sindicatos que exigen salarios muy altos; la receta es que el Estado fije obligatoriamente los precios de todos los productos y los sueldos en la economÃ­a.",
+                         "La inflaciÃ³n es el resultado natural del libre comercio internacional; la receta es cerrar las fronteras, imponer aranceles del 100% y producir todos los bienes internamente (autarquÃ­a).",
+                         "La inflaciÃ³n no existe realmente, es un mito creado por los bancos internacionales; la receta es continuar imprimiendo dinero infinito para subsidiar industrias quebradas sin preocuparse por los precios."
+                     ],
+        "respuesta_correcta":  "La inflaciÃ³n es siempre y en todas partes un fenÃ³meno monetario causado por la emisiÃ³n excesiva de dinero por parte del Estado; la receta es reducir drÃ¡sticamente el gasto pÃºblico, controlar la emisiÃ³n de moneda y desregular los mercados.",
+        "explicacion_detallada":  "Milton Friedman (Escuela de Chicago) argumentÃ³ que las polÃ­ticas keynesianas de alto gasto pÃºblico y emisiÃ³n inorgÃ¡nica de dinero causaban inflaciÃ³n sin resolver el desempleo estructural (la Curva de Phillips habÃ­a fallado). Los monetaristas/neoliberales propusieron retirar al Estado de la economÃ­a: austeridad fiscal, bancos centrales independientes controlando rÃ­gidamente la oferta monetaria, privatizaciones y flexibilizaciÃ³n laboral. Esto influyÃ³ fuertemente en Pinochet (Chile), Thatcher (UK) y Reagan (EE.UU.).",
+        "pasos_resolucion":  [
+                                 "Escuela: Monetarismo/Neoliberalismo (Milton Friedman, Chicago).",
+                                 "DiagnÃ³stico sobre la inflaciÃ³n: FenÃ³meno monetario (exceso de emisiÃ³n del Estado).",
+                                 "SoluciÃ³n: Achicar el Estado, austeridad (recortes fiscales), control de la masa monetaria, libre mercado libre de regulaciones."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=milton+friedman+monetarismo+inflacion+neoliberalismo"
+    },
+    {
+        "id":  "cs_461_006",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "Dentro del pensamiento marxista, el concepto de \u0027AlienaciÃ³n\u0027 o enajenaciÃ³n es clave para entender la crÃ­tica social al capitalismo, mÃ¡s allÃ¡ de la mera explotaciÃ³n econÃ³mica. Â¿QuÃ© significa la alienaciÃ³n del trabajador en el sistema de producciÃ³n capitalista?",
+        "opciones":  [
+                         "El trabajador pierde el control sobre el proceso de su trabajo y sobre el producto final que crea (que pertenece al capitalista), convirtiÃ©ndose en un mero apÃ©ndice de la mÃ¡quina y perdiendo su esencia humana creativa.",
+                         "El trabajador pierde su ciudadanÃ­a legal en el paÃ­s donde trabaja porque las fÃ¡bricas capitalistas se consideran territorio extranjero (embajadas industriales).",
+                         "El trabajador rechaza instintivamente la tecnologÃ­a y prefiere volver a los mÃ©todos agrÃ­colas medievales para sentirse conectado con la naturaleza y evitar a los extraterrestres.",
+                         "El trabajador desarrolla un fuerte vÃ­nculo emocional de amor y sumisiÃ³n hacia el patrÃ³n burguÃ©s, considerÃ¡ndolo como un padre protector."
+                     ],
+        "respuesta_correcta":  "El trabajador pierde el control sobre el proceso de su trabajo y sobre el producto final que crea (que pertenece al capitalista), convirtiÃ©ndose en un mero apÃ©ndice de la mÃ¡quina y perdiendo su esencia humana creativa.",
+        "explicacion_detallada":  "Para el joven Marx (Manuscritos de 1844), el trabajo deberÃ­a ser la forma en que el ser humano se realiza creativamente transformando la naturaleza. Pero en el capitalismo de fÃ¡brica (divisiÃ³n del trabajo), el obrero estÃ¡ alienado en cuatro dimensiones: de su producto (no le pertenece), del acto de producir (es monÃ³tono y dictado por otros), de su esencia humana (se vuelve una pieza intercambiable, una mercancÃ­a) y de los otros trabajadores (los ve como competidores, no como compaÃ±eros).",
+        "pasos_resolucion":  [
+                                 "TeÃ³rico: Karl Marx (Manuscritos econÃ³mico-filosÃ³ficos).",
+                                 "Concepto: AlienaciÃ³n (Entfremdung).",
+                                 "Significado: SeparaciÃ³n/PÃ©rdida de control del obrero sobre su producto, su trabajo y su humanidad; convertirse en un engranaje deshumanizado de la mÃ¡quina capitalista."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=marx+concepto+de+alienacion+en+el+trabajo"
+    },
+    {
+        "id":  "cs_461_007",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "El concepto marxista de \u0027Superestructura\u0027 y su relaciÃ³n con la \u0027Estructura o Base EconÃ³mica\u0027 es fundamental para el Materialismo HistÃ³rico. Â¿CuÃ¡l es la relaciÃ³n teÃ³rica entre ambas?",
+        "opciones":  [
+                         "La Base EconÃ³mica (fuerzas productivas y relaciones de producciÃ³n capitalistas) determina o condiciona la Superestructura (el Estado, las leyes, la religiÃ³n, el arte y la ideologÃ­a de esa sociedad), que sirve para justificar el sistema econÃ³mico vigente.",
+                         "La Superestructura (la moral, las ideas filosÃ³ficas y la religiÃ³n) es completamente independiente y es la que determina cÃ³mo se organiza el sistema econÃ³mico (la Base) de una sociedad sin importar su tecnologÃ­a.",
+                         "La Base EconÃ³mica y la Superestructura son exactamente lo mismo; Marx usaba ambas palabras como sinÃ³nimos para describir los balances contables de los bancos europeos.",
+                         "La Superestructura se refiere a los edificios fÃ­sicos altos de las ciudades industriales (fÃ¡bricas de varios pisos), mientras que la Base se refiere a los cimientos subterrÃ¡neos."
+                     ],
+        "respuesta_correcta":  "La Base EconÃ³mica (fuerzas productivas y relaciones de producciÃ³n capitalistas) determina o condiciona la Superestructura (el Estado, las leyes, la religiÃ³n, el arte y la ideologÃ­a de esa sociedad), que sirve para justificar el sistema econÃ³mico vigente.",
+        "explicacion_detallada":  "Marx planteÃ³ que la anatomÃ­a de la sociedad civil hay que buscarla en la economÃ­a polÃ­tica (Materialismo HistÃ³rico). La Base o Infraestructura (quiÃ©n es dueÃ±o de la tierra y las mÃ¡quinas, cÃ³mo se produce) determina en Ãºltima instancia la Superestructura (el gobierno, las leyes, la religiÃ³n, la educaciÃ³n). Por ejemplo, el capitalismo genera leyes que protegen la propiedad privada burguesa y una ideologÃ­a que premia el egoÃ­smo competitivo. Para cambiar la superestructura, hay que cambiar primero la base econÃ³mica (mediante la revoluciÃ³n obrera).",
+        "pasos_resolucion":  [
+                                 "TeorÃ­a: Materialismo HistÃ³rico (Marx).",
+                                 "Base (Infraestructura) = EconomÃ­a, fuerzas de producciÃ³n, clases sociales.",
+                                 "Superestructura = Estado, leyes, religiÃ³n, ideologÃ­a.",
+                                 "RelaciÃ³n: La Base determina/condiciona a la Superestructura."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=base+y+superestructura+marxismo+materialismo+historico"
+    },
+    {
+        "id":  "cs_461_008",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "La EconomÃ­a NeoclÃ¡sica (surgida a fines del siglo XIX con autores como Marshall, Jevons y Walras) desplazÃ³ el enfoque de la escuela clÃ¡sica. Â¿CuÃ¡l fue el principal cambio conceptual que introdujeron los neoclÃ¡sicos respecto a la TeorÃ­a del Valor?",
+        "opciones":  [
+                         "Sustituyeron la teorÃ­a del valor-trabajo (el valor depende de las horas de trabajo invertidas) por la \u0027TeorÃ­a de la Utilidad Marginal\u0027 (el valor es subjetivo y depende de la utilidad que el consumidor le asigne a la Ãºltima unidad consumida).",
+                         "Reintrodujeron el concepto fisiÃ³crata de que solo la agricultura genera valor, declarando a la industria y los servicios como actividades estÃ©riles.",
+                         "Demostraron matemÃ¡ticamente que el valor de un producto es fijado exclusivamente por las leyes divinas y la tradiciÃ³n eclesiÃ¡stica, no por mercados ni por trabajo.",
+                         "Eliminaron el concepto de valor por completo, argumentando que los precios deben ser fijados al azar en loterÃ­as nacionales controladas por el gobierno."
+                     ],
+        "respuesta_correcta":  "Sustituyeron la teorÃ­a del valor-trabajo (el valor depende de las horas de trabajo invertidas) por la \u0027TeorÃ­a de la Utilidad Marginal\u0027 (el valor es subjetivo y depende de la utilidad que el consumidor le asigne a la Ãºltima unidad consumida).",
+        "explicacion_detallada":  "Smith, Ricardo y Marx (clÃ¡sicos) usaban la TeorÃ­a del Valor-Trabajo objetiva (un diamante vale mucho porque es muy difÃ­cil extraerlo). La \u0027RevoluciÃ³n Marginalista\u0027 (NeoclÃ¡sicos) resolviÃ³ la paradoja del agua y los diamantes con la utilidad marginal subjetiva: un diamante vale mucho porque el consumidor lo desea subjetivamente y es escaso (su Ãºltima unidad genera mucha satisfacciÃ³n), mientras que el agua abunda, por lo que su unidad adicional (marginal) genera poca satisfacciÃ³n econÃ³mica extra. Esto matematizÃ³ y despolitizÃ³ la economÃ­a.",
+        "pasos_resolucion":  [
+                                 "Escuela ClÃ¡sica/Marx: Valor = Trabajo acumulado (objetivo).",
+                                 "Escuela NeoclÃ¡sica: RevoluciÃ³n Marginalista.",
+                                 "Concepto NeoclÃ¡sico: TeorÃ­a del valor subjetivo basado en la Utilidad Marginal de los consumidores."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=utilidad+marginal+revolucion+marginalista+neoclasicos"
+    },
+    {
+        "id":  "cs_461_009",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "El concepto de \u0027Ventaja Comparativa\u0027 es uno de los fundamentos del comercio internacional hasta nuestros dÃ­as, formulado por David Ricardo en 1817. Â¿QuÃ© establece este principio sobre el comercio entre dos paÃ­ses?",
+        "opciones":  [
+                         "Incluso si un paÃ­s es menos eficiente produciendo TODOS los bienes (desventaja absoluta), se beneficiarÃ¡ del libre comercio si se especializa en exportar aquel bien en el que es relativamente menos ineficiente (donde su costo de oportunidad es menor).",
+                         "Un paÃ­s solo debe exportar bienes a otro si es absolutamente el mejor del mundo produciÃ©ndolos; si es superado en todo, debe cerrar sus fronteras y no comerciar.",
+                         "El comercio internacional siempre empobrece a ambos paÃ­ses participantes debido a los costos de transporte de los barcos mercantes, por lo que se recomienda el autoconsumo local.",
+                         "Las naciones ricas deben regalar sus excedentes de producciÃ³n a las naciones pobres sin esperar nada a cambio, basado en la caridad moral internacional."
+                     ],
+        "respuesta_correcta":  "Incluso si un paÃ­s es menos eficiente produciendo TODOS los bienes (desventaja absoluta), se beneficiarÃ¡ del libre comercio si se especializa en exportar aquel bien en el que es relativamente menos ineficiente (donde su costo de oportunidad es menor).",
+        "explicacion_detallada":  "Adam Smith propuso la Ventaja Absoluta, pero si un paÃ­s (ej. Inglaterra) era mejor que otro (ej. Portugal) haciendo tanto tela como vino, Smith no explicaba el comercio. David Ricardo demostrÃ³ genialmente que, debido al \u0027costo de oportunidad\u0027, a Inglaterra le convenÃ­a especializarse solo en tela (donde era extraordinariamente eficiente) y comprarle vino a Portugal (donde Portugal, aunque peor que Inglaterra, era \u0027menos malo\u0027). Al especializarse y comerciar, la producciÃ³n y el consumo global de ambos paÃ­ses aumenta.",
+        "pasos_resolucion":  [
+                                 "TeÃ³rico: David Ricardo (Escuela ClÃ¡sica, 1817).",
+                                 "Concepto: Ventaja Comparativa vs. Ventaja Absoluta.",
+                                 "Mecanismo: EspecializaciÃ³n basada en el menor Costo de Oportunidad relativo, garantizando beneficios mutuos del libre comercio (incluso para el paÃ­s menos eficiente)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=ventaja+comparativa+david+ricardo+explicacion"
+    },
+    {
+        "id":  "cs_461_010",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "La \u0027EconomÃ­a Social y Solidaria\u0027 (ESS) es reconocida formalmente en la ConstituciÃ³n del Ecuador (Art. 283). Â¿CuÃ¡l es la diferencia primordial entre una empresa del sistema capitalista tradicional y una organizaciÃ³n de la EconomÃ­a Solidaria (ej. una cooperativa agroecolÃ³gica)?",
+        "opciones":  [
+                         "La empresa capitalista busca maximizar la ganancia (lucro) del accionista priorizando el capital sobre el trabajo; la organizaciÃ³n solidaria busca satisfacer las necesidades de sus socios priorizando el trabajo humano y el bienestar comunitario por sobre el lucro.",
+                         "La empresa capitalista utiliza dinero legal emitido por el Banco Central; la organizaciÃ³n solidaria tiene prohibido usar moneda de curso legal y solo puede operar mediante trueque de mercancÃ­as en mercados barriales.",
+                         "La empresa capitalista es siempre estatal (propiedad del gobierno); la organizaciÃ³n solidaria es siempre privada y controlada por empresas transnacionales extranjeras.",
+                         "La empresa capitalista paga impuestos al Estado; las organizaciones de economÃ­a solidaria operan en la ilegalidad y estÃ¡n exentas de cualquier regulaciÃ³n sanitaria o laboral."
+                     ],
+        "respuesta_correcta":  "La empresa capitalista busca maximizar la ganancia (lucro) del accionista priorizando el capital sobre el trabajo; la organizaciÃ³n solidaria busca satisfacer las necesidades de sus socios priorizando el trabajo humano y el bienestar comunitario por sobre el lucro.",
+        "explicacion_detallada":  "La EconomÃ­a Popular y Solidaria (cooperativas, cajas de ahorro, asociaciones de productores, comunas) se basa en principios como: supremacÃ­a del trabajo sobre el capital, gestiÃ³n democrÃ¡tica (un socio = un voto, independientemente del capital aportado, a diferencia de la empresa privada donde manda quien tiene mÃ¡s acciones), y comercio justo. El objetivo primario no es la acumulaciÃ³n infinita de lucro para repartir dividendos a accionistas externos, sino el Buen Vivir de sus miembros y el territorio.",
+        "pasos_resolucion":  [
+                                 "Concepto: EconomÃ­a Social y Solidaria (ESS) / Cooperativismo.",
+                                 "CaracterÃ­sticas: El Trabajo predomina sobre el Capital; gestiÃ³n democrÃ¡tica equitativa; objetivo social, no puramente lucrativo.",
+                                 "Diferenciar del modelo capitalista clÃ¡sico de sociedad anÃ³nima (maximizaciÃ³n del lucro del accionista)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=economia+social+y+solidaria+diferencias+capitalismo"
+    },
+    {
+        "id":  "cs_461_011",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "El concepto del \u0027EjÃ©rcito Industrial de Reserva\u0027, acuÃ±ado por Karl Marx, cumple una funciÃ³n estructural dentro del sistema capitalista. Â¿CuÃ¡l es el propÃ³sito o efecto principal de la existencia de este \u0027ejÃ©rcito\u0027 de desempleados?",
+        "opciones":  [
+                         "Mantiene los salarios de los trabajadores empleados bajos e impide que mejoren sus condiciones laborales, ya que siempre hay una masa de desempleados dispuestos a trabajar por menos dinero.",
+                         "Sirve como una fuerza militar armada que los empresarios contratan privadamente para invadir y conquistar mercados de paÃ­ses vecinos para expandir sus ventas.",
+                         "Es un grupo de trabajadores altamente capacitados que el Estado mantiene en reserva, pagÃ¡ndoles sueldos muy altos, para utilizarlos solo en caso de desastres naturales.",
+                         "Es el conjunto de mÃ¡quinas robÃ³ticas y tecnologÃ­a automatizada que reemplazarÃ¡ a los humanos en el futuro, pero que aÃºn se mantiene apagada en reserva."
+                     ],
+        "respuesta_correcta":  "Mantiene los salarios de los trabajadores empleados bajos e impide que mejoren sus condiciones laborales, ya que siempre hay una masa de desempleados dispuestos a trabajar por menos dinero.",
+        "explicacion_detallada":  "Para Marx, el desempleo no es un accidente o un error del capitalismo, sino una necesidad estructural (una herramienta de disciplina). Si hubiera pleno empleo, los obreros tendrÃ­an poder para exigir salarios altos y mejores condiciones, mermando la plusvalÃ­a del capitalista. La existencia permanente de desempleados (el EjÃ©rcito Industrial de Reserva) mete presiÃ³n a la baja sobre los salarios: si un obrero protesta, el burguÃ©s lo despide y contrata a un desempleado desesperado por menor sueldo.",
+        "pasos_resolucion":  [
+                                 "TeorÃ­a: Marxismo.",
+                                 "Concepto: EjÃ©rcito Industrial de Reserva (masa de desempleados).",
+                                 "FunciÃ³n sistÃ©mica: Presionar salarios a la baja y debilitar el poder de negociaciÃ³n de la clase obrera (ley de oferta y demanda laboral)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=ejercito+industrial+de+reserva+marx"
+    },
+    {
+        "id":  "cs_461_012",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "La TeorÃ­a de la Dependencia surgiÃ³ en AmÃ©rica Latina en las dÃ©cadas de 1960 y 1970 (con autores como RaÃºl Prebisch, Fernando Henrique Cardoso, TheotÃ´nio dos Santos). Â¿CuÃ¡l era su principal argumento para explicar el subdesarrollo de los paÃ­ses latinoamericanos?",
+        "opciones":  [
+                         "Que el subdesarrollo no es una etapa de atraso temporal superable, sino una condiciÃ³n estructural impuesta por la divisiÃ³n internacional del trabajo, donde los paÃ­ses \u0027perifÃ©ricos\u0027 (exportadores de materias primas baratas) son sistemÃ¡ticamente explotados por los paÃ­ses \u0027centrales\u0027 (productores de manufacturas caras).",
+                         "Que el subdesarrollo se debe exclusivamente a la pereza genÃ©tica y a la falta de Ã©tica de trabajo protestante en las poblaciones indÃ­genas e hispanas, factores culturales inmodificables.",
+                         "Que el subdesarrollo es producto del aislamiento voluntario de AmÃ©rica Latina respecto al comercio mundial, por lo que la Ãºnica soluciÃ³n es firmar inmediatamente tratados de libre comercio con Estados Unidos sin ninguna protecciÃ³n arancelaria.",
+                         "Que el subdesarrollo desaparecerÃ¡ automÃ¡ticamente en el momento en que todos los paÃ­ses latinoamericanos adopten el comunismo soviÃ©tico y supriman la religiÃ³n catÃ³lica."
+                     ],
+        "respuesta_correcta":  "Que el subdesarrollo no es una etapa de atraso temporal superable, sino una condiciÃ³n estructural impuesta por la divisiÃ³n internacional del trabajo, donde los paÃ­ses \u0027perifÃ©ricos\u0027 (exportadores de materias primas baratas) son sistemÃ¡ticamente explotados por los paÃ­ses \u0027centrales\u0027 (productores de manufacturas caras).",
+        "explicacion_detallada":  "La TeorÃ­a de la Dependencia (nacida en la CEPAL) criticÃ³ la TeorÃ­a de la ModernizaciÃ³n (que decÃ­a que EE.UU. era el ejemplo a seguir y que L.A. solo estaba \u0027atrasada\u0027). Los dependentistas explicaron que el \u0027Centro\u0027 (paÃ­ses ricos) y la \u0027Periferia\u0027 (L.A., Ãfrica) forman un solo sistema global asimÃ©trico. El deterioro de los tÃ©rminos de intercambio (las materias primas valen cada vez menos y la tecnologÃ­a cada vez mÃ¡s) asegura que el desarrollo del Norte se sostenga sobre el subdesarrollo permanente del Sur (intercambio desigual).",
+        "pasos_resolucion":  [
+                                 "Escuela: TeorÃ­a de la Dependencia (Prebisch, CEPAL).",
+                                 "DiagnÃ³stico: RelaciÃ³n Centro-Periferia. Deterioro de tÃ©rminos de intercambio.",
+                                 "ExplicaciÃ³n: El subdesarrollo es consecuencia estructural de cÃ³mo los paÃ­ses ricos extraen valor de los paÃ­ses pobres exportadores de materias primas (no un mero \u0027retraso\u0027)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=teoria+de+la+dependencia+cepal+raul+prebisch"
+    },
+    {
+        "id":  "cs_461_013",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "En la microeconomÃ­a neoclÃ¡sica, la \u0027Curva de Demanda\u0027 y la \u0027Curva de Oferta\u0027 determinan el precio de equilibrio de un mercado. SegÃºn la Ley de la Demanda, ceteris paribus (siendo los demÃ¡s factores constantes), Â¿quÃ© ocurre cuando el precio de un bien normal aumenta?",
+        "opciones":  [
+                         "La cantidad demandada de ese bien disminuye, porque los consumidores buscarÃ¡n bienes sustitutos mÃ¡s baratos o reducirÃ¡n su consumo debido a la pÃ©rdida de poder adquisitivo.",
+                         "La cantidad demandada de ese bien aumenta exponencialmente, porque los consumidores perciben que si es mÃ¡s caro, obligatoriamente debe ser de mejor calidad y compran mÃ¡s.",
+                         "La cantidad ofrecida por los productores disminuye inmediatamente, causando escasez artificial en los supermercados para mantener el precio alto.",
+                         "El gobierno interviene inmediatamente fijando un precio techo obligatorio, eliminando la curva de demanda del grÃ¡fico econÃ³mico."
+                     ],
+        "respuesta_correcta":  "La cantidad demandada de ese bien disminuye, porque los consumidores buscarÃ¡n bienes sustitutos mÃ¡s baratos o reducirÃ¡n su consumo debido a la pÃ©rdida de poder adquisitivo.",
+        "explicacion_detallada":  "La Ley de la Demanda es un principio fundamental: existe una relaciÃ³n inversa (negativa) entre el precio y la cantidad demandada de un bien normal (la curva tiene pendiente negativa). Si el precio de las manzanas sube mucho, la gente comprarÃ¡ menos manzanas (efecto ingreso) y comprarÃ¡ mÃ¡s peras o plÃ¡tanos (efecto sustituciÃ³n). El efecto \u0027si es mÃ¡s caro compro mÃ¡s\u0027 (Bienes de Giffen o consumo suntuario de Veblen) son raras excepciones teÃ³ricas, no la regla.",
+        "pasos_resolucion":  [
+                                 "TeorÃ­a MicroeconÃ³mica ClÃ¡sica/NeoclÃ¡sica.",
+                                 "Ley de la Demanda (relaciÃ³n inversa): Si sube P (Precio), baja Q (Cantidad demandada).",
+                                 "Reconocer los efectos: SustituciÃ³n (comprar otra cosa) e Ingreso (alcanza para menos)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=ley+de+la+demanda+y+oferta+explicacion"
+    },
+    {
+        "id":  "cs_461_014",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "Thomas Malthus, en su famoso \u0027Ensayo sobre el principio de la poblaciÃ³n\u0027 (1798), formulÃ³ una teorÃ­a extremadamente pesimista sobre el futuro econÃ³mico de la humanidad, que le valiÃ³ a la economÃ­a el apodo de \u0027ciencia lÃºgubre\u0027. Â¿CuÃ¡l era la predicciÃ³n central del malthusianismo?",
+        "opciones":  [
+                         "La poblaciÃ³n humana crece a un ritmo geomÃ©trico (exponencial: 1, 2, 4, 8), mientras que la producciÃ³n de alimentos crece a un ritmo aritmÃ©tico (lineal: 1, 2, 3, 4), lo que llevarÃ¡ inevitablemente a hambrunas, guerras y pobreza masiva por escasez de recursos.",
+                         "El avance de las matemÃ¡ticas y la geometrÃ­a permitirÃ¡ automatizar completamente la agricultura, garantizando comida infinita y gratuita para todas las poblaciones sin necesidad de trabajar.",
+                         "Las pandemias diezmarÃ¡n continuamente a la poblaciÃ³n europea, provocando una escasez de trabajadores tan severa que los salarios agrÃ­colas subirÃ¡n hasta hacer ricos a todos los campesinos sobrevivientes.",
+                         "La industrializaciÃ³n acelerada generarÃ¡ tanta riqueza que las familias voluntariamente dejarÃ¡n de tener hijos, provocando la extinciÃ³n pacÃ­fica de la especie humana en tres siglos."
+                     ],
+        "respuesta_correcta":  "La poblaciÃ³n humana crece a un ritmo geomÃ©trico (exponencial: 1, 2, 4, 8), mientras que la producciÃ³n de alimentos crece a un ritmo aritmÃ©tico (lineal: 1, 2, 3, 4), lo que llevarÃ¡ inevitablemente a hambrunas, guerras y pobreza masiva por escasez de recursos.",
+        "explicacion_detallada":  "Malthus argumentaba que la capacidad de reproducciÃ³n humana siempre superarÃ­a la capacidad de la tierra para alimentar a esas bocas. La \u0027trampa malthusiana\u0027 proponÃ­a que cualquier aumento en la producciÃ³n de alimentos solo generarÃ­a un aumento poblacional que consumirÃ­a el excedente, devolviendo a la humanidad a la miseria (controlada por \u0027frenos positivos\u0027 como hambrunas y plagas). Malthus no previÃ³ la RevoluciÃ³n AgrÃ­cola, los fertilizantes quÃ­micos y la caÃ­da de la tasa de natalidad moderna, que evitaron (por ahora) su apocalipsis.",
+        "pasos_resolucion":  [
+                                 "Autor: Thomas Malthus (1798).",
+                                 "Concepto: Trampa Malthusiana (pesimismo demogrÃ¡fico-econÃ³mico).",
+                                 "FÃ³rmula clave: PoblaciÃ³n crece geomÃ©tricamente (exponencial), Alimentos crecen aritmÃ©ticamente (lineal). Consecuencia: Hambruna y escasez sistÃ©mica."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=thomas+malthus+teoria+de+la+poblacion"
+    },
+    {
+        "id":  "cs_461_015",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "El concepto de \u0027Externalidad Negativa\u0027 es utilizado en economÃ­a contemporÃ¡nea (tanto neoclÃ¡sica como ecolÃ³gica) para seÃ±alar fallas del libre mercado. Â¿QuÃ© es una externalidad negativa en la producciÃ³n?",
+        "opciones":  [
+                         "Es el costo que una actividad econÃ³mica impone sobre terceros que no participaron en la transacciÃ³n, como la contaminaciÃ³n de un rÃ­o por una fÃ¡brica, costo que no se refleja en el precio de mercado del producto.",
+                         "Es la pÃ©rdida econÃ³mica que sufre una empresa cuando un competidor extranjero ingresa al mercado local vendiendo productos de mejor calidad a precios de dumping.",
+                         "Es la negativa del gobierno a otorgar subsidios a empresas nacionales, lo que las obliga a exportar sus productos a los mercados externos para poder sobrevivir.",
+                         "Es el efecto psicolÃ³gico de estrÃ©s y agotamiento laboral que sufren los gerentes de las empresas multinacionales debido a la presiÃ³n por maximizar dividendos trimestrales."
+                     ],
+        "respuesta_correcta":  "Es el costo que una actividad econÃ³mica impone sobre terceros que no participaron en la transacciÃ³n, como la contaminaciÃ³n de un rÃ­o por una fÃ¡brica, costo que no se refleja en el precio de mercado del producto.",
+        "explicacion_detallada":  "Arthur Pigou desarrollÃ³ el concepto. Si una fÃ¡brica produce zapatos de forma muy barata, pero contamina el rÃ­o del pueblo vecino, los habitantes del pueblo (terceros) terminan pagando el daÃ±o (salud, agua) sin beneficiarse del negocio. El mercado falla porque el precio del zapato no incluye ese daÃ±o ambiental (costo social \u003e costo privado). La soluciÃ³n clÃ¡sica sugerida por Pigou es internalizar la externalidad mediante un \u0027Impuesto Pigouviano\u0027 o regulaciones estrictas ambientales.",
+        "pasos_resolucion":  [
+                                 "Concepto MicroeconÃ³mico: Externalidad negativa (Falla de mercado).",
+                                 "Significado: Efecto secundario daÃ±ino no compensado que recae sobre terceros ajenos a la transacciÃ³n (ejemplo clÃ¡sico: la contaminaciÃ³n).",
+                                 "SoluciÃ³n teÃ³rica: Impuestos o regulaciones estatales para \u0027internalizar\u0027 ese costo."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=externalidades+negativas+economia+explicacion"
+    },
+    {
+        "id":  "cs_461_016",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "Joseph Stiglitz y Paul Krugman son economistas contemporÃ¡neos, ganadores del Premio Nobel, conocidos por sus crÃ­ticas al Neoliberalismo radical (o Fundamentalismo de Mercado). Â¿CuÃ¡l es una de las crÃ­ticas centrales que realizan al modelo de globalizaciÃ³n financiera sin regulaciÃ³n (Consenso de Washington)?",
+        "opciones":  [
+                         "Que la apertura y desregulaciÃ³n financiera indiscriminada, lejos de traer estabilidad y desarrollo a los paÃ­ses pobres, ha fomentado la especulaciÃ³n de capitales golondrina (corto plazo), aumentando la desigualdad extrema y provocando crisis financieras sistÃ©micas recurrentes.",
+                         "Que el Fondo Monetario Internacional (FMI) ha sido demasiado comunista y generoso, perdonando excesivamente la deuda de los paÃ­ses latinoamericanos sin exigirles disciplina fiscal.",
+                         "Que la globalizaciÃ³n impide la difusiÃ³n de tecnologÃ­a a los paÃ­ses en desarrollo, por lo que el Sur global debe construir muros y prohibir el uso de internet para proteger su cultura originaria.",
+                         "Que el libre mercado no existe, sino que es una conspiraciÃ³n alienÃ­gena reptiliana que controla los bancos centrales a travÃ©s de microchips implantados en el oro mundial."
+                     ],
+        "respuesta_correcta":  "Que la apertura y desregulaciÃ³n financiera indiscriminada, lejos de traer estabilidad y desarrollo a los paÃ­ses pobres, ha fomentado la especulaciÃ³n de capitales golondrina (corto plazo), aumentando la desigualdad extrema y provocando crisis financieras sistÃ©micas recurrentes.",
+        "explicacion_detallada":  "Stiglitz (ex-economista jefe del Banco Mundial) y Krugman (neo-keynesianos) argumentan que la globalizaciÃ³n impulsada por el Consenso de Washington (privatizaciÃ³n, austeridad radical, libre flujo de capitales especulativos) ha fracasado. Demuestran que los mercados tienen \u0027informaciÃ³n asimÃ©trica\u0027 e imperfecciones severas. La desregulaciÃ³n financiera mundial (que culminÃ³ en la crisis de 2008) beneficiÃ³ al 1% mÃ¡s rico, empobreciÃ³ a las clases trabajadoras y generÃ³ crisis de deuda soberana catastrÃ³ficas.",
+        "pasos_resolucion":  [
+                                 "Autores crÃ­ticos contemporÃ¡neos: Stiglitz, Krugman (Neo-keynesianos / CrÃ­ticos del Neoliberalismo).",
+                                 "CrÃ­tica al Consenso de Washington: La desregulaciÃ³n (especulaciÃ³n) aumenta la desigualdad y causa crisis financieras.",
+                                 "Descartar opciones absurdas (alienÃ­genas) o lÃ³gicamente invertidas (FMI comunista)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=stiglitz+critica+al+neoliberalismo+consenso+de+washington"
+    },
+    {
+        "id":  "cs_461_017",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "En la teorÃ­a econÃ³mica, la diferencia entre polÃ­ticas Fiscales y polÃ­ticas Monetarias es clave para entender cÃ³mo un Estado maneja su economÃ­a. Â¿CuÃ¡l de las siguientes acciones es un ejemplo exclusivo de PolÃ­tica Fiscal expansiva (keynesiana)?",
+        "opciones":  [
+                         "El gobierno aumenta significativamente la inversiÃ³n pÃºblica en la construcciÃ³n de autopistas y reduce los impuestos sobre la renta, aceptando incurrir en dÃ©ficit fiscal para incentivar el consumo y generar empleo.",
+                         "El Banco Central reduce agresivamente la tasa de interÃ©s de referencia para abaratar los prÃ©stamos interbancarios e inyecta liquidez comprando bonos del Estado.",
+                         "El Ministerio de Comercio Exterior firma un Tratado de Libre Comercio con la UniÃ³n Europea, reduciendo los aranceles de importaciÃ³n a cero para vehÃ­culos europeos.",
+                         "El congreso aprueba una ley que prohÃ­be los monopolios tecnolÃ³gicos y divide a las grandes corporaciones de telecomunicaciones en mÃºltiples empresas pequeÃ±as."
+                     ],
+        "respuesta_correcta":  "El gobierno aumenta significativamente la inversiÃ³n pÃºblica en la construcciÃ³n de autopistas y reduce los impuestos sobre la renta, aceptando incurrir en dÃ©ficit fiscal para incentivar el consumo y generar empleo.",
+        "explicacion_detallada":  "PolÃ­tica Fiscal tiene que ver con los ingresos (impuestos) y gastos (inversiÃ³n pÃºblica/presupuesto) del Gobierno Central/Ministerio de Finanzas. Es expansiva cuando se bajan impuestos o se sube el gasto para estimular la economÃ­a (tÃ­picamente keynesiano). PolÃ­tica Monetaria tiene que ver con la masa de dinero y la tasa de interÃ©s, manejada independientemente por el Banco Central. La firma de TLCs es polÃ­tica comercial; la ley anti-monopolios es polÃ­tica regulatoria/competencia.",
+        "pasos_resolucion":  [
+                                 "PolÃ­tica Fiscal = Manejo de Impuestos y Gasto PÃºblico (Gobierno/Ministerio de Finanzas).",
+                                 "Expansiva = MÃ¡s gasto o menos impuestos (incentiva economÃ­a).",
+                                 "Diferenciar de PolÃ­tica Monetaria (Banco Central, tasas de interÃ©s, emisiÃ³n)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=politica+fiscal+vs+politica+monetaria"
+    },
+    {
+        "id":  "cs_461_018",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "La EconomÃ­a Institucional (o el Neo-Institucionalismo liderado por Douglas North, Premio Nobel) aporta una visiÃ³n diferente sobre por quÃ© unos paÃ­ses son ricos y otros pobres, alejÃ¡ndose de los modelos matemÃ¡ticos puros. Â¿QuÃ© factor considera central para el desarrollo econÃ³mico?",
+        "opciones":  [
+                         "Las instituciones (las \u0027reglas del juego\u0027 formales e informales: respeto a los contratos, seguridad jurÃ­dica, derechos de propiedad, ausencia de corrupciÃ³n) que incentivan la inversiÃ³n, la cooperaciÃ³n y reducen los costos de transacciÃ³n.",
+                         "La dotaciÃ³n geogrÃ¡fica de recursos naturales masivos (petrÃ³leo, oro, tierras fÃ©rtiles) es el Ãºnico factor determinante; los paÃ­ses sin recursos naturales estÃ¡n condenados estructuralmente a la miseria permanente.",
+                         "La adopciÃ³n obligatoria de un sistema dictatorial autoritario que imponga planes quinquenales de industrializaciÃ³n forzosa, sacrificando los derechos civiles en favor del crecimiento del PIB.",
+                         "La genÃ©tica poblacional y la raza, argumentando teorÃ­as eugenÃ©sicas del siglo XIX que determinan la capacidad biolÃ³gica de los individuos para comprender las matemÃ¡ticas financieras."
+                     ],
+        "respuesta_correcta":  "Las instituciones (las \u0027reglas del juego\u0027 formales e informales: respeto a los contratos, seguridad jurÃ­dica, derechos de propiedad, ausencia de corrupciÃ³n) que incentivan la inversiÃ³n, la cooperaciÃ³n y reducen los costos de transacciÃ³n.",
+        "explicacion_detallada":  "Douglas North (y luego autores como Acemoglu y Robinson en \u0027Por quÃ© fracasan los paÃ­ses\u0027) sostienen que la geografÃ­a, la cultura o la ignorancia no explican el subdesarrollo. La clave son las Instituciones. Instituciones \u0027inclusivas\u0027 (democracia, estado de derecho, protecciÃ³n de patentes y contratos) generan incentivos para que la gente innove e invierta, generando prosperidad. Instituciones \u0027extractivas\u0027 (dictaduras, corrupciÃ³n, Ã©lites predatorias) roban la riqueza, desincentivan el trabajo y mantienen al paÃ­s en la pobreza, sin importar sus recursos naturales.",
+        "pasos_resolucion":  [
+                                 "Escuela: EconomÃ­a Institucional / Neo-institucionalismo (North, Acemoglu).",
+                                 "Concepto central: Las Instituciones importan (reglas del juego, estado de derecho, seguridad jurÃ­dica).",
+                                 "Descartar determinismo geogrÃ¡fico (recursos naturales no bastan), determinismo racial (falso/racista) o necesidad de dictaduras."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=economia+institucional+douglass+north+por+que+fracasan+los+paises"
+    },
+    {
+        "id":  "cs_461_019",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "El sistema de \u0027EconomÃ­a Social de Mercado\u0027 es el modelo consagrado en la ConstituciÃ³n ecuatoriana (Art. 283) y fue originado en la reconstrucciÃ³n de Alemania tras la Segunda Guerra Mundial (Ordoliberalismo). Â¿QuÃ© postula este sistema intermedio?",
+        "opciones":  [
+                         "Reconoce la eficiencia del mercado libre y la propiedad privada para generar riqueza, pero exige un Estado fuerte que evite los monopolios (garantice la competencia) y redistribuya activamente la riqueza mediante redes de seguridad social y derechos laborales para corregir las injusticias del mercado.",
+                         "Propone la aboliciÃ³n total de la propiedad privada y la planificaciÃ³n central absoluta (comunismo), pero permitiendo que existan pequeÃ±os mercados negros o informales de trueque vecinal tolerados por la policÃ­a.",
+                         "Postula que los mercados deben estar absolutamente desregulados (anarcocapitalismo), eliminando impuestos, bancos centrales y ejÃ©rcitos, dejando que agencias de seguros privadas gestionen la seguridad nacional y la justicia.",
+                         "Defiende el modelo corporativista fascista, donde el mercado es controlado por un consejo supremo de empresarios y lÃ­deres militares que fijan cuotas de producciÃ³n para preparar al paÃ­s para la expansiÃ³n territorial militar."
+                     ],
+        "respuesta_correcta":  "Reconoce la eficiencia del mercado libre y la propiedad privada para generar riqueza, pero exige un Estado fuerte que evite los monopolios (garantice la competencia) y redistribuya activamente la riqueza mediante redes de seguridad social y derechos laborales para corregir las injusticias del mercado.",
+        "explicacion_detallada":  "La EconomÃ­a Social de Mercado (Alemania occidental, Alfred MÃ¼ller-Armack, Ludwig Erhard) es la \u0027Tercera VÃ­a\u0027 exitosa europea. A diferencia del neoliberalismo extremo (laissez-faire puro), cree que el mercado dejado a sÃ­ mismo tiende a formar monopolios (carteles) y extrema desigualdad social. Requiere un Estado Ã¡rbitro fuerte (ordoliberalismo) que imponga competencia justa y un Estado de Bienestar que garantice que el progreso econÃ³mico beneficie a toda la sociedad (seguros de salud, pensiones, poder sindical). Es la base teÃ³rica del modelo econÃ³mico ecuatoriano actual.",
+        "pasos_resolucion":  [
+                                 "Concepto: EconomÃ­a Social de Mercado (Tercera VÃ­a, Ordoliberalismo alemÃ¡n).",
+                                 "Equilibrio: Eficiencia del Libre Mercado + Estado Regulador/Redistribuidor (Justicia Social).",
+                                 "Diferenciar de extremos: Comunismo (planificaciÃ³n central) y Anarcocapitalismo/Neoliberalismo puro (cero Estado)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=economia+social+de+mercado+explicacion"
+    },
+    {
+        "id":  "cs_461_020",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.6.1",
+        "tituloSubtema":  "Teorías y sistemas económicos contemporáneos.",
+        "enunciado":  "El concepto de \u0027Obsolescencia Programada\u0027 es central en la crÃ­tica contemporÃ¡nea (ecolÃ³gica y marxista) a los modelos de producciÃ³n y consumo masivo del capitalismo. Â¿A quÃ© se refiere exactamente esta prÃ¡ctica industrial?",
+        "opciones":  [
+                         "Al diseÃ±o, fabricaciÃ³n y comercializaciÃ³n de productos con una vida Ãºtil artificialmente limitada, calculada de antemano por las empresas para que el producto falle o quede obsoleto rÃ¡pidamente, forzando al consumidor a comprar un reemplazo y manteniendo asÃ­ el ciclo de consumo.",
+                         "Al proceso natural e inevitable por el cual las mÃ¡quinas industriales se desgastan mecÃ¡nicamente con el paso de los siglos, requiriendo mantenimiento rutinario y lubricaciÃ³n constante.",
+                         "A los programas gubernamentales que obligan a las empresas a reciclar toda su basura electrÃ³nica bajo amenaza de multas, con el fin de proteger la ecologÃ­a local y los rÃ­os.",
+                         "A la tendencia de los consumidores a olvidar cÃ³mo usar tecnologÃ­as antiguas (como las mÃ¡quinas de escribir o los disquetes) debido a la pÃ©rdida de habilidades manuales intergeneracionales."
+                     ],
+        "respuesta_correcta":  "Al diseÃ±o, fabricaciÃ³n y comercializaciÃ³n de productos con una vida Ãºtil artificialmente limitada, calculada de antemano por las empresas para que el producto falle o quede obsoleto rÃ¡pidamente, forzando al consumidor a comprar un reemplazo y manteniendo asÃ­ el ciclo de consumo.",
+        "explicacion_detallada":  "La obsolescencia programada (ej. impresoras que dejan de funcionar tras cierto nÃºmero de copias, celulares cuyas baterÃ­as no se pueden cambiar, bombillas diseÃ±adas para fundirse a las 1000 horas) es una estrategia de crecimiento del sistema capitalista introducida en los aÃ±os 20 (CÃ¡rtel Phoebus). Al obligar al consumidor a desechar y comprar nuevamente, el PIB y las ganancias corporativas crecen, pero a un costo ecolÃ³gico insostenible (basura electrÃ³nica, agotamiento de recursos naturales). Es un claro ejemplo de falla estructural frente al desarrollo sustentable.",
+        "pasos_resolucion":  [
+                                 "Concepto: Obsolescencia programada (planned obsolescence).",
+                                 "Mecanismo: DiseÃ±ar productos para que se rompan o dejen de ser Ãºtiles rÃ¡pido.",
+                                 "PropÃ³sito empresarial: Forzar el re-consumo continuo para mantener la rueda del beneficio capitalista girando. Consecuencia: DaÃ±o ecolÃ³gico masivo."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=obsolescencia+programada+comprar+tirar+comprar+documental"
+    }
+]

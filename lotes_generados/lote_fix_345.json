@@ -1,0 +1,319 @@
+[
+  {
+    "id": "cn_345_ex_001",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "¿Cuál es el nombre correcto, según la nomenclatura tradicional, del compuesto Fe2O3?",
+    "opciones": ["Óxido de hierro (III)", "Óxido férrico", "Óxido ferroso", "Trióxido de dihierro"],
+    "respuesta_correcta": "Óxido férrico",
+    "explicacion_detallada": "En la nomenclatura tradicional, el hierro actúa con sus valencias 2 y 3. Como está usando la valencia mayor (3), se utiliza el sufijo '-ico', resultando en 'óxido férrico'.",
+    "pasos_resolucion": [
+      "Identificar el metal y sus posibles estados de oxidación. El Fe tiene +2 y +3.",
+      "Determinar el estado de oxidación del Fe en Fe2O3. El oxígeno es -2, por lo que 2(x) + 3(-2) = 0, de donde x = +3.",
+      "Aplicar la regla de nomenclatura tradicional: valencia mayor termina en 'ico'.",
+      "Formar el nombre: Óxido férrico."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_002",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "La fórmula química del anhídrido sulfúrico (óxido de azufre (VI)) es:",
+    "opciones": ["SO2", "SO3", "S2O", "H2SO4"],
+    "respuesta_correcta": "SO3",
+    "explicacion_detallada": "El anhídrido sulfúrico se forma con azufre actuando con estado de oxidación +6 y oxígeno con -2. Al cruzar las valencias y simplificar (S2O6 -> SO3), obtenemos SO3.",
+    "pasos_resolucion": [
+      "Identificar el sufijo 'ico' del azufre, que corresponde a su estado de oxidación +6.",
+      "El oxígeno siempre actúa con -2 en los anhídridos.",
+      "Escribir los símbolos con sus valencias: S(+6) y O(-2).",
+      "Cruzar valencias y simplificar: S2O6 se simplifica a SO3."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_003",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "¿Qué fórmula corresponde al hidróxido de aluminio?",
+    "opciones": ["AlOH3", "Al(OH)3", "Al2(OH)3", "Al3OH"],
+    "respuesta_correcta": "Al(OH)3",
+    "explicacion_detallada": "El aluminio tiene un único estado de oxidación, que es +3. El grupo hidroxilo (OH) tiene una carga de -1. Al combinarlos, se necesitan tres grupos OH para neutralizar un ion de Al.",
+    "pasos_resolucion": [
+      "Identificar el catión (Al) y su estado de oxidación (+3).",
+      "Identificar el anión hidroxilo (OH) con carga -1.",
+      "Cruzar las cargas para formar el compuesto neutro: Al(+3) y OH(-1) forman Al(OH)3."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_004",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "El compuesto NaOH es ampliamente utilizado en la industria. ¿A qué función química inorgánica pertenece?",
+    "opciones": ["Ácido hidrácido", "Sal neutra", "Hidróxido o base", "Óxido básico"],
+    "respuesta_correcta": "Hidróxido o base",
+    "explicacion_detallada": "El NaOH, conocido como hidróxido de sodio o sosa cáustica, contiene el catión sodio (Na+) y el grupo funcional hidroxilo (OH-), lo que lo clasifica como un hidróxido o base.",
+    "pasos_resolucion": [
+      "Analizar la fórmula química: NaOH.",
+      "Identificar el grupo característico OH (hidroxilo) unido a un metal (Na).",
+      "Concluir que los compuestos de metal con el grupo OH son hidróxidos."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_005",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "¿Cuál es el nombre del compuesto HCl en solución acuosa?",
+    "opciones": ["Cloruro de hidrógeno", "Ácido clórico", "Ácido clorhídrico", "Ácido hipocloroso"],
+    "respuesta_correcta": "Ácido clorhídrico",
+    "explicacion_detallada": "Los ácidos hidrácidos (como el HCl) en solución acuosa se nombran con la palabra 'ácido' seguida del nombre del no metal con la terminación '-hídrico'. Si estuviera en estado gaseoso se llamaría cloruro de hidrógeno.",
+    "pasos_resolucion": [
+      "Identificar los elementos: H (hidrógeno) y Cl (cloro). Es un compuesto binario (hidrácido).",
+      "Notar que se especifica 'en solución acuosa'.",
+      "Aplicar la regla de nomenclatura para hidrácidos en solución: 'Ácido' + raíz del no metal + 'hídrico'."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_006",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "Al hacer reaccionar anhídrido carbónico (CO2) con agua, ¿qué compuesto se forma?",
+    "opciones": ["H2CO2", "H2CO3", "HCO3", "H2CO4"],
+    "respuesta_correcta": "H2CO3",
+    "explicacion_detallada": "La reacción de un óxido ácido (anhídrido) con agua produce un ácido oxácido. CO2 + H2O -> H2CO3 (ácido carbónico).",
+    "pasos_resolucion": [
+      "Escribir la ecuación química: CO2 + H2O.",
+      "Sumar los átomos de cada elemento para formar la molécula del ácido.",
+      "Agrupar primero los hidrógenos (H2), luego el no metal (C) y finalmente los oxígenos (2+1 = 3).",
+      "El resultado es H2CO3."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_007",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "El ácido sulfúrico es un ácido oxácido de gran importancia industrial. Su fórmula química es:",
+    "opciones": ["H2SO3", "H2S", "H2SO4", "HSO4"],
+    "respuesta_correcta": "H2SO4",
+    "explicacion_detallada": "El ácido sulfúrico proviene de la hidratación del anhídrido sulfúrico (SO3). SO3 + H2O -> H2SO4. El azufre actúa con valencia +6.",
+    "pasos_resolucion": [
+      "Identificar que es un ácido oxácido ('ácido' + no metal + oxígeno).",
+      "El sufijo 'ico' indica que el azufre actúa con valencia +6.",
+      "Formar el anhídrido: SO3.",
+      "Sumar una molécula de agua: SO3 + H2O = H2SO4."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_008",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "¿Qué estado de oxidación presenta el átomo de cloro en el ácido perclórico (HClO4)?",
+    "opciones": ["+1", "+3", "+5", "+7"],
+    "respuesta_correcta": "+7",
+    "explicacion_detallada": "En una molécula neutra, la suma de los números de oxidación es cero. El H es +1 y el O es -2. Para el HClO4: (+1) + x + 4(-2) = 0 -> 1 + x - 8 = 0 -> x = +7.",
+    "pasos_resolucion": [
+      "Establecer la suma de estados de oxidación igual a 0.",
+      "Asignar H = +1 y O = -2.",
+      "Escribir la ecuación: 1(1) + 1(x) + 4(-2) = 0.",
+      "Despejar x: x - 7 = 0, entonces x = +7."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_009",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "El compuesto CaCO3, conocido comúnmente como piedra caliza, es un ejemplo de:",
+    "opciones": ["Sal oxisal neutra", "Sal haloidea neutra", "Óxido básico", "Sal ácida"],
+    "respuesta_correcta": "Sal oxisal neutra",
+    "explicacion_detallada": "El carbonato de calcio (CaCO3) proviene de la reacción entre el hidróxido de calcio y el ácido carbónico. Posee un metal (Ca), un no metal (C) y oxígeno (O), sin hidrógenos ácidos ni grupos hidroxilo libres.",
+    "pasos_resolucion": [
+      "Observar los elementos en la fórmula CaCO3: Ca, C, O.",
+      "Contiene oxígeno, por lo que es una oxisal (descarta haloidea).",
+      "No tiene hidrógenos intermedios, por lo que no es ácida.",
+      "Es una sal oxisal neutra."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_010",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "La reacción de neutralización entre el ácido clorhídrico (HCl) y el hidróxido de sodio (NaOH) produce agua y:",
+    "opciones": ["Cloruro de sodio (NaCl)", "Clorito de sodio (NaClO)", "Hipoclorito de sodio (NaClO)", "Carbonato de sodio (Na2CO3)"],
+    "respuesta_correcta": "Cloruro de sodio (NaCl)",
+    "explicacion_detallada": "Un ácido hidrácido al reaccionar con un hidróxido forma una sal haloidea (sin oxígeno) y agua. HCl + NaOH -> NaCl + H2O.",
+    "pasos_resolucion": [
+      "Escribir los reactivos: HCl + NaOH.",
+      "Identificar el catión del hidróxido (Na+) y el anión del ácido (Cl-).",
+      "Unir catión y anión para formar la sal: Na+ + Cl- -> NaCl.",
+      "Nombrar la sal: Cloruro de sodio."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_011",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "¿Cómo se nombra el compuesto NaHCO3 de acuerdo a la nomenclatura tradicional aceptada?",
+    "opciones": ["Carbonato de sodio", "Carbonato ácido de sodio (Bicarbonato de sodio)", "Carburo de sodio", "Óxido carbonoso de sodio"],
+    "respuesta_correcta": "Carbonato ácido de sodio (Bicarbonato de sodio)",
+    "explicacion_detallada": "El compuesto contiene el anión bicarbonato (HCO3-). La presencia del hidrógeno intermedio entre el metal y el no metal indica que es una sal ácida.",
+    "pasos_resolucion": [
+      "Identificar la presencia de H entre el catión Na y el grupo CO3.",
+      "El grupo CO3 es el anión carbonato.",
+      "Al tener un hidrógeno, se nombra anteponiendo 'bi' o intercalando la palabra 'ácido'.",
+      "El nombre correcto es Carbonato ácido de sodio o Bicarbonato de sodio."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_012",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "En la nomenclatura Stock, ¿cuál es el nombre de Cu2O?",
+    "opciones": ["Óxido cuproso", "Óxido cúprico", "Óxido de cobre (I)", "Óxido de cobre (II)"],
+    "respuesta_correcta": "Óxido de cobre (I)",
+    "explicacion_detallada": "La nomenclatura Stock indica el estado de oxidación del metal en números romanos entre paréntesis. En Cu2O, el O es -2, por lo que 2(Cu) - 2 = 0, Cu = +1. Es el óxido de cobre (I).",
+    "pasos_resolucion": [
+      "Identificar el compuesto como un óxido metálico.",
+      "Determinar el número de oxidación del Cu. Si O es -2, en Cu2O los dos Cu deben sumar +2, así que cada Cu es +1.",
+      "Aplicar la regla Stock: Óxido de [Metal] (Valencia en romanos).",
+      "Resultado: Óxido de cobre (I)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_013",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "¿Qué tipo de compuesto es el Ca(OH)Cl?",
+    "opciones": ["Sal ácida", "Sal básica", "Sal doble", "Sal neutra"],
+    "respuesta_correcta": "Sal básica",
+    "explicacion_detallada": "Una sal básica se caracteriza por la presencia de grupos hidroxilo (OH-) en su estructura cristalina acompañando a los otros aniones. En este caso, el grupo OH está presente.",
+    "pasos_resolucion": [
+      "Analizar la fórmula Ca(OH)Cl.",
+      "Identificar el catión (Ca), un anión monoatómico (Cl) y el grupo hidroxilo (OH).",
+      "La presencia del grupo OH en medio de la estructura de una sal indica que es una sal básica."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_014",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "La fórmula del sulfato de aluminio es:",
+    "opciones": ["AlSO4", "Al2(SO4)3", "Al3(SO4)2", "Al(SO4)3"],
+    "respuesta_correcta": "Al2(SO4)3",
+    "explicacion_detallada": "El ion aluminio es Al+3 y el ion sulfato es SO4-2. Al cruzar las cargas para igualar la electroneutralidad, se requieren 2 iones aluminio por cada 3 iones sulfato, obteniendo Al2(SO4)3.",
+    "pasos_resolucion": [
+      "Identificar las partes: Aluminio y anión Sulfato.",
+      "El Aluminio tiene carga +3 (Al+3).",
+      "El anión Sulfato (proviene del ácido sulfúrico H2SO4) tiene carga -2 (SO4-2).",
+      "Cruzar las cargas como subíndices: el 3 del Al va al (SO4) y el 2 del SO4 va al Al.",
+      "Fórmula: Al2(SO4)3."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_015",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "Se formará un hidruro metálico cuando se combina hidrógeno con:",
+    "opciones": ["Un no metal del grupo VIIA", "Un no metal del grupo VIA", "Un metal de los grupos IA o IIA", "El oxígeno molecular"],
+    "respuesta_correcta": "Un metal de los grupos IA o IIA",
+    "explicacion_detallada": "Los hidruros metálicos se forman por la combinación del hidrógeno (actuando con número de oxidación -1) y un metal, típicamente representativo como los alcalinos o alcalinotérreos.",
+    "pasos_resolucion": [
+      "Recordar la definición de hidruro metálico: compuesto binario de metal e hidrógeno.",
+      "En los hidruros metálicos, el hidrógeno actúa con -1.",
+      "Los metales se encuentran principalmente a la izquierda de la tabla periódica (grupos IA, IIA, etc.)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_016",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "¿Qué fórmula corresponde al ácido nítrico?",
+    "opciones": ["HNO2", "HNO3", "H2NO3", "H3N"],
+    "respuesta_correcta": "HNO3",
+    "explicacion_detallada": "El ácido nítrico es un oxácido formado a partir de la hidratación del anhídrido nítrico (N2O5) actuando el nitrógeno con estado de oxidación +5. N2O5 + H2O -> H2N2O6, que simplificado es HNO3.",
+    "pasos_resolucion": [
+      "El sufijo 'ico' indica la valencia +5 para el nitrógeno en los oxácidos.",
+      "Formar el anhídrido nítrico: N(+5) y O(-2) da N2O5.",
+      "Añadir una molécula de agua (caso general para el nitrógeno): N2O5 + H2O = H2N2O6.",
+      "Simplificar los subíndices dividiendo para 2: HNO3."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_017",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "El compuesto K2Cr2O7 recibe el nombre de:",
+    "opciones": ["Cromato de potasio", "Dicromato de potasio", "Óxido crómico", "Bicromato ácido de potasio"],
+    "respuesta_correcta": "Dicromato de potasio",
+    "explicacion_detallada": "El ion Cr2O7 con carga -2 es conocido como ion dicromato. Al unirse con 2 cationes potasio (K+), forma el dicromato de potasio.",
+    "pasos_resolucion": [
+      "Identificar el catión metálico: K (potasio).",
+      "Identificar el anión poliatómico: Cr2O7.",
+      "Recordar que el anión CrO4 es cromato y Cr2O7 es dicromato.",
+      "Nombrar uniendo las dos partes: Dicromato de potasio."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_018",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "¿En cuál de los siguientes compuestos el manganeso actúa con estado de oxidación +7?",
+    "opciones": ["MnO2", "KMnO4", "Mn2O3", "MnSO4"],
+    "respuesta_correcta": "KMnO4",
+    "explicacion_detallada": "En el permanganato de potasio (KMnO4), el potasio tiene +1 y el oxígeno -2. Haciendo la suma: +1 + Mn + 4(-2) = 0 -> Mn - 7 = 0 -> Mn = +7.",
+    "pasos_resolucion": [
+      "Analizar cada opción calculando el estado de oxidación del Mn.",
+      "MnO2: Mn + 2(-2) = 0 -> Mn = +4.",
+      "KMnO4: 1 + Mn + 4(-2) = 0 -> Mn = +7.",
+      "Mn2O3: 2Mn + 3(-2) = 0 -> Mn = +3.",
+      "MnSO4: el SO4 es -2, Mn = +2."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_019",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "La fórmula del amoníaco, un hidruro no metálico de gran importancia biológica e industrial, es:",
+    "opciones": ["NH4+", "NH3", "HNO3", "N2H4"],
+    "respuesta_correcta": "NH3",
+    "explicacion_detallada": "El amoníaco es un compuesto covalente formado por un átomo de nitrógeno y tres de hidrógeno. Aunque su nombre común no sigue estrictamente las reglas sistemáticas, su fórmula es ampliamente conocida como NH3.",
+    "pasos_resolucion": [
+      "El amoníaco es un compuesto binario de nitrógeno e hidrógeno.",
+      "El nitrógeno actúa con valencia 3 frente al hidrógeno.",
+      "Se escribe el elemento del grupo VA primero y luego el hidrógeno.",
+      "Fórmula: NH3."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_345_ex_020",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.5",
+    "enunciado": "Al combinar hidróxido de magnesio con ácido fosfórico, ¿qué sal neutra se puede obtener?",
+    "opciones": ["MgPO4", "Mg2(PO4)3", "Mg3(PO4)2", "Mg(PO4)2"],
+    "respuesta_correcta": "Mg3(PO4)2",
+    "explicacion_detallada": "El hidróxido de magnesio aporta el ion Mg+2, y el ácido fosfórico (H3PO4) aporta el ion fosfato PO4-3. Al cruzar las cargas, la sal resultante es el fosfato de magnesio Mg3(PO4)2.",
+    "pasos_resolucion": [
+      "Identificar el ion metálico del hidróxido: Mg tiene carga +2 (Mg+2).",
+      "Identificar el ion del ácido: H3PO4 pierde 3 hidrógenos para formar el ion fosfato PO4 con carga -3.",
+      "Cruzar las cargas de los iones para formar la sal: Mg(+2) y PO4(-3).",
+      "Fórmula resultante: Mg3(PO4)2."
+    ],
+    "video_explicativo_url": ""
+  }
+]

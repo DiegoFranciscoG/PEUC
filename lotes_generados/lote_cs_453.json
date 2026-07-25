@@ -1,0 +1,422 @@
+﻿[
+    {
+        "id":  "cs_453_001",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "SimÃ³n BolÃ­var, en su cÃ©lebre \u0027Carta de Jamaica\u0027 (1815), analiza la identidad y el destino polÃ­tico de las antiguas colonias espaÃ±olas. Â¿CÃ³mo define BolÃ­var la identidad de los nacidos en AmÃ©rica frente a Europa y las poblaciones originarias?",
+        "opciones":  [
+                         "Afirma que los americanos son un \u0027pequeÃ±o gÃ©nero humano\u0027, ni indios ni europeos, sino una especie intermedia que disputa los derechos a los indÃ­genas nativos y sufre la tiranÃ­a de los invasores espaÃ±oles.",
+                         "Sostiene que los americanos son espaÃ±oles puros exiliados en ultramar y que, una vez finalizada la guerra, deben retornar masivamente a la penÃ­nsula ibÃ©rica.",
+                         "Declara que todos los americanos son descendientes directos y exclusivos del Imperio Inca y deben restaurar el Tahuantinsuyo como Ãºnica forma de gobierno legÃ­timo.",
+                         "Argumenta que la identidad americana no existe, ya que el continente es una extensiÃ³n natural de la corona britÃ¡nica que debe ser rÃ¡pidamente anexada al Imperio InglÃ©s."
+                     ],
+        "respuesta_correcta":  "Afirma que los americanos son un \u0027pequeÃ±o gÃ©nero humano\u0027, ni indios ni europeos, sino una especie intermedia que disputa los derechos a los indÃ­genas nativos y sufre la tiranÃ­a de los invasores espaÃ±oles.",
+        "explicacion_detallada":  "En la Carta de Jamaica, BolÃ­var expone el drama identitario de los criollos: \u0027no somos indios ni europeos, sino una especie media entre los legÃ­timos propietarios del paÃ­s y los usurpadores espaÃ±oles\u0027. Esta ambigÃ¼edad (no ser de aquÃ­ ni de allÃ¡, pero reclamar el derecho a gobernar aquÃ­) es el nÃºcleo de la identidad criolla independentista, que excluyÃ³ a las masas indÃ­genas y negras del proyecto nacional inicial.",
+        "pasos_resolucion":  [
+                                 "Documento: Carta de Jamaica (1815), BolÃ­var.",
+                                 "Concepto clave: \u0027PequeÃ±o gÃ©nero humano\u0027 / Especie media (el criollo).",
+                                 "El criollo disputa la tierra al nativo pero es oprimido por el espaÃ±ol peninsular."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=carta+de+jamaica+simon+bolivar+identidad+criolla"
+    },
+    {
+        "id":  "cs_453_002",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "JosÃ© MartÃ­, en su ensayo fundamental \u0027Nuestra AmÃ©rica\u0027 (1891), lanza una advertencia geopolÃ­tica y cultural a los paÃ­ses latinoamericanos reciÃ©n independizados. Â¿CuÃ¡l es el peligro principal que MartÃ­ seÃ±ala y quÃ© soluciÃ³n propone?",
+        "opciones":  [
+                         "Advierte sobre el expansionismo imperialista de Estados Unidos (\u0027el gigante de las siete leguas\u0027) y propone la unidad continental y un gobierno basado en la realidad cultural y mestiza autÃ³ctona, no en copias de modelos europeos o yanquis.",
+                         "Advierte sobre una inminente invasiÃ³n armada de la Rusia zarista y propone que AmÃ©rica Latina se anexe voluntariamente a Estados Unidos para recibir protecciÃ³n militar.",
+                         "Advierte que las poblaciones indÃ­genas se rebelarÃ¡n y masacrarÃ¡n a los blancos, por lo que propone importar inmigrantes europeos para \u0027blanquear\u0027 la raza y asegurar el orden.",
+                         "Advierte sobre la escasez de oro en el continente y propone que Cuba invada militarmente a MÃ©xico y PerÃº para apropiarse de las minas abandonadas por EspaÃ±a."
+                     ],
+        "respuesta_correcta":  "Advierte sobre el expansionismo imperialista de Estados Unidos (\u0027el gigante de las siete leguas\u0027) y propone la unidad continental y un gobierno basado en la realidad cultural y mestiza autÃ³ctona, no en copias de modelos europeos o yanquis.",
+        "explicacion_detallada":  "\u0027Nuestra AmÃ©rica\u0027 (publicado poco antes de la guerra Hispano-Estadounidense de 1898) es el texto fundacional del antiimperialismo latinoamericano. MartÃ­ critica a los intelectuales alienados (los \u0027sietemesinos\u0027) que intentan gobernar copiando leyes francesas o estadounidenses que no encajan en la realidad mestiza de AmÃ©rica (\u0027El gobierno ha de nacer del paÃ­s\u0027). Advierte sobre el \u0027vecino formidable\u0027 (EE.UU.) que no nos conoce y nos desprecia, llamando a la unidad (\u0027los Ã¡rboles se han de poner en fila\u0027).",
+        "pasos_resolucion":  [
+                                 "Autor: JosÃ© MartÃ­ (Cuba). Obra: Nuestra AmÃ©rica (1891).",
+                                 "Advertencia: El imperialismo estadounidense (\u0027gigante de siete leguas\u0027).",
+                                 "SoluciÃ³n identitaria: AutonomÃ­a cultural, crear soluciones propias para realidades propias (rechazo a la copia eurocÃ©ntrica)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=nuestra+america+jose+marti+analisis"
+    },
+    {
+        "id":  "cs_453_003",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "A principios del siglo XX, el filÃ³sofo y educador mexicano JosÃ© Vasconcelos propuso una influyente (y hoy muy debatida) teorÃ­a sobre la identidad latinoamericana en su obra \u0027La raza cÃ³smica\u0027 (1925). Â¿CuÃ¡l era el nÃºcleo de su propuesta?",
+        "opciones":  [
+                         "Afirmaba que en AmÃ©rica Latina, producto del intenso mestizaje entre indÃ­genas, europeos, africanos y asiÃ¡ticos, estaba surgiendo una \u0027quinta raza\u0027 universal y superior (la raza cÃ³smica), destinada a liderar el futuro espiritual de la humanidad frente al racismo segregacionista anglosajÃ³n.",
+                         "SostenÃ­a que la Ãºnica forma de civilizar a AmÃ©rica era exterminar biolÃ³gicamente a las poblaciones indÃ­genas y afrodescendientes, adoptando las doctrinas del darwinismo social eugenÃ©sico europeo puro.",
+                         "Planteaba que los latinoamericanos eran genÃ©ticamente idÃ©nticos a los antiguos egipcios y que la cultura maya habÃ­a sido fundada por extraterrestres, lo que nos otorgaba un destino intergalÃ¡ctico.",
+                         "Argumentaba que AmÃ©rica Latina debÃ­a purificar su sangre expulsando a todos los descendientes de espaÃ±oles y prohibiendo el mestizaje para retornar a un imperio azteca puro."
+                     ],
+        "respuesta_correcta":  "Afirmaba que en AmÃ©rica Latina, producto del intenso mestizaje entre indÃ­genas, europeos, africanos y asiÃ¡ticos, estaba surgiendo una \u0027quinta raza\u0027 universal y superior (la raza cÃ³smica), destinada a liderar el futuro espiritual de la humanidad frente al racismo segregacionista anglosajÃ³n.",
+        "explicacion_detallada":  "Vasconcelos (Secretario de EducaciÃ³n PÃºblica de MÃ©xico tras la RevoluciÃ³n) invirtiÃ³ las teorÃ­as racistas del siglo XIX (que decÃ­an que el mestizaje generaba degeneraciÃ³n biolÃ³gica). ArgumentÃ³ que la hibridaciÃ³n (el mestizaje iberoamericano) era la mayor fortaleza del continente. Esta \u0027Raza CÃ³smica\u0027 sintetizarÃ­a lo mejor del mundo y superarÃ­a al imperialismo anglosajÃ³n, que se basaba en la segregaciÃ³n. Aunque hoy se critica que esta teorÃ­a invisibiliza el racismo real e intenta asimilar al indÃ­gena a la fuerza, fue el paradigma ideolÃ³gico oficial de MÃ©xico y L.A. por dÃ©cadas.",
+        "pasos_resolucion":  [
+                                 "Autor: JosÃ© Vasconcelos. Obra: La raza cÃ³smica (1925).",
+                                 "Concepto: Elogio del mestizaje. La hibridaciÃ³n como destino superior y superaciÃ³n del racismo purista anglosajÃ³n.",
+                                 "Descartar exterminio eugenÃ©sico (que es exactamente lo contrario a lo que Vasconcelos proponÃ­a)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=la+raza+cosmica+jose+vasconcelos+mestizaje"
+    },
+    {
+        "id":  "cs_453_004",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "En el siglo XIX (1845), el pensador y presidente argentino Domingo Faustino Sarmiento publicÃ³ \u0027Facundo o civilizaciÃ³n y barbarie\u0027. Esta dicotomÃ­a definiÃ³ el debate polÃ­tico e identitario de toda AmÃ©rica Latina. SegÃºn Sarmiento, Â¿quÃ© elementos representaban la \u0027barbarie\u0027 y quÃ© elementos representaban la \u0027civilizaciÃ³n\u0027?",
+        "opciones":  [
+                         "La barbarie estaba representada por el gaucho, los caudillos federales, las montoneras, el campo (la pampa) y la herencia indÃ­gena-espaÃ±ola; la civilizaciÃ³n estaba representada por la ciudad urbana, las ideas liberales europeas, la educaciÃ³n moderna y el capital extranjero.",
+                         "La barbarie estaba representada por el imperialismo estadounidense y las empresas britÃ¡nicas; la civilizaciÃ³n estaba encarnada por las tradiciones rurales indÃ­genas y la religiÃ³n catÃ³lica apostÃ³lica romana.",
+                         "La barbarie era el uso de maquinaria industrial europea en el campo; la civilizaciÃ³n era la preservaciÃ³n de los mÃ©todos de cultivo manual precolombinos en grandes latifundios.",
+                         "La barbarie era el gobierno democrÃ¡tico de las mayorÃ­as iletradas; la civilizaciÃ³n era la reinstauraciÃ³n de la monarquÃ­a espaÃ±ola en el RÃ­o de la Plata."
+                     ],
+        "respuesta_correcta":  "La barbarie estaba representada por el gaucho, los caudillos federales, las montoneras, el campo (la pampa) y la herencia indÃ­gena-espaÃ±ola; la civilizaciÃ³n estaba representada por la ciudad urbana, las ideas liberales europeas, la educaciÃ³n moderna y el capital extranjero.",
+        "explicacion_detallada":  "Sarmiento escribiÃ³ \u0027Facundo\u0027 (sobre el caudillo riojano Facundo Quiroga) como un ataque al dictador Juan Manuel de Rosas. La fÃ³rmula \u0027CivilizaciÃ³n y Barbarie\u0027 resume el proyecto de las Ã©lites liberales del siglo XIX: para modernizar las repÃºblicas (civilizaciÃ³n = Europa, ciudades, ferrocarriles, inmigrantes blancos), habÃ­a que derrotar al atraso (barbarie = indios, gauchos, caudillos, el interior rural, herencia hispÃ¡nica colonial). Esta visiÃ³n justificÃ³ campaÃ±as militares contra poblaciones originarias (Conquista del Desierto).",
+        "pasos_resolucion":  [
+                                 "Autor: Domingo F. Sarmiento (Argentina).",
+                                 "DicotomÃ­a: CivilizaciÃ³n (Europa, ciudad, progreso) vs. Barbarie (AmÃ©rica rural, gaucho/indio, caudillos, atraso).",
+                                 "Este paradigma guiÃ³ las polÃ­ticas de Estado en L.A. en la segunda mitad del siglo XIX."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=civilizacion+y+barbarie+sarmiento+facundo"
+    },
+    {
+        "id":  "cs_453_005",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "A inicios del siglo XX, frente al avance del imperialismo estadounidense y su \u0027Diplomacia de las CaÃ±oneras\u0027 en el Caribe, surgiÃ³ en AmÃ©rica Latina el \u0027Arielismo\u0027. Â¿En quÃ© ensayo se fundÃ³ esta corriente y quÃ© proponÃ­a su autor respecto a la identidad continental?",
+        "opciones":  [
+                         "En el ensayo \u0027Ariel\u0027 (1900) del uruguayo JosÃ© Enrique RodÃ³, quien contraponÃ­a el espiritualismo, la alta cultura y el idealismo estÃ©tico latinoamericano (Ariel) frente al utilitarismo, el materialismo vulgar y el pragmatismo crudo de Estados Unidos (CalibÃ¡n).",
+                         "En el ensayo \u0027El laberinto de la soledad\u0027 del mexicano Octavio Paz, quien proponÃ­a que AmÃ©rica Latina debÃ­a destruir sus ciudades y regresar a la selva para escapar del control mental de las antenas de radio norteamericanas.",
+                         "En el ensayo \u0027Siete ensayos de interpretaciÃ³n de la realidad peruana\u0027 de JosÃ© Carlos MariÃ¡tegui, quien proponÃ­a usar la fuerza aÃ©rea de los paÃ­ses andinos para bombardear Washington D.C. en represalia.",
+                         "En el tratado militar \u0027La guerra de guerrillas\u0027 del Che Guevara, que proponÃ­a crear milicias estudiantiles (Ariel) para sabotear fÃ¡bricas estadounidenses (CalibÃ¡n)."
+                     ],
+        "respuesta_correcta":  "En el ensayo \u0027Ariel\u0027 (1900) del uruguayo JosÃ© Enrique RodÃ³, quien contraponÃ­a el espiritualismo, la alta cultura y el idealismo estÃ©tico latinoamericano (Ariel) frente al utilitarismo, el materialismo vulgar y el pragmatismo crudo de Estados Unidos (CalibÃ¡n).",
+        "explicacion_detallada":  "RodÃ³ usÃ³ los personajes de la obra \u0027La Tempestad\u0027 de Shakespeare. CalibÃ¡n (el monstruo, lo material, lo utilitario) representaba a la emergente potencia de EE.UU. Ariel (el espÃ­ritu del aire, lo elevado, lo estÃ©tico, las humanidades) representaba a la juventud latinoamericana. El Arielismo fue un grito de defensa identitaria de las Ã©lites latinoamericanas: \u0027somos mÃ¡s pobres econÃ³micamente, pero somos superiores espiritualmente y culturalmente\u0027.",
+        "pasos_resolucion":  [
+                                 "Obra: \u0027Ariel\u0027 (1900). Autor: JosÃ© Enrique RodÃ³ (Uruguay).",
+                                 "MetÃ¡fora: Ariel (EspÃ­ritu, idealismo latinoamericano) vs. CalibÃ¡n (Materialismo utilitario estadounidense).",
+                                 "El Arielismo fue la base de la identidad estudiantil y anti-yanqui temprana en L.A."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=ariel+jose+enrique+rodo+identidad+latinoamericana"
+    },
+    {
+        "id":  "cs_453_006",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "En la dÃ©cada de 1920, el ensayista marxista peruano JosÃ© Carlos MariÃ¡tegui analizÃ³ el problema de la identidad y la pobreza de las poblaciones originarias. A diferencia de las visiones paternalistas o racistas de su Ã©poca, Â¿cuÃ¡l fue la tesis central de MariÃ¡tegui sobre el \u0027problema del indio\u0027?",
+        "opciones":  [
+                         "ArgumentÃ³ que el problema del indio no era una cuestiÃ³n racial, moral o educativa, sino un problema socioeconÃ³mico estructural arraigado en el sistema de tenencia de la tierra: el latifundismo (el gamonalismo) que lo mantenÃ­a en la servidumbre.",
+                         "Sostuvo que el problema del indio era exclusivamente su falta de fe cristiana, proponiendo misiones jesuitas masivas como Ãºnica vÃ­a para sacarlos de la pobreza y civilizarlos.",
+                         "AfirmÃ³ que el problema del indio se debÃ­a a una inferioridad biolÃ³gica innata, defendiendo polÃ­ticas de eugenesia e importaciÃ³n masiva de europeos para solucionar el subdesarrollo peruano.",
+                         "PlanteÃ³ que los indÃ­genas debÃ­an abandonar el campo y migrar forzosamente a las minas de carbÃ³n y plata, ya que la agricultura andina era un callejÃ³n sin salida evolutivo."
+                     ],
+        "respuesta_correcta":  "ArgumentÃ³ que el problema del indio no era una cuestiÃ³n racial, moral o educativa, sino un problema socioeconÃ³mico estructural arraigado en el sistema de tenencia de la tierra: el latifundismo (el gamonalismo) que lo mantenÃ­a en la servidumbre.",
+        "explicacion_detallada":  "En sus \u0027Siete ensayos de interpretaciÃ³n de la realidad peruana\u0027 (1928), MariÃ¡tegui revolucionÃ³ el pensamiento social. DestrozÃ³ el \u0027indigenismo filantrÃ³pico\u0027 que creÃ­a que leyendo libros el indio se salvarÃ­a. SentenciÃ³: \u0027El problema del indio es el problema de la tierra\u0027. Mientras existiera el rÃ©gimen feudal del gamonalismo (latifundistas explotadores en la sierra), ninguna ley de papel ni escuela redimirÃ­a al indÃ­gena. Fue el primero en cruzar el marxismo (lucha de clases/modos de producciÃ³n) con la realidad indÃ­gena andina (comunismo incaico originario).",
+        "pasos_resolucion":  [
+                                 "Autor: JosÃ© Carlos MariÃ¡tegui (Siete Ensayos, 1928).",
+                                 "Tesis: \u0027El problema del indio es el problema de la tierra\u0027.",
+                                 "Enfoque marxista-andino: rechazo a explicaciones raciales o puramente morales; el latifundismo es el causante de la servidumbre."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=mariategui+el+problema+del+indio+siete+ensayos"
+    },
+    {
+        "id":  "cs_453_007",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "El movimiento \u0027Indigenista\u0027 floreciÃ³ en AmÃ©rica Latina (especialmente en MÃ©xico, PerÃº y Ecuador) durante la primera mitad del siglo XX, tanto en la literatura (ej. Jorge Icaza con \u0027Huasipungo\u0027) como en las artes plÃ¡sticas (Muralismo mexicano, Oswaldo GuayasamÃ­n). Â¿CuÃ¡l era el objetivo central del indigenismo como movimiento polÃ­tico-cultural?",
+        "opciones":  [
+                         "Denunciar la brutal explotaciÃ³n socioeconÃ³mica del indÃ­gena en las haciendas (el huasipungo, el gamonalismo), visibilizarlo como protagonista del sufrimiento nacional y promover polÃ­ticas estatales para su redenciÃ³n e integraciÃ³n a la naciÃ³n mestiza moderna.",
+                         "Exaltar el estilo de vida de las monarquÃ­as europeas y fomentar que los indÃ­genas abandonaran sus tierras voluntariamente para viajar a Europa y aprender oficios palaciegos.",
+                         "Promover la restauraciÃ³n de los sacrificios humanos precolombinos en las plazas centrales de las capitales latinoamericanas como un acto de rebeliÃ³n cultural contra el catolicismo.",
+                         "Ocultar la miseria indÃ­gena mostrando pinturas de paisajes andinos vacÃ­os de presencia humana, para atraer la inversiÃ³n extranjera britÃ¡nica en ferrocarriles."
+                     ],
+        "respuesta_correcta":  "Denunciar la brutal explotaciÃ³n socioeconÃ³mica del indÃ­gena en las haciendas (el huasipungo, el gamonalismo), visibilizarlo como protagonista del sufrimiento nacional y promover polÃ­ticas estatales para su redenciÃ³n e integraciÃ³n a la naciÃ³n mestiza moderna.",
+        "explicacion_detallada":  "El Indigenismo no fue creado por indÃ­genas, sino por intelectuales y artistas mestizos/blancos de clase media (Icaza, PÃ­o Jaramillo Alvarado, Ciro AlegrÃ­a, Rivera, GuayasamÃ­n). Su gran aporte fue poner en el centro del debate nacional la denuncia descarnada de la explotaciÃ³n (exponiendo al opresor: el cura, el latifundista, el teniente polÃ­tico). Sin embargo, hoy se critica que su meta final solÃ­a ser la \u0027integraciÃ³n\u0027 del indio a la cultura nacional (castellanizarlo, mestizarlo), es decir, salvarlo haciendo que deje de ser indio, en lugar del respeto a la plurinacionalidad.",
+        "pasos_resolucion":  [
+                                 "Movimiento: Indigenismo (s. XX, literatura/arte/polÃ­tica).",
+                                 "Objetivo: Denuncia social de la explotaciÃ³n (gamonalismo, huasipungo) y bÃºsqueda de redenciÃ³n estatal del indio.",
+                                 "Reconocer la diferencia entre Indigenismo (hecho por mestizos para integrar) y Movimiento IndÃ­gena (hecho por indÃ­genas para reclamar autonomÃ­a)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=movimiento+indigenista+latinoamerica+literatura+arte"
+    },
+    {
+        "id":  "cs_453_008",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "Octavio Paz, Premio Nobel de Literatura, publicÃ³ en 1950 \u0027El laberinto de la soledad\u0027, un ensayo clave para entender la psicologÃ­a y la identidad del mexicano moderno, pero aplicable a la experiencia hispanoamericana. Â¿QuÃ© trauma histÃ³rico original analiza Paz como la fuente de la \u0027soledad\u0027 y el complejo de inferioridad del mestizo?",
+        "opciones":  [
+                         "El trauma de la Conquista, simbolizada en la figura de la \u0027Malinche\u0027 (la madre indÃ­gena violentada) y el conquistador espaÃ±ol (el padre ausente o violento), lo que genera un sentimiento de orfandad e ilegitimidad en el mestizo (los \u0027hijos de la Chingada\u0027).",
+                         "El trauma de la RevoluciÃ³n Mexicana, donde los caudillos campesinos masacraron a los intelectuales urbanos, dejando al paÃ­s sin guÃ­as espirituales y condenado al analfabetismo estructural.",
+                         "El trauma de la pÃ©rdida de los territorios del norte en la guerra contra Estados Unidos (1848), lo que generÃ³ un complejo de castraciÃ³n militar que paralizÃ³ permanentemente a la diplomacia de AmÃ©rica Latina.",
+                         "El trauma de la evangelizaciÃ³n pacÃ­fica, que hizo que los indÃ­genas olvidaran voluntariamente cÃ³mo hacer la guerra, dejÃ¡ndolos vulnerables a los ataques de los piratas caribeÃ±os."
+                     ],
+        "respuesta_correcta":  "El trauma de la Conquista, simbolizada en la figura de la \u0027Malinche\u0027 (la madre indÃ­gena violentada) y el conquistador espaÃ±ol (el padre ausente o violento), lo que genera un sentimiento de orfandad e ilegitimidad en el mestizo (los \u0027hijos de la Chingada\u0027).",
+        "explicacion_detallada":  "Paz explora el psicoanÃ¡lisis de la identidad latinoamericana. El mestizo es producto de una ruptura violenta: repudia tanto a sus raÃ­ces indÃ­genas (asociadas a la derrota y pasividad) como a sus raÃ­ces espaÃ±olas (asociadas al abuso y la violaciÃ³n). Esta orfandad existencial obliga al mestizo a usar \u0027mÃ¡scaras\u0027 de machismo, hermetismo y desconfianza para esconder su vulnerabilidad. La Malinche (doÃ±a Marina, traductora de CortÃ©s) es el sÃ­mbolo de la traiciÃ³n y la madre ultrajada (la \u0027Chingada\u0027) de la que proviene la naciÃ³n moderna.",
+        "pasos_resolucion":  [
+                                 "Obra: El laberinto de la soledad (1950). Autor: Octavio Paz.",
+                                 "Concepto: El trauma de la Conquista y el nacimiento violento del mestizo.",
+                                 "SÃ­mbolos: La Malinche, orfandad, hermetismo, el peso del choque cultural europeo-indÃ­gena."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=el+laberinto+de+la+soledad+octavio+paz+hijos+de+la+chingada"
+    },
+    {
+        "id":  "cs_453_009",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "La Doctrina Monroe (1823) y el Corolario Roosevelt (1904) marcaron la identidad polÃ­tica de AmÃ©rica Latina en el siglo XIX y XX, al forzarla a definirse frente a la polÃ­tica exterior de Estados Unidos. Â¿QuÃ© establecÃ­a el Corolario Roosevelt a la Doctrina Monroe?",
+        "opciones":  [
+                         "EstablecÃ­a que Estados Unidos se arrogaba el derecho de actuar como \u0027policÃ­a internacional\u0027 en AmÃ©rica Latina, justificando la intervenciÃ³n militar directa en paÃ­ses vecinos (\u0027Big Stick\u0027) si estos no pagaban sus deudas a Europa o si mostraban \u0027inestabilidad crÃ³nica\u0027.",
+                         "EstablecÃ­a que Estados Unidos se comprometÃ­a a no interferir nunca en los asuntos internos de AmÃ©rica Latina, adoptando una polÃ­tica de neutralidad estricta y respeto a la soberanÃ­a de todas las repÃºblicas (\u0027Buen Vecino\u0027).",
+                         "EstablecÃ­a que AmÃ©rica Latina pasaba a ser formalmente una colonia administrada desde Washington, eliminando todos los gobiernos locales y los parlamentos nacionales.",
+                         "EstablecÃ­a la obligaciÃ³n de Estados Unidos de comprar todas las exportaciones agrÃ­colas de AmÃ©rica Latina a precios preferenciales para garantizar el desarrollo econÃ³mico del sur (\u0027Alianza para el Progreso\u0027)."
+                     ],
+        "respuesta_correcta":  "EstablecÃ­a que Estados Unidos se arrogaba el derecho de actuar como \u0027policÃ­a internacional\u0027 en AmÃ©rica Latina, justificando la intervenciÃ³n militar directa en paÃ­ses vecinos (\u0027Big Stick\u0027) si estos no pagaban sus deudas a Europa o si mostraban \u0027inestabilidad crÃ³nica\u0027.",
+        "explicacion_detallada":  "La Doctrina Monroe original (\u0027AmÃ©rica para los americanos\u0027, 1823) solo advertÃ­a a Europa que no reconquistara L.A. Sin embargo, en 1904, Theodore Roosevelt emitiÃ³ su Corolario justificando la \u0027polÃ­tica del Gran Garrote\u0027 (Big Stick). ArgumentÃ³ que, para evitar que las potencias europeas (Alemania, Inglaterra) enviaran sus flotas para cobrar deudas a gobiernos latinoamericanos inestables (ej. Venezuela 1902), EE.UU. debÃ­a intervenir preventivamente, ocupar aduanas, derrocar gobiernos y garantizar el orden. Esto desatÃ³ dÃ©cadas de invasiones de marines en CentroamÃ©rica y el Caribe (Nicaragua, HaitÃ­, R. Dominicana, PanamÃ¡).",
+        "pasos_resolucion":  [
+                                 "Concepto: Corolario Roosevelt (1904) de la Doctrina Monroe.",
+                                 "MetÃ¡fora: Big Stick (El Gran Garrote).",
+                                 "Consecuencia: EE.UU. asume el rol de \u0027policÃ­a internacional\u0027 e interviene militarmente en L.A. bajo el pretexto de estabilizar o cobrar deudas."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=doctrina+monroe+corolario+roosevelt+big+stick"
+    },
+    {
+        "id":  "cs_453_010",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "El concepto de \u0027Macondo\u0027, surgido de la novela \u0027Cien aÃ±os de soledad\u0027 (1967) de Gabriel GarcÃ­a MÃ¡rquez, se convirtiÃ³ en un sÃ­mbolo identitario de AmÃ©rica Latina frente al mundo, asociado al Realismo MÃ¡gico. Â¿QuÃ© caracterÃ­stica histÃ³rica y cultural de la regiÃ³n intenta reflejar el \u0027Realismo MÃ¡gico\u0027?",
+        "opciones":  [
+                         "La normalizaciÃ³n y coexistencia cotidiana de eventos sobrenaturales, mÃ­ticos y desmesurados con una realidad histÃ³rica marcada por guerras civiles circulares, dictaduras, explotaciÃ³n bananera y el olvido estatal.",
+                         "La adopciÃ³n exitosa y ordenada de los modelos industriales de la RevoluciÃ³n CientÃ­fica europea, donde el uso exclusivo de la razÃ³n pura logrÃ³ erradicar todas las supersticiones populares.",
+                         "El gÃ©nero periodÃ­stico de crÃ³nica roja que documentaba exclusivamente los crÃ­menes urbanos en las capitales sudamericanas mediante datos estadÃ­sticos frÃ­os y fotografÃ­as policiales.",
+                         "La copia exacta de la ciencia ficciÃ³n estadounidense, donde los problemas de los pueblos caribeÃ±os eran resueltos mediante tecnologÃ­a espacial y robots avanzados."
+                     ],
+        "respuesta_correcta":  "La normalizaciÃ³n y coexistencia cotidiana de eventos sobrenaturales, mÃ­ticos y desmesurados con una realidad histÃ³rica marcada por guerras civiles circulares, dictaduras, explotaciÃ³n bananera y el olvido estatal.",
+        "explicacion_detallada":  "El Boom Latinoamericano (GarcÃ­a MÃ¡rquez, Carpentier con lo \u0027real maravilloso\u0027) expuso al mundo una identidad continental basada en la desmesura de nuestra historia. El Realismo MÃ¡gico no es literatura fantÃ¡stica pura (como Harry Potter); es mostrar un mundo donde llueven flores amarillas, mujeres ascienden al cielo o llueve por 4 aÃ±os (lo mÃ¡gico) tratado como algo completamente normal, mientras que cosas reales como el hielo, un tren o la masacre de las bananeras (1928, de la United Fruit Company) son tratadas con asombro o sufren amnesia histÃ³rica. Es la colisiÃ³n del pensamiento mÃ­tico premoderno con el capitalismo salvaje y la violencia estructural.",
+        "pasos_resolucion":  [
+                                 "GÃ©nero: Realismo MÃ¡gico (Boom Latinoamericano, GarcÃ­a MÃ¡rquez).",
+                                 "Concepto: Coexistencia de lo mÃ­tico/sobrenatural como algo cotidiano, dentro de una historia trÃ¡gica de violencia, explotaciÃ³n e inestabilidad polÃ­tica (ej. Masacre de las Bananeras en Cien aÃ±os de soledad).",
+                                 "Descartar opciones sobre racionalismo cientÃ­fico europeo o ciencia ficciÃ³n (que son ajenas al concepto)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=realismo+magico+america+latina+identidad+cien+anos+de+soledad"
+    },
+    {
+        "id":  "cs_453_011",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "En la construcciÃ³n de la identidad de las nuevas repÃºblicas del siglo XIX, las Ã©lites latinoamericanas fomentaron masivamente la \u0027inmigraciÃ³n de fomento\u0027 (trayendo millones de europeos). Â¿CuÃ¡l era el objetivo ideolÃ³gico de fondo, teorizado por Juan Bautista Alberdi (\u0027Gobernar es poblar\u0027) en Argentina?",
+        "opciones":  [
+                         "\u0027Blanquear\u0027 biolÃ³gica y culturalmente a la poblaciÃ³n para borrar la herencia indÃ­gena e hispÃ¡nica, importar hÃ¡bitos de trabajo industriales y acelerar la modernizaciÃ³n y la integraciÃ³n al mercado mundial capitalista.",
+                         "Crear ejÃ©rcitos mercenarios con veteranos de las guerras napoleÃ³nicas para invadir Brasil y unificar toda SudamÃ©rica bajo el mando del imperio argentino.",
+                         "Repoblar las ciudades destruidas por los terremotos utilizando exclusivamente mano de obra de Europa del Este, con prohibiciÃ³n de mezclarse con las clases altas locales.",
+                         "Reemplazar la religiÃ³n catÃ³lica por el protestantismo y el judaÃ­smo de forma forzosa en todos los estratos del Estado, prohibiendo el idioma espaÃ±ol."
+                     ],
+        "respuesta_correcta":  "\u0027Blanquear\u0027 biolÃ³gica y culturalmente a la poblaciÃ³n para borrar la herencia indÃ­gena e hispÃ¡nica, importar hÃ¡bitos de trabajo industriales y acelerar la modernizaciÃ³n y la integraciÃ³n al mercado mundial capitalista.",
+        "explicacion_detallada":  "La Ã©lite liberal (positivista) creÃ­a que el atraso de AmÃ©rica Latina era genÃ©tico y cultural (la \u0027barbarie\u0027 del indio, el negro y el gaucho perezoso heredero del espaÃ±ol ocioso). Juan B. Alberdi, en sus \u0027Bases\u0027 (que inspirÃ³ la constituciÃ³n argentina), dictaminÃ³ \u0027gobernar es poblar\u0027. El objetivo (alcanzado con Ã©xito en Argentina, Uruguay o Sur de Brasil) era inundar el paÃ­s con europeos anglosajones (aunque llegaron mÃ¡s italianos y espaÃ±oles pobres) para mejorar la raza (\u0027blanqueamiento\u0027) e importar civilizaciÃ³n, conocimiento tÃ©cnico e industria.",
+        "pasos_resolucion":  [
+                                 "TeÃ³rico: Juan Bautista Alberdi (\u0027Gobernar es poblar\u0027, Argentina).",
+                                 "PolÃ­ticas de InmigraciÃ³n s. XIX.",
+                                 "Objetivo: \u0027Civilizar\u0027 y \u0027Blanquear\u0027 a las repÃºblicas, trayendo europeos para desplazar demogrÃ¡fica y culturalmente a los nativos/mestizos, buscando el progreso capitalista."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=gobernar+es+poblar+alberdi+inmigracion+argentina"
+    },
+    {
+        "id":  "cs_453_012",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "El concepto de \u0027Nuestra AmÃ©rica\u0027 sirviÃ³ de base ideolÃ³gica para mÃºltiples movimientos antiimperialistas. Â¿QuÃ© evento bÃ©lico ocurrido en 1898 terminÃ³ de consolidar el temor de los intelectuales latinoamericanos frente a Estados Unidos, comprobando las advertencias de JosÃ© MartÃ­?",
+        "opciones":  [
+                         "La Guerra Hispano-Estadounidense, en la cual Estados Unidos intervino para expulsar a EspaÃ±a de Cuba y Puerto Rico, tomando control imperial de esas islas (y Filipinas) y confirmÃ¡ndose como la nueva potencia hegemÃ³nica de la regiÃ³n.",
+                         "La Guerra de la Triple Alianza, donde Estados Unidos financiÃ³ a Argentina, Brasil y Uruguay para exterminar a la poblaciÃ³n masculina de Paraguay y abrir sus rÃ­os al comercio.",
+                         "La Guerra del PacÃ­fico (o del Salitre), donde tropas estadounidenses desembarcaron en Antofagasta para asegurar los yacimientos de nitrato en favor de las empresas mineras de California.",
+                         "La InvasiÃ³n de NapoleÃ³n III a MÃ©xico, donde Estados Unidos apoyÃ³ financieramente al emperador Maximiliano de Habsburgo para frenar las reformas de Benito JuÃ¡rez."
+                     ],
+        "respuesta_correcta":  "La Guerra Hispano-Estadounidense, en la cual Estados Unidos intervino para expulsar a EspaÃ±a de Cuba y Puerto Rico, tomando control imperial de esas islas (y Filipinas) y confirmÃ¡ndose como la nueva potencia hegemÃ³nica de la regiÃ³n.",
+        "explicacion_detallada":  "El aÃ±o 1898 (el \u0027Desastre del 98\u0027 para EspaÃ±a) es un punto de quiebre. Tras la explosiÃ³n del acorazado Maine, EE.UU. entra a la guerra de independencia de Cuba. Al ganar rÃ¡pidamente, EE.UU. no independiza realmente a Cuba (le impone la Enmienda Platt, que permitÃ­a a EE.UU. intervenir militarmente cuando quisiera y tomar GuantÃ¡namo) y se anexa Puerto Rico. Esto demostrÃ³ brutalmente a la intelectualidad (RodÃ³, DarÃ­o, etc.) que EE.UU. habÃ­a reemplazado a EspaÃ±a como la potencia imperial de la cual habÃ­a que defenderse.",
+        "pasos_resolucion":  [
+                                 "Fecha clave: 1898.",
+                                 "Evento: Guerra Hispano-Estadounidense (EE.UU. derrota a EspaÃ±a en Cuba/Puerto Rico).",
+                                 "Consecuencia identitaria: Transforma la admiraciÃ³n que L.A. tenÃ­a por EE.UU. en recelo antiimperialista (se concreta la amenaza del \u0027Gigante de siete leguas\u0027)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=guerra+hispano+estadounidense+1898+imperialismo+cuba"
+    },
+    {
+        "id":  "cs_453_013",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "El movimiento \u0027Modernista\u0027 en la literatura latinoamericana (fines del XIX y principios del XX) fue fundamental para la identidad continental. Su mÃ¡ximo exponente fue RubÃ©n DarÃ­o. Â¿QuÃ© hito logrÃ³ el Modernismo en la relaciÃ³n cultural entre AmÃ©rica Latina y EspaÃ±a?",
+        "opciones":  [
+                         "Fue el primer movimiento literario nacido genuinamente en AmÃ©rica Latina que exportÃ³ su influencia estÃ©tica hacia EspaÃ±a (y no al revÃ©s), demostrando que la literatura latinoamericana habÃ­a alcanzado la madurez y emancipaciÃ³n intelectual respecto a la antigua metrÃ³poli.",
+                         "Fue un movimiento polÃ­tico que logrÃ³ obligar a la Real Academia EspaÃ±ola (RAE) a mudar su sede permanentemente de Madrid a Buenos Aires.",
+                         "ConsistiÃ³ en el rechazo total de la lengua castellana, obligando a los escritores a redactar sus poemas exclusivamente en lenguas indÃ­genas originarias como el nÃ¡huatl o el kichwa.",
+                         "Fue un manifiesto econÃ³mico que exigÃ­a la modernizaciÃ³n de los puertos de exportaciÃ³n de cafÃ©, carente de valor artÃ­stico o poÃ©tico."
+                     ],
+        "respuesta_correcta":  "Fue el primer movimiento literario nacido genuinamente en AmÃ©rica Latina que exportÃ³ su influencia estÃ©tica hacia EspaÃ±a (y no al revÃ©s), demostrando que la literatura latinoamericana habÃ­a alcanzado la madurez y emancipaciÃ³n intelectual respecto a la antigua metrÃ³poli.",
+        "explicacion_detallada":  "Hasta el Modernismo (iniciado con \u0027Azul...\u0027 de RubÃ©n DarÃ­o en 1888), AmÃ©rica Latina siempre importaba los estilos de Europa (Romanticismo, Neoclasicismo, Realismo). Con DarÃ­o, L.A. crea una estÃ©tica propia (refinada, cosmopolita, musical, renovadora del lenguaje) que fue imitada por los grandes poetas espaÃ±oles (como Antonio Machado o Juan RamÃ³n JimÃ©nez). Significa la \u0027segunda independencia\u0027 (la emancipaciÃ³n mental/cultural) de AmÃ©rica respecto de EspaÃ±a.",
+        "pasos_resolucion":  [
+                                 "Movimiento: Modernismo literario (RubÃ©n DarÃ­o, \u0027Azul...\u0027).",
+                                 "Hito: InversiÃ³n del flujo de influencia. De AmÃ©rica hacia EspaÃ±a (emancipaciÃ³n cultural).",
+                                 "Descartar opciones que lo confundan con movimientos indÃ­genas o manifiestos de modernizaciÃ³n econÃ³mica (puertos)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=modernismo+ruben+dario+literatura+latinoamericana"
+    },
+    {
+        "id":  "cs_453_014",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "La TeologÃ­a de la LiberaciÃ³n, surgida en AmÃ©rica Latina a fines de la dÃ©cada de 1960 (MedellÃ­n 1968, Gustavo GutiÃ©rrez), transformÃ³ profundamente la identidad religiosa y social del continente. Â¿CuÃ¡l es el postulado principal de esta corriente de pensamiento?",
+        "opciones":  [
+                         "Realiza una relectura del Evangelio desde la perspectiva de los pobres (opciÃ³n preferencial por los pobres), sosteniendo que el pecado no es solo individual, sino \u0027estructural\u0027 (injusticia econÃ³mica, capitalismo explotador), y que la salvaciÃ³n cristiana exige un compromiso activo por la liberaciÃ³n social y polÃ­tica terrenal.",
+                         "Propone que la Iglesia CatÃ³lica debe aliarse con las dictaduras militares del Cono Sur para frenar el avance del comunismo, bendiciendo la tortura de disidentes como una guerra santa justificada.",
+                         "Sostiene que la pobreza es un castigo divino por los pecados de los individuos y que la salvaciÃ³n solo se alcanza sufriendo resignadamente en la tierra para obtener una recompensa en el cielo.",
+                         "Postula que el Vaticano debe ser abolido y reemplazado por un consejo de pastores protestantes norteamericanos, financiados por la CIA para promover la prosperidad capitalista (TeologÃ­a de la Prosperidad)."
+                     ],
+        "respuesta_correcta":  "Realiza una relectura del Evangelio desde la perspectiva de los pobres (opciÃ³n preferencial por los pobres), sosteniendo que el pecado no es solo individual, sino \u0027estructural\u0027 (injusticia econÃ³mica, capitalismo explotador), y que la salvaciÃ³n cristiana exige un compromiso activo por la liberaciÃ³n social y polÃ­tica terrenal.",
+        "explicacion_detallada":  "Nacida en el clima del Concilio Vaticano II y la conferencia del CELAM en MedellÃ­n (1968), teÃ³logos como Gustavo GutiÃ©rrez (PerÃº) o Leonardo Boff (Brasil), y mÃ¡rtires como MonseÃ±or Romero (El Salvador) o Leonidas ProaÃ±o (el \u0027Obispo de los Indios\u0027 en Ecuador), fusionaron la fe catÃ³lica con la sociologÃ­a crÃ­tica y la teorÃ­a de la dependencia. Cambiaron la caridad paternalista por la justicia estructural: la Iglesia debÃ­a mancharse las manos en la lucha contra la pobreza (\u0027opciÃ³n preferencial por los pobres\u0027) y las dictaduras que oprimÃ­an al pueblo. Fue perseguida tanto por militares como (inicialmente) por el Vaticano.",
+        "pasos_resolucion":  [
+                                 "Corriente: TeologÃ­a de la LiberaciÃ³n (G. GutiÃ©rrez, L. Boff, L. ProaÃ±o).",
+                                 "Concepto central: OpciÃ³n preferencial por los pobres, \u0027pecado estructural\u0027 (el sistema injusto es pecado).",
+                                 "La salvaciÃ³n implica transformar las estructuras de opresiÃ³n (justicia social terrenal, no solo consuelo en el cielo)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=teologia+de+la+liberacion+america+latina+explicacion"
+    },
+    {
+        "id":  "cs_453_015",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "En la construcciÃ³n identitaria del siglo XX, la RevoluciÃ³n Mexicana (1910) tuvo un impacto cultural masivo mÃ¡s allÃ¡ de sus reformas agrarias y polÃ­ticas. Â¿QuÃ© polÃ­tica cultural de Estado implementÃ³ JosÃ© Vasconcelos que definiÃ³ la imagen del MÃ©xico moderno ante el mundo?",
+        "opciones":  [
+                         "PatrocinÃ³ el \u0027Muralismo Mexicano\u0027 (Diego Rivera, David Alfaro Siqueiros, JosÃ© Clemente Orozco), utilizando las paredes de los edificios pÃºblicos como lienzos gigantes para educar visualmente a la masa analfabeta sobre la historia nacional, exaltando el pasado indÃ­gena, la revoluciÃ³n campesina y la lucha obrera.",
+                         "DecretÃ³ la demoliciÃ³n de todas las pirÃ¡mides aztecas y mayas para construir sobre sus ruinas universidades europeas de arquitectura gÃ³tica, con el fin de borrar la memoria prehispÃ¡nica.",
+                         "FomentÃ³ la importaciÃ³n masiva de cine de Hollywood para que los mexicanos aprendieran inglÃ©s y valores capitalistas, prohibiendo la producciÃ³n de cine nacional o literatura local.",
+                         "CreÃ³ un sistema de becas para enviar a todos los artistas mexicanos a estudiar pintura abstracta a ParÃ­s, prohibiÃ©ndoles pintar temas sociales, polÃ­ticos o indÃ­genas en su arte."
+                     ],
+        "respuesta_correcta":  "PatrocinÃ³ el \u0027Muralismo Mexicano\u0027 (Diego Rivera, David Alfaro Siqueiros, JosÃ© Clemente Orozco), utilizando las paredes de los edificios pÃºblicos como lienzos gigantes para educar visualmente a la masa analfabeta sobre la historia nacional, exaltando el pasado indÃ­gena, la revoluciÃ³n campesina y la lucha obrera.",
+        "explicacion_detallada":  "Tras la sangrienta RevoluciÃ³n Mexicana (1910-1920), el Estado necesitaba crear una narrativa unificadora (nacionalismo revolucionario). JosÃ© Vasconcelos (Secretario de EducaciÃ³n) contratÃ³ a los grandes muralistas (Los Tres Grandes: Rivera, Orozco, Siqueiros) para pintar los edificios de gobierno (Palacio Nacional, escuelas). El arte dejÃ³ de ser un cuadro privado burguÃ©s (\u0027arte por el arte\u0027) y se volviÃ³ un medio de comunicaciÃ³n de masas monumental, didÃ¡ctico y militante. Reivindicaron estÃ©ticamente al indÃ­gena (CuauhtÃ©moc, Zapata) y demonizaron al explotador, creando la iconografÃ­a de la \u0027mexicanidad\u0027 que influyÃ³ a artistas como Oswaldo GuayasamÃ­n en Ecuador.",
+        "pasos_resolucion":  [
+                                 "RevoluciÃ³n Mexicana (polÃ­tica cultural).",
+                                 "JosÃ© Vasconcelos patrocina a \u0027Los Tres Grandes\u0027 (Rivera, Siqueiros, Orozco).",
+                                 "Muralismo: Arte pÃºblico, monumental, didÃ¡ctico, indigenista/marxista, dirigido a las masas."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=muralismo+mexicano+vasconcelos+rivera+orozco"
+    },
+    {
+        "id":  "cs_453_016",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "El ensayista e historiador peruano Alberto Flores Galindo acuÃ±Ã³ el tÃ©rmino \u0027UtopÃ­a Andina\u0027. Â¿A quÃ© hace referencia este concepto en la identidad y los movimientos sociales de la regiÃ³n de los Andes?",
+        "opciones":  [
+                         "Al imaginario colectivo de los pueblos indÃ­genas andinos (nacido en la colonia tras la ejecuciÃ³n de TÃºpac Amaru) que proyecta un futuro de liberaciÃ³n basado en la restauraciÃ³n idealizada del pasado incaico, donde existÃ­a justicia, reciprocidad y abundancia, para criticar la opresiÃ³n del presente hispano o republicano.",
+                         "Al proyecto arquitectÃ³nico financiado por el Banco Mundial en los aÃ±os 90 para construir ciudades satÃ©lites ultramodernas y ecolÃ³gicas en las altas cumbres de la cordillera andina para combatir la superpoblaciÃ³n costera.",
+                         "A la creencia popular de que los tesoros perdidos de Atahualpa (\u0027El Dorado\u0027) se encuentran enterrados debajo del actual Palacio de Gobierno en Lima o en Carondelet en Quito, esperando ser desenterrados.",
+                         "Al plan secreto de SimÃ³n BolÃ­var de crear una monarquÃ­a pan-andina coronando a un prÃ­ncipe britÃ¡nico en el Cuzco para asegurar la paz continental y la protecciÃ³n de la Marina Real."
+                     ],
+        "respuesta_correcta":  "Al imaginario colectivo de los pueblos indÃ­genas andinos (nacido en la colonia tras la ejecuciÃ³n de TÃºpac Amaru) que proyecta un futuro de liberaciÃ³n basado en la restauraciÃ³n idealizada del pasado incaico, donde existÃ­a justicia, reciprocidad y abundancia, para criticar la opresiÃ³n del presente hispano o republicano.",
+        "explicacion_detallada":  "En \u0027Buscando un Inca: Identidad y UtopÃ­a en los Andes\u0027 (1986), Flores Galindo explica cÃ³mo las poblaciones andinas derrotadas no se rindieron pasivamente. Construyeron una utopÃ­a: no mirando al futuro capitalista o socialista occidental, sino mirando a su pasado (el Tahuantinsuyo idealizado). Mitos como el de Inkarri (la cabeza decapitada del Ãºltimo Inca que estÃ¡ creciendo bajo tierra y cuando su cuerpo se complete, el mundo colonial se invertirÃ¡ -pachakutik- y volverÃ¡ el orden andino) son el nÃºcleo de esta utopÃ­a de resistencia que nutriÃ³ levantamientos campesinos durante siglos.",
+        "pasos_resolucion":  [
+                                 "Autor: Alberto Flores Galindo (\u0027Buscando un Inca\u0027).",
+                                 "Concepto: UtopÃ­a Andina.",
+                                 "Significado: ReivindicaciÃ³n de la identidad andina y resistencia popular mediante la esperanza mÃ­tica del retorno del orden incaico (justicia, reciprocidad, pachakutik)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=utopia+andina+alberto+flores+galindo+inkarri"
+    },
+    {
+        "id":  "cs_453_017",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "Durante los aÃ±os 60 y 70, la identidad polÃ­tica de la juventud latinoamericana estuvo fuertemente marcada por el paradigma de la lucha armada, ejemplificado por la RevoluciÃ³n Cubana (1959). Â¿QuÃ© teorÃ­a revolucionaria, desarrollada por Ernesto \u0027Che\u0027 Guevara, inspirÃ³ la creaciÃ³n de guerrillas en casi toda AmÃ©rica Latina?",
+        "opciones":  [
+                         "La teorÃ­a del \u0027Foco Guerrillero\u0027 (Foquismo), que sostenÃ­a que un pequeÃ±o grupo armado actuando en las montaÃ±as podÃ­a crear las condiciones subjetivas necesarias para detonar una revoluciÃ³n campesina, sin tener que esperar a que el capitalismo madurara o que el partido comunista tradicional diera la orden.",
+                         "La teorÃ­a del \u0027Entrismo burocrÃ¡tico\u0027, que proponÃ­a afiliarse masivamente a los partidos conservadores y a los ejÃ©rcitos nacionales para, tras dÃ©cadas de ascensos, tomar el poder pacÃ­ficamente desde las posiciones de generales y ministros.",
+                         "La teorÃ­a de la \u0027RevoluciÃ³n CibernÃ©tica\u0027, que proponÃ­a paralizar Wall Street mediante ciberataques financiados por la URSS para quebrar la economÃ­a imperialista antes de disparar una sola bala.",
+                         "La teorÃ­a del \u0027Paz y Amor\u0027 (Pacifismo de Ghandi), que rechazaba absolutamente cualquier uso de las armas y proponÃ­a huelgas de hambre masivas en las plazas centrales de las capitales hasta que los dictadores renunciaran."
+                     ],
+        "respuesta_correcta":  "La teorÃ­a del \u0027Foco Guerrillero\u0027 (Foquismo), que sostenÃ­a que un pequeÃ±o grupo armado actuando en las montaÃ±as podÃ­a crear las condiciones subjetivas necesarias para detonar una revoluciÃ³n campesina, sin tener que esperar a que el capitalismo madurara o que el partido comunista tradicional diera la orden.",
+        "explicacion_detallada":  "Sistematizada por el francÃ©s RÃ©gis Debray (\u0027RevoluciÃ³n en la RevoluciÃ³n\u0027) a partir de la experiencia del Che y Fidel Castro en la Sierra Maestra. El \u0027foquismo\u0027 rompÃ­a con la ortodoxia marxista soviÃ©tica (que decÃ­a que habÃ­a que esperar la etapa de industrializaciÃ³n o tener un partido comunista legal de masas). El Che demostrÃ³ que un \u0027foco\u0027 (vanguardia armada de pocos hombres valientes en zona rural) podÃ­a infligir derrotas al ejÃ©rcito, demostrar que la dictadura no era invencible, ganar el apoyo del campesinado y catalizar la revoluciÃ³n inmediata. Esta teorÃ­a llevÃ³ a miles de jÃ³venes a las montaÃ±as (Tupamaros, Montoneros, ELN) y al propio Che a su muerte en Bolivia (1967).",
+        "pasos_resolucion":  [
+                                 "AÃ±os 60-70 / RevoluciÃ³n Cubana / Che Guevara.",
+                                 "TeorÃ­a clave: El Foco Guerrillero (Foquismo).",
+                                 "Premisa: Un pequeÃ±o grupo armado (vanguardia) enciende la chispa que crea las condiciones revolucionarias, sin esperar a los partidos tradicionales."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=teoria+del+foco+guerrillero+che+guevara"
+    },
+    {
+        "id":  "cs_453_018",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "En la dÃ©cada de 1980 y 1990, los \u0027Nuevos Movimientos Sociales\u0027 en AmÃ©rica Latina (ecologistas, feministas, indÃ­genas, LGBTIQ+) modificaron la agenda polÃ­tica. A diferencia del clÃ¡sico movimiento obrero-sindical del siglo XX, Â¿quÃ© demandan fundamentalmente estos nuevos movimientos?",
+        "opciones":  [
+                         "Demandan el reconocimiento de sus identidades particulares (derechos culturales, corporales, territoriales y de gÃ©nero), luchando no solo contra la explotaciÃ³n econÃ³mica, sino tambiÃ©n contra la opresiÃ³n patriarcal, colonial y ecolÃ³gica.",
+                         "Demandan exclusivamente mejoras salariales, la reducciÃ³n de la jornada laboral a 8 horas y la nacionalizaciÃ³n de las fÃ¡bricas pesadas, ignorando por completo los problemas de discriminaciÃ³n racial o machismo.",
+                         "Demandan la imposiciÃ³n de una religiÃ³n estatal Ãºnica, rechazando la secularizaciÃ³n moderna y exigiendo que los dogmas religiosos regulen la moral pÃºblica de forma estricta e inquisitorial.",
+                         "Demandan el retorno de AmÃ©rica Latina a su estatus de colonia de la Corona EspaÃ±ola, exigiendo que reyes europeos nombren directamente a los alcaldes y gobernadores locales para frenar la corrupciÃ³n."
+                     ],
+        "respuesta_correcta":  "Demandan el reconocimiento de sus identidades particulares (derechos culturales, corporales, territoriales y de gÃ©nero), luchando no solo contra la explotaciÃ³n econÃ³mica, sino tambiÃ©n contra la opresiÃ³n patriarcal, colonial y ecolÃ³gica.",
+        "explicacion_detallada":  "El viejo paradigma marxista-sindicalista reducÃ­a toda la lucha social al conflicto capital vs. trabajo (clase obrera vs. burguesÃ­a), considerando el machismo o el racismo como problemas secundarios que se resolverÃ­an solos al instaurar el socialismo. Los Nuevos Movimientos Sociales (NMS) critican este reduccionismo (lucha por el \u0027reconocimiento\u0027, no solo \u0027redistribuciÃ³n\u0027 - Nancy Fraser). Demuestran que la opresiÃ³n es interseccional: el Estado oprime a la mujer por su gÃ©nero (patriarcado), al indÃ­gena por su raza/cultura (colonialidad) y a la naturaleza por extractivismo.",
+        "pasos_resolucion":  [
+                                 "Nuevos Movimientos Sociales (fines s. XX): Feminismo, ecologismo, indigenismo.",
+                                 "Diferencia: Pasan de la demanda puramente clasista (sindicato/salario) a demandas identitarias, culturales y de reconocimiento.",
+                                 "La lucha es interseccional (patriarcado, colonialidad, extractivismo)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=nuevos+movimientos+sociales+america+latina+identidad"
+    },
+    {
+        "id":  "cs_453_019",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "El concepto de \u0027Patria Grande\u0027 ha recorrido la historia latinoamericana desde las guerras de independencia. Â¿En quÃ© ideas polÃ­ticas y geogrÃ¡ficas se fundamenta este ideal de integraciÃ³n promovido por figuras como San MartÃ­n o BolÃ­var?",
+        "opciones":  [
+                         "En la concepciÃ³n de que HispanoamÃ©rica (y en algunos casos IberoamÃ©rica entera) constituye una sola gran naciÃ³n histÃ³rica fragmentada artificialmente por la colonia y las oligarquÃ­as locales, por lo que su destino natural es la integraciÃ³n polÃ­tica o econÃ³mica (uniÃ³n aduanera, confederaciÃ³n) para sobrevivir frente a potencias extranjeras.",
+                         "En la idea de que Brasil (por su tamaÃ±o y grandeza geogrÃ¡fica) debe conquistar militarmente a todos los paÃ­ses hispanohablantes del continente y obligarlos a adoptar el portuguÃ©s como Ãºnico idioma oficial.",
+                         "En el plan geopolÃ­tico diseÃ±ado por el Imperio BritÃ¡nico en el siglo XIX para unificar administrativamente sus colonias del Caribe y del AtlÃ¡ntico Sur bajo un solo virreinato controlado desde Londres.",
+                         "En la creencia mÃ­stica de que el continente americano se unificarÃ¡ geolÃ³gicamente con Europa debido al movimiento de las placas tectÃ³nicas, creando una sÃºper masa continental indestructible."
+                     ],
+        "respuesta_correcta":  "En la concepciÃ³n de que HispanoamÃ©rica (y en algunos casos IberoamÃ©rica entera) constituye una sola gran naciÃ³n histÃ³rica fragmentada artificialmente por la colonia y las oligarquÃ­as locales, por lo que su destino natural es la integraciÃ³n polÃ­tica o econÃ³mica (uniÃ³n aduanera, confederaciÃ³n) para sobrevivir frente a potencias extranjeras.",
+        "explicacion_detallada":  "La \u0027Patria Grande\u0027 es el sueÃ±o de la balcanizaciÃ³n revertida. BolÃ­var intentÃ³ plasmarlo en la Gran Colombia (Ecuador, Colombia, Venezuela, PanamÃ¡) y en el Congreso AnfictiÃ³nico de PanamÃ¡ (1826) buscando una confederaciÃ³n continental. Pensadores como Manuel Ugarte (que popularizÃ³ el tÃ©rmino en los aÃ±os 20) o JosÃ© Vasconcelos sostienen que frente a la fragmentaciÃ³n balcÃ¡nica de pequeÃ±as repÃºblicas dÃ©biles, la Ãºnica forma de que L.A. negocie soberanamente en el mundo y resista el imperialismo es actuar como un bloque o uniÃ³n confederada (proyecto que resurgirÃ­a en el siglo XXI con iniciativas como UNASUR o CELAC).",
+        "pasos_resolucion":  [
+                                 "Concepto: Patria Grande (BolÃ­var, San MartÃ­n, Manuel Ugarte).",
+                                 "Fundamento: HispanoamÃ©rica es una sola naciÃ³n artificialmente dividida.",
+                                 "Objetivo: IntegraciÃ³n polÃ­tica/econÃ³mica continental para resistir el imperialismo y ganar peso geopolÃ­tico global."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=patria+grande+simon+bolivar+integracion+latinoamericana"
+    },
+    {
+        "id":  "cs_453_020",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.5.3",
+        "tituloSubtema":  "Identidad latinoamericana (siglos XIX y XX).",
+        "enunciado":  "En la dÃ©cada de 1970, la identidad polÃ­tica de AmÃ©rica Latina fue marcada a sangre y fuego por una serie de dictaduras militares en el Cono Sur (Argentina, Chile, Uruguay) que actuaron coordinadamente. Â¿Bajo quÃ© doctrina militar y de seguridad operaron sistemÃ¡ticamente estas dictaduras?",
+        "opciones":  [
+                         "La \u0027Doctrina de Seguridad Nacional\u0027, impulsada en el contexto de la Guerra FrÃ­a e instruida en la Escuela de las AmÃ©ricas, que identificaba al enemigo principal no en ejÃ©rcitos extranjeros, sino en el \u0027enemigo interno\u0027 (marxistas, sindicalistas, estudiantes) que debÃ­a ser aniquilado mediante terrorismo de Estado (Plan CÃ³ndor).",
+                         "La doctrina de la \u0027Neutralidad Activa\u0027, que proponÃ­a que los ejÃ©rcitos latinoamericanos se desarmaran y participaran exclusivamente como Cascos Azules en misiones de paz de la ONU en Ãfrica, prohibiendo la intervenciÃ³n en polÃ­tica local.",
+                         "La doctrina del \u0027Socialismo Nacional\u0027, que buscaba estatizar toda la economÃ­a bajo el mando de los altos generales para competir con la UniÃ³n SoviÃ©tica en la carrera espacial, eliminando toda propiedad privada.",
+                         "La doctrina del \u0027Panamericanismo PacÃ­fico\u0027, que promovÃ­a el intercambio de cadetes militares entre Estados Unidos y AmÃ©rica Latina para enseÃ±arles danza folclÃ³rica y artes plÃ¡sticas, fomentando la hermandad continental."
+                     ],
+        "respuesta_correcta":  "La \u0027Doctrina de Seguridad Nacional\u0027, impulsada en el contexto de la Guerra FrÃ­a e instruida en la Escuela de las AmÃ©ricas, que identificaba al enemigo principal no en ejÃ©rcitos extranjeros, sino en el \u0027enemigo interno\u0027 (marxistas, sindicalistas, estudiantes) que debÃ­a ser aniquilado mediante terrorismo de Estado (Plan CÃ³ndor).",
+        "explicacion_detallada":  "Las dictaduras de los 70 (Videla, Pinochet, Bordaberry, etc.) no fueron simples tiranÃ­as tradicionales. RespondÃ­an a una guerra ideolÃ³gica global. La Doctrina de Seguridad Nacional (enseÃ±ada por militares de EE.UU. a oficiales latinoamericanos en PanamÃ¡) dictaba que las fronteras ya no eran geogrÃ¡ficas, sino ideolÃ³gicas. El \u0027enemigo interno\u0027 (el comunismo, la subversiÃ³n) estaba infiltrado en la sociedad civil. Esto justificÃ³ el terrorismo de Estado sistemÃ¡tico (centros clandestinos de detenciÃ³n, desapariciÃ³n forzada, tortura) y la coordinaciÃ³n represiva transnacional (Plan CÃ³ndor) para exterminar a la disidencia, moldeando una herida generacional y los movimientos de Derechos Humanos (Madres de Plaza de Mayo).",
+        "pasos_resolucion":  [
+                                 "Contexto: Dictaduras del Cono Sur (aÃ±os 70), Guerra FrÃ­a.",
+                                 "Doctrina militar: Doctrina de Seguridad Nacional (DSN).",
+                                 "CaracterÃ­sticas clave: El \u0027Enemigo Interno\u0027 (subversiÃ³n), Escuela de las AmÃ©ricas, terrorismo de Estado, Plan CÃ³ndor."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=doctrina+de+seguridad+nacional+plan+condor+dictaduras+america+latina"
+    }
+]

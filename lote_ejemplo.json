@@ -1,0 +1,91 @@
+[
+  {
+    "id": "cn_real_001",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.1",
+    "tituloSubtema": "Origen y evolución de la vida.",
+    "enunciado": "En el estudio de la evolución biológica y el origen del ser humano, el fósil conocido como 'Lucy' (Australopithecus afarensis), descubierto en 1974, fue fundamental para confirmar qué característica evolutiva de la hominización temprana:",
+    "es_opciones_imagen": false,
+    "opciones": [
+      "El desarrollo del bipedalismo antes que el aumento significativo de la capacidad craneal.",
+      "El uso extendido de herramientas de piedra tallada para la caza.",
+      "La primera migración de homínidos fuera del continente africano.",
+      "El dominio del fuego para la cocción de alimentos."
+    ],
+    "respuesta_correcta": "El desarrollo del bipedalismo antes que el aumento significativo de la capacidad craneal.",
+    "explicacion_detallada": "El esqueleto de Lucy demostró que caminaba erguida (bipedalismo) por la forma de su pelvis, a pesar de tener un cerebro pequeño (similar al de un chimpancé). Esto refutó la teoría de que el cerebro grande precedió al bipedalismo en el origen de los homínidos.",
+    "pasos_resolucion": [
+      "Identificar el fósil 'Lucy' (A. afarensis).",
+      "Recordar las características clave: pelvis adaptada para caminar, cráneo pequeño.",
+      "Concluir que el bipedalismo fue el primer gran rasgo de nuestra evolución."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=australopithecus+lucy+evolucion"
+  },
+  {
+    "id": "cn_real_002",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.3.1",
+    "tituloSubtema": "Sistemas digestivo, excretor, circulatorio, respiratorio, nervioso, endócrino, osteoartromuscular, inmunológico.",
+    "enunciado": "Dentro del sistema circulatorio humano, ¿cuál es la estructura anatómica específica responsable de marcar el ritmo eléctrico basal que inicia la contracción del músculo cardíaco (miocardio)?",
+    "es_opciones_imagen": false,
+    "opciones": [
+      "El nódulo sinoauricular (marcapasos natural).",
+      "El nódulo auriculoventricular.",
+      "El haz de His.",
+      "Las fibras de Purkinje."
+    ],
+    "respuesta_correcta": "El nódulo sinoauricular (marcapasos natural).",
+    "explicacion_detallada": "El nódulo sinoauricular, ubicado en la aurícula derecha, es conocido como el marcapasos natural del corazón porque genera espontáneamente los impulsos eléctricos que inician la contracción circulatoria.",
+    "pasos_resolucion": [
+      "Recordar la anatomía del sistema de conducción eléctrica del corazón.",
+      "Identificar que el impulso inicia en la parte superior (aurícula derecha).",
+      "Seleccionar el nódulo sinoauricular como el generador primario del ritmo."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=sistema+circulatorio+nodulo+sinoauricular"
+  },
+  {
+    "id": "cs_real_001",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.1.2",
+    "tituloSubtema": "Primeras producciones del ser humano.",
+    "enunciado": "Durante la Revolución Neolítica, una de las primeras y más trascendentales producciones del ser humano fue la domesticación de plantas y animales. ¿Qué consecuencia social directa tuvo este desarrollo agrícola en las primeras comunidades?",
+    "es_opciones_imagen": false,
+    "opciones": [
+      "La transición del nomadismo al sedentarismo y la aparición de los primeros asentamientos permanentes.",
+      "La invención inmediata de la escritura cuneiforme para registrar la historia de los cazadores-recolectores.",
+      "El abandono total de la caza como método de subsistencia secundaria.",
+      "La instauración de imperios intercontinentales basados en el uso del hierro."
+    ],
+    "respuesta_correcta": "La transición del nomadismo al sedentarismo y la aparición de los primeros asentamientos permanentes.",
+    "explicacion_detallada": "La domesticación de especies agrícolas (producción de alimentos) permitió a los humanos establecerse en un solo lugar de manera permanente (sedentarismo), dejando atrás la necesidad de migrar constantemente en busca de recursos (nomadismo).",
+    "pasos_resolucion": [
+      "Identificar 'Revolución Neolítica' y 'domesticación'.",
+      "Analizar el impacto social de no tener que perseguir manadas (caza).",
+      "Concluir que la principal consecuencia fue el sedentarismo (asentamientos)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=revolucion+neolitica+sedentarismo"
+  },
+  {
+    "id": "cn_real_003",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.5.1",
+    "tituloSubtema": "Las reacciones químicas y sus ecuaciones.",
+    "enunciado": "Dada la ecuación química no balanceada de la combustión del metano: CH4 + O2 → CO2 + H2O. ¿Cuáles son los coeficientes estequiométricos mínimos enteros requeridos para balancear correctamente esta reacción?",
+    "es_opciones_imagen": false,
+    "opciones": [
+      "1, 2, 1, 2",
+      "2, 3, 2, 4",
+      "1, 1, 1, 2",
+      "2, 4, 2, 2"
+    ],
+    "respuesta_correcta": "1, 2, 1, 2",
+    "explicacion_detallada": "Para balancear la ecuación, se iguala el número de átomos de cada elemento a ambos lados. Reactivos: 1 C, 4 H. Productos: 1 C (en CO2) y 2 H (en H2O). Para igualar hidrógenos, se necesita un coeficiente 2 frente al H2O. Ahora los productos tienen 4 oxígenos (2 del CO2 + 2 del H2O). Para igualar oxígenos, se necesita un coeficiente 2 frente al O2 en los reactivos. La ecuación final es: 1 CH4 + 2 O2 → 1 CO2 + 2 H2O.",
+    "pasos_resolucion": [
+      "Balancear C: 1 CH4 -> 1 CO2 (Carbonos listos).",
+      "Balancear H: 1 CH4 (4H) -> 2 H2O (4H).",
+      "Contar O en productos: 2 (CO2) + 2 (H2O) = 4 oxígenos.",
+      "Balancear O en reactivos: 2 O2 (4 oxígenos). Resultado: 1, 2, 1, 2."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=balanceo+reacciones+quimicas+combustion"
+  }
+]

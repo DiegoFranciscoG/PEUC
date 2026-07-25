@@ -1,0 +1,405 @@
+[
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "La organización socio-política de la Grecia Arcaica (s. VIII-VI a.C.) estuvo marcada por la transición de sociedades lideradas por basileis a la consolidación de la polis. ¿Qué factor fundamental catalizó esta transformación estructural y permitió el surgimiento del modelo hoplítico como base ciudadana?",
+    "opciones": [
+      "La presión demográfica (sthenochoria) y la consecuente expansión colonial, que reconfiguró la distribución de la riqueza y el poder militar al exigir una mayor participación ciudadana en la defensa",
+      "La introducción del sistema democrático por Clístenes, que abolió los privilegios de la aristocracia eupátrida e instituyó la isonomía para todos los habitantes del Ática",
+      "La adopción del alfabeto fenicio, que democratizó el acceso al conocimiento esotérico y permitió a la clase campesina codificar sus propias leyes contra el monopolio de la nobleza",
+      "La unificación de las ciudades-estado bajo una liga panhelénica liderada por Esparta para enfrentar las invasiones persas tempranas, creando un ejército permanente"
+    ],
+    "respuesta_correcta": "La presión demográfica (sthenochoria) y la consecuente expansión colonial, que reconfiguró la distribución de la riqueza y el poder militar al exigir una mayor participación ciudadana en la defensa",
+    "explicacion_detallada": "Durante la época arcaica, la escasez de tierras (sthenochoria) impulsó la colonización (apoikia) y fomentó el crecimiento del comercio. Esto generó una nueva clase de ciudadanos con capacidad económica para adquirir armamento (la falange hoplítica). Al ser esenciales para la defensa, estos ciudadanos exigieron derechos políticos, socavando el monopolio del poder aristocrático basado exclusivamente en el linaje (basileis/eupátridas).",
+    "pasos_resolucion": [
+      "Identificar el periodo histórico señalado: Grecia Arcaica (s. VIII-VI a.C.).",
+      "Analizar las causas estructurales del cambio del poder de los reyes/aristócratas hacia la polis comunitaria.",
+      "Relacionar la sthenochoria (hambre de tierras), la colonización, la revolución hoplítica y la redistribución del poder político.",
+      "Descartar las reformas de Clístenes (son posteriores, época clásica) y la liga panhelénica (Guerras Médicas)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Grecia+Arcaica+surgimiento+de+la+polis+y+revolucion+hoplitica"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "En el contexto de las Guerras del Peloponeso (431-404 a.C.), el historiador Tucídides plantea el concepto de la 'trampa de Tucídides' para explicar el estallido del conflicto. Bajo este marco analítico estructural, ¿cuál fue la causa profunda o 'verdadera' de la guerra, independientemente de los pretextos diplomáticos inmediatos como los incidentes de Corcira o Potidea?",
+    "opciones": [
+      "El crecimiento incesante del poder imperial ateniense y el temor que este expansionismo hegemónico inspiró en Esparta y sus aliados de la Liga del Peloponeso",
+      "Las insalvables diferencias ideológicas entre el modelo de democracia radical de Atenas y la oligarquía militarista de Esparta",
+      "El control absoluto sobre las rutas comerciales del Mar Negro (Ponto Euxino) para garantizar el suministro de trigo para ambas superpotencias",
+      "La influencia desestabilizadora del Imperio Persa (Aqueménida), que financió a facciones rivales en ambas ciudades para debilitar el mundo helénico"
+    ],
+    "respuesta_correcta": "El crecimiento incesante del poder imperial ateniense y el temor que este expansionismo hegemónico inspiró en Esparta y sus aliados de la Liga del Peloponeso",
+    "explicacion_detallada": "Tucídides, en su 'Historia de la guerra del Peloponeso', distingue explícitamente entre las causas superficiales o detonantes (como los conflictos sobre Corcira) y la causa más profunda (la 'causa verísima'). Él afirma categóricamente que el verdadero motivo de la guerra fue el crecimiento del poder de Atenas (a través del Imperio ateniense o Liga de Delos) y el miedo (phobos) que esto infundió en Esparta, obligándoles a ir a la guerra preventivamente. Esto es el fundamento de lo que hoy se denomina en relaciones internacionales como la 'trampa de Tucídides'.",
+    "pasos_resolucion": [
+      "Recordar o identificar el enfoque historiográfico de Tucídides sobre la Guerra del Peloponeso.",
+      "Diferenciar entre las excusas diplomáticas y las causas subyacentes estructurales del conflicto.",
+      "Identificar la teoría tucidídea del poder y el miedo: hegemonía ateniense vs. temor espartano.",
+      "Descartar causas meramente comerciales, ideológicas o externas como determinantes principales según Tucídides."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Tucidides+y+las+causas+de+la+Guerra+del+Peloponeso"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "El sistema político-social espartano clásico (siglos V y IV a.C.) se estructuraba en torno a la 'Gran Rhetra', atribuida legislativamente a Licurgo. Este corpus normativo instituyó un modelo de eunomía (buen orden) excepcionalmente rígido. ¿Qué elemento estructural caracterizaba este régimen que lo diferenciaba profundamente del modelo ateniense?",
+    "opciones": [
+      "Una organización constitucional mixta que combinaba diarquía monárquica (dos reyes), gerousía (consejo de ancianos oligárquico), asamblea ciudadana (apella) y eforado, sostenida económicamente por la explotación de los hilotas",
+      "Un gobierno de tiranos hereditarios que mantenían el control absoluto sobre la población perieca mediante el monopolio del comercio internacional del hierro y el trigo",
+      "La implementación temprana de una democracia censitaria donde solo los poseedores de tierras en el valle del Eurotas podían votar en la Boulé",
+      "Un estado teocrático gobernado directamente por las sacerdotisas del oráculo de Delfos, cuyas profecías dictaban toda política exterior e interior"
+    ],
+    "respuesta_correcta": "Una organización constitucional mixta que combinaba diarquía monárquica (dos reyes), gerousía (consejo de ancianos oligárquico), asamblea ciudadana (apella) y eforado, sostenida económicamente por la explotación de los hilotas",
+    "explicacion_detallada": "El sistema espartano, establecido teóricamente por la 'Gran Rhetra', era admirado en la antigüedad como una constitución mixta: la monarquía (los dos reyes), la oligarquía (la Gerousía de ancianos de más de 60 años) y elementos de magistratura elegida (los cinco éforos) y democracia limitada (la asamblea de ciudadanos o Apella). Toda esta estructura política de 'Homoioi' (los iguales) estaba sostenida en lo material por un sistema brutal de servidumbre estatal (los hilotas).",
+    "pasos_resolucion": [
+      "Revisar la estructura política del estado espartano en su época clásica.",
+      "Identificar las instituciones clave: Diarquía, Gerousía, Apella y Éforos.",
+      "Reconocer el estrato socioeconómico base que permitía a los espartíatas dedicarse al adiestramiento militar (la explotación hilota).",
+      "Descartar modelos ajenos a Esparta como la democracia censitaria, la tiranía hereditaria y la teocracia."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Estructura+politica+y+social+de+Esparta+Licurgo"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "Las reformas institucionales de Clístenes (508 a.C.) se consideran la base fundacional de la democracia ateniense clásica. Una de sus medidas más disruptivas fue la reorganización de las tribus. ¿Cuál fue el propósito político fundamental detrás de la creación de diez nuevas tribus artificiales, compuestas por tritias geográficamente dispersas?",
+    "opciones": [
+      "Romper las lealtades de parentesco locales y los antiguos bloques de poder de la aristocracia, forzando la integración sociopolítica de ciudadanos del litoral, la llanura interior y la ciudad",
+      "Facilitar el reclutamiento de mercenarios tracios mediante la creación de cuotas regionales fijas que permitieron la rápida expansión del Imperio marítimo ateniense",
+      "Restaurar los privilegios económicos de los eupátridas (nobles) garantizándoles la presidencia permanente del Areópago por sobre las decisiones de la Asamblea popular",
+      "Implementar un sistema de recaudación de impuestos más agresivo (eisphora) que gravaba exclusivamente a los metecos y eximía a los ciudadanos atenienses originarios"
+    ],
+    "respuesta_correcta": "Romper las lealtades de parentesco locales y los antiguos bloques de poder de la aristocracia, forzando la integración sociopolítica de ciudadanos del litoral, la llanura interior y la ciudad",
+    "explicacion_detallada": "Clístenes disolvió las antiguas cuatro tribus jónicas tradicionales basadas en lazos de sangre que daban poder a la aristocracia eupátrida. En su lugar, creó diez tribus nuevas. Para formarlas, dividió el Ática en tres zonas (ciudad, costa, interior) y asignó un distrito (tritia) de cada zona a cada tribu. Así, cada tribu era un microcosmos del Ática entera, rompiendo los localismos y obligando a los ciudadanos de diferentes regiones y estatus a cooperar políticamente en la Boulé y el ejército, sentando las bases de la isonomía.",
+    "pasos_resolucion": [
+      "Identificar las reformas de Clístenes en el 508 a.C. y el concepto de isonomía.",
+      "Analizar el mecanismo de la nueva organización tribal (10 tribus, formadas por 3 tritias de zonas distintas: asty, paralia, mesogea).",
+      "Determinar el efecto de esta reforma sociopolítica: desarticular el poder tradicional de los nobles regionales.",
+      "Descartar respuestas sobre impuestos, mercenarios o reinstauración de privilegios aristocráticos (lo contrario a la democracia)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Reformas+de+Clistenes+y+la+democracia+ateniense"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "La filosofía presocrática (siglos VI-V a.C.), surgida en Jonia, marca un hito epistemológico en el pensamiento occidental, conocido como el paso del mito al logos. ¿Cuál fue la característica central de la indagación filosófica jónica, personificada en figuras como Tales, Anaximandro y Heráclito?",
+    "opciones": [
+      "La búsqueda de un principio material único y racional (arkhé) subyacente a toda la diversidad y cambio de la physis, empleando la observación y la deducción naturalista",
+      "La codificación sistemática de los mitos homéricos y hesiódicos para establecer una teología dogmática que justificara el poder de los tiranos griegos",
+      "El rechazo absoluto del mundo sensible y la creencia de que únicamente la revelación mística de los oráculos permitía alcanzar el mundo de las formas inmutables",
+      "La creación de un cuerpo de derecho civil universal, independiente de las costumbres locales, aplicable a todos los ciudadanos panhelénicos mediante el debate sofístico"
+    ],
+    "respuesta_correcta": "La búsqueda de un principio material único y racional (arkhé) subyacente a toda la diversidad y cambio de la physis, empleando la observación y la deducción naturalista",
+    "explicacion_detallada": "Los filósofos presocráticos (especialmente los milesios o jonios) fueron los primeros en intentar explicar el universo (physis o naturaleza) sin recurrir a la intervención divina caprichosa. Buscaban el 'arkhé' (el principio originario, elemento básico o causa primera), usando la razón (logos). Tales proponía el agua, Anaximandro el apeiron, Anaxímenes el aire, etc. Esto marca el origen del pensamiento racional y científico en Occidente.",
+    "pasos_resolucion": [
+      "Definir qué es el paso del mito al logos en la filosofía antigua.",
+      "Identificar el objeto de estudio de los presocráticos jonios (Tales, Anaximandro).",
+      "Reconocer el concepto de 'arkhé' (principio único de la naturaleza o physis).",
+      "Descartar la teología mitológica, el rechazo platónico de los sentidos y la creación de códigos civiles abstractos."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Filosofia+presocratica+paso+del+mito+al+logos+arkhe"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "La economía de la Grecia Clásica dependía estructuralmente del modelo de la oikos (unidad doméstica) y del comercio marítimo interregional. Sin embargo, ¿cuál fue la precondición demográfico-institucional que permitió la vitalidad económica y cultural ateniense, así como la participación plena de sus ciudadanos en la política radical?",
+    "opciones": [
+      "La presencia masiva de trabajo esclavo, que liberaba a los ciudadanos (polites) del trabajo manual productivo, otorgándoles el ocio (skholé) necesario para los asuntos públicos y militares",
+      "El descubrimiento de la tecnología de fundición de acero a nivel industrial en el Ática, que permitió a Atenas dominar los mercados metalúrgicos del Mediterráneo oriental",
+      "La importación de oro persa a través de tratados comerciales pacíficos que subsidiaban completamente las obras públicas atenienses y el sistema de bienestar de Pericles",
+      "La abolición total de la propiedad privada y la distribución igualitaria de las tierras agrícolas e instrumentos de trabajo entre todas las clases sociales, incluyendo mujeres y metecos"
+    ],
+    "respuesta_correcta": "La presencia masiva de trabajo esclavo, que liberaba a los ciudadanos (polites) del trabajo manual productivo, otorgándoles el ocio (skholé) necesario para los asuntos públicos y militares",
+    "explicacion_detallada": "La democracia directa ateniense y la explosión cultural de la época clásica estaban indisolublemente ligadas a una economía esclavista masiva. Los esclavos, considerandos 'herramientas animadas', se ocupaban de la agricultura, la artesanía y las minas (como Laurión), lo que proporcionaba a los ciudadanos libres varones el tiempo (skholé, ocio) para participar en la Asamblea (Ekklesía), los tribunales (Heliaia) y el ejército, sin preocuparse por la subsistencia diaria.",
+    "pasos_resolucion": [
+      "Analizar las bases socioeconómicas de la polis clásica, particularmente Atenas.",
+      "Evaluar cómo los ciudadanos podían permitirse pasar gran parte de su tiempo en asambleas, jurados y teatro.",
+      "Identificar la esclavitud masiva como la base productiva invisible que sostenía la democracia participativa de los libres.",
+      "Descartar anacronismos como acero industrial, subsidios persas masivos o proto-comunismo igualitario."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Economia+esclavista+y+democracia+en+la+Atenas+clasica"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "Durante la hegemonía macedónica bajo Alejandro Magno (336-323 a.C.), se inauguró el período Helenístico. La política cultural y administrativa de Alejandro en los territorios conquistados del Imperio Aqueménida se caracterizó, inicialmente, por un enfoque altamente pragmático. ¿Cuál de las siguientes acciones refleja mejor su política de integración euroasiática?",
+    "opciones": [
+      "La fusión de las élites grecomacedónicas con las élites nobles persas a través de matrimonios mixtos masivos (Bodas de Susa) y la incorporación de tropas orientales ('epígonos') al ejército macedónico",
+      "La imposición violenta de la democracia ateniense en todas las satrapías asiáticas, obligando a los persas a abolir su aristocracia y establecer asambleas populares estilo helénico",
+      "La destrucción total de todas las infraestructuras religiosas, persas y egipcias (incluyendo los templos zoroastrianos), para imponer obligatoriamente el culto exclusivo a Zeus Olímpico",
+      "La prohibición absoluta para que los griegos y macedonios colonizaran Oriente Medio, restringiéndolos geográficamente a Europa para mantener la pureza racial helénica"
+    ],
+    "respuesta_correcta": "La fusión de las élites grecomacedónicas con las élites nobles persas a través de matrimonios mixtos masivos (Bodas de Susa) y la incorporación de tropas orientales ('epígonos') al ejército macedónico",
+    "explicacion_detallada": "Alejandro Magno impulsó una política de asimilación cultural y política. Promovió la integración entre vencedores y vencidos. Ejemplos prominentes son las Bodas de Susa (donde miles de soldados macedonios, incluido él mismo, se casaron con mujeres persas nobles), la adopción parcial de costumbres de la corte aqueménida (la proskynesis), el uso de administradores locales persas como sátrapas y el entrenamiento de jóvenes orientales (los 'epígonos') al estilo militar macedónico. Esta fusión buscaba estabilizar su inmenso imperio mestizo.",
+    "pasos_resolucion": [
+      "Identificar la época histórica: expansión macedónica de Alejandro Magno y transición al mundo helenístico.",
+      "Analizar las estrategias de Alejandro para gobernar un imperio inmenso de población mayormente no griega.",
+      "Reconocer las políticas de fusión cultural, matrimonial y militar (Bodas de Susa, epígonos).",
+      "Descartar la imposición de democracia (Alejandro era rey), la intolerancia religiosa (Alejandro se sincretizó, ej. Amón en Egipto) o el segregacionismo racial."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Alejandro+Magno+politica+de+fusion+cultural+Bodas+de+Susa"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "La Pentecontecia (aprox. 479-431 a.C.) es el periodo de medio siglo entre el fin de las Guerras Médicas y el inicio de la Guerra del Peloponeso, caracterizado por el auge del Imperio Ateniense. ¿A través de qué mecanismo institucional transformó Atenas su liderazgo de la Liga de Delos en una dominación imperial hegemónica?",
+    "opciones": [
+      "La exigencia progresiva de tributos monetarios (phoros) en lugar de contribuciones en naves, seguida del traslado del tesoro aliado de Delos a Atenas y la represión militar de cualquier polis que intentara abandonar la liga",
+      "La creación de una confederación comercial igualitaria donde el Consejo de Delos operaba con derecho a veto para todas las polis insulares, compartiendo equitativamente las riquezas confiscadas al Imperio Persa",
+      "La renuncia voluntaria al control del mar Egeo en favor de Esparta a cambio de mantener una supremacía exclusivamente terrestre en la Grecia continental central",
+      "El desmantelamiento de su flota de trirremes tras la Paz de Calias, dedicando todos los recursos a subsidiar a los agricultores pobres del Ática bajo un modelo de aislacionismo político"
+    ],
+    "respuesta_correcta": "La exigencia progresiva de tributos monetarios (phoros) en lugar de contribuciones en naves, seguida del traslado del tesoro aliado de Delos a Atenas y la represión militar de cualquier polis que intentara abandonar la liga",
+    "explicacion_detallada": "La Liga de Delos comenzó como una alianza naval voluntaria para defenderse de Persia, pero Atenas lentamente la convirtió en un imperio (arkhé). Obligó a sus aliados a pagar un tributo anual (phoros) en plata en vez de aportar barcos, dejándolos desarmados. En el 454 a.C., Pericles trasladó el tesoro de Delos a Atenas para financiar obras públicas atenienses (como el Partenón). Si alguna polis intentaba salirse (ej. Naxos, Tasos, Samos), Atenas usaba su poderosa flota para someterlos, establecer cleruquías y forzarlos a permanecer como súbditos.",
+    "pasos_resolucion": [
+      "Definir la Pentecontecia y la naturaleza de la Liga de Delos.",
+      "Identificar cómo evolucionó de alianza defensiva panhelénica a Imperio Ateniense (Arkhé).",
+      "Reconocer mecanismos de imperialismo: tributo obligatorio (phoros), monopolio naval ateniense, traslado del tesoro y coerción militar contra rebeldes.",
+      "Descartar enfoques igualitarios, control espartano (fueron rivales) o desmilitarización."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Imperio+Ateniense+Liga+de+Delos+Pentecontecia"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "En la tragedia griega, especialmente en las obras de Esquilo, Sófocles y Eurípides, se desarrolla un conflicto constante entre el individuo y las fuerzas que lo superan. Dentro del análisis estructural de estas obras, conceptos como la hamartia y la hybris juegan roles fundamentales. ¿Cómo operan filosóficamente estos conceptos en la caída del héroe trágico?",
+    "opciones": [
+      "La 'hybris' representa el exceso de orgullo o desmesura humana al desafiar los límites impuestos por los dioses, lo que conduce inexorablemente a la 'hamartia', un error fatal de juicio que provoca el castigo divino (némesis) y la ruina del héroe",
+      "La 'hamartia' es la virtud moral innata concedida por los dioses al protagonista, la cual es corrompida lentamente por la 'hybris', entendida como el destino ciego y azaroso incontrolable por los mortales",
+      "Ambos conceptos denotan la sumisión voluntaria y pasiva del individuo a la autoridad de los reyes micénicos, siendo la tragedia un mero instrumento de propaganda para justificar el absolutismo monárquico frente a la democracia",
+      "La 'hybris' es la purificación emocional del público que observa el drama, mientras que la 'hamartia' se refiere a la recompensa material otorgada por Atenea a los héroes que vencen monstruos irracionales"
+    ],
+    "respuesta_correcta": "La 'hybris' representa el exceso de orgullo o desmesura humana al desafiar los límites impuestos por los dioses, lo que conduce inexorablemente a la 'hamartia', un error fatal de juicio que provoca el castigo divino (némesis) y la ruina del héroe",
+    "explicacion_detallada": "En la poética y la filosofía griegas (analizada por Aristóteles), el héroe trágico no suele caer por ser puramente malvado, sino por una falencia. La 'hybris' es la soberbia, el orgullo o la desmesura; cruzar los límites mortales y creerse igual o superior a los dioses. Esta actitud arrogante nubla el juicio, llevando al héroe a cometer un 'hamartia', un error trágico de cálculo o de acción (como el de Edipo o Creonte), que finalmente desencadena la ira divina o el castigo restaurador del orden cósmico (némesis o tisis).",
+    "pasos_resolucion": [
+      "Definir los términos griegos de la tragedia antigua: hybris, hamartia, némesis, catarsis.",
+      "Relacionar la 'hybris' con el concepto de desmesura u orgullo arrogante (orgullo trágico).",
+      "Relacionar la 'hamartia' con el concepto de error de juicio o falla fatal.",
+      "Identificar que el orgullo provoca el error, llevando a la caída y sufrimiento del protagonista.",
+      "Descartar definiciones erróneas que confunden hybris con catarsis o hamartia con destino."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Tragedia+griega+conceptos+hybris+hamartia+catarsis"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "El paso de la época oscura a la Grecia arcaica involucró un fenómeno conocido como sinecismo (synoikismós). Desde una perspectiva jurídico-política y urbanística, ¿en qué consistió fundamentalmente este proceso constitutivo de la polis?",
+    "opciones": [
+      "En la amalgama jurídica, administrativa y a menudo física de varias aldeas dispersas (komai) y asentamientos menores en una única comunidad política soberana, con un centro cívico central que albergaba el ágora y las instituciones de gobierno común",
+      "En la expansión violenta mediante la cual una ciudad esclavizaba a todas las poblaciones vecinas, convirtiéndolas en periecos o ilotas y despojándolas permanentemente de todo derecho a la propiedad de la tierra",
+      "En el abandono masivo de los centros urbanos fortificados micénicos para regresar a un sistema de vida estrictamente nómada y de recolección en los valles montañosos de la Hélade",
+      "En la adopción unánime y dogmática de una misma moneda de plata panhelénica que forzó a todos los reinos a someterse al control de los banqueros de los santuarios de Delfos y Olimpia"
+    ],
+    "respuesta_correcta": "En la amalgama jurídica, administrativa y a menudo física de varias aldeas dispersas (komai) y asentamientos menores en una única comunidad política soberana, con un centro cívico central que albergaba el ágora y las instituciones de gobierno común",
+    "explicacion_detallada": "El sinecismo (synoikismós, literalmente 'co-habitación') es el proceso histórico por el cual aldeas separadas (komai) y pequeños asentamientos rurales acordaban unirse bajo un mismo aparato estatal o ciudad principal, perdiendo su independencia política local en favor de una polis centralizada unificada, como ocurrió en el Ática bajo el mito de Teseo centralizando el poder en Atenas. Esto implicaba la creación de un centro político (asty) con asamblea, templo principal y leyes comunes, aunque la gente pudiera seguir viviendo físicamente en el campo (chora).",
+    "pasos_resolucion": [
+      "Definir el término histórico 'sinecismo' (synoikismós).",
+      "Identificar sus raíces etimológicas (syn = con/junto, oikos = casa/asentamiento).",
+      "Reconocer que es el proceso de unificación política de aldeas (komai) para formar el núcleo del estado-ciudad (polis).",
+      "Descartar concepciones de esclavización externa, nomadismo post-micénico o uniones puramente monetarias a nivel panhelénico."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Surgimiento+de+la+polis+griega+el+sinecismo"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "La colonización griega (apoikia) desarrollada entre los siglos VIII y VI a.C. a lo largo del Mediterráneo y el Mar Negro difiere radicalmente del colonialismo europeo moderno de los siglos XIX y XX. ¿Cuál es la principal diferencia jurídico-política entre la metrópoli (ciudad madre) griega y su colonia?",
+    "opciones": [
+      "La apoikia griega se constituía desde su fundación como una polis soberana e independiente, con sus propias institutions y leyes, unida a la metrópoli únicamente por lazos religiosos, culturales y afectivos, sin subordinación política ni tributaria",
+      "La colonia griega funcionaba como una factoría puramente militar y de extracción de materias primas, gobernada directamente por procónsules enviados por la metrópoli y obligada a pagar tributos anuales en especie",
+      "La metrópoli griega mantenía un monopolio comercial absoluto sobre su colonia, impidiéndole comerciar libremente con fenicios, etruscos u otras polis bajo pena de aniquilación naval",
+      "Las colonias griegas no eran asentamientos permanentes, sino meros puestos de avanzada temporales habitados estacionalmente por piratas y exiliados (clerucos) que no poseían derechos de ciudadanía"
+    ],
+    "respuesta_correcta": "La apoikia griega se constituía desde su fundación como una polis soberana e independiente, con sus propias institutions y leyes, unida a la metrópoli únicamente por lazos religiosos, culturales y afectivos, sin subordinación política ni tributaria",
+    "explicacion_detallada": "A diferencia del imperialismo moderno, una 'apoikia' griega era una nueva ciudad-estado totalmente independiente. Quienes emigraban perdían la ciudadanía de su ciudad madre (metrópoli) y se convertían en ciudadanos de la nueva polis. Aunque conservaban los mismos dioses, dialecto y a menudo copiaban la constitución de la metrópoli, gozaban de plena autonomía política, diplomática y comercial. No pagaban tributos ni estaban sometidos jurídicamente a la ciudad que los fundó (excepto en el caso posterior y distinto de las cleruquías atenienses).",
+    "pasos_resolucion": [
+      "Distinguir entre diferentes tipos de colonialismo histórico.",
+      "Definir las características de la 'apoikia' griega arcaica.",
+      "Reconocer la independencia jurídica y soberanía de la nueva polis frente a su metrópoli.",
+      "Diferenciar la apoikia de instituciones posteriores más imperialistas como la cleruquía ateniense o los imperios modernos extractivos."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Colonizacion+griega+arcaica+apoikias+y+metropolis"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "La arquitectura monumental y el urbanismo griego reflejan la ideología de la polis. La transición urbana impulsada por figuras como Hipodamo de Mileto en el siglo V a.C. introdujo un nuevo paradigma de diseño de las ciudades helénicas, visible en la reconstrucción de Mileto y El Pireo. ¿Cuál fue el núcleo filosófico y práctico del plan hipodámico?",
+    "opciones": [
+      "El uso de una cuadrícula reticular estandarizada (trazado ortogonal) orientada a racionalizar el espacio urbano, facilitando la zonificación funcional, la igualdad cívica mediante lotes equitativos y un crecimiento ordenado",
+      "El desarrollo de enormes ciudadelas concéntricas amuralladas en espiral, centradas exclusivamente en un inmenso palacio monárquico fortificado diseñado para resistir asedios prolongados de los ejércitos persas",
+      "La adaptación orgánica y caótica a la topografía natural escarpada sin planificación previa, creyendo que la irregularidad laberíntica era una protección mágica conferida por el oráculo de Apolo",
+      "El diseño de calles circulares pavimentadas en oro y plata para honrar la riqueza de los santuarios panteístas, dejando los márgenes sin construir como zonas sagradas intangibles"
+    ],
+    "respuesta_correcta": "El uso de una cuadrícula reticular estandarizada (trazado ortogonal) orientada a racionalizar el espacio urbano, facilitando la zonificación funcional, la igualdad cívica mediante lotes equitativos y un crecimiento ordenado",
+    "explicacion_detallada": "Hipodamo de Mileto, un arquitecto, matemático y teórico político del siglo V a.C., es considerado el padre del urbanismo moderno. Ideó el 'plan hipodámico' u ortogonal, que consistía en trazar calles rectas que se cruzan en ángulos rectos, creando manzanas rectangulares uniformes. Este diseño geométrico no solo racionalizaba el espacio, la ventilación y el saneamiento, sino que también reflejaba las ideas democráticas de isonomía y orden geométrico aplicadas a la distribución de la tierra ciudadana.",
+    "pasos_resolucion": [
+      "Identificar quién fue Hipodamo de Mileto y su contribución a la arquitectura antigua.",
+      "Reconocer el 'plan hipodámico' como sinónimo de trazado en cuadrícula, reticular u ortogonal.",
+      "Relacionar la cuadrícula matemática con el concepto de orden, racionalidad (logos) y equidad cívica de la polis democrática.",
+      "Descartar opciones de urbanismo orgánico-medieval, urbanismo concéntrico absolutista o misticismo arquitectónico irracional."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Urbanismo+griego+y+el+plan+hipodamico"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "El pensamiento político platónico, expuesto en 'La República', critica duramente a la democracia ateniense de su tiempo, considerándola un régimen defectuoso que inevitablemente degenera en tiranía. ¿Cuál es el argumento epistemológico central por el cual Platón descalifica a la democracia como sistema de gobierno?",
+    "opciones": [
+      "La democracia asume falazmente que todos los ciudadanos poseen el conocimiento experto sobre el bien común y la justicia, cuando en realidad la mayoría solo se guía por la ignorancia, los apetitos y la persuasión de los demagogos sofistas",
+      "La democracia otorga un poder desproporcionado a las minorías aristocráticas y a las mujeres, subvirtiendo el orden natural patriarcal necesario para el mantenimiento de un estado fuerte militarmente",
+      "La democracia exige demasiada riqueza material para sostenerse a través del clientelismo, lo cual viola el principio pitagórico de la pobreza ascética absoluta y el comunismo radical",
+      "La asamblea democrática rechaza las revelaciones de los oráculos y profetas tradicionales, instaurando un ateísmo materialista de Estado inaceptable para los dogmas filosóficos platónicos"
+    ],
+    "respuesta_correcta": "La democracia asume falazmente que todos los ciudadanos poseen el conocimiento experto sobre el bien común y la justicia, cuando en realidad la mayoría solo se guía por la ignorancia, los apetitos y la persuasión de los demagogos sofistas",
+    "explicacion_detallada": "Para Platón, gobernar es una técnica (téchne) que requiere un conocimiento verdadero (episteme) y filosófico sobre la idea del Bien y la Justicia. La crítica a la democracia es epistemológica: otorga igual voz a todos, asumiendo que la multitud es experta, pero Platón cree que la multitud se mueve por la mera opinión (doxa), los apetitos irracionales y es fácilmente manipulable por oradores y demagogos. Por eso, propone que solo quienes han alcanzado la sabiduría (los reyes-filósofos) deben gobernar.",
+    "pasos_resolucion": [
+      "Comprender la crítica de Platón a la democracia expuesta en 'La República'.",
+      "Identificar la distinción platónica fundamental entre episteme (conocimiento verdadero) y doxa (opinión popular).",
+      "Relacionar la crítica con la influencia de los demagogos y sofistas sobre una masa no educada filosóficamente.",
+      "Descartar razones relativas a patriarcado aristocrático, ascetismo pitagórico extremo o teocracia oracular (Platón era un racionalista de las Ideas)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Platon+critica+a+la+democracia+La+Republica"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "La religión griega antigua carecía de textos sagrados absolutos y dogmas rígidos, basándose más en la práctica ritual y la mitología. Uno de los elementos panhelénicos más cohesionadores fueron los oráculos, destacando el de Delfos. ¿Qué papel geopolítico y social desempeñaba primariamente el Oráculo de Apolo en Delfos durante la Época Arcaica y Clásica?",
+    "opciones": [
+      "Actuaba como un centro de inteligencia suprema e intermediario diplomático que sancionaba la fundación de colonias, mediaba en conflictos interestatales y asesoraba en decisiones críticas de las polis gracias a su red paneuropea de informantes",
+      "Funcionaba como la única corte suprema penal de Grecia, dictando condenas de muerte o destierro vinculantes contra criminales de guerra y traidores de cualquier ciudad-estado sin importar la jurisdicción local",
+      "Era la sede del banco central panhelénico, dedicado exclusivamente a acuñar la moneda universal de plata que todas las polis estaban obligadas a usar para el comercio exterior, controlando la inflación",
+      "Se constituía como un monasterio de aislamiento total, donde sacerdotes célibes desarrollaban y escondían los avances matemáticos y astronómicos lejos de la población común"
+    ],
+    "respuesta_correcta": "Actuaba como un centro de inteligencia suprema e intermediario diplomático que sancionaba la fundación de colonias, mediaba en conflictos interestatales y asesoraba en decisiones críticas de las polis gracias a su red paneuropea de informantes",
+    "explicacion_detallada": "El oráculo de Delfos, a través de la Pitia, no solo predecía el futuro en sentido místico, sino que era un poderoso nodo de información geopolítica. Como recibía consultantes, embajadores y ofrendas de todo el Mediterráneo (incluso de reyes extranjeros), los sacerdotes poseían un conocimiento geográfico y político inmenso. El oráculo autorizaba las expediciones coloniales (dando instrucciones precisas sobre dónde fundar), arbitraba tratados de paz, y legitimaba políticas internas, siendo el gran cohesionador del mundo helénico fragmentado.",
+    "pasos_resolucion": [
+      "Comprender la función del Santuario de Delfos más allá del misticismo popular.",
+      "Identificar su rol en la colonización griega arcaica (autoridad legitimadora y guía geográfica).",
+      "Analizar su función diplomática y política panhelénica (recopilación de información de múltiples polis).",
+      "Descartar las funciones puramente económicas (banco central de emisión), judiciales panhelénicas directas (no había tribunal supremo griego) o aislamiento monástico (el santuario era altamente público y concurrido)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Importancia+geopolitica+del+Oraculo+de+Delfos+en+la+Grecia+antigua"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "El sistema militar ateniense y su supremacía naval en el siglo V a.C. dependían críticamente del trirreme. Desde una perspectiva de sociología militar, ¿qué impacto sociopolítico directo tuvo el uso masivo del trirreme en el desarrollo de la democracia radical en Atenas?",
+    "opciones": [
+      "La necesidad de miles de remeros (los thetes, la clase ciudadana más pobre) para operar la flota empoderó políticamente a las masas desposeídas, ya que su papel indispensable en la supervivencia del imperio justificó sus exigencias de mayor participación política democrática",
+      "El alto costo de construcción naval concentró todo el poder político exclusivamente en la aristocracia naviera (trierarcas), marginando a las clases bajas y destruyendo efectivamente las reformas democráticas previas",
+      "La tecnología naval ateniense dependía de mercenarios extranjeros y esclavos galeros, lo que aisló a los ciudadanos atenienses de la experiencia militar y provocó un declive en el sentido cívico patriótico",
+      "El uso del trirreme impulsó un retorno al culto agrario conservador, ya que la marina requería enormes extensiones de bosque sagrado talado, lo que unió a los sacerdotes rurales contra los comerciantes urbanos"
+    ],
+    "respuesta_correcta": "La necesidad de miles de remeros (los thetes, la clase ciudadana más pobre) para operar la flota empoderó políticamente a las masas desposeídas, ya que su papel indispensable en la supervivencia del imperio justificó sus exigencias de mayor participación política democrática",
+    "explicacion_detallada": "La marina ateniense requería de unas 170-200 personas por trirreme, casi todos remeros libres (Atenas raramente usaba esclavos como remeros, a diferencia de épocas modernas). Estos remeros provenían de los thetes, la clase social más baja y pobre, que no podía costear la armadura de hoplita. Puesto que la supervivencia de Atenas y su imperio dependía enteramente de su flota, los thetes adquirieron un inmenso peso militar. Esta indispensable contribución al estado impulsó y sostuvo la 'democracia radical' de líderes como Pericles, dando plena participación a la clase baja.",
+    "pasos_resolucion": [
+      "Analizar el componente militar clave de Atenas: su flota de trirremes.",
+      "Identificar quiénes remaban en los trirremes atenienses: ciudadanos de clase baja, los thetes.",
+      "Relacionar la importancia estratégica del poder naval con la redistribución del poder político hacia las masas (democracia radical).",
+      "Descartar la idea medieval/renacentista de esclavos en galeras, el fortalecimiento de la oligarquía o los conflictos con sacerdotes rurales."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=El+trirreme+y+el+surgimiento+de+la+democracia+radical+en+Atenas"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "La figura del 'Tirano' (tyrannos) emergió en numerosas polis griegas durante los siglos VII y VI a.C. Aunque el término adquirió después una connotación muy peyorativa, en su contexto histórico original, las tiranías arcaicas cumplieron una función sociopolítica de transición. ¿Cuál fue el papel histórico objetivo de los tiranos griegos arcaicos?",
+    "opciones": [
+      "Actuaron como líderes populistas que rompieron el poder hereditario de la rancia aristocracia terrateniente, apoyándose en las clases medias hoplíticas y emergentes, promoviendo obras públicas y el comercio antes de dar paso a sistemas constitucionales más amplios",
+      "Fueron caudillos militares impuestos externamente por el Imperio Persa para someter económicamente a las ciudades helénicas y cobrar tributos exorbitantes, paralizando todo desarrollo cultural y urbano",
+      "Eran sumos sacerdotes conservadores que restauraron la monarquía micénica de derecho divino, aboliendo cualquier forma de asamblea y prohibiendo el uso de moneda acuñada y comercio exterior",
+      "Se trataba de filósofos pacifistas radicales que desarmaron a la población y entregaron voluntariamente el gobierno a confederaciones de pueblos bárbaros para evitar guerras intestinas en Grecia"
+    ],
+    "respuesta_correcta": "Actuaron como líderes populistas que rompieron el poder hereditario de la rancia aristocracia terrateniente, apoyándose en las clases medias hoplíticas y emergentes, promoviendo obras públicas y el comercio antes de dar paso a sistemas constitucionales más amplios",
+    "explicacion_detallada": "En la Grecia arcaica, un tirano (palabra de origen lidio, no griego) era simplemente alguien que tomaba el poder por la fuerza, fuera del orden constitucional. Lejos de ser siempre gobernantes malvados, figuras como Pisístrato en Atenas o Polícrates en Samos se apoyaron en el demos (el pueblo común y los nuevos ricos sin linaje) contra los abusos de los eupátridas (la antigua aristocracia). Promovieron festivales panhelénicos, grandes obras públicas (creando empleo) y protegieron a los campesinos, debilitando las estructuras de clanes antiguos y sentando sin querer las bases sociales para las futuras democracias y oligarquías amplias.",
+    "pasos_resolucion": [
+      "Desvincular el concepto moderno de 'tirano' de su acepción griega arcaica.",
+      "Identificar contra quiénes luchaban los tiranos: la vieja aristocracia terrateniente opresiva.",
+      "Reconocer en quiénes se apoyaban: campesinos empobrecidos y nuevos mercaderes ricos excluidos del poder político.",
+      "Evaluar las consecuencias de su gobierno: desarrollo urbano, debilitamiento de la nobleza tradicional, preparación hacia isonomía.",
+      "Descartar imposición persa, teocracias retrógradas o pacifismo extremo."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=La+tirania+en+la+Grecia+arcaica+papel+historico"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "La Guerra del Peloponeso culminó trágicamente para Atenas con la desastrosa Expedición a Sicilia (415-413 a.C.). Esta campaña periférica, impulsada en gran medida por Alcibíades, es considerada un punto de inflexión. Analizando las dinámicas internas de la democracia ateniense, ¿qué defecto estructural sistémico evidenció la aprobación y posterior fracaso de esta expedición imperialista?",
+    "opciones": [
+      "La volatilidad de la Ekklesía (asamblea popular), propensa a dejarse arrastrar por la demagogia expansiva, el triunfalismo irracional y las pasiones a corto plazo, cambiando frecuentemente de comandantes y políticas basándose en rumores y paranoia",
+      "La dependencia insalvable de los oráculos griegos, ya que la expedición fue ordenada obligatoriamente por Delfos en contra de la voluntad pacífica de todos los ciudadanos y generales atenienses",
+      "La debilidad económica del Ática, que carecía absolutamente de barcos propios y fue forzada a contratar flotas fenicias poco fiables para intentar someter militarmente a Siracusa",
+      "La traición pre-planeada de la totalidad de las tropas hoplíticas aliadas, que desde el primer día operaron como quintacolumnistas al servicio exclusivo del rey de Persia en el mar Jónico"
+    ],
+    "respuesta_correcta": "La volatilidad de la Ekklesía (asamblea popular), propensa a dejarse arrastrar por la demagogia expansiva, el triunfalismo irracional y las pasiones a corto plazo, cambiando frecuentemente de comandantes y políticas basándose en rumores y paranoia",
+    "explicacion_detallada": "La expedición a Siracusa revela las debilidades de la democracia radical ateniense tras la muerte de Pericles. Tucídides narra cómo la asamblea (Ekklesía), ignorante de las verdaderas dimensiones y recursos de Sicilia, se dejó seducir por la retórica ambiciosa de Alcibíades contra la prudencia de Nicias. Peor aún, poco después de zarpar la flota, la misma asamblea presa de la paranoia religiosa por la mutilación de los Hermes, llamó a juicio a Alcibíades (quien huyó a Esparta). Esta inestabilidad política, el mando dividido y las decisiones guiadas por pasiones de la masa demagógica condenaron a muerte a decenas de miles de atenienses.",
+    "pasos_resolucion": [
+      "Recordar el contexto de la Expedición a Sicilia (fase clave de la Guerra del Peloponeso).",
+      "Analizar los debates previos en Atenas (Alcibíades vs. Nicias) y cómo se tomó la decisión.",
+      "Identificar la crítica de Tucídides a la masa democrática pospericlea (volátil, ignorante de geografía, seducida por demagogos).",
+      "Recordar el impacto de la remoción de Alcibíades en pleno inicio de campaña por histeria de la masa.",
+      "Descartar causas fatalistas externas como oráculos, mercenarios fenicios (Atenas tenía la mejor flota) o traición persa estructural."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Expedicion+a+Sicilia+Guerra+del+Peloponeso+y+democracia+ateniense"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "En el desarrollo del derecho antiguo, las leyes de Solón (594 a.C.) representan una reforma fundamental en Atenas. Además de la Seisachtheia (cancelación de deudas), Solón reestructuró la base de la participación política. ¿Cuál fue el principio rector de su reforma constitucional que marcó el fin de los privilegios exclusivos de nacimiento?",
+    "opciones": [
+      "La instauración de la timocracia, un sistema que vinculaba el acceso a las magistraturas y derechos políticos al nivel de riqueza agrícola (renta en medimnos) de los ciudadanos, dividiéndolos en cuatro clases censitarias",
+      "La creación de la primera democracia directa pura, donde el sorteo garantizaba que cualquier habitante de Atenas (incluyendo thetes y metecos) pudiera ocupar el cargo de Arconte epónimo sin filtros previos",
+      "El establecimiento de una tiranía militar ilustrada vitalicia que monopolizaba las decisiones jurídicas de apelación mediante tribunales secretos manejados por los guardias escitas",
+      "La abolición completa del esclavismo estatal y privado, distribuyendo las tierras del Ática en parcelas exactamente idénticas de forma forzosa a todas las familias atenienses para garantizar el igualitarismo económico absoluto"
+    ],
+    "respuesta_correcta": "La instauración de la timocracia, un sistema que vinculaba el acceso a las magistraturas y derechos políticos al nivel de riqueza agrícola (renta en medimnos) de los ciudadanos, dividiéndolos en cuatro clases censitarias",
+    "explicacion_detallada": "Solón no instauró la democracia directa (eso sería más tarde con Clístenes y Efialtes/Pericles), sino que creó un sistema timocrático (de 'time', honor/valor basado en la riqueza). Dividió a los ciudadanos atenienses en cuatro clases censitarias basadas en su producción agrícola anual (pentacosiomedimnos, hippeis, zeugitas y thetes). De este modo, los cargos públicos más altos (arcontes) ya no dependían de la sangre o linaje noble (eupátridas), sino de la riqueza material. Fue una medida de compromiso vital para pacificar a la sociedad sin abolir toda jerarquía.",
+    "pasos_resolucion": [
+      "Distinguir las reformas de Solón (594 a.C.) de reformadores posteriores como Clístenes (508 a.C.).",
+      "Identificar el concepto de timocracia o sistema censitario implementado por Solón.",
+      "Recordar las cuatro clases solonianas basadas en la producción agrícola.",
+      "Diferenciar esto de la democracia igualitaria radical, que aún no existía, y del igualitarismo socioeconómico extremo (Solón se negó a redistribuir las tierras)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Reformas+de+Solon+en+Atenas+Timocracia"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "La religión y el deporte se entrelazaban íntimamente en el mundo helénico, siendo los Juegos Panhelénicos (Olímpicos, Píticos, Nemeos e Ístmicos) el máximo exponente de esta unión. Desde la perspectiva de las relaciones interestatales griegas, ¿cuál fue la función política y diplomática más relevante de los Juegos Olímpicos en la Antigüedad?",
+    "opciones": [
+      "Fortalecer la identidad panhelénica compartida frente a los bárbaros y establecer un marco regulado de tregua sagrada (Ekecheiria) que garantizaba la inmunidad diplomática y facilitaba el diálogo político entre polis crónicamente enfrentadas",
+      "Elegir a través de los vencedores del pentatlón al comandante en jefe unificado militar ('strategos autokrator') que gobernaría despóticamente sobre toda Grecia durante los siguientes cuatro años hasta los próximos juegos",
+      "Fomentar el mestizaje cultural permitiendo que atletas persas, egipcios y macedonios compitieran y establecieran alianzas secretas para desmantelar la democracia ateniense desde dentro",
+      "Actuar como el único mercado de esclavos legal del Mediterráneo oriental, donde el producto de la venta de prisioneros de guerra se usaba enteramente para financiar los ejércitos espartanos contra los jonios"
+    ],
+    "respuesta_correcta": "Fortalecer la identidad panhelénica compartida frente a los bárbaros y establecer un marco regulado de tregua sagrada (Ekecheiria) que garantizaba la inmunidad diplomática y facilitaba el diálogo político entre polis crónicamente enfrentadas",
+    "explicacion_detallada": "Los Juegos Olímpicos, celebrados cada cuatro años en honor a Zeus en Olimpia, eran un elemento de fortísima cohesión cultural (solo podían competir griegos puros, excluyendo a 'bárbaros'). Políticamente, requerían la proclamación de la tregua sagrada (Ekecheiria) antes y durante los juegos. Esto aseguraba salvoconductos para atletas y espectadores, suspendía las hostilidades y transformaba el santuario en un foro panhelénico vital donde emisarios y políticos de polis rivales podían reunirse, hacer alianzas, resolver disputas y ostentar el poder blando de sus ciudades sin recurrir a la guerra armada.",
+    "pasos_resolucion": [
+      "Analizar el rol sociopolítico de la religión festiva en la Grecia Antigua.",
+      "Identificar el concepto de tregua sagrada (Ekecheiria) y su obligatoriedad jurídica panhelénica.",
+      "Reconocer los juegos como un espacio seguro y neutral para la diplomacia, el comercio y la exhibición de prestigio entre ciudades en guerra.",
+      "Descartar que los ganadores asumieran el poder dictatorial panhelénico (seguían siendo ciudadanos locales), o que los bárbaros pudieran competir (era exclusivo para helenos)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Juegos+Panhelenicos+funcion+politica+tregua+olimpica+ekecheiria"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "La historiografía occidental nace en Grecia con Heródoto y se afina con Tucídides. Sin embargo, ambos adoptan enfoques metodológicos drásticamente diferentes. Mientras Heródoto ('el padre de la historia') se caracteriza por un enfoque integrador e indagador (historiē) que incluye geografía, mitos y costumbres de muchos pueblos para explicar las Guerras Médicas, ¿cuál es el rasgo definitorio de la metodología de Tucídides en su obra sobre la Guerra del Peloponeso?",
+    "opciones": [
+      "Un rigor analítico centrado exclusivamente en la causalidad política y militar racional, la crítica implacable de las fuentes contemporáneas y la exclusión premeditada de la intervención divina (mitología) en la explicación de los eventos humanos",
+      "La compilación pasiva de archivos sacerdotales y listas de reyes micénicos sin intentar ofrecer explicaciones causales o cronológicas, confiando ciegamente en las epopeyas de Homero como verdad literal inmutable",
+      "Un enfoque moralista y teológico que buscaba demostrar matemáticamente que Atenas perdió la guerra únicamente como castigo divino directo de Poseidón por haber abandonado los sacrificios hecatombeos tradicionales",
+      "La invención deliberada de todos los discursos y eventos históricos para crear una obra de teatro didáctica destinada a divertir a los jóvenes de la academia pitagórica en la Magna Grecia, sin pretensiones de exactitud factual"
+    ],
+    "respuesta_correcta": "Un rigor analítico centrado exclusivamente en la causalidad política y militar racional, la crítica implacable de las fuentes contemporáneas y la exclusión premeditada de la intervención divina (mitología) en la explicación de los eventos humanos",
+    "explicacion_detallada": "Tucídides (aprox. 460-400 a.C.) es considerado el fundador de la historiografía científica o política. A diferencia de Heródoto, quien incluía anécdotas, mitos y explicaciones de intervención divina (incluso respetando las tradiciones culturales extranjeras), Tucídides adoptó un método secular estricto. Analizaba los eventos desde la 'realpolitik' (poder, miedo, interés estatal), contrastaba fuertemente sus fuentes para hallar la verdad factual, e ignoraba la religión o a los dioses como motores de la historia. Escribió 'una posesión para siempre' basada en la naturaleza humana racional y predecible.",
+    "pasos_resolucion": [
+      "Comparar las metodologías de los dos primeros grandes historiadores griegos: Heródoto y Tucídides.",
+      "Recordar que Heródoto es más discursivo, cultural y a veces mitológico.",
+      "Identificar el estilo tucidídeo: frío, analítico, enfocado en el estado, libre de dioses, riguroso en fuentes (aunque él recreó discursos, lo hizo basándose en lo que consideraba lo 'apropiado' según la situación, no como pura invención ficcional desvinculada del análisis).",
+      "Descartar explicaciones teológicas providencialistas, dependencia acrítica de Homero o que su obra fuera una mera obra de teatro ficticia."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Historiografia+griega+Herodoto+y+Tucidides+diferencias+metodologicas"
+  }
+]

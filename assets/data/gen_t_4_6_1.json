@@ -1,0 +1,222 @@
+[
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "¿Cuál fue la principal innovación filosófica del humanismo renacentista en contraste con la escolástica medieval?",
+    "opciones": [
+      { "texto": "El desplazamiento del teocentrismo hacia un antropocentrismo que revalorizaba la agencia y la dignidad humana basándose en textos clásicos", "es_correcta": true },
+      { "texto": "La adopción del empirismo radical y el rechazo absoluto de cualquier dogma religioso o texto sagrado cristiano", "es_correcta": false },
+      { "texto": "La síntesis exclusiva entre la filosofía aristotélica y la teología cristiana para justificar el poder papal", "es_correcta": false },
+      { "texto": "El desarrollo de un sistema filosófico basado enteramente en la tradición oral de los pueblos germánicos", "es_correcta": false }
+    ],
+    "explicacion": "El humanismo renacentista se caracterizó por su enfoque antropocéntrico, exaltando la dignidad humana y recuperando los textos de la Antigüedad clásica, a diferencia de la escolástica medieval que se centraba en la teología y la lógica aristotélica."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "En su obra 'El Príncipe', Nicolás Maquiavelo introduce un cambio de paradigma en el pensamiento político al establecer que:",
+    "opciones": [
+      { "texto": "La moralidad política debe separarse de la ética cristiana tradicional, priorizando la eficacia y el mantenimiento del Estado", "es_correcta": true },
+      { "texto": "El gobernante debe actuar siempre guiado por la providencia divina y los preceptos dictados por la Iglesia Católica", "es_correcta": false },
+      { "texto": "El poder legítimo emana de un contrato social consensuado entre todos los ciudadanos y el monarca absolutista", "es_correcta": false },
+      { "texto": "La política exterior de un Estado debe basarse exclusivamente en alianzas pacíficas y el desarme militar progresivo", "es_correcta": false }
+    ],
+    "explicacion": "Maquiavelo es considerado el padre de la ciencia política moderna por divorciar la política de la moral religiosa tradicional, argumentando que la 'razón de Estado' justifica acciones que podrían considerarse inmorales a nivel individual."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "La caída de Constantinopla en 1453 tuvo un impacto directo en el desarrollo del Renacimiento en Europa Occidental porque:",
+    "opciones": [
+      { "texto": "Provocó un éxodo de eruditos bizantinos hacia Italia, quienes llevaron consigo textos clásicos griegos desconocidos o perdidos en Occidente", "es_correcta": true },
+      { "texto": "Cerró definitivamente las rutas comerciales con Asia, forzando a las ciudades italianas a invertir exclusivamente en el mecenazgo artístico", "es_correcta": false },
+      { "texto": "Resultó en la adopción masiva del cristianismo ortodoxo por parte de la aristocracia veneciana y florentina", "es_correcta": false },
+      { "texto": "Destruyó el papado temporalmente, lo que permitió que líderes seculares financiaran el arte sin restricciones eclesiásticas", "es_correcta": false }
+    ],
+    "explicacion": "Los eruditos griegos que huyeron de los otomanos llevaron consigo valiosos manuscritos de la antigua Grecia, lo que impulsó enormemente el estudio del griego y la filosofía platónica en lugares como Florencia."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "El Renacimiento nórdico (o europeo oriental/septentrional) difería del Renacimiento italiano principalmente en que:",
+    "opciones": [
+      { "texto": "Estaba más orientado hacia el estudio de las fuentes cristianas primitivas y la reforma moral e institucional de la Iglesia", "es_correcta": true },
+      { "texto": "Rechazaba completamente el uso de la imprenta para priorizar la transmisión oral de los saberes tradicionales", "es_correcta": false },
+      { "texto": "Se centró exclusivamente en la recuperación de la mitología grecorromana y la escultura en mármol a gran escala", "es_correcta": false },
+      { "texto": "Promovió el fortalecimiento del sistema feudal tradicional en contraposición a las ciudades-estado comerciales de Italia", "es_correcta": false }
+    ],
+    "explicacion": "El humanismo nórdico o cristiano, liderado por figuras como Erasmo de Rotterdam, aplicó los métodos filológicos del humanismo a los textos bíblicos y de los Padres de la Iglesia, buscando una reforma religiosa profunda."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "¿De qué manera el neoplatonismo florentino, impulsado por Marsilio Ficino, influyó en la cosmovisión renacentista?",
+    "opciones": [
+      { "texto": "Armonizó la filosofía platónica con la teología cristiana, proponiendo que la belleza material es un reflejo de la divinidad y un camino hacia ella", "es_correcta": true },
+      { "texto": "Instauró el materialismo como doctrina oficial del Estado, negando la inmortalidad del alma y la existencia de entidades espirituales", "es_correcta": false },
+      { "texto": "Fomentó un estricto iconoclasmo que prohibió la representación artística de figuras divinas en las repúblicas italianas", "es_correcta": false },
+      { "texto": "Sustituyó el estudio del latín por el griego antiguo como única lengua válida para la liturgia católica", "es_correcta": false }
+    ],
+    "explicacion": "Bajo el mecenazgo de los Médici, Ficino tradujo a Platón y promovió la idea de que la contemplación de la belleza terrenal (el arte, el amor humano) elevaba el alma hacia el Creador, influyendo en artistas como Botticelli y Miguel Ángel."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "La obra 'Discurso sobre la dignidad del hombre' de Giovanni Pico della Mirandola es considerada el manifiesto del humanismo porque argumenta que:",
+    "opciones": [
+      { "texto": "El ser humano no tiene un lugar fijo en la jerarquía del universo, poseyendo el libre albedrío para elevarse a lo divino o descender a lo bestial", "es_correcta": true },
+      { "texto": "La dignidad humana se deriva exclusivamente de su sumisión incondicional a la autoridad de la Iglesia y a los reyes de derecho divino", "es_correcta": false },
+      { "texto": "Los seres humanos están predeterminados desde su nacimiento por los astros, anulando cualquier posibilidad de cambio a través de la educación", "es_correcta": false },
+      { "texto": "La verdadera virtud sólo se encuentra en el aislamiento monástico y el rechazo total de los bienes materiales y culturales terrenales", "es_correcta": false }
+    ],
+    "explicacion": "Pico della Mirandola exaltó el libre albedrío y la plasticidad de la naturaleza humana, afirmando que Dios otorgó al ser humano la capacidad de forjar su propio destino, una idea central del antropocentrismo renacentista."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "¿Qué papel fundamental desempeñaron las familias de banqueros y comerciantes, como los Médici en Florencia, en la gestación del Renacimiento?",
+    "opciones": [
+      { "texto": "Actuaron como grandes mecenas que financiaron artistas, arquitectos y eruditos, utilizando el arte y la cultura como instrumentos de legitimación política", "es_correcta": true },
+      { "texto": "Impusieron un monopolio sobre la producción artística que asfixió la innovación al prohibir el uso de temas no religiosos en la pintura", "es_correcta": false },
+      { "texto": "Dedicaron sus fortunas exclusivamente a financiar las Cruzadas y a expandir el territorio del Estado Pontificio", "es_correcta": false },
+      { "texto": "Financiaron movimientos campesinos igualitarios que buscaban abolir las diferencias de clase en las ciudades-estado italianas", "es_correcta": false }
+    ],
+    "explicacion": "El desarrollo económico de las ciudades-estado italianas generó una burguesía acaudalada que vio en el mecenazgo artístico una forma de prestigio social y consolidación política, fundamental para el florecimiento del arte."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "La invención de la imprenta de tipos móviles por Johannes Gutenberg hacia 1450 transformó radicalmente la sociedad europea porque:",
+    "opciones": [
+      { "texto": "Democratizó el acceso al conocimiento, abarató el coste de los libros y aceleró la difusión de las ideas humanistas y científicas", "es_correcta": true },
+      { "texto": "Permitió que la Iglesia Católica censurara más eficazmente todas las obras contrarias al dogma al centralizar su producción", "es_correcta": false },
+      { "texto": "Eliminó inmediatamente el uso del latín en toda Europa, siendo reemplazado por las lenguas vernáculas en un lapso de pocos años", "es_correcta": false },
+      { "texto": "Provocó la caída de la alfabetización debido a que las imágenes impresas sustituyeron por completo al texto escrito", "es_correcta": false }
+    ],
+    "explicacion": "La imprenta fue el motor de la revolución de la información del Renacimiento. Facilitó la estandarización de textos, redujo su coste y permitió que las ideas circularan a una velocidad y alcance sin precedentes."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "En el contexto de la revolución científica renacentista, la teoría heliocéntrica propuesta por Nicolás Copérnico significó:",
+    "opciones": [
+      { "texto": "Un desafío directo a la cosmología ptolemaica y aristotélica, al postular que la Tierra y los demás planetas giran alrededor del Sol", "es_correcta": true },
+      { "texto": "La confirmación empírica y matemática irrefutable de que el universo es infinito y carece de un centro determinado", "es_correcta": false },
+      { "texto": "Una reafirmación de las sagradas escrituras, ya que su modelo fue aceptado de inmediato sin controversia por la jerarquía eclesiástica", "es_correcta": false },
+      { "texto": "El abandono del método deductivo matemático en favor del misticismo alquímico para explicar los movimientos celestes", "es_correcta": false }
+    ],
+    "explicacion": "El 'De revolutionibus orbium coelestium' de Copérnico alteró la visión medieval del cosmos (geocentrismo) y sentó las bases para la Revolución Científica, a pesar de encontrar resistencia inicial."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "En la historia del arte renacentista, la invención y aplicación de la perspectiva lineal matemática por figuras como Brunelleschi y Alberti representó:",
+    "opciones": [
+      { "texto": "Un esfuerzo por racionalizar el espacio y crear una ilusión óptica realista de profundidad en una superficie bidimensional", "es_correcta": true },
+      { "texto": "Un retorno consciente a la planitud del arte bizantino para enfatizar el carácter espiritual por encima del material", "es_correcta": false },
+      { "texto": "El uso exclusivo de colores simbólicos en detrimento del dibujo geométrico para transmitir emociones religiosas", "es_correcta": false },
+      { "texto": "La técnica pictórica mediante la cual se difuminan los contornos (sfumato) para dar mayor naturalidad a los retratos", "es_correcta": false }
+    ],
+    "explicacion": "La perspectiva lineal fue una innovación crucial del Quattrocento, combinando arte y matemáticas para proyectar el espacio tridimensional de forma realista, reflejando el deseo de comprender y medir el mundo natural."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "La obra 'Utopía' del humanista inglés Tomás Moro se destaca dentro del pensamiento renacentista porque:",
+    "opciones": [
+      { "texto": "Utiliza la descripción de una sociedad isleña imaginaria e ideal para criticar las desigualdades económicas y la corrupción política de su época", "es_correcta": true },
+      { "texto": "Defiende ardientemente la acumulación privada de riquezas como motor indispensable del desarrollo social y la civilización", "es_correcta": false },
+      { "texto": "Propone un manual táctico sobre cómo los monarcas absolutos deben someter a los territorios coloniales del Nuevo Mundo", "es_correcta": false },
+      { "texto": "Constituye un tratado teológico destinado a fundamentar el cisma anglicano y la separación de Roma", "es_correcta": false }
+    ],
+    "explicacion": "Publicada en 1516, 'Utopía' es una obra clave del humanismo cristiano que plantea una sociedad basada en la propiedad común y la tolerancia racional, contrastándola con los vicios de la Europa del siglo XVI."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "¿Qué importancia tuvo 'El Cortesano' de Baltasar Castiglione para la sociedad europea de la época?",
+    "opciones": [
+      { "texto": "Definió el ideal del caballero renacentista (el hombre universal), que debía combinar habilidades militares con refinamiento humanístico, cultural y modales cortesanos", "es_correcta": true },
+      { "texto": "Estableció el código penal y mercantil que rigió en todas las repúblicas italianas hasta finales del siglo XVIII", "es_correcta": false },
+      { "texto": "Abogó por la supresión de la aristocracia nobiliaria y la instauración de una democracia republicana basada en el sufragio universal", "es_correcta": false },
+      { "texto": "Fue el primer tratado de anatomía moderna que cuestionó las enseñanzas médicas clásicas de Galeno", "es_correcta": false }
+    ],
+    "explicacion": "'El Cortesano' fue un manual de comportamiento que moldeó la figura del caballero ideal (l'uomo universale), equilibrando las armas (virtudes caballerescas medievales) con las letras y las artes (humanismo)."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "En el contexto del mecenazgo papal durante el Alto Renacimiento, el Papa Julio II es recordado históricamente por:",
+    "opciones": [
+      { "texto": "Llevar el centro artístico de Florencia a Roma, financiando obras monumentales como la bóveda de la Capilla Sixtina y la nueva Basílica de San Pedro", "es_correcta": true },
+      { "texto": "Rechazar todo lujo terrenal y promover un arte iconoclasta centrado en la pobreza evangélica radical", "es_correcta": false },
+      { "texto": "Ser el principal impulsor de la Reforma Protestante al invitar a Martín Lutero a debatir en Roma", "es_correcta": false },
+      { "texto": "Excomulgar a todos los artistas humanistas por considerar que el uso de la perspectiva era una herejía pagana", "es_correcta": false }
+    ],
+    "explicacion": "Julio II (el Papa Guerrero) transformó Roma en la capital cultural del Renacimiento, siendo el gran mecenas de genios como Miguel Ángel, Rafael y Bramante, buscando restaurar la gloria de la Iglesia."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "El desarrollo del humanismo en Italia estuvo fuertemente vinculado a los estudios de filología. ¿Cómo demostró Lorenzo Valla la importancia de esta disciplina?",
+    "opciones": [
+      { "texto": "Al demostrar mediante análisis lingüístico que la 'Donación de Constantino', documento que justificaba el poder temporal del Papa, era una falsificación medieval", "es_correcta": true },
+      { "texto": "Al inventar la imprenta de tipos móviles para publicar diccionarios latinos accesibles a todas las clases sociales", "es_correcta": false },
+      { "texto": "Al traducir por primera vez la Biblia completa al italiano vernáculo sin autorización de la jerarquía católica", "es_correcta": false },
+      { "texto": "Al codificar gramaticalmente las lenguas germánicas para facilitar el comercio internacional en el Mar Báltico", "es_correcta": false }
+    ],
+    "explicacion": "Lorenzo Valla aplicó la crítica textual filológica para probar anacronismos en la 'Donación de Constantino', revelando que era un fraude del siglo VIII y no un documento del siglo IV. Es un hito del espíritu crítico renacentista."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "Francesco Petrarca es frecuentemente denominado el 'Padre del Humanismo' debido a que:",
+    "opciones": [
+      { "texto": "Inició la búsqueda sistemática y la restauración de manuscritos latinos olvidados, considerando la Antigüedad como una edad de oro moral y literaria", "es_correcta": true },
+      { "texto": "Fundó la Academia Platónica de Florencia y escribió el primer tratado moderno sobre pintura", "es_correcta": false },
+      { "texto": "Fue el primer pensador en defender abiertamente el ateísmo y la separación estricta entre Iglesia y Estado", "es_correcta": false },
+      { "texto": "Lideró las revueltas urbanas en Roma para reinstaurar una república senatorial basada en la constitución romana clásica", "es_correcta": false }
+    ],
+    "explicacion": "En el siglo XIV, Petrarca promovió activamente la recuperación del latín clásico ciceroniano y la literatura antigua, sentando las bases intelectuales de lo que se convertiría en el movimiento humanista."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "¿Qué papel jugó el llamado 'humanismo cívico' en repúblicas como Florencia durante el siglo XV?",
+    "opciones": [
+      { "texto": "Sostuvo que el propósito de la educación clásica y la retórica era preparar a los ciudadanos para el servicio activo y la participación en el gobierno de la república", "es_correcta": true },
+      { "texto": "Abogó por la retirada total de los intelectuales de la vida pública para dedicarse exclusivamente a la contemplación teológica en monasterios", "es_correcta": false },
+      { "texto": "Justificó teóricamente la tiranía y la abolición de las magistraturas republicanas para mantener el orden social", "es_correcta": false },
+      { "texto": "Promovió el desarrollo exclusivo de la arquitectura militar como única prioridad estatal frente al avance del Imperio Otomano", "es_correcta": false }
+    ],
+    "explicacion": "Intelectuales como Leonardo Bruni promovieron el humanismo cívico, que fusionaba el estudio de las letras con el deber cívico, argumentando que la vida activa al servicio del Estado era superior a la vida contemplativa."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "La arquitectura renacentista se alejó del estilo gótico predominante en la Edad Media al:",
+    "opciones": [
+      { "texto": "Retomar los principios de simetría, proporción matemática, y el uso de elementos clásicos como columnas, frontones y arcos de medio punto", "es_correcta": true },
+      { "texto": "Enfatizar la verticalidad extrema, los arbotantes y las amplias vidrieras para dejar entrar la máxima cantidad de luz", "es_correcta": false },
+      { "texto": "Adoptar de forma masiva los patrones geométricos islámicos y los arcos de herradura propios de la península ibérica", "es_correcta": false },
+      { "texto": "Construir edificios de manera asimétrica y caótica para reflejar la complejidad y la imprevisibilidad de la naturaleza", "es_correcta": false }
+    ],
+    "explicacion": "La arquitectura del Renacimiento buscaba la armonía y la proporción basándose en el cuerpo humano y en tratados clásicos como los de Vitruvio, reemplazando la espiritualidad vertical gótica por el equilibrio terrenal clásico."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "¿Cuál fue la postura de Erasmo de Rotterdam respecto a la Iglesia en el contexto del humanismo cristiano y los albores de la Reforma?",
+    "opciones": [
+      { "texto": "Criticó duramente la corrupción eclesiástica, la superstición y el ritualismo vacío, pero se mantuvo dentro de la Iglesia Católica apelando a una reforma interna y pacífica", "es_correcta": true },
+      { "texto": "Lideró militarmente a los príncipes alemanes en su rebelión contra el Papado y el Emperador Carlos V", "es_correcta": false },
+      { "texto": "Apoyó incondicionalmente la venta de indulgencias como medio válido para financiar el arte renacentista en Roma", "es_correcta": false },
+      { "texto": "Escribió un tratado teológico exigiendo la abolición del papado y la fragmentación de la Iglesia en sectas nacionales", "es_correcta": false }
+    ],
+    "explicacion": "En obras como 'Elogio de la locura', Erasmo satirizó los abusos clericales y abogó por una 'filosofía de Cristo' sencilla, pero se negó a romper con Roma y se distanció de Martín Lutero."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "La técnica pictórica del 'sfumato', perfeccionada por Leonardo da Vinci, contribuyó al arte renacentista al:",
+    "opciones": [
+      { "texto": "Difuminar suavemente los contornos y las transiciones tonales, creando un efecto de atmósfera y realismo psicológico más natural", "es_correcta": true },
+      { "texto": "Aplicar colores puros sin mezclar directamente sobre el lienzo para maximizar el contraste y la saturación", "es_correcta": false },
+      { "texto": "Utilizar pan de oro de forma intensiva en el fondo de los retratos para resaltar la divinidad de los personajes", "es_correcta": false },
+      { "texto": "Distorsionar intencionalmente las proporciones humanas para transmitir tensión emocional y espiritual", "es_correcta": false }
+    ],
+    "explicacion": "El 'sfumato' (esfumado) evita las líneas duras, produciendo gradaciones sutiles de luz y sombra. Es emblemático en obras como la Mona Lisa, dando a las figuras un aspecto vivaz e inmerso en su entorno atmosférico."
+  },
+  {
+    "codigo_tema": "4.6.1",
+    "enunciado": "Desde la perspectiva de la historia económica y social, el surgimiento del Renacimiento en la península itálica estuvo estrechamente condicionado por:",
+    "opciones": [
+      { "texto": "El desarrollo temprano del capitalismo mercantil, la banca internacional y la intensa actividad comercial de ciudades autónomas tras las Cruzadas", "es_correcta": true },
+      { "texto": "La imposición de un sistema económico cerrado autárquico que aisló a Italia de los mercados del Mediterráneo oriental", "es_correcta": false },
+      { "texto": "El descubrimiento prematuro de vastas minas de oro y plata en el sur de Italia que financiaron la construcción de catedrales", "es_correcta": false },
+      { "texto": "La abolición temprana del uso de la moneda y el retorno al trueque impulsado por gremios conservadores", "es_correcta": false }
+    ],
+    "explicacion": "El dinamismo económico de ciudades como Venecia, Génova y Florencia, impulsado por el comercio con el Levante, generó la riqueza material necesaria para sostener a artistas e intelectuales y el entorno urbano idóneo para el cambio cultural."
+  }
+]

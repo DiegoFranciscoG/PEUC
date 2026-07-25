@@ -1,0 +1,276 @@
+import 'dart:convert';
+import 'dart:io';
+
+void main() async {
+  final List<Map<String, dynamic>> data = [
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "Considere una carga puntual \$q\$ situada a una distancia \$d\$ del centro de una esfera conductora conectada a tierra de radio \$R\$ (\$d > R\$). ¿Cuál es la densidad superficial de carga \$\\sigma(\\theta)\$ inducida en la superficie de la esfera en función del ángulo polar \$\\theta\$?",
+      "opciones": [
+        "\\\$\\sigma(\\theta) = -\\frac{q(d^2 - R^2)}{4\\pi R (R^2 + d^2 - 2Rd\\cos\\theta)^{3/2}}\\$",
+        "\\\$\\sigma(\\theta) = \\frac{q R}{4\\pi (R^2 + d^2 - 2Rd\\cos\\theta)^{3/2}}\\$",
+        "\\\$\\sigma(\\theta) = -\\frac{q(d^2 + R^2)}{4\\pi d (R^2 + d^2 - 2Rd\\cos\\theta)^{3/2}}\\$",
+        "\\\$\\sigma(\\theta) = -\\frac{q d}{4\\pi R (R^2 + d^2 - 2Rd\\cos\\theta)^{3/2}}\\$"
+      ],
+      "respuesta_correcta": "\\\$\\sigma(\\theta) = -\\frac{q(d^2 - R^2)}{4\\pi R (R^2 + d^2 - 2Rd\\cos\\theta)^{3/2}}\\$",
+      "explicacion_detallada": "Por el método de imágenes, la carga imagen \$q'\$ se ubica a \$d' = R^2/d\$, con \$q' = -qR/d\$. El potencial es \$\\Phi(r,\\theta) = \\frac{1}{4\\pi\\epsilon_0} \\left[ \\frac{q}{\\sqrt{r^2+d^2-2rd\\cos\\theta}} + \\frac{q'}{\\sqrt{r^2+d'^2-2rd'\\cos\\theta}} \\right]\$. La densidad es \$\\sigma = -\\epsilon_0 \\left. \\frac{\\partial \\Phi}{\\partial r} \\right|_{r=R}\$. Al evaluar se obtiene la expresión correcta."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "La formulación covariante de la densidad de carga y la densidad de corriente se agrupa en un cuadrivector \$J^\\mu = (c\\rho, \\mathbf{J})\$. Si en un sistema inercial \$S\$ se tiene una densidad de carga propia \$\\rho_0\$ en reposo, ¿cuál es la densidad de carga \$\\rho\$ medida por un sistema \$S'\$ que se mueve con velocidad \$\\mathbf{v}\$ relativa a \$S\$?",
+      "opciones": [
+        "\\\$\\rho = \\gamma \\rho_0\\\$",
+        "\\\$\\rho = \\rho_0 / \\gamma\\\$",
+        "\\\$\\rho = \\rho_0 (1 - v^2/c^2)\\$",
+        "\\\$\\rho = \\rho_0\\\$"
+      ],
+      "respuesta_correcta": "\\\$\\rho = \\gamma \\rho_0\\\$",
+      "explicacion_detallada": "La carga eléctrica es un invariante relativista, es decir, \$dq = dq'\$. El volumen sufre contracción de Lorentz en la dirección del movimiento: \$dV' = dV / \\gamma\$. Por tanto, la densidad de carga en el sistema en movimiento es \$\\rho = dq' / dV' = dq / (dV/\\gamma) = \\gamma \\rho_0\$. Matemáticamente, se obtiene aplicando la transformación de Lorentz al cuadrivector corriente \$J^\\mu\$."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "El tensor de esfuerzos de Maxwell \$T_{ij}\$ para un campo puramente electrostático está dado por \$T_{ij} = \\epsilon_0 (E_i E_j - \\frac{1}{2} \\delta_{ij} E^2)\$. Para una carga puntual \$q\$ en el origen, ¿cuál es el esfuerzo radial (presión) en una superficie esférica de radio \$r\$?",
+      "opciones": [
+        "\\\$T_{rr} = \\frac{q^2}{32\\pi^2 \\epsilon_0 r^4}\\\$",
+        "\\\$T_{rr} = -\\frac{q^2}{32\\pi^2 \\epsilon_0 r^4}\\\$",
+        "\\\$T_{rr} = \\frac{q^2}{16\\pi^2 \\epsilon_0 r^4}\\\$",
+        "\\\$T_{rr} = -\\frac{q^2}{16\\pi^2 \\epsilon_0 r^4}\\\$"
+      ],
+      "respuesta_correcta": "\\\$T_{rr} = \\frac{q^2}{32\\pi^2 \\epsilon_0 r^4}\\\$",
+      "explicacion_detallada": "El campo de la carga puntual es \$\\mathbf{E} = \\frac{q}{4\\pi\\epsilon_0 r^2} \\hat{r}\$. El esfuerzo radial es la componente \$T_{rr}\$. Como \$E_r = E\$ y las componentes tangenciales son nulas, \$T_{rr} = \\epsilon_0 (E_r^2 - \\frac{1}{2} E_r^2) = \\frac{1}{2} \\epsilon_0 E^2\$. Sustituyendo \$E\$: \$T_{rr} = \\frac{1}{2} \\epsilon_0 \\left(\\frac{q}{4\\pi\\epsilon_0 r^2}\\right)^2 = \\frac{q^2}{32\\pi^2 \\epsilon_0 r^4}\$."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "Al considerar los potenciales retardados de Liénard-Wiechert para una carga puntual \$q\$ en movimiento con trayectoria \$\\mathbf{r}_0(t)\$ y velocidad \$\\mathbf{v}(t)\$, el potencial escalar \$\\Phi(\\mathbf{r}, t)\$ está dado por:",
+      "opciones": [
+        "\\\$\\Phi(\\mathbf{r}, t) = \\frac{q}{4\\pi\\epsilon_0} \\frac{1}{\\left[ R - \\frac{\\mathbf{v} \\cdot \\mathbf{R}}{c} \\right]_{t_{ret}}}\\$",
+        "\\\$\\Phi(\\mathbf{r}, t) = \\frac{q}{4\\pi\\epsilon_0} \\frac{1}{[R]_{t_{ret}}}\\$",
+        "\\\$\\Phi(\\mathbf{r}, t) = \\frac{q}{4\\pi\\epsilon_0} \\frac{\\gamma}{\\left[ R - \\frac{\\mathbf{v} \\cdot \\mathbf{R}}{c} \\right]_{t_{ret}}}\\$",
+        "\\\$\\Phi(\\mathbf{r}, t) = \\frac{q}{4\\pi\\epsilon_0} \\frac{1}{\\left[ R + \\frac{\\mathbf{v} \\cdot \\mathbf{R}}{c} \\right]_{t_{ret}}}\\\$"
+      ],
+      "respuesta_correcta": "\\\$\\Phi(\\mathbf{r}, t) = \\frac{q}{4\\pi\\epsilon_0} \\frac{1}{\\left[ R - \\frac{\\mathbf{v} \\cdot \\mathbf{R}}{c} \\right]_{t_{ret}}}\\\$",
+      "explicacion_detallada": "Se deduce de la solución de la ecuación de onda inhomogénea mediante funciones de Green retardadas. El factor en el denominador surge del Jacobiano de la transformación del tiempo de retardo \$t' = t - R(t')/c\$, que compensa la acumulación del potencial de una fuente móvil, dando como resultado el término característico de Doppler \$\\left[ R - \\frac{\\mathbf{v} \\cdot \\mathbf{R}}{c} \\right]\$ evaluado en el tiempo retardado."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "Para una distribución de carga localizada \$\\rho(\\mathbf{r}')\$, el momento multipolar eléctrico esférico \$q_{lm}\$ se define en términos de armónicos esféricos. Para el término monopolar \$l=0, m=0\$, \$q_{00}\$ es igual a:",
+      "opciones": [
+        "\\\$\\frac{1}{\\sqrt{4\\pi}} Q\\\$",
+        "\\\$Q\\\$",
+        "\\\$\\sqrt{4\\pi} Q\\\$",
+        "\\\$\\frac{1}{4\\pi} Q\\\$"
+      ],
+      "respuesta_correcta": "\\\$\\frac{1}{\\sqrt{4\\pi}} Q\\\$",
+      "explicacion_detallada": "La definición general es \$q_{lm} = \\int Y_{lm}^*(\\theta', \\phi') r'^l \\rho(\\mathbf{r}') d^3r'\$. Para el monopolo, \$l=0\$, \$m=0\$. Sabemos que \$Y_{00} = \\frac{1}{\\sqrt{4\\pi}}\$. Entonces \$q_{00} = \\int \\frac{1}{\\sqrt{4\\pi}} \\rho(\\mathbf{r}') d^3r' = \\frac{1}{\\sqrt{4\\pi}} \\int \\rho d^3r' = \\frac{Q}{\\sqrt{4\\pi}}\$."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "Un plano infinito en \$z = 0\$ separa el vacío (para \$z > 0\$) de un dieléctrico semi-infinito con permisividad \$\\epsilon_1 = \\epsilon_r \\epsilon_0\$ (para \$z < 0\$). Si se coloca una carga puntual \$q\$ en el vacío a una distancia \$d\$ del plano (en \$z = d\$), ¿cuál es la magnitud de la carga imagen \$q'\$ usada para calcular el potencial en la región \$z > 0\$?",
+      "opciones": [
+        "\\\$q' = -q \\frac{\\epsilon_r - 1}{\\epsilon_r + 1}\\\$",
+        "\\\$q' = -q \\frac{\\epsilon_r + 1}{\\epsilon_r - 1}\\\$",
+        "\\\$q' = q \\frac{\\epsilon_r - 1}{\\epsilon_r + 1}\\\$",
+        "\\\$q' = -q\\\$"
+      ],
+      "respuesta_correcta": "\\\$q' = -q \\frac{\\epsilon_r - 1}{\\epsilon_r + 1}\\\$",
+      "explicacion_detallada": "Al aplicar las condiciones de frontera para el potencial y la componente normal del desplazamiento dieléctrico en \$z = 0\$, el método de imágenes requiere una carga \$q'\$ en \$z = -d\$ para la región 1 (vacío) y una carga efectiva \$q''\$ en \$z = d\$ para la región 2. Imponiendo \$\\Phi_1 = \\Phi_2\$ y \$\\epsilon_0 \\frac{\\partial \\Phi_1}{\\partial z} = \\epsilon_1 \\frac{\\partial \\Phi_2}{\\partial z}\$ se llega a la solución de que \$q' = -q \\left(\\frac{\\epsilon_r - 1}{\\epsilon_r + 1}\\right)\$."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "¿Qué indica el teorema de Earnshaw sobre un sistema de cargas puntuales puramente electrostático?",
+      "opciones": [
+        "Es imposible mantener las cargas en equilibrio estable únicamente mediante fuerzas electrostáticas estáticas.",
+        "El campo eléctrico interior a un sistema de cargas en equilibrio debe ser cero.",
+        "La energía potencial de cualquier sistema de cargas estacionario es estrictamente negativa.",
+        "Un monopolo magnético puede proporcionar estabilidad al sistema electrostático."
+      ],
+      "respuesta_correcta": "Es imposible mantener las cargas en equilibrio estable únicamente mediante fuerzas electrostáticas estáticas.",
+      "explicacion_detallada": "El teorema de Earnshaw se deduce de la ecuación de Laplace (\$\\nabla^2 \\Phi = 0\$) en regiones sin carga. Un punto de equilibrio estable requeriría un mínimo local del potencial \$\\Phi\$. Sin embargo, las funciones armónicas no tienen máximos ni mínimos locales estables en regiones vacías (su Laplaciano no puede ser positivo en todas las direcciones); por tanto, no hay equilibrio estático estable."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "La autoenergía electrostática clásica \$U\$ de una carga puntual \$q\$ calculada considerando una esfera de radio \$R \\to 0\$ es:",
+      "opciones": [
+        "Infinita, divirtiendo como \$1/R\$.",
+        "Cero, porque una carga puntual no interactúa consigo misma.",
+        "Infinita, divirtiendo como \$1/R^2\$.",
+        "Finita, dada por \$\\frac{q^2}{4\\pi\\epsilon_0}\$."
+      ],
+      "respuesta_correcta": "Infinita, divirtiendo como \$1/R\$.",
+      "explicacion_detallada": "La energía ensamblada de una esfera de radio \$R\$ con carga uniformemente distribuida en el volumen es \$U = \\frac{3}{5} \\frac{1}{4\\pi\\epsilon_0} \\frac{q^2}{R}\$, y si la carga está en la superficie es \$U = \\frac{1}{2} \\frac{1}{4\\pi\\epsilon_0} \\frac{q^2}{R}\$. En ambos casos, el límite clásico a medida que \$R \\to 0\$ (para un electrón, por ejemplo) resulta en que la autoenergía diverge proporcional a \$1/R\$."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "En el contexto de la formulación de acción clásica para una partícula de masa \$m\$ y carga \$q\$ en un campo electromagnético caracterizado por un cuadripotencial \$A_\\mu\$, el Lagrangiano relativista de interacción \$L_{int}\$ es proporcional a:",
+      "opciones": [
+        "\\\$-q A_\\mu v^\\mu\\\$",
+        "\\\$q (E^2 - B^2)\\$",
+        "\\\$q A_\\mu A^\\mu\\\$",
+        "\\\$-q \\gamma A_\\mu v^\\mu\\\$"
+      ],
+      "respuesta_correcta": "\\\$-q A_\\mu v^\\mu\\\$",
+      "explicacion_detallada": "Para que la acción sea escalar bajo transformaciones de Lorentz, el término de acoplamiento mínimo entre la partícula y el campo se construye usando el cuadripotencial \$A_\\mu = (\\Phi/c, -\\mathbf{A})\$ y la cuadrivelocidad. La contribución al Lagrangiano viene dada por \$-q\\Phi + q\\mathbf{v}\\cdot\\mathbf{A}\$, que es exactamente proporcional al invariante relativista \$-q A_\\mu v^\\mu / \\gamma\$, simplificado en notación como el término de acoplamiento."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "Un plasma en equilibrio termodinámico que contiene electrones e iones presenta el fenómeno de apantallamiento de Debye. El potencial eléctrico promedio \$\\Phi(r)\$ de una carga de prueba \$q\$ inmersa en este plasma decae exponencialmente según:",
+      "opciones": [
+        "\\\$\\Phi(r) = \\frac{q}{4\\pi\\epsilon_0 r} e^{-r/\\lambda_D}\\\$",
+        "\\\$\\Phi(r) = \\frac{q}{4\\pi\\epsilon_0 r} e^{-r^2/\\lambda_D^2}\\\$",
+        "\\\$\\Phi(r) = \\frac{q}{4\\pi\\epsilon_0} \\frac{1}{r+\\lambda_D}\\$",
+        "\\\$\\Phi(r) = \\frac{q}{4\\pi\\epsilon_0 r} (1 - e^{-r/\\lambda_D})\\\$"
+      ],
+      "respuesta_correcta": "\\\$\\Phi(r) = \\frac{q}{4\\pi\\epsilon_0 r} e^{-r/\\lambda_D}\\\$",
+      "explicacion_detallada": "De la ecuación de Poisson-Boltzmann, asumiendo \$e\\Phi \\ll kT\$, se obtiene la ecuación diferencial \$\\nabla^2 \\Phi = \\Phi/\\lambda_D^2\$, donde \$\\lambda_D\$ es la longitud de Debye. La solución para una fuente puntual en el origen con simetría esférica, que se anula en el infinito, toma la forma del potencial de Yukawa: \$\\Phi(r) = \\frac{q}{4\\pi\\epsilon_0 r} e^{-r/\\lambda_D}\$."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "De acuerdo con la fórmula de Larmor, la potencia electromagnética no relativista \$P\$ irradiada por una carga puntual \$q\$ sujeta a una aceleración \$\\mathbf{a}\$ es:",
+      "opciones": [
+        "\\\$P = \\frac{q^2 |\\mathbf{a}|^2}{6\\pi \\epsilon_0 c^3}\\\$",
+        "\\\$P = \\frac{q^2 |\\mathbf{a}|^2}{4\\pi \\epsilon_0 c^2}\\\$",
+        "\\\$P = \\frac{q^2 |\\mathbf{a}|}{6\\pi \\epsilon_0 c^3}\\\$",
+        "\\\$P = \\frac{q^2 |\\mathbf{a}|^3}{12\\pi \\epsilon_0 c^4}\\\$"
+      ],
+      "respuesta_correcta": "\\\$P = \\frac{q^2 |\\mathbf{a}|^2}{6\\pi \\epsilon_0 c^3}\\\$",
+      "explicacion_detallada": "La fórmula de Larmor se obtiene integrando el vector de Poynting del campo de radiación (zona lejana) sobre una esfera límite. Como el campo eléctrico irradiado es proporcional a \$q a \\sin\\theta / r c^2\$, la densidad de potencia va como \$\\sin^2\\theta\$. Integrando \$\\sin^2\\theta\$ sobre el ángulo sólido resulta en el factor \$8\\pi/3\$, dando finalmente \$P = \\frac{\\mu_0 q^2 a^2}{6\\pi c} = \\frac{q^2 a^2}{6\\pi \\epsilon_0 c^3}\$."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "La radiación de Cherenkov ocurre cuando una partícula cargada viaja a través de un medio dieléctrico (índice de refracción \$n\$) a una velocidad \$v\$ mayor que la velocidad de fase de la luz en ese medio. El ángulo de emisión \$\\theta_c\$ del cono de Cherenkov respecto a la dirección del movimiento está dado por:",
+      "opciones": [
+        "\\\$\\cos \\theta_c = \\frac{c}{n v}\\\$",
+        "\\\$\\sin \\theta_c = \\frac{c}{n v}\\\$",
+        "\\\$\\cos \\theta_c = \\frac{n v}{c}\\\$",
+        "\\\$\\tan \\theta_c = \\frac{c}{n v}\\\$"
+      ],
+      "respuesta_correcta": "\\\$\\cos \\theta_c = \\frac{c}{n v}\\\$",
+      "explicacion_detallada": "Por un argumento puramente cinemático constructivo de frentes de onda de Huygens, en un tiempo \$t\$ la partícula recorre una distancia \$v t\$, mientras que la radiación avanza perpendicular al frente de onda cónico una distancia \$\\frac{c}{n} t\$. La relación geométrica del triángulo rectángulo formado exige que \$\\cos \\theta_c = \\frac{(c/n)t}{vt} = \\frac{c}{nv}\$."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "¿Cómo se expresa la densidad de carga libre \$\\rho_f\$ de un dieléctrico, en términos de la densidad de carga total \$\\rho\$ y el vector polarización \$\\mathbf{P}\$?",
+      "opciones": [
+        "\\\$\\rho_f = \\rho + \\nabla \\cdot \\mathbf{P}\\\$",
+        "\\\$\\rho_f = \\rho - \\nabla \\cdot \\mathbf{P}\\\$",
+        "\\\$\\rho_f = \\rho + \\nabla \\times \\mathbf{P}\\\$",
+        "\\\$\\rho_f = \\rho - \\nabla \\times \\mathbf{P}\\\$"
+      ],
+      "respuesta_correcta": "\\\$\\rho_f = \\rho + \\nabla \\cdot \\mathbf{P}\\\$",
+      "explicacion_detallada": "La carga total está compuesta por la carga libre y la carga ligada: \$\\rho = \\rho_f + \\rho_b\$. Sabemos que la densidad volumétrica de carga ligada, debido a la variación de la polarización, es \$\\rho_b = -\\nabla \\cdot \\mathbf{P}\$. Por tanto, \$\\rho = \\rho_f - \\nabla \\cdot \\mathbf{P} \\implies \\rho_f = \\rho + \\nabla \\cdot \\mathbf{P}\$."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "La fuerza entre dos dipolos eléctricos puros \$\\mathbf{p}_1\$ y \$\\mathbf{p}_2\$ separados por un vector de posición \$\\mathbf{r}\$ decae con la distancia \$r\$ proporcional a:",
+      "opciones": [
+        "\\\$1/r^4\\\$",
+        "\\\$1/r^3\\\$",
+        "\\\$1/r^5\\\$",
+        "\\\$1/r^2\\\$"
+      ],
+      "respuesta_correcta": "\\\$1/r^4\\\$",
+      "explicacion_detallada": "El campo eléctrico creado por un dipolo \$\\mathbf{p}_1\$ decae como \$1/r^3\$. La fuerza sobre un segundo dipolo \$\\mathbf{p}_2\$ en este campo es \$\\mathbf{F} = (\\mathbf{p}_2 \\cdot \\nabla) \\mathbf{E}_1\$. Como el operador gradiente introduce una derivada espacial adicional (factor de \$1/r\$), la dependencia resultante de la fuerza dipolar-dipolar es estrictamente \$1/r^4\$."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "La ecuación de continuidad electromagnética clásica se escribe como \$\\nabla \\cdot \\mathbf{J} + \\frac{\\partial \\rho}{\\partial t} = 0\$. En la electrodinámica relativista, este principio de conservación de la carga asume la forma de nulidad de la cuadridivergencia de corriente. ¿Cuál es su notación tensorial equivalente?",
+      "opciones": [
+        "\\\$\\partial_\\mu J^\\mu = 0\\\$",
+        "\\\$\\partial^\\mu J_\\mu = 0\\\$",
+        "Ambas A y B representan la misma conservación de carga.",
+        "\\\$\\partial_\\mu J_\\nu - \\partial_\\nu J_\\mu = 0\\\$"
+      ],
+      "respuesta_correcta": "Ambas A y B representan la misma conservación de carga.",
+      "explicacion_detallada": "La divergencia cuadridimensional está dada por \$\\partial_\\mu J^\\mu = \\frac{\\partial J^0}{\\partial x^0} + \\nabla \\cdot \\mathbf{J} = c^{-1}\\frac{\\partial (c\\rho)}{\\partial t} + \\nabla \\cdot \\mathbf{J} = \\frac{\\partial \\rho}{\\partial t} + \\nabla \\cdot \\mathbf{J} = 0\$. Por convención tensorial geométrica, como la divergencia es un escalar invariante, \$\\partial_\\mu J^\\mu = \\partial^\\mu J_\\mu\$, así que ambas notaciones son correctas."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "Considere la Función de Green Dirichlet \$G_D(\\mathbf{r}, \\mathbf{r}')\$ para la ecuación de Poisson en un volumen \$V\$ delimitado por una superficie conductora a tierra \$S\$. El potencial eléctrico \$\\Phi(\\mathbf{r})\$ causado por una distribución de carga \$\\rho(\\mathbf{r}')\$ contenida en \$V\$ está dado por:",
+      "opciones": [
+        "\\\$\\Phi(\\mathbf{r}) = \\frac{1}{\\epsilon_0} \\int_V \\rho(\\mathbf{r}') G_D(\\mathbf{r}, \\mathbf{r}') d^3r'\\\$",
+        "\\\$\\Phi(\\mathbf{r}) = \\frac{1}{4\\pi\\epsilon_0} \\int_V \\rho(\\mathbf{r}') G_D(\\mathbf{r}, \\mathbf{r}') d^3r'\\\$",
+        "\\\$\\Phi(\\mathbf{r}) = \\int_V \\rho(\\mathbf{r}') G_D(\\mathbf{r}, \\mathbf{r}') d^3r'\\\$",
+        "\\\$\\Phi(\\mathbf{r}) = -\\frac{1}{\\epsilon_0} \\int_V \\rho(\\mathbf{r}') \\nabla' G_D(\\mathbf{r}, \\mathbf{r}') d^3r'\\\$"
+      ],
+      "respuesta_correcta": "\\\$\\Phi(\\mathbf{r}) = \\frac{1}{\\epsilon_0} \\int_V \\rho(\\mathbf{r}') G_D(\\mathbf{r}, \\mathbf{r}') d^3r'\\\$",
+      "explicacion_detallada": "Al definir la Función de Green de modo que \$-\\nabla^2 G = \\delta^3(\\mathbf{r}-\\mathbf{r}')\$, el desarrollo de la identidad de Green utilizando condiciones Dirichlet (donde \$G_D=0\$ en \$S\$ y \$\\Phi=0\$ en \$S\$) anula la integral de superficie. El resultado para el potencial interior simplifica a \$\\Phi(\\mathbf{r}) = \\frac{1}{\\epsilon_0} \\int_V \\rho(\\mathbf{r}') G_D(\\mathbf{r}, \\mathbf{r}') d^3r'\$."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "En mecánica cuántica relativista, la ecuación de Dirac describe un electrón bajo un campo electromagnético \$A_\\mu\$. ¿Qué término extra se identifica tras tomar el límite no relativista (ecuación de Pauli) con respecto a la ecuación de Schrödinger, evidenciando una propiedad intrínseca de la carga eléctrica ligada al espín?",
+      "opciones": [
+        "El acoplamiento espín-órbita de Thomas y la interacción magnética de Pauli \$-\\frac{e\\hbar}{2m} \\boldsymbol{\\sigma} \\cdot \\mathbf{B}\$.",
+        "El término del potencial armónico del oscilador.",
+        "Un término cuadripolar escalar proporcional a \$E^2\$.",
+        "La interacción dipolar eléctrica pura."
+      ],
+      "respuesta_correcta": "El acoplamiento espín-órbita de Thomas y la interacción magnética de Pauli \$-\\frac{e\\hbar}{2m} \\boldsymbol{\\sigma} \\cdot \\mathbf{B}\$.",
+      "explicacion_detallada": "Mediante la transformación de Foldy-Wouthuysen o el desarrollo directo de la ecuación de Dirac a bajas energías, el hamiltoniano no relativista resultante no solo presenta el acoplamiento mínimo canónico, sino que exhibe de forma natural el momento magnético intrínseco del espín interactuando con el campo \$\\mathbf{B}\$ (ecuación de Pauli con el factor giromagnético \$g \\approx 2\$) y las correcciones de estructura fina (interacción espín-órbita y término de Darwin)."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "La dependencia de la carga neta encerrada \$Q_{enc}\$ en un condensador de armaduras esféricas (radios interior \$a\$ y exterior \$b\$) respecto a la diferencia de potencial \$V\$ entre ellas es \$Q_{enc} = C V\$. ¿Cuál es el valor analítico de \$C\$ asumiendo un vacío dieléctrico?",
+      "opciones": [
+        "\\\$4\\pi\\epsilon_0 \\frac{ab}{b-a}\\\$",
+        "\\\$4\\pi\\epsilon_0 (b-a)\\\$",
+        "\\\$4\\pi\\epsilon_0 \\frac{a+b}{ab}\\\$",
+        "\\\$2\\pi\\epsilon_0 \\frac{ab}{b-a}\\\$"
+      ],
+      "respuesta_correcta": "\\\$4\\pi\\epsilon_0 \\frac{ab}{b-a}\\\$",
+      "explicacion_detallada": "Por la ley de Gauss, el campo radial entre las armaduras (con carga interior \$Q\$) es \$E = \\frac{Q}{4\\pi\\epsilon_0 r^2}\$. La diferencia de potencial es \$V = \\int_a^b E dr = \\frac{Q}{4\\pi\\epsilon_0} \\left(\\frac{1}{a} - \\frac{1}{b}\\right) = \\frac{Q}{4\\pi\\epsilon_0} \\frac{b-a}{ab}\$. Resolviendo para \$Q/V\$, se obtiene \$C = 4\\pi\\epsilon_0 \\frac{ab}{b-a}\$."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "El teorema de fluctuación-disipación establece un vínculo entre el ruido térmico de la carga eléctrica (fluctuaciones de Nyquist-Johnson) en un circuito y su componente disipativa. ¿Cómo se expresa la densidad espectral de voltaje en estado de equilibrio térmico \$S_V(\\omega)\$ para una resistencia \$R\$ clásica a temperatura \$T\$?",
+      "opciones": [
+        "\\\$S_V(\\omega) = 4 k_B T R\\\$",
+        "\\\$S_V(\\omega) = 2 k_B T R\\\$",
+        "\\\$S_V(\\omega) = 4 k_B T / R\\\$",
+        "\\\$S_V(\\omega) = k_B T R / \\pi\\\$"
+      ],
+      "respuesta_correcta": "\\\$S_V(\\omega) = 4 k_B T R\\\$",
+      "explicacion_detallada": "El teorema de Nyquist estipula que las fluctuaciones térmicas espontáneas (ruido blanco en bajas frecuencias) de los portadores de carga dentro de un material ohmico se manifiestan como una varianza en el voltaje. Derivado de consideraciones estadísticas sobre la densidad de estados, la densidad espectral unilateral de la potencia de ruido de tensión resulta ser independiente de la frecuencia (espectro blanco) e igual a \$4 k_B T R\$."
+    },
+    {
+      "materia": "Ciencias Naturales",
+      "codigo_tema": "3.7.6",
+      "enunciado": "Para analizar el campo eléctrico de cargas macroscópicas distribuidas uniformemente en un hilo rectilíneo infinito con densidad lineal \$\\lambda\$, usando coordenadas cilíndricas, ¿cuál es el operador divergencia en el desarrollo diferencial que confirma el teorema de Gauss en la cercanía externa del hilo?",
+      "opciones": [
+        "\\\$\\frac{1}{r} \\frac{\\partial}{\\partial r}(r E_r) = \\frac{\\lambda}{\\epsilon_0} \\delta^2(\\mathbf{r}_\\perp)\\$",
+        "\\\$\\frac{\\partial E_r}{\\partial r} = \\frac{\\lambda}{\\epsilon_0 r}\\$",
+        "\\\$\\nabla^2 E_r = 0\\\$",
+        "\\\$\\frac{\\partial}{\\partial r}(r E_r) = \\lambda / \\epsilon_0\\\$"
+      ],
+      "respuesta_correcta": "\\\$\\frac{1}{r} \\frac{\\partial}{\\partial r}(r E_r) = \\frac{\\lambda}{\\epsilon_0} \\delta^2(\\mathbf{r}_\\perp)\\\$",
+      "explicacion_detallada": "Dado que el campo posee simetría radial \$E_r = \\frac{\\lambda}{2\\pi\\epsilon_0 r}\$, para \$r > 0\$ se cumple \$\\nabla \\cdot \\mathbf{E} = \\frac{1}{r}\\frac{\\partial}{\\partial r}\\left(r \\frac{\\lambda}{2\\pi\\epsilon_0 r}\\right) = 0\$. Sin embargo, en el origen (\$r=0\$) se halla la carga. Formulado distribucionalmente en el plano transversal \$\\mathbf{r}_\\perp\$, la ecuación de Maxwell exige \$\\nabla \\cdot \\mathbf{E} = \\rho/\\epsilon_0 = (\\lambda / \\epsilon_0) \\delta(x)\\delta(y) = (\\lambda / \\epsilon_0) \\delta^2(\\mathbf{r}_\\perp)\$."
+    }
+  ];
+
+  final file = File('c:/Users/diego/Desktop/ExamenCuenca/app_ucuenca/assets/data/gen_q_376.json');
+  if (!await file.parent.exists()) {
+    await file.parent.create(recursive: true);
+  }
+  
+  final jsonString = jsonEncode(data);
+  await file.writeAsString(jsonString);
+  print('Generado exitosamente.');
+}

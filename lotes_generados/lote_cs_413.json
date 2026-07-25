@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cs_413_001",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.1.3",
+    "tituloSubtema": "Civilizaciones clásicas del mediterráneo",
+    "enunciado": "La democracia ateniense, considerada uno de los legados políticos más importantes de la Antigua Grecia, se diferenciaba de las democracias modernas principalmente porque:",
+    "opciones": [
+      "Era una democracia directa donde los ciudadanos varones libres participaban en la asamblea, excluyendo a mujeres, esclavos y extranjeros.",
+      "Permitía la participación política de todos los habitantes de la polis, sin distinción de género o condición social.",
+      "Se basaba en un sistema representativo donde los ciudadanos elegían a sus representantes para el senado por periodos de cuatro años.",
+      "Establecía que los gobernantes debían ser elegidos exclusivamente por la clase militar para garantizar la defensa de la polis."
+    ],
+    "respuesta_correcta": "Era una democracia directa donde los ciudadanos varones libres participaban en la asamblea, excluyendo a mujeres, esclavos y extranjeros.",
+    "explicacion_detallada": "La democracia en Atenas era directa, lo que significa que los ciudadanos participaban directamente en la toma de decisiones en la Asamblea (Ekklesía). Sin embargo, era excluyente: solo los varones libres nacidos en Atenas (ciudadanos) tenían derechos políticos. Mujeres, metecos (extranjeros) y esclavos estaban completamente excluidos del proceso político.",
+    "pasos_resolucion": [
+      "Analizar el concepto de democracia ateniense y sus características fundamentales.",
+      "Identificar los grupos sociales que tenían derechos políticos en Atenas (ciudadanos varones libres).",
+      "Comparar la democracia ateniense (directa y excluyente) con los postulados de las opciones presentadas para encontrar la descripción históricamente correcta."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_413_002",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.1.3",
+    "tituloSubtema": "Civilizaciones clásicas del mediterráneo",
+    "enunciado": "¿Cuál de las siguientes instituciones de la Antigua Roma fue fundamental durante la República y estaba compuesta originalmente solo por patricios, encargándose de dirigir la política exterior y las finanzas?",
+    "opciones": [
+      "El Senado",
+      "La Asamblea de la Plebe",
+      "El Triunvirato",
+      "Los Comicios Centuriados"
+    ],
+    "respuesta_correcta": "El Senado",
+    "explicacion_detallada": "El Senado romano fue la institución política más importante durante la República (509 a.C. - 27 a.C.). Originalmente compuesto por patricios (jefes de las familias más importantes), controlaba las finanzas, la política exterior, la religión y ratificaba las leyes. Era un órgano consultivo pero con inmenso poder.",
+    "pasos_resolucion": [
+      "Identificar el periodo histórico (la República romana) y la función de la institución (política exterior y finanzas).",
+      "Recordar las instituciones políticas romanas: el Senado era el consejo de ancianos patricios con máximo poder y prestigio.",
+      "Descartar las otras opciones: la Asamblea de la Plebe defendía a los plebeyos, los Comicios Centuriados eran asambleas de ciudadanos-soldados, y el Triunvirato fue una alianza política tardía."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_413_003",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.1.3",
+    "tituloSubtema": "Civilizaciones clásicas del mediterráneo",
+    "enunciado": "La expansión del Imperio Romano en el Mediterráneo trajo consigo un proceso de asimilación cultural en los territorios conquistados. ¿Cómo se conoce históricamente a este proceso de adopción de las costumbres, idioma y leyes de Roma?",
+    "opciones": [
+      "Romanización",
+      "Helenización",
+      "Sincretismo",
+      "Feudalización"
+    ],
+    "respuesta_correcta": "Romanización",
+    "explicacion_detallada": "La Romanización es el proceso histórico mediante el cual los pueblos conquistados por Roma asimilaron progresivamente su cultura, idioma (el latín), leyes (Derecho Romano), religión, arquitectura y modos de vida. Fue un mecanismo clave para mantener la cohesión del vasto Imperio.",
+    "pasos_resolucion": [
+      "Identificar la civilización en cuestión (Roma) y su impacto cultural en los territorios conquistados.",
+      "Asociar el concepto de asimilación a la cultura romana con el término específico: Romanización.",
+      "Descartar 'Helenización' (relativo a Grecia), 'Sincretismo' (mezcla general de culturas) y 'Feudalización' (proceso medieval)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_413_004",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.1.3",
+    "tituloSubtema": "Civilizaciones clásicas del mediterráneo",
+    "enunciado": "El legado cultural de la Antigua Grecia es fundamental para la civilización occidental. ¿Cuál de los siguientes filósofos griegos propuso el método de la mayéutica, basado en el diálogo y las preguntas, para alcanzar el conocimiento?",
+    "opciones": [
+      "Sócrates",
+      "Platón",
+      "Aristóteles",
+      "Pitágoras"
+    ],
+    "respuesta_correcta": "Sócrates",
+    "explicacion_detallada": "Sócrates fue el filósofo griego que desarrolló el método de la mayéutica (que significa literalmente 'dar a luz'). Este método consistía en realizar preguntas sucesivas a su interlocutor para que este, por sí mismo, 'diera a luz' a la verdad o al conocimiento que yacía en su interior.",
+    "pasos_resolucion": [
+      "Relacionar el método filosófico mencionado (mayéutica) con su creador.",
+      "Recordar que Sócrates no dejó obras escritas y enseñaba a través del diálogo y el cuestionamiento (método socrático o mayéutica).",
+      "Diferenciar a Sócrates de Platón (teoría de las ideas) y Aristóteles (lógica formal, empirismo)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_413_005",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.1.3",
+    "tituloSubtema": "Civilizaciones clásicas del mediterráneo",
+    "enunciado": "La organización socioeconómica de la Antigua Roma dependía estructuralmente de un sector particular de la población que realizaba la mayor parte del trabajo agrícola, doméstico y artesanal, sin gozar de derechos civiles. ¿A qué grupo social se refiere esta descripción?",
+    "opciones": [
+      "Los esclavos",
+      "Los patricios",
+      "Los plebeyos",
+      "Los libertos"
+    ],
+    "respuesta_correcta": "Los esclavos",
+    "explicacion_detallada": "La economía romana era fundamentalmente esclavista. Los esclavos eran considerados propiedad (res) y carecían de derechos civiles. Eran prisioneros de guerra, personas endeudadas o hijos de esclavos, y constituían la fuerza de trabajo principal en las latifundios, minas y hogares romanos, sosteniendo toda la estructura económica del Imperio.",
+    "pasos_resolucion": [
+      "Analizar las características del grupo descrito: realizan trabajo pesado, sostienen la economía y carecen de derechos.",
+      "Identificar el sistema económico de la antigüedad clásica (modo de producción esclavista).",
+      "Concluir que los esclavos eran quienes cumplían con este rol, diferenciándolos de patricios (élite), plebeyos (ciudadanos comunes) y libertos (esclavos liberados)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_413_006",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.1.3",
+    "tituloSubtema": "Civilizaciones clásicas del mediterráneo",
+    "enunciado": "Una de las contribuciones más perdurables de la Antigua Roma a la civilización occidental actual es su sistema normativo. ¿Cuál fue el primer cuerpo legal escrito de Roma, surgido como resultado de las luchas entre patricios y plebeyos?",
+    "opciones": [
+      "La Ley de las Doce Tablas",
+      "El Código de Hammurabi",
+      "El Corpus Iuris Civilis",
+      "Las Leyes de Solón"
+    ],
+    "respuesta_correcta": "La Ley de las Doce Tablas",
+    "explicacion_detallada": "La Ley de las Doce Tablas (Lex Duodecim Tabularum), redactada en el siglo V a.C. (aprox. 450 a.C.), fue el primer código legal escrito de Roma. Fue una victoria de la plebe para evitar los abusos de los magistrados patricios, garantizando que las leyes fueran públicas, conocidas y aplicables de forma más equitativa.",
+    "pasos_resolucion": [
+      "Identificar el contexto: Roma antigua, conflicto entre patricios y plebeyos, y la exigencia de leyes escritas.",
+      "Reconocer La Ley de las Doce Tablas como la primera legislación escrita de Roma.",
+      "Descartar el Código de Hammurabi (Mesopotamia), el Corpus Iuris Civilis (Bizancio/Justiniano, muy posterior) y las Leyes de Solón (Atenas)."
+    ],
+    "video_explicativo_url": ""
+  }
+]

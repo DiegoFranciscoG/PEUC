@@ -1,0 +1,202 @@
+[
+  {
+    "id": "cs_413_ex_013",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "En la antigua Grecia, el modelo político de Atenas se caracterizó por la participación directa de sus ciudadanos en la toma de decisiones. ¿Cuál de los siguientes personajes históricos es considerado el principal consolidador de la democracia ateniense durante su 'Siglo de Oro'?",
+    "opciones": [
+      "Pericles",
+      "Alejandro Magno",
+      "Julio César",
+      "Homero"
+    ],
+    "respuesta_correcta": "Pericles",
+    "explicacion_detallada": "Pericles (c. 495-429 a.C.) fue el estratega y político más importante de Atenas durante su época de mayor esplendor, conocida como el 'Siglo de Pericles'. Consolidó el sistema democrático permitiendo que ciudadanos de clases bajas pudieran acceder a cargos públicos y fomentó el desarrollo de las artes y la cultura.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar el contexto geográfico y temporal: Atenas durante su apogeo democrático.",
+      "Paso 2: Reconocer a los personajes: Homero fue un poeta, Alejandro Magno fue de Macedonia y Julio César romano.",
+      "Paso 3: Concluir que Pericles fue el líder ateniense clave en la consolidación de la democracia."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_413_ex_014",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "A diferencia de Atenas, la polis de Esparta se distinguió por tener un sistema político y social fuertemente militarizado. ¿Cuál era el sistema de gobierno que regía en Esparta, caracterizado por el poder en manos de unos pocos y la diarquía?",
+    "opciones": [
+      "Oligarquía",
+      "Democracia directa",
+      "Tiranía",
+      "Monarquía absoluta"
+    ],
+    "respuesta_correcta": "Oligarquía",
+    "explicacion_detallada": "Esparta estaba gobernada por un sistema oligárquico (gobierno de unos pocos), dominado por una élite militar (los espartíatas). Su gobierno incluía dos reyes (diarquía), pero el verdadero poder radicaba en el consejo de ancianos (Gerusía) y los cinco éforos.",
+    "pasos_resolucion": [
+      "Paso 1: Contrastar Esparta con Atenas. Si Atenas es el modelo de democracia, Esparta representa un modelo más autoritario y selectivo.",
+      "Paso 2: Definir oligarquía como el gobierno en el que el poder es ejercido por un grupo reducido de personas de la misma clase social (en este caso, la élite militar espartana).",
+      "Paso 3: Seleccionar 'Oligarquía' como la respuesta correcta."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_413_ex_015",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "La filosofía griega clásica sentó las bases del pensamiento occidental. ¿Qué filósofo griego propuso el método de la 'mayéutica', basado en el diálogo y la formulación de preguntas para que el interlocutor descubra la verdad por sí mismo?",
+    "opciones": [
+      "Sócrates",
+      "Platón",
+      "Aristóteles",
+      "Pitágoras"
+    ],
+    "respuesta_correcta": "Sócrates",
+    "explicacion_detallada": "Sócrates desarrolló el método socrático, cuya fase principal es la mayéutica (literalmente 'dar a luz'). Mediante preguntas hábilmente formuladas, Sócrates guiaba a sus discípulos para que ellos mismos 'dieran a luz' a las ideas y verdades que ya poseían en su interior.",
+    "pasos_resolucion": [
+      "Paso 1: Recordar a los tres grandes filósofos atenienses: Sócrates, Platón y Aristóteles.",
+      "Paso 2: Asociar a Sócrates con su método dialógico de preguntas y respuestas, ya que no dejó obra escrita y su enseñanza era oral.",
+      "Paso 3: Identificar que la 'mayéutica' es el nombre específico de este método socrático."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_413_ex_016",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "Durante el periodo de la República Romana, la sociedad estaba profundamente dividida, lo que generó constantes conflictos sociales. ¿Cuáles fueron los dos grupos sociales principales cuyas tensiones impulsaron la creación de magistraturas y leyes escritas?",
+    "opciones": [
+      "Patricios y Plebeyos",
+      "Ciudadanos y Metecos",
+      "Señores feudales y Siervos",
+      "Espartíatas y Helotas"
+    ],
+    "respuesta_correcta": "Patricios y Plebeyos",
+    "explicacion_detallada": "La historia de la República Romana está marcada por el conflicto de los órdenes. Los patricios eran la aristocracia terrateniente con plenos derechos políticos, mientras que los plebeyos eran la masa trabajadora (campesinos, artesanos) que carecía inicialmente de derechos políticos, por los cuales lucharon durante siglos.",
+    "pasos_resolucion": [
+      "Paso 1: Descartar 'Ciudadanos y Metecos' (Atenas), 'Señores y Siervos' (Edad Media) y 'Espartíatas y Helotas' (Esparta).",
+      "Paso 2: Relacionar 'Patricios' (descendientes de los fundadores de Roma) y 'Plebeyos' (el pueblo llano) con la estructura social romana.",
+      "Paso 3: Confirmar que el conflicto entre ellos generó las reformas republicanas."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_413_ex_017",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "El paso de la República al Imperio Romano trajo consigo un largo periodo de relativa paz, desarrollo económico y expansión cultural en los territorios conquistados. ¿Con qué nombre se conoce a este periodo inaugurado por Augusto?",
+    "opciones": [
+      "Pax Romana",
+      "Guerras Púnicas",
+      "Helenismo",
+      "Tetrarquía"
+    ],
+    "respuesta_correcta": "Pax Romana",
+    "explicacion_detallada": "La 'Pax Romana' (Paz Romana) fue un largo período de relativa paz y estabilidad en el Imperio Romano, que duró aproximadamente 200 años, desde el inicio del reinado de Augusto (27 a.C.) hasta la muerte del emperador Marco Aurelio (180 d.C.).",
+    "pasos_resolucion": [
+      "Paso 1: Analizar el término que sugiere paz y estabilidad dentro del Imperio Romano.",
+      "Paso 2: Descartar las Guerras Púnicas (período de guerra republicana) y el Helenismo (período griego).",
+      "Paso 3: Seleccionar 'Pax Romana', el término histórico aceptado para esta era de prosperidad."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_413_ex_018",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "Uno de los mayores legados de la civilización romana a la humanidad es su sistema jurídico. ¿Cuál fue el primer cuerpo de leyes escritas de Roma, creado para garantizar la igualdad legal entre patricios y plebeyos?",
+    "opciones": [
+      "Ley de las XII Tablas",
+      "Código de Hammurabi",
+      "Corpus Iuris Civilis",
+      "Edicto de Milán"
+    ],
+    "respuesta_correcta": "Ley de las XII Tablas",
+    "explicacion_detallada": "La Ley de las XII Tablas (aprox. 450 a.C.) fue la primera codificación de la ley romana. Su publicación fue un triunfo para los plebeyos, ya que al estar las leyes escritas y exhibidas públicamente, los jueces patricios no podían aplicarlas arbitrariamente.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar que se pregunta por el PRIMER cuerpo legal romano (República).",
+      "Paso 2: Descartar el Código de Hammurabi (Mesopotamia) y el Edicto de Milán (libertad religiosa cristiana).",
+      "Paso 3: Diferenciar entre las XII Tablas (primer código) y el Corpus Iuris Civilis (compilación bizantina muy posterior). Elegir las XII Tablas."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_413_ex_019",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "El año 476 d.C. marca tradicionalmente el fin del Imperio Romano de Occidente y el inicio de la Edad Media. ¿Cuál fue la causa directa que precipitó su caída definitiva en esa fecha?",
+    "opciones": [
+      "La deposición del último emperador romano por parte de los pueblos germánicos",
+      "La invasión del Imperio Persa a la ciudad de Roma",
+      "La división del imperio realizada por Teodosio",
+      "La erupción del Monte Vesubio y la destrucción de Pompeya"
+    ],
+    "respuesta_correcta": "La deposición del último emperador romano por parte de los pueblos germánicos",
+    "explicacion_detallada": "En el año 476 d.C., el jefe germano Odoacro depuso al último emperador romano de Occidente, Rómulo Augústulo. Aunque el imperio estaba debilitado por múltiples causas (crisis económica, inestabilidad política), este evento marca el colapso político definitivo del lado occidental.",
+    "pasos_resolucion": [
+      "Paso 1: Recordar los eventos del siglo V d.C. relacionados con las llamadas invasiones bárbaras.",
+      "Paso 2: Identificar a Rómulo Augústulo como el último emperador, destituido por Odoacro (líder germánico).",
+      "Paso 3: Seleccionar la opción que describe esta destitución por parte de los pueblos germánicos."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_413_ex_020",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "Roma logró consolidar su hegemonía en el Mediterráneo occidental tras derrotar a una gran potencia naval y comercial del norte de África en un conjunto de conflictos conocidos como las Guerras Púnicas. ¿Cuál era el nombre de esta ciudad-estado enemiga de Roma?",
+    "opciones": [
+      "Cartago",
+      "Atenas",
+      "Alejandría",
+      "Troya"
+    ],
+    "respuesta_correcta": "Cartago",
+    "explicacion_detallada": "Cartago era una poderosa ciudad estado fenicia situada en el norte de África (actual Túnez). Roma y Cartago se enfrentaron en tres Guerras Púnicas (264-146 a.C.) por el control del Mediterráneo. Roma resultó victoriosa, destruyendo Cartago en la tercera guerra.",
+    "pasos_resolucion": [
+      "Paso 1: Localizar la potencia rival de Roma en el norte de África durante las Guerras Púnicas.",
+      "Paso 2: Atenas, Alejandría y Troya se ubican en el Mediterráneo Oriental.",
+      "Paso 3: Identificar a Cartago como la potencia del Mediterráneo Occidental que fue derrotada por Roma."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_413_ex_021",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "Tras la unificación de Grecia por el reino de Macedonia, un joven líder militar llevó a cabo una expansión sin precedentes, conquistando el Imperio Persa, Egipto y llegando hasta la frontera de la India. ¿Quién fue este monarca macedonio?",
+    "opciones": [
+      "Alejandro Magno",
+      "Filipo II",
+      "Julio César",
+      "Augusto"
+    ],
+    "respuesta_correcta": "Alejandro Magno",
+    "explicacion_detallada": "Alejandro Magno (o Alejandro III de Macedonia) sucedió a su padre Filipo II. En pocos años, lideró una de las mayores campañas militares de la antigüedad, conquistando el vasto Imperio Persa y difundiendo la cultura griega por el mundo oriental.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar a los reyes macedonios. Julio César y Augusto son romanos.",
+      "Paso 2: Diferenciar entre Filipo II (quien unificó Grecia) y su hijo Alejandro (quien conquistó Persia y llegó a la India).",
+      "Paso 3: Seleccionar a Alejandro Magno como el líder de esta expansión sin precedentes."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_413_ex_022",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "Las conquistas macedónicas propiciaron un periodo histórico caracterizado por la síntesis y fusión de la cultura griega clásica con las culturas orientales (persa, egipcia, mesopotámica). ¿Cómo se denomina a este fenómeno cultural y periodo histórico?",
+    "opciones": [
+      "Helenismo",
+      "Romanización",
+      "Renacimiento",
+      "Oscurantismo"
+    ],
+    "respuesta_correcta": "Helenismo",
+    "explicacion_detallada": "El Helenismo o periodo helenístico inició con la muerte de Alejandro Magno (323 a.C.). Se caracteriza por la expansión y asimilación de la civilización y el idioma griegos (los helenos) en todo el Mediterráneo oriental y el Cercano Oriente, mezclándose con elementos locales.",
+    "pasos_resolucion": [
+      "Paso 1: Relacionar la expansión de la cultura griega (hélade/helenos) con un término derivado.",
+      "Paso 2: Descartar 'Romanización' (cultura romana), 'Renacimiento' (Europa siglos XV-XVI) y 'Oscurantismo'.",
+      "Paso 3: Concluir que el 'Helenismo' es el término que define esta fusión cultural greco-oriental."
+    ],
+    "video_explicativo_url": ""
+  }
+]

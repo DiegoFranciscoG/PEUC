@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cs_451_ex_001",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "La civilización maya destacó por sus avanzados conocimientos en astronomía y matemáticas. ¿Cuál de los siguientes logros es atribuido fundamentalmente a esta cultura?",
+    "opciones": [
+      "La creación de un calendario exacto basado en la observación del sol y la luna.",
+      "La invención de la rueda para el transporte de grandes bloques de piedra.",
+      "El desarrollo de la metalurgia del hierro para fabricar armas.",
+      "La construcción de chinampas para la agricultura intensiva."
+    ],
+    "respuesta_correcta": "La creación de un calendario exacto basado en la observación del sol y la luna.",
+    "explicacion_detallada": "Los mayas desarrollaron uno de los sistemas calendáricos más precisos de la antigüedad, combinando un calendario solar (Haab) y uno ritual (Tzolkin), demostrando profundos conocimientos astronómicos y matemáticos.",
+    "pasos_resolucion": [
+      "Identificar la característica principal por la que los mayas son reconocidos científicamente.",
+      "Descartar las chinampas (aztecas) y el hierro (no desarrollado en América precolombina).",
+      "Seleccionar el calendario solar y lunar como logro maya."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_451_ex_002",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "El Imperio azteca estableció su capital en una isla en el centro del lago Texcoco. ¿Cuál fue el nombre de esta imponente ciudad, que a la llegada de los españoles era una de las más grandes del mundo?",
+    "opciones": [
+      "Tenochtitlán",
+      "Cuzco",
+      "Chichén Itzá",
+      "Tikal"
+    ],
+    "respuesta_correcta": "Tenochtitlán",
+    "explicacion_detallada": "Tenochtitlán fue la capital del Imperio azteca (mexica), fundada en 1325 en el lago Texcoco, actual Ciudad de México. Cuzco fue la capital inca; Chichén Itzá y Tikal fueron ciudades mayas.",
+    "pasos_resolucion": [
+      "Recordar la ubicación de la capital azteca (lago Texcoco).",
+      "Identificar el nombre de la ciudad azteca entre las opciones (Tenochtitlán).",
+      "Descartar ciudades incas y mayas."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_451_ex_003",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "El Tahuantinsuyo, máxima expresión política del Imperio incaico, fue dividido en cuatro grandes regiones para su mejor administración. ¿Cuál fue el principal gobernante responsable de su gran expansión y organización imperial?",
+    "opciones": [
+      "Pachacútec",
+      "Moctezuma",
+      "Atahualpa",
+      "Manco Cápac"
+    ],
+    "respuesta_correcta": "Pachacútec",
+    "explicacion_detallada": "Pachacútec es considerado el verdadero organizador y transformador del curacazgo inca en el Imperio del Tahuantinsuyo, iniciando la gran expansión territorial y la estructuración del Estado.",
+    "pasos_resolucion": [
+      "Identificar al emperador inca asociado con la transformación en imperio.",
+      "Diferenciar a Pachacútec de Manco Cápac (fundador mítico) y Atahualpa (último soberano).",
+      "Reconocer a Pachacútec como el gran reformador."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_451_ex_004",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "En la historia de las culturas precolombinas del actual Ecuador, la cultura Valdivia (3500-1500 a.C.) es de gran importancia. ¿Por qué se destaca principalmente esta cultura en el registro arqueológico?",
+    "opciones": [
+      "Por ser una de las primeras en desarrollar la cerámica en el continente americano, destacando las 'Venus'.",
+      "Por construir grandes pirámides de piedra similares a las mesoamericanas.",
+      "Por su avanzado sistema de escritura jeroglífica.",
+      "Por conformar el primer imperio militar de los Andes septentrionales."
+    ],
+    "respuesta_correcta": "Por ser una de las primeras en desarrollar la cerámica en el continente americano, destacando las 'Venus'.",
+    "explicacion_detallada": "La cultura Valdivia, asentada en la costa ecuatoriana, es célebre por su antiquísima cerámica, considerada entre las más antiguas de América, y sus figurillas femeninas conocidas como 'Venus de Valdivia'.",
+    "pasos_resolucion": [
+      "Recordar las características del Período Formativo en Ecuador.",
+      "Asociar a la cultura Valdivia con la cerámica temprana y las figurillas femeninas.",
+      "Descartar la escritura jeroglífica (mayas) y pirámides de piedra (mesoamérica/andes centrales)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_451_ex_005",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "La caída de Tenochtitlán en 1521 marcó el fin del Imperio azteca. ¿Qué conquistador español lideró la expedición militar que logró esta conquista con la ayuda de pueblos indígenas aliados?",
+    "opciones": [
+      "Hernán Cortés",
+      "Francisco Pizarro",
+      "Pedro de Alvarado",
+      "Diego de Almagro"
+    ],
+    "respuesta_correcta": "Hernán Cortés",
+    "explicacion_detallada": "Hernán Cortés comandó la hueste española que, aliándose con pueblos enemigos de los aztecas como los tlaxcaltecas, sitió y conquistó Tenochtitlán en 1521. Pizarro conquistó el Imperio inca.",
+    "pasos_resolucion": [
+      "Identificar al conquistador asociado con México y los aztecas.",
+      "Diferenciar a Cortés (México) de Pizarro (Perú).",
+      "Seleccionar a Hernán Cortés como la respuesta correcta."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_451_ex_006",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "La deidad principal del panteón azteca estaba asociada al sol y a la guerra, a la cual se le ofrecían sacrificios humanos para mantener el equilibrio del universo. ¿Cuál es el nombre de este dios?",
+    "opciones": [
+      "Huitzilopochtli",
+      "Quetzalcóatl",
+      "Tláloc",
+      "Viracocha"
+    ],
+    "respuesta_correcta": "Huitzilopochtli",
+    "explicacion_detallada": "Huitzilopochtli era el dios tribal de los mexicas, dios del sol y la guerra, patrón de Tenochtitlán, quien requería sacrificios para continuar su viaje diario por el firmamento.",
+    "pasos_resolucion": [
+      "Identificar los dioses aztecas frente a los incas (Viracocha).",
+      "Reconocer a Huitzilopochtli como el dios del sol y la guerra.",
+      "Descartar a Tláloc (lluvia) y Quetzalcóatl (serpiente emplumada)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_451_ex_007",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "La cultura La Tolita se desarrolló en la zona costera fronteriza entre Ecuador y Colombia. ¿En qué campo artesanal alcanzaron una maestría excepcional e inédita en América precolombina?",
+    "opciones": [
+      "En el trabajo de la metalurgia, especialmente en la aleación de platino y oro.",
+      "En la construcción de acueductos subterráneos gigantescos.",
+      "En la elaboración de tejidos de lana de alpaca de extrema finura.",
+      "En la talla de cabezas colosales de basalto."
+    ],
+    "respuesta_correcta": "En el trabajo de la metalurgia, especialmente en la aleación de platino y oro.",
+    "explicacion_detallada": "La cultura La Tolita - Tumaco destacó por su extraordinaria orfebrería. Fueron los primeros en el mundo en trabajar el platino, con técnicas complejas de aleación con oro.",
+    "pasos_resolucion": [
+      "Revisar los logros principales de la cultura La Tolita (Costa norte ecuatoriana).",
+      "Asociar La Tolita con su famosa orfebrería, representada en figuras como el sol de oro.",
+      "Seleccionar el trabajo en metales, específicamente oro y platino."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_451_ex_008",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "Los incas no desarrollaron un sistema de escritura alfabética, pero utilizaron un complejo sistema de cuerdas anudadas para llevar registros contables e históricos. ¿Cómo se denominaba este sistema?",
+    "opciones": [
+      "Quipu",
+      "Códice",
+      "Estela",
+      "Chasqui"
+    ],
+    "respuesta_correcta": "Quipu",
+    "explicacion_detallada": "El quipu fue un instrumento de almacenamiento de información, principalmente contable y demográfica, compuesto por cuerdas de lana o algodón y nudos, utilizado en el Imperio incaico.",
+    "pasos_resolucion": [
+      "Identificar el sistema de registro inca.",
+      "Distinguir de códices y estelas, propios de Mesoamérica.",
+      "Reconocer al quipu como la herramienta de cuerdas y nudos."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_451_ex_009",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "El pueblo Mapuche, originario del actual territorio de Chile y Argentina, se caracterizó históricamente por un hecho político-militar notable durante la colonización. ¿Cuál fue este hecho?",
+    "opciones": [
+      "Su férrea y exitosa resistencia a la conquista española, manteniendo su independencia en la región de la Araucanía durante siglos.",
+      "Su rápida asimilación cultural y sumisión pacífica ante las huestes de Pedro de Valdivia.",
+      "La creación de un imperio que abarcó desde el extremo sur hasta el actual Ecuador.",
+      "Su alianza incondicional con los incas para expandir el Tahuantinsuyo hacia el sur."
+    ],
+    "respuesta_correcta": "Su férrea y exitosa resistencia a la conquista española, manteniendo su independencia en la región de la Araucanía durante siglos.",
+    "explicacion_detallada": "Los mapuches (o araucanos) ofrecieron una de las resistencias indígenas más prolongadas y efectivas de América (Guerra de Arauco), deteniendo el avance español al sur del río Biobío.",
+    "pasos_resolucion": [
+      "Identificar la actitud del pueblo Mapuche frente a la conquista.",
+      "Recordar la Guerra de Arauco y su prolongada resistencia.",
+      "Seleccionar la opción que describe su éxito en mantener independencia temporal en su territorio."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_451_ex_010",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "El centro geográfico y político del Tahuantinsuyo fue considerado sagrado y su nombre significa 'ombligo del mundo' en quechua. ¿A qué ciudad corresponde esta descripción?",
+    "opciones": [
+      "Cuzco",
+      "Machu Picchu",
+      "Quito",
+      "Tiwanaku"
+    ],
+    "respuesta_correcta": "Cuzco",
+    "explicacion_detallada": "La ciudad del Cuzco (o Cusco) fue la capital administrativa y religiosa del Imperio incaico, y en la cosmovisión andina se consideraba el centro u ombligo del mundo.",
+    "pasos_resolucion": [
+      "Asociar el concepto de capital incaica con las opciones presentadas.",
+      "Diferenciar Cuzco (capital principal) de Quito (centro norteño importante) y Machu Picchu (ciudadela).",
+      "Seleccionar Cuzco."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_451_ex_011",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "Los yanomami son uno de los pueblos indígenas relativamente aislados más grandes de Sudamérica. ¿En qué región geográfica habitan principalmente?",
+    "opciones": [
+      "En la selva amazónica, en la frontera entre Brasil y Venezuela.",
+      "En el altiplano andino, compartiendo fronteras entre Perú y Bolivia.",
+      "En la región pampeana y patagónica de Argentina.",
+      "En los bosques templados del sur de Chile."
+    ],
+    "respuesta_correcta": "En la selva amazónica, en la frontera entre Brasil y Venezuela.",
+    "explicacion_detallada": "El pueblo yanomami habita tradicionalmente en el bosque tropical amazónico, específicamente en las regiones fronterizas montañosas del norte de Brasil y el sur de Venezuela.",
+    "pasos_resolucion": [
+      "Recordar la ubicación geográfica de la etnia yanomami.",
+      "Asociarlos con el ecosistema amazónico.",
+      "Seleccionar la frontera Brasil-Venezuela como su hábitat principal."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_451_ex_012",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "La civilización maya se desarrolló en un área geográfica específica de Mesoamérica. ¿Qué territorios modernos actuales abarcan los principales asentamientos de la cultura maya clásica?",
+    "opciones": [
+      "El sureste de México (península de Yucatán), Guatemala, Belice y partes de Honduras y El Salvador.",
+      "El centro de México y las regiones costeras del Golfo de México.",
+      "La cordillera de los Andes centrales y la costa del Pacífico sudamericano.",
+      "Las grandes llanuras de Norteamérica y el suroeste de los actuales Estados Unidos."
+    ],
+    "respuesta_correcta": "El sureste de México (península de Yucatán), Guatemala, Belice y partes de Honduras y El Salvador.",
+    "explicacion_detallada": "La zona maya o 'Mesoamérica oriental' abarca la Península de Yucatán, el estado de Chiapas (en México), Guatemala, Belice y las porciones occidentales de Honduras y El Salvador.",
+    "pasos_resolucion": [
+      "Identificar la zona de asentamiento maya.",
+      "Diferenciarla del área azteca (centro de México) y andina (Incas).",
+      "Seleccionar la opción que incluya la península de Yucatán y Centroamérica."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_451_ex_013",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "La cultura Chorrera (1200-500 a.C.) es fundamental en la historia precolombina del Ecuador, ubicándose en el periodo Formativo Tardío. ¿Qué característica destaca profundamente de esta cultura?",
+    "opciones": [
+      "Su cerámica altamente estética y pulida, particularmente las botellas silbato.",
+      "La construcción del complejo urbano de Ingapirca.",
+      "Su predominio exclusivo en la zona de la Amazonía ecuatoriana.",
+      "La introducción del caballo en América del Sur."
+    ],
+    "respuesta_correcta": "Su cerámica altamente estética y pulida, particularmente las botellas silbato.",
+    "explicacion_detallada": "La cultura Chorrera es reconocida por su refinada cerámica de paredes delgadas, superficies pulidas e iridiscentes, destacando sus innovadoras botellas silbato que imitan sonidos de animales.",
+    "pasos_resolucion": [
+      "Identificar las características de la cultura Chorrera.",
+      "Asociarla con el apogeo artístico de la cerámica en el Formativo ecuatoriano.",
+      "Descartar Ingapirca (origen cañari-inca) y el caballo (introducido por europeos)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_451_ex_014",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "Para superar las dificultades del relieve montañoso, los incas desarrollaron una técnica agrícola que permitía el cultivo en las laderas andinas y prevenía la erosión del suelo. ¿Cómo se conoce a esta técnica?",
+    "opciones": [
+      "Terrazas de cultivo o andenes",
+      "Chinampas",
+      "Roza y quema",
+      "Sistemas de polders"
+    ],
+    "respuesta_correcta": "Terrazas de cultivo o andenes",
+    "explicacion_detallada": "Los andenes o terrazas de cultivo fueron estructuras escalonadas construidas por los incas en las faldas de los cerros para ganar tierras agrícolas, aprovechar el agua y evitar la erosión en los Andes.",
+    "pasos_resolucion": [
+      "Identificar la técnica agrícola inca en montañas.",
+      "Diferenciarla de las chinampas aztecas (lagos) y roza y quema maya (selva).",
+      "Seleccionar terrazas o andenes."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_451_ex_015",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "¿Qué sistema de agricultura intensiva emplearon los aztecas que consistía en islas artificiales flotantes construidas sobre el lago Texcoco para el cultivo?",
+    "opciones": [
+      "Chinampas",
+      "Andenes",
+      "Milpas",
+      "Conucos"
+    ],
+    "respuesta_correcta": "Chinampas",
+    "explicacion_detallada": "Las chinampas eran huertos flotantes o islas artificiales creadas por los aztecas en el lago Texcoco. Este sistema altamente productivo les permitió sostener a la densa población de Tenochtitlán.",
+    "pasos_resolucion": [
+      "Identificar la técnica agrícola de los aztecas en lagos.",
+      "Diferenciar de andenes (Incas) y milpas (tradicional mesoamericana de secano).",
+      "Seleccionar chinampas."
+    ],
+    "video_explicativo_url": ""
+  }
+]

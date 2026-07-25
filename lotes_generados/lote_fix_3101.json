@@ -1,0 +1,290 @@
+[
+  {
+    "id": "cn_3101_ex_008",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.10.1",
+    "enunciado": "¿Cuál de las siguientes magnitudes es estrictamente escalar?",
+    "opciones": [
+      "La temperatura de un cuerpo",
+      "La fuerza aplicada sobre un bloque",
+      "La aceleración de la gravedad",
+      "El desplazamiento de un automóvil"
+    ],
+    "respuesta_correcta": "La temperatura de un cuerpo",
+    "explicacion_detallada": "Las magnitudes escalares quedan completamente definidas con un valor numérico y su unidad, sin requerir dirección ni sentido, como ocurre con la temperatura. Las otras opciones son magnitudes vectoriales.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar que fuerza, aceleración y desplazamiento requieren magnitud, dirección y sentido.",
+      "Paso 2: Reconocer que la temperatura solo necesita un valor y unidad."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_ex_009",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.10.1",
+    "enunciado": "Un vector A tiene una magnitud de 10 unidades y forma un ángulo de 60° con el eje x positivo. ¿Cuáles son sus componentes rectangulares (Ax, Ay)?",
+    "opciones": [
+      "Ax = 5, Ay = 5√3",
+      "Ax = 5√3, Ay = 5",
+      "Ax = 10, Ay = 10",
+      "Ax = 8.66, Ay = 5"
+    ],
+    "respuesta_correcta": "Ax = 5, Ay = 5√3",
+    "explicacion_detallada": "Las componentes se calculan usando trigonometría: Ax = A cos(60°) y Ay = A sen(60°). Como cos(60°) = 0.5 y sen(60°) = √3/2, se obtiene Ax = 5 y Ay = 5√3.",
+    "pasos_resolucion": [
+      "Paso 1: Calcular la componente en x: Ax = 10 * cos(60°) = 10 * 0.5 = 5.",
+      "Paso 2: Calcular la componente en y: Ay = 10 * sen(60°) = 10 * (√3/2) = 5√3."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_ex_010",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.10.1",
+    "enunciado": "Se tienen dos vectores concurrentes de 6 N y 8 N que forman entre sí un ángulo de 90°. ¿Cuál es la magnitud del vector resultante?",
+    "opciones": [
+      "10 N",
+      "14 N",
+      "2 N",
+      "48 N"
+    ],
+    "respuesta_correcta": "10 N",
+    "explicacion_detallada": "Al formar un ángulo de 90°, los vectores son perpendiculares. La magnitud del vector resultante se halla aplicando el Teorema de Pitágoras: R = √(6² + 8²) = √(36 + 64) = √100 = 10 N.",
+    "pasos_resolucion": [
+      "Paso 1: Aplicar la fórmula R = √(A² + B²).",
+      "Paso 2: Sustituir los valores: R = √(6² + 8²) = 10 N."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_ex_011",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.10.1",
+    "enunciado": "Si el producto escalar de dos vectores A y B es igual a cero y ambos tienen magnitud diferente de cero, ¿qué se puede afirmar sobre el ángulo entre ellos?",
+    "opciones": [
+      "Es de 90°",
+      "Es de 0°",
+      "Es de 180°",
+      "Es de 45°"
+    ],
+    "respuesta_correcta": "Es de 90°",
+    "explicacion_detallada": "El producto escalar se define como A·B = |A||B|cos(θ). Si A·B = 0 y las magnitudes son distintas de cero, entonces cos(θ) debe ser 0, lo que implica que el ángulo θ es 90° (los vectores son ortogonales).",
+    "pasos_resolucion": [
+      "Paso 1: Recordar la definición matemática A·B = |A||B|cos(θ).",
+      "Paso 2: Igualar a cero para concluir que cos(θ) = 0, y por ende θ = 90°."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_ex_012",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.10.1",
+    "enunciado": "Dados los vectores A = (3, 4) y B = (1, 2), ¿cuál es el resultado de realizar la operación 2A - B?",
+    "opciones": [
+      "(5, 6)",
+      "(6, 8)",
+      "(7, 10)",
+      "(2, 2)"
+    ],
+    "respuesta_correcta": "(5, 6)",
+    "explicacion_detallada": "Primero se multiplica el vector A por el escalar 2: 2(3, 4) = (6, 8). Luego se resta el vector B componente a componente: (6 - 1, 8 - 2) = (5, 6).",
+    "pasos_resolucion": [
+      "Paso 1: Calcular 2A = (6, 8).",
+      "Paso 2: Restar B = (1, 2) de 2A, lo que da (6-1, 8-2) = (5, 6)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_ex_013",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.10.1",
+    "enunciado": "Calcula el producto punto (A·B) de los vectores A = 2i - 3j y B = 4i + 5j.",
+    "opciones": [
+      "-7",
+      "23",
+      "-15",
+      "7"
+    ],
+    "respuesta_correcta": "-7",
+    "explicacion_detallada": "El producto escalar se calcula multiplicando las componentes correspondientes y sumándolas: (2)(4) + (-3)(5) = 8 - 15 = -7.",
+    "pasos_resolucion": [
+      "Paso 1: Multiplicar las componentes i: 2 * 4 = 8.",
+      "Paso 2: Multiplicar las componentes j: -3 * 5 = -15.",
+      "Paso 3: Sumar los resultados: 8 + (-15) = -7."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_ex_014",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.10.1",
+    "enunciado": "¿Cuál es el vector unitario en la dirección del vector V = (3, 4)?",
+    "opciones": [
+      "(3/5, 4/5)",
+      "(3/7, 4/7)",
+      "(1, 1)",
+      "(5/3, 5/4)"
+    ],
+    "respuesta_correcta": "(3/5, 4/5)",
+    "explicacion_detallada": "El vector unitario se obtiene dividiendo cada componente del vector por su magnitud. La magnitud de V es √(3² + 4²) = 5. Así, el vector unitario es (3/5, 4/5).",
+    "pasos_resolucion": [
+      "Paso 1: Encontrar la magnitud |V| = √(9 + 16) = √25 = 5.",
+      "Paso 2: Dividir V entre su magnitud: V/|V| = (3/5, 4/5)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_ex_015",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.10.1",
+    "enunciado": "Si dos vectores A y B son colineales y tienen sentidos opuestos, la magnitud del vector suma |A + B| será:",
+    "opciones": [
+      "Igual a la diferencia de sus magnitudes: ||A| - |B||",
+      "Igual a la suma de sus magnitudes: |A| + |B|",
+      "Cero",
+      "Igual a la magnitud del mayor"
+    ],
+    "respuesta_correcta": "Igual a la diferencia de sus magnitudes: ||A| - |B||",
+    "explicacion_detallada": "Cuando dos vectores actúan en la misma línea de acción (colineales) pero en sentidos opuestos, el ángulo entre ellos es 180°. La magnitud de la resultante se obtiene restando sus magnitudes.",
+    "pasos_resolucion": [
+      "Paso 1: Recordar que R = √(A² + B² + 2AB cos(180°)).",
+      "Paso 2: Como cos(180°) = -1, R = √(A² - 2AB + B²) = √((A-B)²) = |A - B|."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_ex_016",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.10.1",
+    "enunciado": "La magnitud del producto cruz (vectorial) de dos vectores A y B es máxima cuando el ángulo entre ellos es:",
+    "opciones": [
+      "90°",
+      "0°",
+      "180°",
+      "45°"
+    ],
+    "respuesta_correcta": "90°",
+    "explicacion_detallada": "La magnitud del producto vectorial es |A x B| = |A||B|sen(θ). El valor máximo de la función seno es 1, lo cual ocurre cuando el ángulo θ es 90°.",
+    "pasos_resolucion": [
+      "Paso 1: Escribir la fórmula de la magnitud del producto cruz: |A x B| = |A||B|sen(θ).",
+      "Paso 2: Identificar que el seno es máximo cuando el ángulo es de 90° (sen(90°) = 1)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_ex_017",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.10.1",
+    "enunciado": "Un móvil se desplaza 3 km hacia el este y luego 4 km hacia el norte. ¿Cuál es la magnitud de su desplazamiento resultante?",
+    "opciones": [
+      "5 km",
+      "7 km",
+      "1 km",
+      "25 km"
+    ],
+    "respuesta_correcta": "5 km",
+    "explicacion_detallada": "El desplazamiento al este se asocia con el eje x (3 km) y el desplazamiento al norte con el eje y (4 km). Forman un triángulo rectángulo. El desplazamiento resultante es la hipotenusa: √(3² + 4²) = 5 km.",
+    "pasos_resolucion": [
+      "Paso 1: Plantear el vector resultante R = 3i + 4j.",
+      "Paso 2: Hallar la magnitud: |R| = √(3² + 4²) = 5 km."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_ex_018",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.10.1",
+    "enunciado": "Un vector tiene una componente en el eje x de -6 m y una componente en el eje y de 8 m. ¿En qué cuadrante se encuentra el vector?",
+    "opciones": [
+      "Segundo cuadrante",
+      "Primer cuadrante",
+      "Tercer cuadrante",
+      "Cuarto cuadrante"
+    ],
+    "respuesta_correcta": "Segundo cuadrante",
+    "explicacion_detallada": "Un vector con componente x negativa (hacia la izquierda) y componente y positiva (hacia arriba) se encuentra en el segundo cuadrante del plano cartesiano.",
+    "pasos_resolucion": [
+      "Paso 1: Analizar el signo de la componente x (-6).",
+      "Paso 2: Analizar el signo de la componente y (+8).",
+      "Paso 3: Determinar que (-x, +y) corresponde al segundo cuadrante."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_ex_019",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.10.1",
+    "enunciado": "¿Qué método gráfico utilizarías para sumar más de dos vectores de manera consecutiva uniendo el origen de uno con el extremo del otro?",
+    "opciones": [
+      "El método del polígono",
+      "El método del paralelogramo",
+      "El teorema de Pitágoras",
+      "La ley de los cosenos"
+    ],
+    "respuesta_correcta": "El método del polígono",
+    "explicacion_detallada": "El método del polígono es una extensión del método del triángulo, ideal para sumar gráficamente varios vectores poniéndolos uno a continuación del otro y cerrando la figura desde el origen inicial hasta el extremo final.",
+    "pasos_resolucion": [
+      "Paso 1: Analizar las opciones. El paralelogramo sirve para dos vectores que parten del mismo origen.",
+      "Paso 2: Identificar que poner el origen del segundo en la flecha del primero consecutivamente para varios vectores se llama método del polígono."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_ex_020",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.10.1",
+    "enunciado": "Dado el vector F de magnitud 20 N dirigido formando 150° con el semieje positivo de las X, ¿cuál es su componente Fx?",
+    "opciones": [
+      "-10√3 N",
+      "-10 N",
+      "10√3 N",
+      "10 N"
+    ],
+    "respuesta_correcta": "-10√3 N",
+    "explicacion_detallada": "La componente x se calcula con Fx = F cos(150°). Sabemos que cos(150°) = -cos(30°) = -√3/2. Por tanto, Fx = 20 * (-√3/2) = -10√3 N.",
+    "pasos_resolucion": [
+      "Paso 1: Plantear la fórmula de la componente rectangular: Fx = 20 * cos(150°).",
+      "Paso 2: Sustituir el valor del coseno: 20 * (-√3/2) = -10√3 N."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_ex_021",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.10.1",
+    "enunciado": "Si |A x B| = A·B, siendo A y B diferentes de cero, ¿cuál es el ángulo que forman los vectores?",
+    "opciones": [
+      "45°",
+      "90°",
+      "30°",
+      "60°"
+    ],
+    "respuesta_correcta": "45°",
+    "explicacion_detallada": "La magnitud del producto cruz es |A||B|sen(θ) y el producto escalar es |A||B|cos(θ). Si son iguales, |A||B|sen(θ) = |A||B|cos(θ), lo cual implica que sen(θ) = cos(θ) o tan(θ) = 1. El ángulo que cumple esto en el primer cuadrante es 45°.",
+    "pasos_resolucion": [
+      "Paso 1: Igualar expresiones: AB sen(θ) = AB cos(θ).",
+      "Paso 2: Simplificar y obtener tan(θ) = 1.",
+      "Paso 3: Concluir que el ángulo es 45°."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_ex_022",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.10.1",
+    "enunciado": "Tres vectores A, B y C cumplen que A + B + C = 0. ¿Qué figura geométrica forman si se los representa de manera consecutiva?",
+    "opciones": [
+      "Un triángulo cerrado",
+      "Una línea recta abierta",
+      "Un cuadrado",
+      "Tres líneas perpendiculares"
+    ],
+    "respuesta_correcta": "Un triángulo cerrado",
+    "explicacion_detallada": "Por el método del polígono, cuando la suma de tres vectores es igual al vector nulo (0), sus trazos consecutivos forman una figura cerrada, en este caso, un triángulo cerrado, donde el extremo del tercero coincide con el origen del primero.",
+    "pasos_resolucion": [
+      "Paso 1: Relacionar la ecuación vectorial de equilibrio (resultante nula) con su gráfica.",
+      "Paso 2: Inferir que la gráfica de tres vectores con resultante nula cierra una forma de tres lados (triángulo)."
+    ],
+    "video_explicativo_url": ""
+  }
+]

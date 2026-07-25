@@ -1,0 +1,295 @@
+[
+  {
+    "id": "cn_374_ex_010",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.4",
+    "enunciado": "Un bloque de 5 kg se desliza hacia abajo por un plano inclinado liso que forma un ángulo de 30° con la horizontal. Si se desprecia la fricción y considerando g = 10 m/s², ¿cuál es la aceleración del bloque?",
+    "opciones": [
+      "5 m/s²",
+      "10 m/s²",
+      "8.66 m/s²",
+      "2.5 m/s²"
+    ],
+    "respuesta_correcta": "5 m/s²",
+    "explicacion_detallada": "La única fuerza que produce aceleración en la dirección del plano es la componente x del peso (Px = m*g*sen(θ)). Usando la segunda ley de Newton: m*g*sen(30°) = m*a. La masa se cancela, a = g*sen(30°) = 10 * 0.5 = 5 m/s².",
+    "pasos_resolucion": [
+      "Identificar las fuerzas que actúan sobre el bloque a lo largo del plano inclinado.",
+      "Calcular la componente del peso en el eje paralelo al plano: Px = m * g * sen(30°).",
+      "Aplicar la segunda ley de Newton: Px = m * a.",
+      "Despejar la aceleración: a = g * sen(30°) = 10 * 0.5 = 5 m/s²."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_374_ex_011",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.4",
+    "enunciado": "Un automóvil de 1000 kg toma una curva plana de 50 m de radio a una velocidad constante de 20 m/s. ¿Cuál debe ser el valor de la fuerza de fricción estática mínima necesaria para que el automóvil no derrape?",
+    "opciones": [
+      "8000 N",
+      "10000 N",
+      "4000 N",
+      "2000 N"
+    ],
+    "respuesta_correcta": "8000 N",
+    "explicacion_detallada": "La fuerza de fricción estática actúa como fuerza centrípeta, manteniéndolo en la trayectoria circular. Fc = m * v² / r. Por lo tanto, Fc = 1000 * (20)² / 50 = 1000 * 400 / 50 = 8000 N.",
+    "pasos_resolucion": [
+      "Reconocer que en una curva sin peralte, la fricción proporciona la fuerza centrípeta.",
+      "Aplicar la fórmula de fuerza centrípeta: Fc = m * v² / r.",
+      "Sustituir los valores: Fc = 1000 * (20)^2 / 50.",
+      "Calcular el resultado: Fc = 1000 * 400 / 50 = 8000 N."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_374_ex_012",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.4",
+    "enunciado": "Un bloque de masa M descansa sobre un plano inclinado con ángulo θ. Si el bloque está a punto de deslizarse (equilibrio estático límite), ¿cuál es la relación correcta para el coeficiente de fricción estática (μs)?",
+    "opciones": [
+      "μs = tan(θ)",
+      "μs = sen(θ)",
+      "μs = cos(θ)",
+      "μs = cot(θ)"
+    ],
+    "respuesta_correcta": "μs = tan(θ)",
+    "explicacion_detallada": "En el punto de deslizamiento inminente, la fuerza de fricción es igual a la componente paralela del peso: fs = M*g*sen(θ). La fuerza normal es N = M*g*cos(θ). Además, fs = μs*N. Igualando, μs*M*g*cos(θ) = M*g*sen(θ), lo que da μs = sen(θ)/cos(θ) = tan(θ).",
+    "pasos_resolucion": [
+      "Establecer las ecuaciones de equilibrio: eje y (N = M*g*cos(θ)) y eje x (fs = M*g*sen(θ)).",
+      "Sustituir la máxima fricción estática: fs = μs * N.",
+      "Reemplazar N en la ecuación: μs * M * g * cos(θ) = M * g * sen(θ).",
+      "Despejar μs y simplificar usando trigonometría para obtener μs = tan(θ)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_374_ex_013",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.4",
+    "enunciado": "Se arrastra una caja de 10 kg sobre una superficie horizontal mediante una cuerda que forma un ángulo de 37° con la horizontal. Si la tensión en la cuerda es de 50 N, ¿cuál es el valor de la fuerza normal ejercida por la superficie sobre la caja? (Considerar g = 10 m/s², sen 37° = 0.6, cos 37° = 0.8)",
+    "opciones": [
+      "70 N",
+      "100 N",
+      "130 N",
+      "50 N"
+    ],
+    "respuesta_correcta": "70 N",
+    "explicacion_detallada": "En el eje vertical, las fuerzas son el peso (hacia abajo), la normal (hacia arriba) y la componente y de la tensión (hacia arriba). ΣFy = 0 -> N + Ty - W = 0. W = m*g = 10*10 = 100 N. Ty = T*sen(37°) = 50 * 0.6 = 30 N. Por lo tanto, N + 30 = 100 -> N = 70 N.",
+    "pasos_resolucion": [
+      "Identificar las fuerzas en el eje vertical: peso (W), fuerza normal (N) y componente Y de la tensión (Ty).",
+      "Calcular el peso: W = m * g = 10 * 10 = 100 N.",
+      "Calcular Ty: Ty = T * sen(37°) = 50 * 0.6 = 30 N.",
+      "Aplicar equilibrio vertical (ΣFy = 0): N + Ty - W = 0.",
+      "Despejar N: N = W - Ty = 100 - 30 = 70 N."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_374_ex_014",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.4",
+    "enunciado": "Una esfera de 2 kg está atada a una cuerda inextensible de 1 m de longitud y gira en un plano vertical. Si la velocidad en el punto más bajo de la trayectoria es de 5 m/s, ¿cuál es la tensión de la cuerda en ese instante? (g = 10 m/s²)",
+    "opciones": [
+      "70 N",
+      "50 N",
+      "30 N",
+      "20 N"
+    ],
+    "respuesta_correcta": "70 N",
+    "explicacion_detallada": "En el punto más bajo, la tensión y el peso actúan en direcciones opuestas. La fuerza resultante hacia el centro es T - W = Fc. T - m*g = m*v²/r. T = m*g + m*v²/r = (2*10) + 2*(5²)/1 = 20 + 2*25 = 20 + 50 = 70 N.",
+    "pasos_resolucion": [
+      "Dibujar el diagrama de cuerpo libre en el punto más bajo: Tensión hacia arriba (centro) y peso hacia abajo.",
+      "Escribir la ecuación de la fuerza centrípeta: T - W = m * v² / r.",
+      "Sustituir los valores: T - (2*10) = 2 * 25 / 1.",
+      "Despejar T: T = 20 + 50 = 70 N."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_374_ex_015",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.4",
+    "enunciado": "Una masa puntual describe un movimiento circular uniforme. Si se duplica la velocidad lineal del objeto y se mantiene el mismo radio, ¿cómo varía la fuerza centrípeta requerida?",
+    "opciones": [
+      "Se cuadruplica",
+      "Se duplica",
+      "Se reduce a la mitad",
+      "Se reduce a la cuarta parte"
+    ],
+    "respuesta_correcta": "Se cuadruplica",
+    "explicacion_detallada": "La fórmula de la fuerza centrípeta es Fc = m*v²/r. Como la velocidad v está elevada al cuadrado, si v se multiplica por 2, la fuerza se multiplicará por (2)² = 4. Por lo tanto, se cuadruplica.",
+    "pasos_resolucion": [
+      "Identificar la relación entre la fuerza centrípeta y la velocidad: Fc depende del cuadrado de v (v²).",
+      "Sustituir v por 2v en la ecuación: Fc' = m * (2v)² / r = 4 * (m * v² / r).",
+      "Concluir que la nueva fuerza es 4 veces la original."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_374_ex_016",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.4",
+    "enunciado": "Un bloque de 4 kg sube por un plano inclinado 30° con la horizontal a velocidad constante gracias a una fuerza externa paralela al plano. Si el coeficiente de fricción cinética es 0.2, ¿cuál es el trabajo realizado por la fuerza de fricción tras recorrer 5 m sobre el plano? (Considere g = 10 m/s², cos 30° = 0.86)",
+    "opciones": [
+      "-34.4 J",
+      "34.4 J",
+      "-68.8 J",
+      "-17.2 J"
+    ],
+    "respuesta_correcta": "-34.4 J",
+    "explicacion_detallada": "El trabajo de la fricción es W_f = - fk * d. La fuerza normal es N = m*g*cos(30°) = 4 * 10 * 0.86 = 34.4 N. La fricción cinética es fk = μk * N = 0.2 * 34.4 = 6.88 N. El trabajo es W = -6.88 * 5 = -34.4 J.",
+    "pasos_resolucion": [
+      "Calcular la fuerza normal: N = m * g * cos(30°) = 4 * 10 * 0.86 = 34.4 N.",
+      "Calcular la fuerza de fricción cinética: fk = μk * N = 0.2 * 34.4 = 6.88 N.",
+      "Usar la fórmula de trabajo para la fricción, que siempre es negativo: W = -fk * d.",
+      "Sustituir y operar: W = -6.88 * 5 = -34.4 J."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_374_ex_017",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.4",
+    "enunciado": "Un niño en un columpio se mueve como un péndulo de radio R. En el punto de máxima altura de su oscilación, su velocidad es cero. ¿Cuál es el valor de la aceleración centrípeta en ese instante?",
+    "opciones": [
+      "Cero",
+      "g",
+      "g * sen(θ)",
+      "g * cos(θ)"
+    ],
+    "respuesta_correcta": "Cero",
+    "explicacion_detallada": "La aceleración centrípeta está dada por ac = v²/R. En el punto de máxima altura (amplitud extrema), la velocidad tangencial del columpio es cero, por lo tanto, la aceleración centrípeta es cero. Sin embargo, tendrá una aceleración tangencial no nula.",
+    "pasos_resolucion": [
+      "Recordar la fórmula de la aceleración centrípeta: ac = v² / R.",
+      "Identificar que en el punto más alto de la trayectoria, la velocidad v es igual a 0.",
+      "Sustituir v = 0 en la fórmula: ac = 0² / R = 0."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_374_ex_018",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.4",
+    "enunciado": "Dos fuerzas F1 = 30 N y F2 = 40 N se aplican sobre un punto en un plano, siendo perpendiculares entre sí. ¿Cuál es la magnitud de la fuerza resultante que actúa sobre el punto?",
+    "opciones": [
+      "50 N",
+      "70 N",
+      "10 N",
+      "35 N"
+    ],
+    "respuesta_correcta": "50 N",
+    "explicacion_detallada": "Dado que las fuerzas son perpendiculares, sus vectores forman un ángulo de 90°. La magnitud de la resultante se encuentra usando el teorema de Pitágoras: R = √(F1² + F2²) = √(30² + 40²) = √(900 + 1600) = √2500 = 50 N.",
+    "pasos_resolucion": [
+      "Identificar que las fuerzas forman un ángulo de 90° (perpendiculares).",
+      "Aplicar el Teorema de Pitágoras para la magnitud del vector resultante: R = √(F1² + F2²).",
+      "Sustituir los valores: R = √(30² + 40²) = √(900 + 1600).",
+      "Calcular la raíz: R = √2500 = 50 N."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_374_ex_019",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.4",
+    "enunciado": "¿Qué fuerzas componentes actúan sobre un proyectil en vuelo parabólico (despreciando la resistencia del aire) y determinan su dinámica bidimensional?",
+    "opciones": [
+      "Una fuerza de gravedad vertical hacia abajo y ninguna fuerza en la horizontal.",
+      "Una fuerza de propulsión horizontal y la fuerza de gravedad vertical.",
+      "Una fuerza resultante constante paralela a la trayectoria en todo momento.",
+      "Fuerzas de igual magnitud tanto en el eje horizontal como en el vertical."
+    ],
+    "respuesta_correcta": "Una fuerza de gravedad vertical hacia abajo y ninguna fuerza en la horizontal.",
+    "explicacion_detallada": "En un tiro parabólico ideal, la única fuerza que actúa es la fuerza gravitatoria (peso) en dirección vertical. En el eje horizontal no actúan fuerzas, lo que produce un movimiento rectilíneo uniforme (aceleración cero) en ese eje.",
+    "pasos_resolucion": [
+      "Analizar las fuerzas presentes durante el vuelo de un proyectil libre.",
+      "Descartar fuerzas iniciales de impulso, ya que no actúan una vez que el objeto está en el aire.",
+      "Identificar que solo actúa el peso en la componente vertical (eje Y).",
+      "Concluir que en el eje X no hay fuerzas, explicando la aceleración cero horizontal."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_374_ex_020",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.4",
+    "enunciado": "Un automóvil ingresa a una curva peraltada (con inclinación) que carece de fricción. Si se desea mantener el movimiento circular en el radio de diseño sin deslizar hacia adentro ni hacia afuera de la curva, la componente horizontal de la fuerza normal debe ser igual a:",
+    "opciones": [
+      "La fuerza centrípeta necesaria",
+      "El peso del automóvil",
+      "Cero",
+      "La componente vertical de la normal"
+    ],
+    "respuesta_correcta": "La fuerza centrípeta necesaria",
+    "explicacion_detallada": "En una curva peraltada sin fricción, la fuerza centrípeta requerida para mantener el movimiento circular uniforme es suministrada únicamente por la componente horizontal de la fuerza normal (Nx = N*sen(θ)).",
+    "pasos_resolucion": [
+      "Elaborar un diagrama de cuerpo libre del auto en la curva.",
+      "Descomponer la fuerza normal en componentes vertical (N*cosθ) y horizontal (N*senθ).",
+      "Identificar que el peso equilibra la componente vertical (N*cosθ = mg).",
+      "Deducir que la componente horizontal (N*senθ) es la única fuerza orientada al centro, por lo que proporciona la fuerza centrípeta."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_374_ex_021",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.4",
+    "enunciado": "Un esquiador desciende por una pista inclinada a 45° a velocidad constante. Sabiendo que esto implica equilibrio dinámico, ¿cuál debe ser el coeficiente de rozamiento cinético (μk) de la nieve?",
+    "opciones": [
+      "1.0",
+      "0.5",
+      "0.707",
+      "0.866"
+    ],
+    "respuesta_correcta": "1.0",
+    "explicacion_detallada": "Si el esquiador baja a velocidad constante, la aceleración es cero. La fuerza paralela (mg*sen(θ)) es igual a la fuerza de fricción (μk*mg*cos(θ)). Entonces, μk = sen(45°)/cos(45°) = tan(45°) = 1.0.",
+    "pasos_resolucion": [
+      "Establecer la condición de velocidad constante: aceleración = 0, sumatoria de fuerzas a lo largo del plano = 0.",
+      "Igualar la componente x del peso con la fuerza de rozamiento cinético: m*g*sen(45°) = μk * m*g*cos(45°).",
+      "Despejar μk: μk = sen(45°) / cos(45°).",
+      "Calcular la tangente: μk = tan(45°) = 1.0."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_374_ex_022",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.4",
+    "enunciado": "Un objeto de masa m gira en un círculo vertical atado a un hilo. Si pasa por el punto más alto con la velocidad mínima crítica (tensión cero), la velocidad del objeto en ese punto está dada por la expresión:",
+    "opciones": [
+      "√(g*R)",
+      "√(2*g*R)",
+      "g*R",
+      "√(g/R)"
+    ],
+    "respuesta_correcta": "√(g*R)",
+    "explicacion_detallada": "En el punto más alto, la suma de las fuerzas hacia el centro es el peso y la tensión. T + mg = m*v²/R. Para la velocidad mínima, T=0, por lo que mg = m*v²/R. Despejando v, v = √(g*R).",
+    "pasos_resolucion": [
+      "Escribir la ecuación para el punto más alto: Fuerzas radiales hacia el centro son el peso (mg) y la tensión (T).",
+      "Igualar la suma de fuerzas a la fuerza centrípeta: T + mg = m * v² / R.",
+      "Aplicar la condición de velocidad mínima donde la tensión se vuelve nula: T = 0.",
+      "Resolver para v: mg = m * v² / R => g = v² / R => v = √(g * R)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_374_ex_023",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.4",
+    "enunciado": "Un bloque está sobre una superficie plana horizontal y está sujeto a dos fuerzas horizontales: 15 N hacia el Este y 20 N hacia el Norte. Si el objeto pesa 10 N y la fricción es nula, ¿qué valor tiene la aceleración del bloque? (g = 10 m/s²)",
+    "opciones": [
+      "25 m/s²",
+      "10 m/s²",
+      "50 m/s²",
+      "35 m/s²"
+    ],
+    "respuesta_correcta": "25 m/s²",
+    "explicacion_detallada": "La fuerza resultante es F_res = √(15² + 20²) = √(225 + 400) = √625 = 25 N. La masa es m = W/g = 10/10 = 1 kg. Usando la segunda ley de Newton, a = F_res / m = 25 / 1 = 25 m/s².",
+    "pasos_resolucion": [
+      "Calcular la magnitud de la fuerza resultante usando el teorema de Pitágoras: Fr = √(15² + 20²) = 25 N.",
+      "Determinar la masa del bloque a partir de su peso: m = P / g = 10 N / 10 m/s² = 1 kg.",
+      "Aplicar la segunda ley de Newton (F = m * a) en la dirección del movimiento resultante.",
+      "Despejar y calcular la aceleración: a = Fr / m = 25 N / 1 kg = 25 m/s²."
+    ],
+    "video_explicativo_url": ""
+  }
+]

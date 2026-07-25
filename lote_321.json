@@ -1,0 +1,325 @@
+[
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.2.1",
+    "tituloSubtema": "Unidades de medida.",
+    "id": "cn_321_001",
+    "enunciado": "En el Sistema Internacional de Unidades (SI), ¿cómo se define actualmente la unidad fundamental de longitud, el metro?",
+    "opciones": [
+      "A partir de la distancia recorrida por la luz en el vacío en un intervalo de tiempo de 1/299 792 458 de segundo.",
+      "Como la diezmillonésima parte de la distancia del ecuador al Polo Norte a lo largo del meridiano de París.",
+      "A partir de la longitud de onda de la radiación emitida por el isótopo 86 de criptón en el vacío.",
+      "Como la longitud de un prototipo internacional de platino e iridio conservado en Sèvres, Francia."
+    ],
+    "respuesta_correcta": "A partir de la distancia recorrida por la luz en el vacío en un intervalo de tiempo de 1/299 792 458 de segundo.",
+    "explicacion_detallada": "Desde 1983, la 17.ª Conferencia General de Pesas y Medidas (CGPM) definió el metro en función de la velocidad de la luz en el vacío (c), la cual es una constante física fundamental de valor exacto 299 792 458 m/s.",
+    "pasos_resolucion": [
+      "Recordar las definiciones históricas y actuales del metro en el SI.",
+      "Identificar que la definición actual se basa en la velocidad de la luz (c).",
+      "Seleccionar la opción que indica la fracción de segundo correcta: 1/299 792 458."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.2.1",
+    "tituloSubtema": "Unidades de medida.",
+    "id": "cn_321_002",
+    "enunciado": "¿Cuál de las siguientes unidades derivadas del Sistema Internacional se expresa correctamente en términos de las unidades básicas correspondientes al Newton (N)?",
+    "opciones": [
+      "kg·m/s²",
+      "kg·m²/s²",
+      "kg/(m·s²)",
+      "kg·m²/s³"
+    ],
+    "respuesta_correcta": "kg·m/s²",
+    "explicacion_detallada": "El Newton es la unidad de fuerza en el SI. Por la Segunda Ley de Newton (F = m·a), la fuerza es el producto de la masa (kg) por la aceleración (m/s²), resultando en kg·m/s².",
+    "pasos_resolucion": [
+      "Escribir la fórmula de la fuerza: F = m · a.",
+      "Sustituir las unidades básicas del SI: masa en kg, aceleración en m/s².",
+      "Multiplicar para obtener la unidad derivada: kg·m/s²."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.2.1",
+    "tituloSubtema": "Unidades de medida.",
+    "id": "cn_321_003",
+    "enunciado": "La redefinición del kilogramo en el año 2019 dejó de utilizar el Prototipo Internacional del Kilogramo. Actualmente, ¿cuál es la constante física fundamental que se utiliza para definir de forma exacta el kilogramo?",
+    "opciones": [
+      "La constante de Planck (h).",
+      "La constante de Avogadro (N_A).",
+      "La carga elemental (e).",
+      "La constante de gravitación universal (G)."
+    ],
+    "respuesta_correcta": "La constante de Planck (h).",
+    "explicacion_detallada": "En 2019, la CGPM redefinió el kilogramo al fijar el valor numérico exacto de la constante de Planck (h) en 6.626 070 15 × 10⁻³⁴ J·s, lo cual equivale a kg·m²/s²·s o kg·m²/s, relacionándolo con las unidades de metro y segundo, que ya estaban definidas por constantes fundamentales (c y ΔνCs).",
+    "pasos_resolucion": [
+      "Recordar los cambios en el SI aprobados en 2018 y que entraron en vigor en 2019.",
+      "Identificar qué constante se asignó para la masa (kilogramo).",
+      "La constante elegida fue la constante de Planck (h)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.2.1",
+    "tituloSubtema": "Unidades de medida.",
+    "id": "cn_321_004",
+    "enunciado": "La unidad básica de temperatura termodinámica en el SI es el kelvin (K). ¿Cuál es la relación matemática correcta entre la temperatura en kelvin (T) y la temperatura en grados Celsius (t)?",
+    "opciones": [
+      "T = t + 273.15",
+      "T = t - 273.15",
+      "T = 1.8·t + 32",
+      "T = (t - 32)/1.8"
+    ],
+    "respuesta_correcta": "T = t + 273.15",
+    "explicacion_detallada": "El cero absoluto (0 K) corresponde a -273.15 °C. Ambas escalas tienen la misma magnitud de grado (una diferencia de 1 K es igual a una diferencia de 1 °C). Por lo tanto, para convertir de Celsius a kelvin se suma 273.15.",
+    "pasos_resolucion": [
+      "Recordar el valor del cero absoluto en grados Celsius: -273.15 °C.",
+      "Identificar que T(K) y t(°C) tienen la misma variación unitaria.",
+      "Formular la ecuación: T(K) = t(°C) + 273.15."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.2.1",
+    "tituloSubtema": "Unidades de medida.",
+    "id": "cn_321_005",
+    "enunciado": "El Julio (Joule, J) es la unidad del Sistema Internacional para la energía, el trabajo y el calor. ¿Cuál es su equivalencia en unidades básicas del SI?",
+    "opciones": [
+      "kg·m²/s²",
+      "kg·m/s²",
+      "kg·m²/s³",
+      "kg/(m·s²)"
+    ],
+    "respuesta_correcta": "kg·m²/s²",
+    "explicacion_detallada": "El Joule se define como el trabajo realizado por una fuerza de un Newton al desplazar su punto de aplicación un metro en la dirección de la fuerza (J = N·m). Sustituyendo N por kg·m/s², se obtiene (kg·m/s²)·m = kg·m²/s².",
+    "pasos_resolucion": [
+      "Recordar la fórmula del trabajo: W = F · d.",
+      "Sustituir las unidades correspondientes: Joule = Newton · metro.",
+      "Descomponer el Newton en unidades básicas: kg·m/s².",
+      "Multiplicar por metro: (kg·m/s²) · m = kg·m²/s²."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.2.1",
+    "tituloSubtema": "Unidades de medida.",
+    "id": "cn_321_006",
+    "enunciado": "La presión es la fuerza aplicada por unidad de área. En el SI se mide en Pascales (Pa). Si se requiere medir una presión y reportarla en unidades básicas del SI, ¿cuál es la expresión correcta del Pascal?",
+    "opciones": [
+      "kg/(m·s²)",
+      "kg·m/s²",
+      "kg·m²/s²",
+      "kg/(m²·s²)"
+    ],
+    "respuesta_correcta": "kg/(m·s²)",
+    "explicacion_detallada": "El Pascal se define como un Newton por metro cuadrado (N/m²). Sabiendo que 1 N = 1 kg·m/s², entonces 1 Pa = (1 kg·m/s²) / m² = 1 kg/(m·s²), que también se puede escribir como kg·m⁻¹·s⁻².",
+    "pasos_resolucion": [
+      "Escribir la fórmula de la presión: P = F / A.",
+      "Sustituir por las unidades: Pa = N / m².",
+      "Reemplazar el Newton por sus unidades básicas: (kg·m/s²) / m².",
+      "Simplificar la expresión matemática obteniendo kg/(m·s²)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.2.1",
+    "tituloSubtema": "Unidades de medida.",
+    "id": "cn_321_007",
+    "enunciado": "En nanotecnología y física cuántica, las distancias suelen ser microscópicas y se utilizan prefijos del Sistema Internacional. ¿A qué factor multiplicativo equivale el prefijo 'nano' (n)?",
+    "opciones": [
+      "10⁻⁹",
+      "10⁻⁶",
+      "10⁻¹²",
+      "10⁻¹⁵"
+    ],
+    "respuesta_correcta": "10⁻⁹",
+    "explicacion_detallada": "Los prefijos del SI para submúltiplos incluyen: mili (10⁻³), micro (10⁻⁶), nano (10⁻⁹), pico (10⁻¹²) y femto (10⁻¹⁵). Por lo tanto, un nanómetro (nm) equivale a 10⁻⁹ metros.",
+    "pasos_resolucion": [
+      "Recordar la lista de prefijos submúltiplos del SI.",
+      "Identificar que 'mili' es 10⁻³, 'micro' es 10⁻⁶, 'nano' es 10⁻⁹.",
+      "Seleccionar la opción que indica 10⁻⁹."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.2.1",
+    "tituloSubtema": "Unidades de medida.",
+    "id": "cn_321_008",
+    "enunciado": "En un laboratorio de química se utilizan concentraciones molares muy pequeñas. Si una solución contiene 150 picogramos (pg) de un soluto, ¿cuál es su masa expresada en gramos (g)?",
+    "opciones": [
+      "1.5 × 10⁻¹⁰ g",
+      "1.5 × 10⁻¹² g",
+      "1.5 × 10⁻⁸ g",
+      "1.5 × 10⁻⁹ g"
+    ],
+    "respuesta_correcta": "1.5 × 10⁻¹⁰ g",
+    "explicacion_detallada": "El prefijo 'pico' (p) significa 10⁻¹². Por lo tanto, 1 picogramo (pg) es 10⁻¹² g. Al tener 150 pg, multiplicamos 150 × 10⁻¹² g = 1.5 × 10² × 10⁻¹² g = 1.5 × 10⁻¹⁰ g.",
+    "pasos_resolucion": [
+      "Identificar el factor del prefijo 'pico' (p): 10⁻¹².",
+      "Escribir la cantidad inicial: 150 pg = 150 × 10⁻¹² g.",
+      "Convertir a notación científica estándar: 150 = 1.5 × 10².",
+      "Multiplicar las potencias de base 10: 10² × 10⁻¹² = 10⁻¹⁰.",
+      "Resultado final: 1.5 × 10⁻¹⁰ g."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.2.1",
+    "tituloSubtema": "Unidades de medida.",
+    "id": "cn_321_009",
+    "enunciado": "El litro (L) no es una unidad básica del SI, pero su uso está aceptado para medir volumen. ¿A cuántos metros cúbicos (m³) equivale un litro?",
+    "opciones": [
+      "1 × 10⁻³ m³",
+      "1 × 10⁻⁶ m³",
+      "1 × 10⁻² m³",
+      "1 × 10³ m³"
+    ],
+    "respuesta_correcta": "1 × 10⁻³ m³",
+    "explicacion_detallada": "El volumen de un litro equivale a un decímetro cúbico (dm³). Sabiendo que 1 m = 10 dm, elevando ambos lados al cubo resulta 1 m³ = 1000 dm³ = 1000 L. Por lo tanto, 1 L = 1/1000 m³ = 10⁻³ m³.",
+    "pasos_resolucion": [
+      "Relacionar el litro con unidades de longitud: 1 L = 1 dm³.",
+      "Establecer la equivalencia de longitud: 1 dm = 0.1 m (10⁻¹ m).",
+      "Elevar al cubo la equivalencia: (1 dm)³ = (10⁻¹ m)³.",
+      "Obtener la equivalencia volumétrica: 1 dm³ = 10⁻³ m³."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.2.1",
+    "tituloSubtema": "Unidades de medida.",
+    "id": "cn_321_010",
+    "enunciado": "La potencia eléctrica y mecánica en el Sistema Internacional se mide en vatios (Watt, W). ¿Cómo se expresa 1 Watt en unidades básicas del SI?",
+    "opciones": [
+      "kg·m²/s³",
+      "kg·m/s³",
+      "kg·m²/s²",
+      "kg/(m·s³)"
+    ],
+    "respuesta_correcta": "kg·m²/s³",
+    "explicacion_detallada": "La potencia se define como el trabajo (o energía) transferido por unidad de tiempo: W = J/s. Como 1 Joule = 1 kg·m²/s², al dividir entre segundos (s) se obtiene 1 kg·m²/s³.",
+    "pasos_resolucion": [
+      "Recordar la definición de potencia: Potencia = Energía / Tiempo.",
+      "Sustituir unidades derivadas: Watt = Joule / segundo.",
+      "Reemplazar Joule por unidades básicas: (kg·m²/s²) / s.",
+      "Simplificar la expresión: kg·m²/s³."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.2.1",
+    "tituloSubtema": "Unidades de medida.",
+    "id": "cn_321_011",
+    "enunciado": "¿Qué magnitud física mide el 'año luz' (ly), una unidad de medida comúnmente utilizada en astronomía, y cuál es su valor aproximado en metros?",
+    "opciones": [
+      "Longitud; 9.46 × 10¹⁵ m",
+      "Tiempo; 3.15 × 10⁷ s",
+      "Velocidad; 3.00 × 10⁸ m/s",
+      "Aceleración cósmica; 9.81 × 10¹⁵ m/s²"
+    ],
+    "respuesta_correcta": "Longitud; 9.46 × 10¹⁵ m",
+    "explicacion_detallada": "El año luz es una unidad de longitud que representa la distancia que recorre la luz en el vacío en un año juliano (365.25 días). Se calcula multiplicando la velocidad de la luz (aprox. 3 × 10⁸ m/s) por los segundos que hay en un año juliano, dando aproximadamente 9.46 × 10¹⁵ metros.",
+    "pasos_resolucion": [
+      "Identificar que el 'año luz' se define como una distancia (longitud), no tiempo ni velocidad.",
+      "Calcular los segundos en un año juliano: 365.25 × 24 × 3600 = 31 557 600 s.",
+      "Multiplicar por la velocidad de la luz: 31 557 600 s × 299 792 458 m/s.",
+      "El resultado es 9.4607 × 10¹⁵ m."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.2.1",
+    "tituloSubtema": "Unidades de medida.",
+    "id": "cn_321_012",
+    "enunciado": "La unidad básica del SI para la cantidad de sustancia es el mol. Según la definición establecida en 2019, ¿cuál es el número exacto de entidades elementales que contiene un mol?",
+    "opciones": [
+      "6.022 140 76 × 10²³",
+      "6.626 070 15 × 10⁻³⁴",
+      "1.602 176 63 × 10⁻¹⁹",
+      "1.380 649 × 10⁻²³"
+    ],
+    "respuesta_correcta": "6.022 140 76 × 10²³",
+    "explicacion_detallada": "Desde el 20 de mayo de 2019, el mol se define fijando el valor numérico de la constante de Avogadro (N_A) exactamente en 6.022 140 76 × 10²³ mol⁻¹. Un mol contiene exactamente esa cantidad de entidades elementales (átomos, moléculas, etc.).",
+    "pasos_resolucion": [
+      "Reconocer las constantes fundamentales fijadas en el nuevo SI (2019).",
+      "Identificar la constante de Avogadro relacionada con el mol.",
+      "Seleccionar el valor correspondiente: 6.022 140 76 × 10²³."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.2.1",
+    "tituloSubtema": "Unidades de medida.",
+    "id": "cn_321_013",
+    "enunciado": "El electronvoltio (eV) es una unidad de energía no perteneciente al SI, pero cuyo valor se obtiene experimentalmente y está aceptado para su uso en física de partículas. ¿Cuál es su equivalencia en Joules (J)?",
+    "opciones": [
+      "1.602 × 10⁻¹⁹ J",
+      "6.626 × 10⁻³⁴ J",
+      "9.109 × 10⁻³¹ J",
+      "8.987 × 10⁹ J"
+    ],
+    "respuesta_correcta": "1.602 × 10⁻¹⁹ J",
+    "explicacion_detallada": "Un electronvoltio es la energía cinética que adquiere un electrón al ser acelerado por una diferencia de potencial de 1 voltio en el vacío. Como E = q·V, y la carga del electrón (e) es 1.602 × 10⁻¹⁹ C, 1 eV equivale a 1.602 × 10⁻¹⁹ Joules (C·V).",
+    "pasos_resolucion": [
+      "Recordar la definición de la unidad electronvoltio: energía de 1 electrón bajo 1 voltio.",
+      "Identificar el valor de la carga eléctrica elemental (carga del electrón): 1.602 × 10⁻¹⁹ Coulombs.",
+      "Aplicar la ecuación W = q·V para obtener Joules: 1.602 × 10⁻¹⁹ C × 1 V = 1.602 × 10⁻¹⁹ J."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.2.1",
+    "tituloSubtema": "Unidades de medida.",
+    "id": "cn_321_014",
+    "enunciado": "En la transferencia de datos y en electrónica de alta frecuencia, es común utilizar el prefijo 'Giga' (G) y 'Mega' (M). Si una señal tiene una frecuencia de 2 GHz, ¿cuál es su frecuencia equivalente en MHz y en Hz?",
+    "opciones": [
+      "2 000 MHz y 2 × 10⁹ Hz",
+      "200 MHz y 2 × 10⁸ Hz",
+      "0.002 MHz y 2 × 10⁶ Hz",
+      "20 000 MHz y 2 × 10¹⁰ Hz"
+    ],
+    "respuesta_correcta": "2 000 MHz y 2 × 10⁹ Hz",
+    "explicacion_detallada": "El prefijo Giga (G) representa 10⁹ y el prefijo Mega (M) representa 10⁶. Por lo tanto, 2 GHz son 2 × 10⁹ Hz. Para convertir a MHz, dividimos entre 10⁶, lo que resulta en (2 × 10⁹) / 10⁶ = 2 × 10³ = 2 000 MHz.",
+    "pasos_resolucion": [
+      "Identificar los valores de los prefijos: Giga = 10⁹, Mega = 10⁶.",
+      "Convertir GHz a Hz: 2 GHz × 10⁹ Hz/GHz = 2 × 10⁹ Hz.",
+      "Convertir Hz a MHz: 2 × 10⁹ Hz / 10⁶ Hz/MHz = 2 × 10³ MHz = 2 000 MHz."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.2.1",
+    "tituloSubtema": "Unidades de medida.",
+    "id": "cn_321_015",
+    "enunciado": "El voltaje o diferencia de potencial eléctrico se mide en Voltios (V). De acuerdo con el análisis dimensional del Sistema Internacional, ¿cuál es la equivalencia correcta del Voltio en unidades básicas del SI?",
+    "opciones": [
+      "kg·m²/(A·s³)",
+      "kg·m²/(A·s²)",
+      "kg·m/(A·s³)",
+      "A·s/(kg·m²)"
+    ],
+    "respuesta_correcta": "kg·m²/(A·s³)",
+    "explicacion_detallada": "El Voltio se define como la diferencia de potencial que produce una corriente de 1 Amperio (A) al disipar 1 Watt (W) de potencia, por lo que V = W / A. Como 1 Watt = 1 kg·m²/s³, entonces 1 Voltio = (kg·m²/s³) / A = kg·m²/(A·s³).",
+    "pasos_resolucion": [
+      "Recordar la definición de diferencia de potencial (voltaje) a partir de potencia eléctrica: P = V · I.",
+      "Despejar el voltaje: V = P / I.",
+      "Reemplazar P (vatios) por sus unidades básicas (kg·m²/s³) y la intensidad I por el amperio (A).",
+      "Combinar para obtener kg·m²/(A·s³)."
+    ],
+    "video_explicativo_url": ""
+  }
+]

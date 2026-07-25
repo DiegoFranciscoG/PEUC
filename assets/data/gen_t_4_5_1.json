@@ -1,0 +1,363 @@
+[
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "Roma adoptó un sistema de gobierno republicano en el año 509 a.C. tras la expulsión del rey Tarquinio el Soberbio. ¿Cuál era la principal característica institucional que distinguía a la República romana de una monarquía?",
+    "opciones": [
+      "El poder supremo recaía en dos cónsules elegidos anualmente por los comicios, evitando así la concentración de poder en una sola persona de forma permanente.",
+      "El Senado romano elegía directamente al emperador cada cuatro años mediante votación secreta entre los patricios.",
+      "La República romana fue la primera democracia directa donde todos los ciudadanos, incluyendo esclavos y mujeres, votaban las leyes.",
+      "El poder ejecutivo lo ejercía el Senado de forma exclusiva, sin ningún magistrado ejecutivo electo."
+    ],
+    "respuesta_correcta": "El poder supremo recaía en dos cónsules elegidos anualmente por los comicios, evitando así la concentración de poder en una sola persona de forma permanente.",
+    "explicacion_detallada": "La República romana (509-27 a.C.) se definía por el principio de la colegialidad y la anualidad en el ejercicio del poder. Dos cónsules compartían el mando supremo, y cada uno tenía derecho de veto (intercessio) sobre las decisiones del otro. Este sistema buscó deliberadamente prevenir la tiranía monárquica. El Senado no elegía magistrados; esa función correspondía a las asambleas del pueblo (comicios). Las mujeres y esclavos estaban excluidos del voto.",
+    "pasos_resolucion": [
+      "Recordar el contexto: Roma expulsa al rey y establece una república en 509 a.C.",
+      "Identificar el concepto clave: dos cónsules anuales con poder de veto mutuo.",
+      "Descartar opciones que hablan de 'emperadores' (Imperio, no República), 'democracia directa total' o 'Senado ejecutivo exclusivo'."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Republica+romana+cónsules+instituciones"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "Las Guerras Púnicas (264-146 a.C.) entre Roma y Cartago determinaron el dominio sobre el Mediterráneo occidental. ¿Qué consecuencia estratégica tuvo la victoria romana en la Segunda Guerra Púnica (218-201 a.C.) tras la derrota de Aníbal?",
+    "opciones": [
+      "Roma obtuvo el control de Hispania e impuso una indemnización de guerra a Cartago, eliminándola como potencia mediterránea rival y expandiendo su zona de influencia al oeste.",
+      "Cartago fue destruida completamente al final de la Segunda Guerra Púnica y su territorio se convirtió en la provincia romana de África.",
+      "Roma perdió el control del sur de Italia temporalmente pero conservó Sicilia, su primera provincia exterior.",
+      "Aníbal firmó la paz en Roma y se convirtió en aliado militar del Senado contra el reino de Macedonia."
+    ],
+    "respuesta_correcta": "Roma obtuvo el control de Hispania e impuso una indemnización de guerra a Cartago, eliminándola como potencia mediterránea rival y expandiendo su zona de influencia al oeste.",
+    "explicacion_detallada": "La Segunda Guerra Púnica, famosa por la invasión de Italia por Aníbal cruzando los Alpes, terminó con la derrota cartaginesa en Zama (202 a.C.). Roma no destruyó Cartago en ese momento (eso ocurrió en la Tercera Guerra Púnica en 146 a.C.), pero sí le impuso la cesión de Hispania (Hispania ulterior e interior), el pago de enormes reparaciones de guerra y la prohibición de hacer la guerra sin permiso romano. Cartago perdió su estatus de potencia.",
+    "pasos_resolucion": [
+      "Distinguir las tres Guerras Púnicas y sus resultados específicos.",
+      "La Segunda termina en Zama (202 a.C.) con el tratado que impuso ceder Hispania y pagar tributo.",
+      "La destrucción total de Cartago ocurre en 146 a.C., al final de la Tercera Guerra Púnica."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Segunda+Guerra+Punica+consecuencias+Roma"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "El período de las Guerras Civiles romanas del siglo I a.C. culminó con el ascenso de Octavio Augusto. ¿Qué transformación constitucional marcó el fin de la República y el inicio del Principado (Imperio)?",
+    "opciones": [
+      "Augusto acumuló de forma vitalicia los poderes de tribuno de la plebe, procónsul e imperator, manteniendo las formas republicanas mientras concentraba el poder real.",
+      "El Senado votó formalmente abolir la República y proclamó a Augusto 'Dictador Perpetuo' con poderes absolutos y hereditarios.",
+      "Augusto ganó una batalla naval contra Marco Antonio en Actium y ejecutó a todos los senadores opositores.",
+      "La asamblea popular romana aprobó una nueva constitución que transformaba a Roma en una monarquía hereditaria al estilo helenístico."
+    ],
+    "respuesta_correcta": "Augusto acumuló de forma vitalicia los poderes de tribuno de la plebe, procónsul e imperator, manteniendo las formas republicanas mientras concentraba el poder real.",
+    "explicacion_detallada": "Augusto fue un maestro del pragmatismo político. Nunca se proclamó rey ni dictador (términos que le habrían costado la vida, como a César). En cambio, acumuló el 'tribunicia potestas' (sacrosanctidad e iniciativa legislativa), el imperium proconsular (mando militar sobre las provincias con ejércitos) y el título honorífico de 'Princeps' (primero entre iguales). Esta ficción constitucional preservó el Senado y las magistraturas republicanas, pero el poder efectivo estaba completamente en sus manos.",
+    "pasos_resolucion": [
+      "Entender por qué Augusto no se llamó 'rey': el trauma de la monarquía y el asesinato de César.",
+      "Identificar los tres poderes clave acumulados: tribunicia potestas, imperium proconsular, título de Princeps.",
+      "Reconocer que el Principado fue una monarquía de facto dentro de las formas republicanas."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Augusto+Principado+fin+republica+romana"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "El Edicto de Milán (313 d.C.) emitido por Constantino I y Licinio fue un hito en la historia religiosa del Imperio Romano. ¿Cuál fue su alcance legal concreto?",
+    "opciones": [
+      "Proclamó la tolerancia religiosa para todos los cultos del Imperio, incluyendo el cristianismo, y ordenó devolver las propiedades confiscadas a los cristianos.",
+      "Estableció al cristianismo como la única religión oficial del Estado romano, prohibiendo todos los cultos paganos bajo pena de muerte.",
+      "Permitió el culto cristiano únicamente en las provincias orientales del Imperio, mientras el paganismo seguía siendo la religión oficial en Roma.",
+      "Creó la figura del Papa como autoridad suprema de la Iglesia con jurisdicción sobre el Imperio Romano de Occidente."
+    ],
+    "respuesta_correcta": "Proclamó la tolerancia religiosa para todos los cultos del Imperio, incluyendo el cristianismo, y ordenó devolver las propiedades confiscadas a los cristianos.",
+    "explicacion_detallada": "El Edicto de Milán no proclamó el cristianismo como religión oficial (eso ocurrió bajo Teodosio I con el Edicto de Tesalónica en 380 d.C.). Lo que hizo fue otorgar tolerancia plena a todos los cultos, incluyendo explícitamente el cristiano, que había sufrido persecuciones. También ordenó la restitución de bienes confiscados a los cristianos durante las persecuciones anteriores. Es un documento de libertad religiosa, no de imposición del cristianismo.",
+    "pasos_resolucion": [
+      "Diferenciar el Edicto de Milán (313, tolerancia) del Edicto de Tesalónica (380, religión oficial).",
+      "La clave: 'tolerancia para TODOS los cultos', no exclusividad cristiana.",
+      "Recordar el contexto: fin de las persecuciones y restitución de bienes confiscados."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Edicto+de+Milan+Constantino+313"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "El derecho romano es considerado uno de los legados más duraderos de Roma. El Corpus Juris Civilis, compilado por orden del emperador Justiniano I en el siglo VI d.C., está formado por cuatro partes. ¿Cuál es la colección que sistematizó la doctrina de los grandes jurisconsultos clásicos romanos?",
+    "opciones": [
+      "El Digesto (o Pandectas), que compiló los escritos de los principales juristas romanos clásicos como Ulpiano, Papiniano y Paulo.",
+      "El Codex Justinianeus, que recopiló todas las constituciones imperiales desde Adriano hasta Justiniano.",
+      "Las Institutas, que fueron el manual de derecho elemental destinado a la enseñanza en las escuelas de leyes.",
+      "Las Novelas, que recogían la legislación nueva promulgada por el propio Justiniano después de la compilación del Código."
+    ],
+    "respuesta_correcta": "El Digesto (o Pandectas), que compiló los escritos de los principales juristas romanos clásicos como Ulpiano, Papiniano y Paulo.",
+    "explicacion_detallada": "El Corpus Juris Civilis tiene cuatro componentes: (1) el Codex, que reúne constituciones imperiales; (2) el Digesto/Pandectas, que es la obra más voluminosa y sistematiza extractos de los grandes juristas clásicos; (3) las Institutas, manual de enseñanza; y (4) las Novelas (Novellae), legislación nueva de Justiniano. La pregunta apunta específicamente a la doctrina jurisprudencial, que es el Digesto.",
+    "pasos_resolucion": [
+      "Recordar los cuatro componentes del Corpus Juris Civilis.",
+      "Asociar 'doctrina de jurisconsultos' con el Digesto (escritos de juristas).",
+      "Distinguir del Codex (leyes imperiales), Institutas (manual) y Novelas (nueva legislación de Justiniano)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Corpus+Juris+Civilis+Justiniano+Digesto"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "La estructura social romana de la época republicana establecía una marcada distinción entre patricios y plebeyos. Las 'Leyes de las XII Tablas' (450 a.C.) fueron un hito en las Luchas de los Órdenes. ¿Cuál fue su principal aportación en el contexto de la pugna patricia-plebeya?",
+    "opciones": [
+      "Al codificar por escrito el derecho consuetudinario romano, impidieron que los magistrados patricios pudieran interpretar la ley arbitrariamente en perjuicio de los plebeyos.",
+      "Otorgaron la ciudadanía romana plena a todos los habitantes libres de Italia, eliminando la distinción entre patricios y plebeyos.",
+      "Crearon los Tribunos de la Plebe con poder de veto sobre todos los magistrados patricios.",
+      "Permitieron los matrimonios mixtos entre patricios y plebeyos, consolidando la fusión de ambas clases en una nueva aristocracia senatorial."
+    ],
+    "respuesta_correcta": "Al codificar por escrito el derecho consuetudinario romano, impidieron que los magistrados patricios pudieran interpretar la ley arbitrariamente en perjuicio de los plebeyos.",
+    "explicacion_detallada": "Antes de las XII Tablas, el derecho consuetudinario romano no estaba escrito y era interpretado exclusivamente por los pontífices patricios. La codificación fue una victoria plebeya porque al tener leyes escritas y públicas, expuestas en el Foro, los magistrados ya no podían aplicarlas discrecionalmente. Los tribunos de la plebe (creados anteriormente, ca. 494 a.C.) y los matrimonios mixtos (Lex Canuleia, 445 a.C.) son hitos diferentes de las XII Tablas.",
+    "pasos_resolucion": [
+      "Situar las XII Tablas (450 a.C.) en el contexto de la pugna patricio-plebeya.",
+      "Su aportación clave: derecho escrito y público = no más arbitrariedad patricia.",
+      "Distinguirlas de otras conquistas plebeas: tribunado (494), matrimonios mixtos (445), acceso al consulado (367)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Ley+XII+tablas+Roma+plebeyos+patricios"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "El 'limes' romano era el sistema de fronteras defensivas del Imperio. Ante las presiones de los pueblos germánicos en el siglo III d.C., Roma adoptó una estrategia defensiva denominada 'defensa en profundidad'. ¿Qué implicó este cambio estratégico?",
+    "opciones": [
+      "Se abandonó la defensa rígida de la frontera lineal para crear ejércitos móviles de reserva en el interior que pudieran responder rápidamente a las incursiones germánicas una vez penetrado el limes.",
+      "Se construyeron nuevas murallas en cada ciudad romana, convirtiendo el Imperio en una red de fortalezas aisladas sin ejército de campo.",
+      "Se permitió la entrada masiva de germanos como ciudadanos romanos a cambio de que se incorporaran como legionarios regulares con los mismos derechos que los itálicos.",
+      "Se abandonaron permanentemente las provincias de la Galia y Britania para concentrar todas las tropas en la defensa de Italia y Roma."
+    ],
+    "respuesta_correcta": "Se abandonó la defensa rígida de la frontera lineal para crear ejércitos móviles de reserva en el interior que pudieran responder rápidamente a las incursiones germánicas una vez penetrado el limes.",
+    "explicacion_detallada": "La crisis del siglo III d.C. demostró que el limes no podía detener todas las incursiones. La respuesta estratégica fue crear el 'comitatenses', ejércitos móviles de reserva posicionados en el interior del Imperio, capaces de desplazarse rápidamente para enfrentarse a los invasores que hubieran penetrado la frontera. Esta doctrina, asociada a Diocleciano y Constantino, complementó (no sustituyó) los ejércitos de frontera (limitanei). La ciudadanía masiva germana es un proceso diferente (Edicto de Caracalla, 212).",
+    "pasos_resolucion": [
+      "Identificar el problema: el limes era una línea rígida incapaz de contener todas las incursiones.",
+      "Entender la solución: ejércitos móviles interiores (comitatenses) para responder tras la ruptura de la frontera.",
+      "Diferenciar este concepto de la romanización de germanos, la retirada de provincias o la simple construcción de muros."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Defensa+en+profundidad+limes+Romano+siglo+III"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "La economía del Imperio Romano en su período de máxima expansión (siglos I-II d.C.) descansaba en varios pilares. ¿Cuál era la principal consecuencia económica a largo plazo de la dependencia romana de la mano de obra esclava?",
+    "opciones": [
+      "Desincentivó la innovación tecnológica en los procesos productivos, ya que el trabajo esclavo barato hacía innecesaria la mecanización o la mejora de métodos de producción.",
+      "Generó un poderoso proletariado libre urbano que demandó derechos laborales y revolucionó la economía con el trabajo asalariado libre.",
+      "Estimuló el desarrollo de la banca y el crédito, ya que los esclavos actuaban como intermediarios financieros en los grandes negocios.",
+      "Causó una superpoblación que obligó a Roma a expandirse militarmente para encontrar tierras agrícolas suficientes para los liberti."
+    ],
+    "respuesta_correcta": "Desincentivó la innovación tecnológica en los procesos productivos, ya que el trabajo esclavo barato hacía innecesaria la mecanización o la mejora de métodos de producción.",
+    "explicacion_detallada": "Este es uno de los argumentos más sólidos de la historiografía económica sobre Roma (Moses Finley, entre otros). Con millones de esclavos disponibles a bajo coste, los propietarios romanos no tenían ningún incentivo económico para invertir en maquinaria o perfeccionar métodos productivos. Esto contrastó con el mundo medieval y moderno, donde la escasez de trabajo forzó la innovación técnica. La dependencia esclava congeló tecnológicamente la economía romana a largo plazo.",
+    "pasos_resolucion": [
+      "Analizar la lógica económica: si el trabajo es gratuito (esclavos), no hay incentivo para automatizar.",
+      "Relacionar esta lógica con el estancamiento tecnológico romano en agricultura e industria.",
+      "Contrastar con economías donde la escasez de trabajo forzó innovación (ej. Revolución Industrial)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=economia+esclavitud+Roma+innovation+tecnologica"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "La caída del Imperio Romano de Occidente en 476 d.C. ha sido interpretada desde múltiples perspectivas historiográficas. La tesis de Edward Gibbon en 'Declive y caída del Imperio romano' atribuyó un papel central al cristianismo. ¿Cuál era el núcleo del argumento de Gibbon?",
+    "opciones": [
+      "El cristianismo debilitó el espíritu cívico y guerrero romano al enfatizar la humildad, la paz y el más allá sobre las virtudes marciales y el servicio al Estado.",
+      "La Iglesia cristiana utilizó sus riquezas para sobornar a los generales germánicos para que no atacaran Roma, lo que a largo plazo empobreció al Estado.",
+      "El cristianismo causó una masiva despoblación al prohibir el matrimonio entre ciudadanos romanos de diferentes provincias.",
+      "Las guerras de religión entre cristianos paganos y arrianos agotaron los recursos militares del Imperio en luchas internas irresolubles."
+    ],
+    "respuesta_correcta": "El cristianismo debilitó el espíritu cívico y guerrero romano al enfatizar la humildad, la paz y el más allá sobre las virtudes marciales y el servicio al Estado.",
+    "explicacion_detallada": "Gibbon argumentó que el triunfo del cristianismo fue una de las causas internas del declive romano. Según él, la ética cristiana (mansedumbre, sufrimiento como virtud, orientación al más allá) erosionó las virtudes cívicas romanas clásicas (pietas, virtus, amor a la gloria terrenal) que habían construido el Imperio. Esta tesis fue muy influyente pero también muy criticada por ser reduccionista. La historiografía moderna prefiere causas multicausales: militares, fiscales, climáticas y epidemiológicas.",
+    "pasos_resolucion": [
+      "Identificar a Edward Gibbon como historiador ilustrado del siglo XVIII.",
+      "Comprender su tesis: el ethos cristiano (humildad, pacifismo, ultratumba) disolvió el espíritu cívico guerrero romano.",
+      "Distinguir esta tesis del debate historiográfico moderno que la matiza con causas económicas, militares y climáticas."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Gibbon+Decline+Fall+Roman+Empire+Christianism"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "El Coliseo de Roma (Anfiteatro Flavio, 70-80 d.C.) es símbolo de la arquitectura romana. Desde la perspectiva del análisis político e ideológico, ¿qué función cumplían los espectáculos de gladiadores y las venationes (cacerías de animales) en el sistema de poder del Imperio?",
+    "opciones": [
+      "Eran un mecanismo de control social ('panem et circenses') que canalizaba las tensiones de la plebe urbana desempleada y sin tierras hacia el entretenimiento, legitimando el poder imperial.",
+      "Constituían el principal sistema judicial romano, donde los criminales probaban su inocencia venciendo en combate singular ante el pueblo.",
+      "Eran competencias deportivas similares a los Juegos Olímpicos griegos, donde los gladiadores representaban a sus ciudades de origen por honor nacional.",
+      "Funcionaban como el mercado de esclavos más importante del Imperio, donde los vencedores eran liberados y los vencidos eran vendidos a los legionarios."
+    ],
+    "respuesta_correcta": "Eran un mecanismo de control social ('panem et circenses') que canalizaba las tensiones de la plebe urbana desempleada y sin tierras hacia el entretenimiento, legitimando el poder imperial.",
+    "explicacion_detallada": "El poeta Juvenal acuñó la expresión 'panem et circenses' para describir la política romana de distribuir grano gratuito (annona) y organizar espectáculos masivos para mantener contenta y controlada a la plebe urbana de Roma. El Estado invertía enormes recursos en estos espectáculos porque la plebe sin empleo podía ser políticamente desestabilizadora. El espectáculo también permitía al emperador mostrar magnanimidad y poder (financiando los juegos) y manipular el debate público.",
+    "pasos_resolucion": [
+      "Recordar el concepto 'panem et circenses' de Juvenal.",
+      "Analizar la función política: distracción de la plebe sin tierra ni trabajo en la ciudad.",
+      "Relacionarlo con la legitimación del poder imperial a través de la generosidad pública y el espectáculo."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Panem+et+circenses+gladiadores+control+social+Roma"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "Roma ejerció una enorme influencia cultural sobre los pueblos conquistados, pero también absorbió elementos de otras culturas, especialmente la griega. Este proceso se denominó 'helenización de Roma'. ¿En qué ámbito fue más profunda y duradera esta influencia?",
+    "opciones": [
+      "En la filosofía, la literatura, el arte y la religión, donde Roma adoptó los géneros literarios griegos, la filosofía estoica y epicúrea, y reinterpretó el panteón griego asimilando sus dioses con los romanos.",
+      "En la organización militar, donde Roma abandonó las legiones para adoptar la falange hoplita macedonia como formación de combate principal.",
+      "En el derecho, donde el Código de Hamurabi babilónico, mediado por el contacto con Grecia, se convirtió en la base del derecho romano.",
+      "En la agricultura, donde las técnicas agrarias micénicas sustituyeron completamente las tradiciones latinas de cultivo de vid y olivo."
+    ],
+    "respuesta_correcta": "En la filosofía, la literatura, el arte y la religión, donde Roma adoptó los géneros literarios griegos, la filosofía estoica y epicúrea, y reinterpretó el panteón griego asimilando sus dioses con los romanos.",
+    "explicacion_detallada": "El propio Horacio escribió 'Graecia capta ferum victorem cepit' (Grecia conquistada capturó a su salvaje conquistador). Roma adoptó masivamente la filosofía griega (estoicismo: Marco Aurelio, Epicteto; epicureísmo: Lucrecio), los géneros literarios (épica: Virgilio imitando a Homero; lírica: Horacio imitando a Alceo), los órdenes arquitectónicos y el panteón (Zeus=Júpiter, Ares=Marte). La organización militar y el derecho romano fueron desarrollos autóctonos, no adoptados de Grecia.",
+    "pasos_resolucion": [
+      "Recordar la cita de Horacio sobre la influencia griega sobre Roma.",
+      "Identificar los ámbitos de influencia real: filosofía, literatura, arte, mitología.",
+      "Descartar la influencia griega en el derecho (desarrollo autóctono) y la organización militar (la legión es una creación romana)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Helenizacion+Roma+influencia+griega+cultura"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "Las reformas de los hermanos Graco (Tiberio y Cayo Sempronio Graco, 133-121 a.C.) intentaron resolver la crisis agraria de la República tardía. ¿Cuál era la esencia del problema que buscaban resolver y qué solución propusieron?",
+    "opciones": [
+      "La concentración de tierras del 'ager publicus' en manos de los grandes latifundistas senatoriales había arruinado al campesinado libre, por lo que propusieron redistribuir esas tierras públicas entre los ciudadanos pobres.",
+      "La escasez de trigo en Roma generada por las guerras había disparado los precios, por lo que propusieron importar masivamente grano de Egipto a precio subsidiado.",
+      "La excesiva extensión territorial del Imperio generaba inflación, por lo que propusieron frenar las conquistas militares y negociar la devolución de provincias deficitarias.",
+      "La corrupción de los magistrados patricios en la recaudación de impuestos a los aliados itálicos generaba insatisfacción, por lo que propusieron crear un tribunal especial para juzgar a los senadores corruptos."
+    ],
+    "respuesta_correcta": "La concentración de tierras del 'ager publicus' en manos de los grandes latifundistas senatoriales había arruinado al campesinado libre, por lo que propusieron redistribuir esas tierras públicas entre los ciudadanos pobres.",
+    "explicacion_detallada": "El 'ager publicus' era tierra conquistada que legalmente pertenecía al Estado romano, pero que los nobles habían ocupado ilegalmente y acumulado en latifundios trabajados por esclavos. Esto desplazó al pequeño campesinado libre (base del ejército republicano), generando una crisis militar y social. Los Graco propusieron aplicar los límites legales (Lex Licinia Sextia) y redistribuir el excedente en lotes de 30 iugera a los pobres. Esta propuesta costó la vida a ambos hermanos.",
+    "pasos_resolucion": [
+      "Entender el 'ager publicus': tierras públicas ocupadas ilegalmente por senadores en latifundios con esclavos.",
+      "Identificar la consecuencia: ruina del pequeño campesino libre y crisis del reclutamiento militar.",
+      "La solución propuesta: redistribución de las tierras públicas en exceso del límite legal."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Hermanos+Graco+reforma+agraria+Roma"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "El sistema de 'clientes' y 'patronos' fue una institución social fundamental en Roma. ¿Cómo funcionaba esta relación y qué implicaciones políticas tenía?",
+    "opciones": [
+      "Un patrono (persona rica o de alta categoría) ofrecía protección jurídica y apoyo económico a sus clientes (personas de menor rango), quienes a cambio le debían fidelidad política, apoyo en los tribunales y votos en las asambleas.",
+      "Era un sistema mercantil donde los 'patronos' eran los dueños de talleres y los 'clientes' eran sus compradores habituales, con obligaciones contractuales de compra preferente.",
+      "Era un mecanismo jurídico para la manumisión de esclavos, donde el 'patrono' liberaba al esclavo (que se convertía en 'cliente') a cambio de una parte de sus futuras ganancias.",
+      "Era una institución exclusivamente religiosa en la que los sacerdotes (patronos) guiaban espiritualmente a los creyentes (clientes) en el cumplimiento de los ritos del culto a los Lares."
+    ],
+    "respuesta_correcta": "Un patrono (persona rica o de alta categoría) ofrecía protección jurídica y apoyo económico a sus clientes (personas de menor rango), quienes a cambio le debían fidelidad política, apoyo en los tribunales y votos en las asambleas.",
+    "explicacion_detallada": "El clientelismo era la columna vertebral de la política romana. Los grandes aristócratas romanos construían su poder político acumulando el mayor número posible de clientes, quienes los seguían en las asambleas (comicios) para votar a sus candidatos o aprobar sus leyes. A cambio, el patrono los defendía en los tribunales, les daba alimentos (sportula) y apoyo económico. Toda la estructura política republicana estaba impregnada de estas redes clientelares verticales.",
+    "pasos_resolucion": [
+      "Definir los dos actores: patrono (rico/poderoso) y cliente (dependiente/necesitado).",
+      "Identificar el intercambio: protección y recursos a cambio de fidelidad política y votos.",
+      "Comprender la implicación política: el poder romano se construía sobre redes de dependencia personal, no sobre partidos modernos."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Clientelismo+patrono+cliente+Roma+sistema"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "El 'Principado' de Augusto (27 a.C. - 14 d.C.) no fue el único modelo de gobierno que Rome experimentó durante su etapa imperial. Diocleciano (284-305 d.C.) transformó el sistema en la 'Dominatio' o 'Dominado'. ¿Cuál era la diferencia fundamental entre ambos sistemas?",
+    "opciones": [
+      "El Principado mantuvo la ficción republicana con el emperador como 'primero entre iguales', mientras que el Dominado era una monarquía abiertamente absoluta y divina, donde el emperadorse presentaba como un dios viviente con ceremonial oriental.",
+      "El Principado era un sistema de gobierno compartido entre el Senado y el ejército, mientras que el Dominado trasladó todo el poder al ejército eliminando el Senado.",
+      "El Principado se practicaba en las provincias orientales y el Dominado en las occidentales, adaptándose a las culturas locales.",
+      "El Principado era hereditario y el Dominado establecía la elección popular del emperador mediante el voto de los soldados de cada legión."
+    ],
+    "respuesta_correcta": "El Principado mantuvo la ficción republicana con el emperador como 'primero entre iguales', mientras que el Dominado era una monarquía abiertamente absoluta y divina, donde el emperador se presentaba como un dios viviente con ceremonial oriental.",
+    "explicacion_detallada": "Augusto y sus sucesores del siglo I-II llamaban al emperador 'Princeps' (el primero/príncipe), manteniendo la pretensión de que era un ciudadano excepcional, no un rey. Diocleciano, enfrentado a la anarquía militar del siglo III, adoptó el título de 'Dominus' (señor/dueño) y asumió atributos de divinidad: el protocolo exigía postrarse ante él (proskynesis), usaba vestimentas púrpuras y una diadema, rodeándose de un ceremonial tomado de las monarquías orientales (persa). Esta transformación cambió la naturaleza misma del poder imperial.",
+    "pasos_resolucion": [
+      "Definir el Principado: ficción republicana, 'primero entre iguales', rechazo del título de rey.",
+      "Definir el Dominado: monarquía divina abierta, 'Dominus', ceremonial oriental, postracion.",
+      "Identificar la razón del cambio: necesidad de autoridad absoluta e incuestionable tras la anarquía militar del siglo III."
+    ],
+    "video_epicativo_url": "https://www.youtube.com/results?search_query=Principado+Dominado+Roma+Diocleciano+diferencia"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "El sistema de infantería romana, la legión, fue evolucionando a lo largo de los siglos. Las reformas militares de Mario (siglo I a.C.) transformaron profundamente el ejército romano. ¿Cuál fue el cambio más significativo y su consecuencia política?",
+    "opciones": [
+      "Mario abrió el reclutamiento a los ciudadanos sin propiedades (proletarii), creando un ejército profesional que juraba lealtad al general y no al Estado, sentando las bases de las guerras civiles por el poder.",
+      "Mario introdujo la falange griega como formación de combate principal, sustituyendo la tradicional organización en manípulos y cohortes.",
+      "Mario profesionalizó el ejército exigiendo por primera vez una renta mínima para servir, creando una guardia de élite de patricios que monopolizó el mando.",
+      "Mario transformó las legiones en unidades navales permanentes para dominar el Mediterráneo, relegando el ejército de tierra a funciones de policía interior."
+    ],
+    "respuesta_correcta": "Mario abrió el reclutamiento a los ciudadanos sin propiedades (proletarii), creando un ejército profesional que juraba lealtad al general y no al Estado, sentando las bases de las guerras civiles por el poder.",
+    "explicacion_detallada": "Antes de Mario, el servicio militar exigía una renta mínima de propiedad (census). Ante la crisis de reclutamiento, Mario alistó a los proletarii (los más pobres). Esto creó un ejército profesional que dependía de su general para cobrar, obtener tierras al licenciarse y prosperar. La lealtad ya no era al senado o a la república abstracta, sino al imperator que los alimentaba y prometía recompensas. Esto hizo que los generales (Mario, Sila, Pompeyo, César) pudieran usar sus legiones como instrumentos de ambición política personal, desencadenando las guerras civiles.",
+    "pasos_resolucion": [
+      "Contrastar el ejército ciudadano (requería censo de propiedad) con el ejército profesional post-Mario.",
+      "Identificar la consecuencia social: lealtad personal al general, no al Estado.",
+      "Derivar la consecuencia política: las guerras civiles del siglo I a.C. se explican por este cambio estructural."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Reformas+militares+Mario+Roma+proletarii"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "El Derecho Romano distinguía entre el 'ius civile' y el 'ius gentium'. ¿Cuál era la diferencia práctica entre ambos cuerpos normativos y por qué surgió el segundo?",
+    "opciones": [
+      "El ius civile aplicaba únicamente a los ciudadanos romanos, mientras que el ius gentium era un conjunto de normas más universal aplicable en relaciones comerciales y jurídicas con y entre extranjeros (peregrini) en el Imperio.",
+      "El ius civile era el derecho privado que regulaba las relaciones entre particulares, mientras que el ius gentium era el derecho público que regulaba las relaciones entre el Estado y los ciudadanos.",
+      "El ius civile era el derecho vigente en la ciudad de Roma, mientras que el ius gentium era el derecho que los pueblos conquistados podían seguir aplicando localmente sin interferencia romana.",
+      "El ius civile fue redactado por el Senado y el ius gentium por los emperadores, siendo este último superior jerárquicamente al primero desde el siglo I d.C."
+    ],
+    "respuesta_correcta": "El ius civile aplicaba únicamente a los ciudadanos romanos, mientras que el ius gentium era un conjunto de normas más universal aplicable en relaciones comerciales y jurídicas con y entre extranjeros (peregrini) en el Imperio.",
+    "explicacion_detallada": "El ius civile era el derecho formal romano, con sus formalidades y procedimientos, reservado a los cives romani. Con la expansión del Imperio y el desarrollo del comercio con y entre pueblos no romanos (peregrini), los pretores peregrinos desarrollaron un sistema jurídico más flexible y universal, el ius gentium, basado en principios de equidad y buena fe reconocidos por todos los pueblos. Este ius gentium fue la semilla del derecho internacional privado y contribuyó a universalizar el derecho romano.",
+    "pasos_resolucion": [
+      "Definir ius civile: derecho formal aplicable solo a ciudadanos romanos.",
+      "Definir ius gentium: derecho más flexible, aplicable a extranjeros y al comercio internacional.",
+      "Entender la razón de ser del ius gentium: la necesidad práctica de regular relaciones con no ciudadanos en un Imperio multicultural."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Ius+civile+ius+gentium+derecho+romano"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "La ciudad de Pompeya, conservada bajo las cenizas del Vesubio (79 d.C.), ha proporcionado una imagen excepcional de la vida cotidiana romana. Uno de los hallazgos más reveladores son las inscripciones electorales ('programmata') pintadas en sus paredes. ¿Qué revelan sobre la política romana municipal?",
+    "opciones": [
+      "Revelan una vida política municipal activa con candidatos que buscaban el apoyo de gremios de comerciantes, taberneros y otros grupos sociales, y que el resultado electoral importaba genuinamente a los habitantes de la ciudad.",
+      "Revelan que las elecciones municipales eran una farsa total controlada desde Roma, ya que los gobernadores imperiales designaban directamente a los duoviros sin consultar a la población.",
+      "Demuestran que en Pompeya solo votaban los patricios y los grandes propietarios agrícolas, mientras que los artesanos y comerciantes estaban expresamente excluidos por ley.",
+      "Evidencian que el sistema electoral pompeiano era idéntico al de la democracia ateniense con sorteo de magistrados por aleatorización."
+    ],
+    "respuesta_correcta": "Revelan una vida política municipal activa con candidatos que buscaban el apoyo de gremios de comerciantes, taberneros y otros grupos sociales, y que el resultado electoral importaba genuinamente a los habitantes de la ciudad.",
+    "explicacion_detallada": "Las más de 2.800 inscripciones electorales encontradas en Pompeya muestran endorsements de grupos muy variados: 'los panaderos recomiendan a Holconio', 'los amantes de Isis apoyan a...', etc. Esto demuestra que las elecciones municipales (para el cargo de duoviro, magistrado principal) eran genuinamente competitivas y los candidatos hacían campaña activa. Los candidatos necesitaban el apoyo de coaliciones de gremios y vecindarios, mostrando una cultura política urbana vibrante, nada parecido a una farsa imperial.",
+    "pasos_resolucion": [
+      "Conocer el contexto: programmata como carteles electorales pintados en muros de Pompeya.",
+      "Analizar quiénes firman los endorsements: gremios de todo tipo (panaderos, taberneros, lavanderos).",
+      "Concluir: vida política municipal genuinamente competitiva, no controlada desde Roma ni restringida a élites."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Pompeya+inscripciones+electorales+programmata"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "La crisis del siglo III d.C. (235-284 d.C.) fue un período de anarquía en el que Roma tuvo más de 50 emperadores. ¿Cuál fue el factor estructural principal que precipitó esta crisis?",
+    "opciones": [
+      "El ejército se convirtió en el árbitro del poder imperial y las legiones provinciales proclamaban y asesinaban emperadores para obtener favores económicos, sin que existiera un mecanismo legal estable de sucesión.",
+      "Una serie de erupciones volcánicas y terremotos destruyeron las ciudades principales del Imperio, desestabilizando la economía y la cohesión administrativa.",
+      "La difusión masiva del cristianismo generó guerras civiles religiosas irresolubles entre comunidades paganas y cristianas que colapsaron el Estado.",
+      "El agotamiento de los recursos naturales (deforestación y erosión) hizo que Roma no pudiera alimentar a su población, generando hambrunas que desestabilizaron el gobierno central."
+    ],
+    "respuesta_correcta": "El ejército se convirtió en el árbitro del poder imperial y las legiones provinciales proclamaban y asesinaban emperadores para obtener favores económicos, sin que existiera un mecanismo legal estable de sucesión.",
+    "explicacion_detallada": "Sin un mecanismo de sucesión claro (Roma nunca fue formalmente una monarquía hereditaria), el ejército se acostumbró a que sus aclamaciones hacían emperadores. Las legiones provinciales rivales comprendieron que proclamar a su propio general como emperador traía donativa (gratificaciones en moneda). Esto convirtió el cargo imperial en algo que se conquistaba con espadas, no con legitimidad, generando un ciclo vicioso de usurpaciones y asesinatos que duró 50 años.",
+    "pasos_resolucion": [
+      "Identificar el problema estructural: ausencia de mecanismo de sucesión imperial legalmente definido.",
+      "Comprender el incentivo del ejército: proclamar emperadores a cambio de donativa (pagos en dinero).",
+      "Reconocer el resultado: 50+ emperadores en menos de 50 años, la mayoría asesinados por sus propias tropas."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Crisis+siglo+III+anarquia+militar+Roma"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.1",
+    "enunciado": "El proceso de 'Romanización' de las provincias fue desigual y ha sido objeto de debate historiográfico. Desde la perspectiva de los Estudios de Poscolonialismo (aplicados a la antigüedad), ¿qué crítica se hace a la narrativa tradicional de la Romanización?",
+    "opciones": [
+      "La narrativa tradicional presentaba la Romanización como un proceso benéfico y voluntario de 'civilización', ocultando las relaciones de poder, la destrucción de culturas locales y la resistencia activa de los pueblos conquistados.",
+      "La crítica poscolonial argumenta que Roma nunca tuvo un impacto cultural real en sus provincias, ya que los pueblos conquistados mantuvieron sus culturas completamente intactas bajo una superficie romana superficial.",
+      "Los estudios poscoloniales demuestran que la Romanización fue exclusivamente un fenómeno militar y fiscal, sin ningún componente cultural o lingüístico de largo plazo.",
+      "La crítica poscolonial sostiene que los romanos fueron culturalmente superiores a todos los pueblos que conquistaron, pero por motivos genéticos, no históricos o sociales."
+    ],
+    "respuesta_correcta": "La narrativa tradicional presentaba la Romanización como un proceso benéfico y voluntario de 'civilización', ocultando las relaciones de poder, la destrucción de culturas locales y la resistencia activa de los pueblos conquistados.",
+    "explicacion_detallada": "Historiadores como Martin Millett o Greg Woolf, al aplicar conceptos poscoloniales, cuestionaron la idea de que los provinciales 'elegían libremente' adoptar la cultura romana porque era superior. Señalaron que la adopción del latín, el derecho romano y las costumbres romanas era muchas veces una estrategia de supervivencia de las élites locales para acceder al poder bajo el dominio imperial, no una conversión cultural genuinamente libre. Las voces subalternas (pueblos que resistieron) quedaron excluidas del relato triunfal.",
+    "pasos_resolucion": [
+      "Conocer la narrativa tradicional: Romanización como proceso voluntario y benéfico de civilización.",
+      "Entender la crítica poscolonial: la adopción de la cultura romana era coercitiva (para acceder al poder) y suprimía identidades locales.",
+      "Identificar el elemento que denuncia: relaciones de dominación y silenciamiento de la resistencia."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Romanizacion+critica+poscolonial+Martin+Millett"
+  }
+]

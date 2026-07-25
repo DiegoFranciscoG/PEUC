@@ -1,0 +1,50 @@
+[
+  {
+    "codigo_tema": "5.1.1",
+    "materia": "Razonamiento Abstracto",
+    "titulo": "Series Gráficas Simples",
+    "contenido_markdown": "### Introducción\nLas series gráficas simples constituyen la base del razonamiento abstracto, donde el objetivo es identificar el patrón de cambio o movimiento en una secuencia lógica de figuras independientes.\n\n### Conceptos Clave\n- **Secuencia:** Conjunto ordenado de figuras.\n- **Patrón Lógico:** Regla subyacente que rige la transformación (rotación, traslación, alternancia, adición o sustracción de elementos).\n- **Variables:** Elementos como tamaño, color, posición o cantidad de lados que cambian progresivamente.\n\n### Ejemplos Resueltos\n**Ejemplo 1:**\n*Problema:* Una serie inicia con una línea vertical, la segunda figura tiene dos líneas, la tercera tres. ¿Cuál es la cuarta figura?\n*Solución:* Una figura con cuatro líneas. La regla es la adición secuencial de una unidad (+1).\n**Ejemplo 2:**\n*Problema:* Un punto negro se desplaza en sentido horario dentro de un cuadrado. ¿Dónde estará en la quinta figura?\n*Solución:* Volverá a la posición inicial tras completar las cuatro esquinas."
+  },
+  {
+    "codigo_tema": "5.1.2",
+    "materia": "Razonamiento Abstracto",
+    "titulo": "Series Gráficas Compuestas",
+    "contenido_markdown": "### Introducción\nEn estas series intervienen simultáneamente dos o más elementos independientes que cambian bajo diferentes reglas lógicas dentro de la misma secuencia gráfica, lo que incrementa la complejidad del análisis.\n\n### Conceptos Clave\n- **Independencia de variables:** Cada elemento de la figura debe analizarse por separado.\n- **Sincronía geométrica:** El modo en que múltiples patrones (ej. una rotación y un cambio de color) convergen en un solo recuadro.\n\n### Ejemplos Resueltos\n**Ejemplo 1:**\n*Problema:* Un triángulo gira 90° en sentido antihorario mientras que un círculo en su interior cambia de blanco a negro y viceversa.\n*Solución:* Para hallar la figura siguiente, se debe aplicar la rotación al triángulo independientemente de la alternancia de color del círculo.\n**Ejemplo 2:**\n*Problema:* Una flecha crece de tamaño a razón de 2x y su punta invierte el sentido.\n*Solución:* La próxima iteración requerirá duplicar el tamaño actual y voltear la punta."
+  },
+  {
+    "codigo_tema": "5.1.3",
+    "materia": "Razonamiento Abstracto",
+    "titulo": "Series Gráficas Alternas",
+    "contenido_markdown": "### Introducción\nLas series alternas entrelazan dos secuencias independientes en una sola sucesión. El patrón no se descubre comparando figuras contiguas, sino saltando una posición (figuras impares vs. figuras pares).\n\n### Conceptos Clave\n- **Patrón Bifurcado:** Existencia de dos hilos lógicos paralelos (figuras 1, 3, 5 siguen una regla; figuras 2, 4, 6 siguen otra).\n- **Análisis Discontinuo:** Necesidad de ignorar el elemento inmediato para hallar la relación espacial o de forma.\n\n### Ejemplos Resueltos\n**Ejemplo 1:**\n*Problema:* Secuencia: Cuadrado, Círculo, Cuadrado grande, Círculo dividido, Cuadrado inmenso. ¿Cuál sigue?\n*Solución:* El círculo se está dividiendo en partes (patrón par). La siguiente figura par será un círculo dividido en cuatro, mientras los cuadrados sólo crecen.\n**Ejemplo 2:**\n*Problema:* Estrella 5 puntas, Triángulo, Estrella 6 puntas, Cuadrado, Estrella 7 puntas.\n*Solución:* Las impares son estrellas sumando puntas; las pares son polígonos sumando lados. Sigue un pentágono."
+  },
+  {
+    "codigo_tema": "5.2.1",
+    "materia": "Razonamiento Abstracto",
+    "titulo": "Matrices Gráficas",
+    "contenido_markdown": "### Introducción\nLas matrices gráficas (usualmente de 3x3) presentan elementos ordenados en filas y columnas. El estudiante debe deducir la figura que falta, analizando las relaciones lógicas tanto horizontales como verticales.\n\n### Conceptos Clave\n- **Lectura Bidireccional:** La regla se cumple de izquierda a derecha y de arriba a abajo.\n- **Superposición:** La tercera figura de una fila puede ser la suma o resta de líneas de las dos primeras.\n- **Distribución lógica:** Elementos que no se repiten en una misma fila o columna (como el Sudoku de figuras).\n\n### Ejemplos Resueltos\n**Ejemplo 1:**\n*Problema:* En una fila, la figura 1 y 2 se superponen para formar la figura 3, cancelándose las líneas comunes.\n*Solución:* Aplicar la misma superposición y cancelación a la fila inferior para hallar la respuesta.\n**Ejemplo 2:**\n*Problema:* Cada columna contiene un triángulo, un cuadrado y un círculo.\n*Solución:* Si en la última fila falta el cuadrado, esa es la respuesta directa."
+  },
+  {
+    "codigo_tema": "5.2.2",
+    "materia": "Razonamiento Abstracto",
+    "titulo": "Matrices Lógicas Complejas",
+    "contenido_markdown": "### Introducción\nA diferencia de las matrices simples, las lógicas complejas involucran operaciones matemáticas o transformaciones de estado (espejo, inversión de colores, giros angulares progresivos) para llegar a la solución final de la cuadrícula.\n\n### Conceptos Clave\n- **Transformación de Operadores:** Reglas que operan como funciones matemáticas sobre las figuras (ej. color blanco + color gris = color negro).\n- **Rotación Progresiva Matricial:** Rotaciones que se acumulan fila a fila o columna a columna.\n\n### Ejemplos Resueltos\n**Ejemplo 1:**\n*Problema:* Fila 1: Línea a 0°, línea a 45°, línea a 90°. \n*Solución:* El patrón es un giro de +45°. Si la última fila empieza en 180°, la respuesta final (tercera celda) será 270°.\n**Ejemplo 2:**\n*Problema:* Figura 1 sombreada a la izquierda, figura 2 sombreada a la derecha, figura 3 sin sombreado.\n*Solución:* La regla es exclusión XOR (lo sombreado común desaparece). Se aplica la misma lógica a las figuras problema."
+  },
+  {
+    "codigo_tema": "5.3.1",
+    "materia": "Razonamiento Abstracto",
+    "titulo": "Analogías Gráficas",
+    "contenido_markdown": "### Introducción\nLas analogías establecen relaciones de semejanza entre pares de figuras. Se presentan como 'A es a B, como C es a D'. El objetivo es descubrir la transformación exacta que convirtió A en B, y aplicarla a C para obtener D.\n\n### Conceptos Clave\n- **Par Base y Par Problema:** El par inicial define la regla de equivalencia.\n- **Transformación Directa e Inversa:** La relación puede ser un cambio de proporciones, vaciado de interior, o reflexión axial.\n\n### Ejemplos Resueltos\n**Ejemplo 1:**\n*Problema:* Un cuadrado grande y negro (A) se convierte en un cuadrado pequeño y blanco (B). C es un triángulo grande y negro.\n*Solución:* La regla es 'reducir tamaño e invertir color'. D será un triángulo pequeño y blanco.\n**Ejemplo 2:**\n*Problema:* Un pentágono pierde la base (A->B). C es un triángulo.\n*Solución:* Al quitarle la base al triángulo, D resulta en dos líneas inclinadas conectadas por el vértice superior."
+  },
+  {
+    "codigo_tema": "5.3.2",
+    "materia": "Razonamiento Abstracto",
+    "titulo": "Razonamiento Espacial: Vistas y Perspectivas",
+    "contenido_markdown": "### Introducción\nEvalúa la capacidad de visualizar un objeto tridimensional y proyectarlo en dos dimensiones. Implica identificar las vistas ortogonales (planta, alzado y perfil) de cuerpos geométricos complejos o conjuntos de bloques.\n\n### Conceptos Clave\n- **Planta (Vista superior):** Lo que se ve desde arriba, aplastando el objeto.\n- **Alzado (Vista frontal):** Proyección desde la cara principal.\n- **Perfil (Vista lateral):** Proyección desde los lados.\n- **Conteo de bloques:** Cálculo del volumen oculto en isometrías.\n\n### Ejemplos Resueltos\n**Ejemplo 1:**\n*Problema:* Se muestra una figura de 3 cubos apilados en escalera. ¿Cuál es su vista en planta?\n*Solución:* Desde arriba, se verá únicamente como un rectángulo dividido en 3 cuadrados unidos, sin percepción de profundidad.\n**Ejemplo 2:**\n*Problema:* Encontrar el número total de cubos en una figura donde algunas bases no son visibles.\n*Solución:* Se deben inferir los bloques de soporte necesarios para sostener los bloques que flotan, sumándolos al conteo visual directo."
+  },
+  {
+    "codigo_tema": "5.3.3",
+    "materia": "Razonamiento Abstracto",
+    "titulo": "Plegado y Desplegado de Sólidos",
+    "contenido_markdown": "### Introducción\nSe centra en el ensamblaje o desarme imaginario de figuras tridimensionales (usualmente dados o poliedros). El individuo debe determinar qué figura 3D corresponde a una plantilla 2D plana, o viceversa, comprobando las caras adyacentes y opuestas.\n\n### Conceptos Clave\n- **Regla de caras opuestas:** En un desarrollo en forma de cruz, las caras separadas por una cara intermedia nunca pueden tocarse al plegar.\n- **Orientación espacial:** Las figuras impresas en las caras giran al cerrarse el sólido.\n\n### Ejemplos Resueltos\n**Ejemplo 1:**\n*Problema:* Un desarrollo de cubo en cruz tiene un triángulo apuntando arriba en la cara central y una X en la cara derecha. Al plegarlo, ¿cómo quedan?\n*Solución:* El triángulo y la X serán caras adyacentes y la orientación del triángulo mantendrá la relación paralela respecto a la arista compartida con la X.\n**Ejemplo 2:**\n*Problema:* Caras alternas marcadas con punto negro, blanco y rojo.\n*Solución:* Al estar en la misma línea separados por otro cuadrado, serán opuestas en el cubo tridimensional armado y nunca se verán a la vez."
+  }
+]

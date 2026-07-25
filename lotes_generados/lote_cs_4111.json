@@ -1,0 +1,129 @@
+[
+  {
+    "id": "cs_4111_001",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música)",
+    "enunciado": "Para la escuela pitagórica, el principio fundamental (arché) que rige el cosmos y explica la armonía de la naturaleza no estaba constituido por un elemento material, sino por un principio abstracto. ¿Cuál era este principio?",
+    "opciones": [
+      "El número",
+      "El agua",
+      "El fuego",
+      "El aire"
+    ],
+    "respuesta_correcta": "El número",
+    "explicacion_detallada": "Los pitagóricos consideraban que la esencia de todas las cosas era el número. Observaron que las proporciones matemáticas regían los intervalos musicales y los movimientos de los astros, concluyendo que el orden del cosmos (armonía) es inherentemente matemático.",
+    "pasos_resolucion": [
+      "Identificar a la escuela filosófica mencionada: los pitagóricos.",
+      "Recordar el concepto de 'arché' (principio fundamental) propuesto por esta escuela.",
+      "Descartar elementos materiales (agua para Tales, fuego para Heráclito, aire para Anaxímenes).",
+      "Concluir que el número es el principio fundamental de los pitagóricos."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_002",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música)",
+    "enunciado": "¿Qué concepto clave introdujeron los primeros filósofos griegos para explicar el universo como un todo ordenado, estructurado por leyes naturales y proporciones geométricas, en contraposición al caos?",
+    "opciones": [
+      "Cosmos",
+      "Mito",
+      "Apeiron",
+      "Logos"
+    ],
+    "respuesta_correcta": "Cosmos",
+    "explicacion_detallada": "El término 'cosmos' fue introducido por los primeros filósofos (atribuido a menudo a Pitágoras) para describir el universo como un sistema ordenado, bello y armonioso, regido por leyes matemáticas y naturales, opuesto al concepto de caos.",
+    "pasos_resolucion": [
+      "Analizar la pregunta, que busca el término para un 'universo ordenado y estructurado'.",
+      "Revisar las opciones: Mito (relato fantástico), Apeiron (lo indeterminado), Logos (razón/palabra).",
+      "Identificar que 'Cosmos' significa literalmente orden u ornamento, y fue usado para describir la armonía del universo."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_003",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música)",
+    "enunciado": "La relación intrínseca entre las matemáticas y la música fue un descubrimiento fundamental en los albores de la filosofía griega. ¿Qué descubrimiento empírico de la escuela pitagórica demostró esta relación?",
+    "opciones": [
+      "La relación entre la longitud de una cuerda vibrante y los tonos musicales (intervalos de octava, quinta y cuarta).",
+      "La invención del primer instrumento de viento basado en el cálculo de volúmenes.",
+      "La asociación de las notas musicales con los cuatro elementos de la naturaleza.",
+      "La creación del teorema geométrico que lleva su nombre para afinar instrumentos."
+    ],
+    "respuesta_correcta": "La relación entre la longitud de una cuerda vibrante y los tonos musicales (intervalos de octava, quinta y cuarta).",
+    "explicacion_detallada": "Pitágoras y sus seguidores descubrieron que los intervalos musicales consonantes (como la octava, la quinta y la cuarta) se podían expresar mediante proporciones numéricas simples (2:1, 3:2, 4:3) al medir la longitud de las cuerdas vibrantes, uniendo así matemáticas y música.",
+    "pasos_resolucion": [
+      "Identificar el contexto: descubrimientos pitagóricos sobre música y matemáticas.",
+      "Recordar el experimento del monocordio atribuido a Pitágoras.",
+      "Reconocer que establecieron relaciones de proporción entre la longitud de la cuerda y los tonos consonantes."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_004",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música)",
+    "enunciado": "El paso del mito al logos representa el origen de la filosofía y la ciencia. En este contexto, ¿qué papel jugaron la geometría y la matemática para los primeros filósofos jonios como Tales de Mileto?",
+    "opciones": [
+      "Sirvieron como herramientas racionales para medir, predecir y comprender fenómenos naturales sin recurrir a explicaciones divinas.",
+      "Fueron utilizadas exclusivamente para rituales religiosos y la construcción de templos dedicados a los dioses.",
+      "Se consideraban conocimientos prohibidos por desafiar la voluntad de los dioses olímpicos.",
+      "Fueron métodos para interpretar textos sagrados y mitológicos de forma alegórica."
+    ],
+    "respuesta_correcta": "Sirvieron como herramientas racionales para medir, predecir y comprender fenómenos naturales sin recurrir a explicaciones divinas.",
+    "explicacion_detallada": "Para pensadores como Tales de Mileto, la geometría y la matemática (como predecir un eclipse o medir la altura de las pirámides) representaban el triunfo de la razón (logos) y la observación sistemática sobre las explicaciones míticas o mágicas de la naturaleza.",
+    "pasos_resolucion": [
+      "Comprender el concepto de 'paso del mito al logos' (de explicaciones sobrenaturales a racionales).",
+      "Analizar el uso de la matemática/geometría por los primeros filósofos (ej. Tales).",
+      "Concluir que estas disciplinas se usaron para comprender racionalmente la naturaleza."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_005",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música)",
+    "enunciado": "La 'Armonía de las esferas' es una doctrina filosófica antigua que sostiene que los cuerpos celestes (el Sol, la Luna y los planetas) producen una 'música' o resonancia inaudible. ¿En qué principio matemático se basa esta doctrina?",
+    "opciones": [
+      "Las distancias y velocidades de las órbitas planetarias guardan proporciones numéricas similares a las de los intervalos musicales consonantes.",
+      "El número de planetas es exactamente igual al número de notas en una escala musical estándar.",
+      "Los cuerpos celestes tienen formas geométricas perfectas que colisionan generando sonidos medibles.",
+      "El volumen del universo se expande siguiendo una secuencia aritmética infinita."
+    ],
+    "respuesta_correcta": "Las distancias y velocidades de las órbitas planetarias guardan proporciones numéricas similares a las de los intervalos musicales consonantes.",
+    "explicacion_detallada": "Los pitagóricos creían que el universo era una especie de gran instrumento musical estructurado matemáticamente. Pensaban que las velocidades de los astros y sus distancias estaban en las mismas proporciones que los intervalos musicales, generando una armonía cósmica.",
+    "pasos_resolucion": [
+      "Identificar la teoría de la 'Armonía de las esferas'.",
+      "Relacionar esta teoría con los conceptos pitagóricos de proporción matemática e intervalos musicales.",
+      "Seleccionar la opción que explica que las distancias/velocidades orbitales corresponden a proporciones musicales."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_006",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música)",
+    "enunciado": "Para los primeros filósofos presocráticos, el concepto de 'Physis' (naturaleza) no solo se refería al conjunto de las cosas que existen, sino también a:",
+    "opciones": [
+      "El principio dinámico y la fuerza interna de donde brotan y se desarrollan todos los seres.",
+      "Un estado caótico e incomprensible previo a la creación divina del mundo.",
+      "El conjunto de creaciones artificiales producto del ser humano y su técnica (techné).",
+      "Un reino puramente espiritual y separado de la realidad material del cosmos."
+    ],
+    "respuesta_correcta": "El principio dinámico y la fuerza interna de donde brotan y se desarrollan todos los seres.",
+    "explicacion_detallada": "En la filosofía presocrática, la 'Physis' implica la fuerza vital, el origen, el crecimiento y el principio subyacente que rige el devenir de las cosas. No es estática, sino una naturaleza dinámica y auto-ordenada de la cual emerge toda la realidad material.",
+    "pasos_resolucion": [
+      "Definir el concepto presocrático de 'Physis'.",
+      "Contrastar con concepciones modernas de 'naturaleza'.",
+      "Identificar que para los griegos implicaba origen, proceso de surgir, fuerza interna y orden intrínseco."
+    ],
+    "video_explicativo_url": ""
+  }
+]

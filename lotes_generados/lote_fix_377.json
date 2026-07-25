@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cn_377_ex_001",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.7",
+    "enunciado": "Si un tostador eléctrico tiene una resistencia de 24 ohmios y se conecta a una fuente de 120 V, ¿cuál es la intensidad de la corriente que circula por él?",
+    "opciones": [
+      "5 A",
+      "0.2 A",
+      "2880 A",
+      "144 A"
+    ],
+    "respuesta_correcta": "5 A",
+    "explicacion_detallada": "Según la ley de Ohm (I = V / R), se divide el voltaje proporcionado por la fuente entre la resistencia del dispositivo para encontrar la corriente.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar los datos dados: V = 120 V, R = 24 Ω.",
+      "Paso 2: Aplicar la ley de Ohm: I = V / R.",
+      "Paso 3: Calcular el resultado: I = 120 / 24 = 5 A."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_ex_002",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.7",
+    "enunciado": "Tres resistencias de 10 Ω, 15 Ω y 25 Ω se conectan en serie en un circuito. ¿Cuál es la resistencia equivalente del circuito?",
+    "opciones": [
+      "50 Ω",
+      "5 Ω",
+      "250 Ω",
+      "30 Ω"
+    ],
+    "respuesta_correcta": "50 Ω",
+    "explicacion_detallada": "En un circuito en serie, la resistencia equivalente o total es simplemente la suma algebraica de todas las resistencias individuales conectadas en la rama.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar que las resistencias están conectadas en serie.",
+      "Paso 2: Sumar las resistencias utilizando la fórmula Req = R1 + R2 + R3.",
+      "Paso 3: Calcular: Req = 10 + 15 + 25 = 50 Ω."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_ex_003",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.7",
+    "enunciado": "Dos resistencias de 12 Ω y 6 Ω se conectan en paralelo. ¿Cuál es la resistencia total o equivalente?",
+    "opciones": [
+      "4 Ω",
+      "18 Ω",
+      "2 Ω",
+      "72 Ω"
+    ],
+    "respuesta_correcta": "4 Ω",
+    "explicacion_detallada": "Para dos resistencias en paralelo, se puede usar la fórmula Req = (R1 * R2) / (R1 + R2), resultando siempre en una resistencia equivalente menor a la menor de las resistencias.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar conexión en paralelo con R1 = 12 Ω y R2 = 6 Ω.",
+      "Paso 2: Aplicar la fórmula: Req = (12 * 6) / (12 + 6).",
+      "Paso 3: Calcular: 72 / 18 = 4 Ω."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_ex_004",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.7",
+    "enunciado": "Una bombilla de luz está diseñada para operar con un voltaje de 120 V y consume una corriente de 0.5 A. ¿Cuál es la potencia eléctrica de la bombilla?",
+    "opciones": [
+      "60 W",
+      "240 W",
+      "600 W",
+      "120 W"
+    ],
+    "respuesta_correcta": "60 W",
+    "explicacion_detallada": "La potencia eléctrica es la tasa a la que se transfiere energía eléctrica y se calcula multiplicando el voltaje por la corriente (P = V * I).",
+    "pasos_resolucion": [
+      "Paso 1: Extraer los datos proporcionados: V = 120 V, I = 0.5 A.",
+      "Paso 2: Usar la fórmula de potencia: P = V * I.",
+      "Paso 3: Calcular el resultado: P = 120 * 0.5 = 60 W."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_ex_005",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.7",
+    "enunciado": "En un nodo de un circuito convergen tres cables. Si por dos de ellos entran corrientes de 2 A y 4 A respectivamente, ¿cuál debe ser la corriente en el tercer cable para cumplir con la primera ley de Kirchhoff?",
+    "opciones": [
+      "Sale una corriente de 6 A",
+      "Entra una corriente de 6 A",
+      "Sale una corriente de 2 A",
+      "Entra una corriente de 8 A"
+    ],
+    "respuesta_correcta": "Sale una corriente de 6 A",
+    "explicacion_detallada": "La primera ley de Kirchhoff (ley de los nodos) establece que la suma de las corrientes que entran a un nodo debe ser igual a la suma de las corrientes que salen, garantizando la conservación de la carga.",
+    "pasos_resolucion": [
+      "Paso 1: Sumar las corrientes que entran al nodo: 2 A + 4 A = 6 A.",
+      "Paso 2: Recordar que la corriente de entrada total debe ser igual a la de salida total.",
+      "Paso 3: Concluir que para que el sistema esté en equilibrio, deben salir 6 A por el tercer cable."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_ex_006",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.7",
+    "enunciado": "Dos capacitores de 4 μF y 12 μF se conectan en serie. ¿Cuál es la capacitancia equivalente del sistema?",
+    "opciones": [
+      "3 μF",
+      "16 μF",
+      "8 μF",
+      "48 μF"
+    ],
+    "respuesta_correcta": "3 μF",
+    "explicacion_detallada": "Para capacitores en serie, el inverso de la capacitancia equivalente es igual a la suma de los inversos de las capacitancias individuales (1/Ceq = 1/C1 + 1/C2).",
+    "pasos_resolucion": [
+      "Paso 1: Identificar que los capacitores están en serie: C1 = 4 μF, C2 = 12 μF.",
+      "Paso 2: Aplicar fórmula: 1/Ceq = 1/4 + 1/12.",
+      "Paso 3: Resolver la suma de fracciones: 1/Ceq = 3/12 + 1/12 = 4/12 = 1/3, por lo tanto, Ceq = 3 μF."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_ex_007",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.7",
+    "enunciado": "Si tres capacitores de 2 μF, 5 μF y 10 μF se conectan en paralelo, ¿cuál es la capacitancia total?",
+    "opciones": [
+      "17 μF",
+      "1.25 μF",
+      "100 μF",
+      "8 μF"
+    ],
+    "respuesta_correcta": "17 μF",
+    "explicacion_detallada": "En una conexión en paralelo, la capacitancia equivalente es la suma directa de las capacitancias individuales, ya que las placas se comportan como si fueran un solo capacitor más grande.",
+    "pasos_resolucion": [
+      "Paso 1: Reconocer la conexión en paralelo de los tres componentes.",
+      "Paso 2: Usar la ecuación Ceq = C1 + C2 + C3.",
+      "Paso 3: Sumar los valores: 2 + 5 + 10 = 17 μF."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_ex_008",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.7",
+    "enunciado": "¿Cuál es la función principal de un fusible o disyuntor en un circuito eléctrico doméstico?",
+    "opciones": [
+      "Interrumpir el flujo de corriente si excede un valor seguro para evitar sobrecalentamientos",
+      "Aumentar el voltaje cuando la demanda de los electrodomésticos es alta",
+      "Reducir el consumo de energía eléctrica para ahorrar en la factura mensual",
+      "Transformar la corriente alterna en corriente continua para los dispositivos"
+    ],
+    "respuesta_correcta": "Interrumpir el flujo de corriente si excede un valor seguro para evitar sobrecalentamientos",
+    "explicacion_detallada": "Los fusibles y disyuntores son elementos de seguridad que abren el circuito cuando detectan una corriente excesivamente alta (cortocircuito o sobrecarga), protegiendo la instalación contra posibles incendios.",
+    "pasos_resolucion": [
+      "Paso 1: Analizar el propósito fundamental de los dispositivos de protección en tableros eléctricos.",
+      "Paso 2: Descartar funciones relacionadas con eficiencia energética o modificación de la señal (voltaje, AC/DC).",
+      "Paso 3: Identificar que actúan como interruptores automáticos ante fallas por exceso de corriente."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_ex_009",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.7",
+    "enunciado": "Un circuito alimentado por una batería de 9 V permite el paso de una corriente de 0.03 A. ¿Cuál es la resistencia total del circuito?",
+    "opciones": [
+      "300 Ω",
+      "0.27 Ω",
+      "270 Ω",
+      "30 Ω"
+    ],
+    "respuesta_correcta": "300 Ω",
+    "explicacion_detallada": "Usando la ley de Ohm (V = I * R), se puede despejar la resistencia dividiendo el voltaje de la fuente para la intensidad de la corriente.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar el voltaje V = 9 V y la corriente I = 0.03 A.",
+      "Paso 2: Despejar R de la ley de Ohm: R = V / I.",
+      "Paso 3: Calcular el valor: R = 9 / 0.03 = 300 Ω."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_ex_010",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.7",
+    "enunciado": "Si se funde una de las bombillas en un circuito de iluminación en donde todas están conectadas en paralelo, ¿qué sucede con las demás bombillas?",
+    "opciones": [
+      "Siguen encendidas con la misma intensidad",
+      "Se apagan todas inmediatamente",
+      "Brillan con mayor intensidad debido a la corriente extra",
+      "Parpadean hasta que se reemplaza la bombilla fundida"
+    ],
+    "respuesta_correcta": "Siguen encendidas con la misma intensidad",
+    "explicacion_detallada": "En un circuito en paralelo, cada componente tiene su propia trayectoria hacia la fuente. Si una rama se abre (falla la bombilla), el voltaje en las ramas restantes se mantiene constante, por lo que su funcionamiento no se altera.",
+    "pasos_resolucion": [
+      "Paso 1: Recordar las propiedades de los circuitos en paralelo y cómo fluye la corriente.",
+      "Paso 2: Identificar que el voltaje aplicado a cada rama no cambia si otra rama falla.",
+      "Paso 3: Concluir que el fallo de una bombilla es aislado y el resto seguirá funcionando igual."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_ex_011",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.7",
+    "enunciado": "Un calentador eléctrico de 2000 W funciona de forma continua durante 3 horas. ¿Cuánta energía eléctrica en kilovatios-hora (kWh) ha consumido?",
+    "opciones": [
+      "6 kWh",
+      "6000 kWh",
+      "1.5 kWh",
+      "0.66 kWh"
+    ],
+    "respuesta_correcta": "6 kWh",
+    "explicacion_detallada": "La energía consumida se calcula multiplicando la potencia (expresada en kilovatios, kW) por el tiempo de funcionamiento (en horas). La fórmula es E = P * t.",
+    "pasos_resolucion": [
+      "Paso 1: Convertir la potencia de vatios a kilovatios: 2000 W / 1000 = 2 kW.",
+      "Paso 2: Identificar el tiempo de uso: t = 3 h.",
+      "Paso 3: Multiplicar potencia por tiempo: E = 2 kW * 3 h = 6 kWh."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_ex_012",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.7",
+    "enunciado": "En un circuito en serie, dos resistencias R1 = 20 Ω y R2 = 30 Ω están conectadas a una fuente de 100 V. ¿Cuál es la caída de voltaje específica en la resistencia R1?",
+    "opciones": [
+      "40 V",
+      "60 V",
+      "100 V",
+      "50 V"
+    ],
+    "respuesta_correcta": "40 V",
+    "explicacion_detallada": "Para hallar el voltaje en una resistencia en serie, primero se determina la corriente total (que es la misma en todo el circuito) y luego se aplica la ley de Ohm localmente en dicha resistencia.",
+    "pasos_resolucion": [
+      "Paso 1: Calcular la resistencia equivalente del circuito: Req = 20 + 30 = 50 Ω.",
+      "Paso 2: Calcular la corriente total del circuito: I = V / Req = 100 / 50 = 2 A.",
+      "Paso 3: Calcular el voltaje en R1: V1 = I * R1 = 2 A * 20 Ω = 40 V."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_ex_013",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.7",
+    "enunciado": "En una malla cerrada de un circuito, hay una fuente de 12 V y dos resistencias. Si la primera resistencia genera una caída de potencial de 7 V, ¿cuál debe ser la caída de potencial en la segunda resistencia según la segunda ley de Kirchhoff?",
+    "opciones": [
+      "5 V",
+      "19 V",
+      "12 V",
+      "7 V"
+    ],
+    "respuesta_correcta": "5 V",
+    "explicacion_detallada": "La segunda ley de Kirchhoff (ley de las mallas) establece que la suma de las elevaciones de voltaje es igual a la suma de las caídas de voltaje en cualquier lazo cerrado.",
+    "pasos_resolucion": [
+      "Paso 1: Establecer la ecuación de la malla: V_fuente = V_caída1 + V_caída2.",
+      "Paso 2: Sustituir los valores conocidos en la ecuación: 12 V = 7 V + V_caída2.",
+      "Paso 3: Despejar la incógnita: V_caída2 = 12 V - 7 V = 5 V."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_ex_014",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.7",
+    "enunciado": "Una resistencia de 50 Ω está sometida a una corriente de 2 A. ¿Cuánta potencia eléctrica disipa en forma de calor por efecto Joule?",
+    "opciones": [
+      "200 W",
+      "100 W",
+      "25 W",
+      "400 W"
+    ],
+    "respuesta_correcta": "200 W",
+    "explicacion_detallada": "La potencia disipada por una resistencia se puede calcular con la fórmula P = I² * R, que relaciona directamente la corriente, la resistencia y el calor generado.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar los datos provistos: I = 2 A, R = 50 Ω.",
+      "Paso 2: Aplicar la fórmula correspondiente: P = (I^2) * R.",
+      "Paso 3: Calcular: P = (2^2) * 50 = 4 * 50 = 200 W."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_ex_015",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.7",
+    "enunciado": "Se tienen 4 resistencias idénticas de 100 Ω cada una, conectadas en paralelo. ¿Cuál es la resistencia equivalente de todo este arreglo?",
+    "opciones": [
+      "25 Ω",
+      "400 Ω",
+      "100 Ω",
+      "50 Ω"
+    ],
+    "respuesta_correcta": "25 Ω",
+    "explicacion_detallada": "Cuando se conectan un número 'n' de resistencias idénticas de valor 'R' en paralelo, la resistencia equivalente se puede calcular rápidamente dividiendo el valor de la resistencia para el número total de ellas (Req = R / n).",
+    "pasos_resolucion": [
+      "Paso 1: Identificar el número de resistencias en el circuito: n = 4.",
+      "Paso 2: Identificar el valor constante de cada resistencia: R = 100 Ω.",
+      "Paso 3: Calcular la resistencia equivalente: Req = 100 / 4 = 25 Ω."
+    ],
+    "video_explicativo_url": ""
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "El paso del Paleolítico Superior al Neolítico trajo consigo una profunda transformación en la cosmovisión y el arte de las sociedades humanas. Desde el punto de vista estilístico y temático, ¿cuál fue la principal diferencia entre el arte rupestre franco-cantábrico (paleolítico) y el arte levantino (mesolítico/neolítico)?",
+    "opciones": [
+      "El arte levantino se caracteriza por un alto grado de esquematismo, la inclusión predominante de la figura humana en escenas narrativas de caza o recolección, y el uso de abrigos rocosos poco profundos.",
+      "El arte levantino abandona completamente la representación de la figura humana para enfocarse en patrones geométricos abstractos y se localiza exclusivamente en el interior de cuevas profundas.",
+      "El arte franco-cantábrico destaca por su esquematismo monocromo y escenas bélicas, mientras que el levantino se centra en representaciones polícromas y aisladas de grandes herbívoros.",
+      "Ambos estilos comparten la ausencia total de representaciones humanas, diferenciándose únicamente en las técnicas de aplicación de los pigmentos minerales."
+    ],
+    "respuesta_correcta": "El arte levantino se caracteriza por un alto grado de esquematismo, la inclusión predominante de la figura humana en escenas narrativas de caza o recolección, y el uso de abrigos rocosos poco profundos.",
+    "explicacion_detallada": "El arte levantino peninsular marca una ruptura con el paradigma franco-cantábrico al introducir el dinamismo, las escenas narrativas (caza, danza, recolección) y, sobre todo, el protagonismo de la figura humana, que en el Paleolítico era escasa. Además, tiende al esquematismo y se ubica al aire libre o en abrigos someros, reflejando cambios climáticos y sociales.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar las características del arte franco-cantábrico (Paleolítico): polícromo, naturalista, enfocado en animales grandes, en cuevas profundas.",
+      "Paso 2: Identificar las características del arte levantino: monocromo, dinámico, esquemático, escenas con humanos, abrigos rocosos.",
+      "Paso 3: Comparar las opciones y seleccionar la que describe correctamente esta transición estilística y temática."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=arte+levantino+vs+arte+franco-cantabrico"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "André Leroi-Gourhan propuso un modelo estructuralista para interpretar el arte parietal paleolítico, alejándose de la teoría de la 'magia simpática' de Henri Breuil. ¿En qué consistía fundamentalmente la teoría de Leroi-Gourhan?",
+    "opciones": [
+      "La cueva era concebida como un santuario organizado bajo un principio de dualidad sexual, donde distintas especies animales y signos abstractos representaban principios masculinos (ej. el caballo) y femeninos (ej. el bisonte).",
+      "Las representaciones artísticas no tenían un fin mágico, sino que funcionaban como un registro contable de las piezas cazadas por la comunidad a lo largo de las estaciones del año.",
+      "El arte paleolítico era exclusivamente producto de chamanes en estados alterados de conciencia, representando alucinaciones entópticas sin ningún orden topográfico en la cueva.",
+      "Las pinturas rupestres eran mapas topográficos del territorio circundante, indicando rutas migratorias de los rebaños y fuentes de agua potable."
+    ],
+    "respuesta_correcta": "La cueva era concebida como un santuario organizado bajo un principio de dualidad sexual, donde distintas especies animales y signos abstractos representaban principios masculinos (ej. el caballo) y femeninos (ej. el bisonte).",
+    "explicacion_detallada": "Leroi-Gourhan (y Annette Laming-Emperaire) introdujeron el análisis topográfico de las cuevas, argumentando que las pinturas no estaban dispuestas al azar. Propuso que existía un simbolismo binario (masculino/femenino) expresado a través de asociaciones de animales (caballo-bisonte) y signos en zonas específicas de la cueva, estructurándola como un santuario complejo.",
+    "pasos_resolucion": [
+      "Paso 1: Recordar las principales teorías interpretativas del arte paleolítico (Breuil: magia de caza; Lewis-Williams: chamanismo; Leroi-Gourhan: estructuralismo).",
+      "Paso 2: Relacionar a Leroi-Gourhan con su enfoque estructuralista y topográfico.",
+      "Paso 3: Identificar la opción que menciona la organización del santuario y la dualidad sexual (caballo/bisonte)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=teoria+estructuralista+leroi-gourhan+arte+paleolitico"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "El descubrimiento de Göbekli Tepe en el sureste de Anatolia cuestionó profundamente los paradigmas tradicionales sobre la Revolución Neolítica establecidos por Gordon Childe. ¿Qué premisa fundamental de la arqueología tradicional fue refutada por este yacimiento?",
+    "opciones": [
+      "Que la construcción de arquitectura monumental y la religión institucionalizada surgieron únicamente después del establecimiento de la agricultura y las sociedades sedentarias productoras de alimentos.",
+      "Que el megalitismo fue un fenómeno originario exclusivamente de la Europa atlántica y que se difundió posteriormente hacia el Próximo Oriente.",
+      "Que las sociedades de cazadores-recolectores eran incapaces de crear representaciones simbólicas de animales depredadores en piedra.",
+      "Que el uso de cerámica cocida era un requisito indispensable para la sedentarización y la creación de centros de culto."
+    ],
+    "respuesta_correcta": "Que la construcción de arquitectura monumental y la religión institucionalizada surgieron únicamente después del establecimiento de la agricultura y las sociedades sedentarias productoras de alimentos.",
+    "explicacion_detallada": "Göbekli Tepe (aprox. 9600 a.C.) fue construido por cazadores-recolectores precerámicos, demostrando que la capacidad de movilizar grandes grupos para erigir arquitectura monumental con fines rituales precedió a la agricultura. Esto invierte la teoría tradicional de que primero fue la agricultura y luego la religión/arquitectura monumental.",
+    "pasos_resolucion": [
+      "Paso 1: Recordar la cronología y el contexto de Göbekli Tepe (Precerámico A, cazadores-recolectores).",
+      "Paso 2: Evaluar la teoría tradicional (Gordon Childe) que dictaba que la agricultura permitía el excedente y, luego, la arquitectura monumental.",
+      "Paso 3: Concluir que Göbekli Tepe demuestra que la necesidad religiosa pudo haber impulsado la sedentarización y la agricultura, y no al revés."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=gobekli+tepe+revolucion+neolitica"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "Las llamadas 'Venus paleolíticas' son estatuillas femeninas que se encuentran en Eurasia durante el Gravetiense. A pesar de sus diversas interpretaciones, la arqueología feminista y de género reciente ha propuesto nuevas hipótesis sobre su función. ¿Cuál de las siguientes afirmaciones refleja una perspectiva actual alejada del clásico 'culto a la fertilidad' masculino?",
+    "opciones": [
+      "Podrían ser autorretratos elaborados por mujeres a lo largo de su vida, reflejando cómo veían sus propios cuerpos en distintas etapas (embarazo, vejez), o amuletos ginecológicos.",
+      "Representan a esclavas sometidas por los líderes cazadores, evidenciando los primeros sistemas de patriarcado extremo del Paleolítico Superior.",
+      "Son representaciones exóticas de diosas importadas exclusivamente desde el norte de África, utilizadas como moneda de cambio entre tribus matriarcales.",
+      "Son juguetes infantiles sin ningún valor ritual, creados en serie para la diversión de las élites nómadas de la Edad del Hielo."
+    ],
+    "respuesta_correcta": "Podrían ser autorretratos elaborados por mujeres a lo largo de su vida, reflejando cómo veían sus propios cuerpos en distintas etapas (embarazo, vejez), o amuletos ginecológicos.",
+    "explicacion_detallada": "Investigadoras como LeRoy McDermott han sugerido que las proporciones de las Venus (senos y vientre agrandados, pies ausentes o pequeños) coinciden con la perspectiva visual de una mujer embarazada mirando su propio cuerpo hacia abajo. Esto sugiere que fueron hechas por mujeres, posiblemente como amuletos o representaciones de su propia corporalidad, alejándose de la idea de que eran objetos de deseo masculino.",
+    "pasos_resolucion": [
+      "Paso 1: Analizar la interpretación tradicional (amuletos de fertilidad, diosas madre creadas por y para hombres).",
+      "Paso 2: Identificar las corrientes modernas (arqueología de género), que buscan agencia femenina en el registro material.",
+      "Paso 3: Seleccionar la opción que plantea la teoría del autorretrato femenino y el auto-reconocimiento del cuerpo (McDermott)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=venus+paleoliticas+autorretrato+perspectiva+genero"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "El fenómeno del megalitismo en Europa Occidental (Neolítico y Calcolítico) está íntimamente ligado a cambios en la estructura social y en la concepción de la muerte. ¿Qué función social y territorial principal se atribuye a los dólmenes y tumbas de corredor en estas sociedades?",
+    "opciones": [
+      "Servían como marcadores territoriales que legitimaban el derecho de una comunidad agraria sobre ciertas tierras, sirviendo de panteones colectivos para los ancestros.",
+      "Eran fortificaciones defensivas construidas exclusivamente para proteger a los líderes religiosos durante las constantes guerras intertribales.",
+      "Eran observatorios astronómicos dedicados al culto solar, donde nunca se realizaban inhumaciones, sino que servían solo como calendarios agrícolas.",
+      "Fueron construidos como residencias palaciegas para las deidades locales, prohibiéndose el acceso a cualquier ser humano vivo o muerto."
+    ],
+    "respuesta_correcta": "Servían como marcadores territoriales que legitimaban el derecho de una comunidad agraria sobre ciertas tierras, sirviendo de panteones colectivos para los ancestros.",
+    "explicacion_detallada": "Con la sedentarización y la agricultura del Neolítico, el control de la tierra se vuelve vital. Los monumentos megalíticos funerarios (dólmenes) funcionaban como entierros colectivos que anclaban a los ancestros a un territorio específico, operando como un marcador visual e ideológico que reivindicaba la propiedad y el derecho de la comunidad sobre ese espacio.",
+    "pasos_resolucion": [
+      "Paso 1: Definir la naturaleza de un dolmen (tumba megalítica colectiva).",
+      "Paso 2: Relacionar el enterramiento colectivo de ancestros con las necesidades de una sociedad agrícola sedentaria (propiedad de la tierra).",
+      "Paso 3: Identificar la opción que une la función funeraria (panteones de ancestros) con la territorial/social (marcadores legitimadores)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=megalitismo+neolitico+funcion+social+marcadores+territoriales"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "La teoría chamanística aplicada al arte rupestre del Paleolítico Superior, desarrollada principalmente por David Lewis-Williams, se basa en la neuropsicología y la etnografía comparada. ¿Cuál es el argumento central de esta teoría respecto a los motivos representados en las cuevas?",
+    "opciones": [
+      "Las representaciones combinan signos geométricos (fosfenos o entópticos) y figuras animales (alucinaciones complejas) derivadas de los tres estados de trance alterado experimentados por los chamanes.",
+      "Las pinturas son el resultado de ritos de paso en los que los adolescentes debían dibujar su animal tótem tras un periodo de aislamiento sin alimento, sin intervención de chamanes.",
+      "El arte rupestre fue un intento de chamanes primitivos de comunicarse con inteligencias extraterrestres que dictaron los patrones geométricos desde el cielo.",
+      "Las pinturas muestran exclusivamente escenas de curación médica empírica, donde los chamanes utilizaban plantas locales para sanar heridas de caza sin ningún componente espiritual."
+    ],
+    "respuesta_correcta": "Las representaciones combinan signos geométricos (fosfenos o entópticos) y figuras animales (alucinaciones complejas) derivadas de los tres estados de trance alterado experimentados por los chamanes.",
+    "explicacion_detallada": "David Lewis-Williams argumenta que el sistema nervioso humano genera fenómenos entópticos universales (líneas, puntos, zigzags) durante estados alterados de conciencia. Según su modelo neuropsicológico en tres etapas, estas visiones geométricas se transforman finalmente en alucinaciones complejas (animales, teriántropos), lo que explica la coexistencia de signos abstractos y animales naturalistas en el arte parietal.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar a Lewis-Williams y su teoría neuropsicológica del chamanismo.",
+      "Paso 2: Recordar los elementos clave de su teoría: estados alterados de conciencia, fenómenos entópticos (signos geométricos) y alucinaciones icónicas (animales/monstruos).",
+      "Paso 3: Seleccionar la opción que sintetice correctamente la conexión entre neurología, trance y los motivos del arte rupestre."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=david+lewis-williams+arte+paleolitico+chamanismo"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "El yacimiento neolítico de Çatalhöyük en Anatolia destaca por su complejidad simbólica y arquitectónica. ¿Qué característica distintiva de las prácticas religiosas de este asentamiento sugiere un profundo culto a los ancestros integrado en la vida doméstica diaria?",
+    "opciones": [
+      "El enterramiento de los difuntos debajo de las plataformas de los suelos de las propias viviendas y el modelado de cráneos recubiertos con arcilla para recrear los rostros.",
+      "La construcción de zigurats monumentales en el centro de la ciudad, separados de las áreas residenciales, donde solo los sacerdotes tenían acceso a las tumbas reales.",
+      "La cremación de todos los fallecidos y la dispersión de sus cenizas en los campos de cultivo cercanos para garantizar la fertilidad del suelo agrícola.",
+      "El abandono de los cuerpos en torres del silencio fuera del asentamiento, dejando que las aves carroñeras descarnaran los huesos antes de enterrarlos en necrópolis lejanas."
+    ],
+    "respuesta_correcta": "El enterramiento de los difuntos debajo de las plataformas de los suelos de las propias viviendas y el modelado de cráneos recubiertos con arcilla para recrear los rostros.",
+    "explicacion_detallada": "En Çatalhöyük no había cementerios separados ni arquitectura pública monumental diferenciada. Las prácticas religiosas y funerarias estaban integradas en la esfera doméstica. Los muertos eran enterrados bajo el suelo de las casas (especialmente bajo las camas/plataformas). Además, el trato especial a los cráneos (desenterrados, modelados con yeso o arcilla y pintados) evidencia un complejo culto a los ancestros intramuros.",
+    "pasos_resolucion": [
+      "Paso 1: Analizar el contexto de Çatalhöyük (Neolítico de Anatolia).",
+      "Paso 2: Recordar las características arquitectónicas (casas contiguas, entrada por el techo) y religiosas del sitio.",
+      "Paso 3: Identificar el culto a los ancestros a través de los enterramientos sub-suelo y la manipulación de cráneos en el ámbito puramente doméstico."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=catalhoyuk+culto+ancestros+religion+neolitica"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "La 'magia simpática' o 'magia cazadora' fue una de las primeras grandes interpretaciones del arte parietal paleolítico, popularizada por Henri Breuil. Sin embargo, estudios zooarqueológicos posteriores evidenciaron una contradicción fundamental en esta teoría. ¿Cuál fue el principal hallazgo arqueológico que debilitó la hipótesis de la magia cazadora?",
+    "opciones": [
+      "La discrepancia entre los animales representados en las paredes (mayoritariamente caballos y bisontes) y los restos óseos de los animales que realmente consumían, como el reno, que raramente se pintaba.",
+      "El descubrimiento de que las pinturas estaban hechas exclusivamente con sangre humana, lo que sugería ritos de autosacrificio en lugar de rituales relacionados con la caza de animales.",
+      "La comprobación de que el arte rupestre fue realizado en épocas de abundante alimento, cuando las cacerías mágicas para atraer presas eran innecesarias.",
+      "La evidencia de que todas las lanzas y flechas pintadas sobre los animales fueron añadidas miles de años después por pueblos neolíticos, no por los creadores originales."
+    ],
+    "respuesta_correcta": "La discrepancia entre los animales representados en las paredes (mayoritariamente caballos y bisontes) y los restos óseos de los animales que realmente consumían, como el reno, que raramente se pintaba.",
+    "explicacion_detallada": "La teoría de la magia simpática postulaba que se pintaban los animales que se deseaban cazar. Sin embargo, al analizar los basureros prehistóricos de los habitantes de las cuevas, los arqueólogos (como Leroi-Gourhan) notaron que la dieta se basaba fuertemente en renos o ciervos, mientras que los animales más representados en las cuevas eran caballos y bisontes. Esta desconexión entre la 'dieta' y la 'iconografía' invalidó la idea puramente utilitaria de las pinturas.",
+    "pasos_resolucion": [
+      "Paso 1: Entender la teoría de la magia simpática (se pinta lo que se come/caza).",
+      "Paso 2: Relacionar esta teoría con la evidencia empírica (huesos encontrados vs. figuras pintadas).",
+      "Paso 3: Identificar la discrepancia (dieta basada en renos vs arte basado en caballos/bisontes) como el factor refutatorio principal."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=critica+magia+simpatica+henri+breuil+arte+paleolitico"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "Durante el Neolítico, la cerámica no solo cumplió una función utilitaria para el almacenamiento y cocción de alimentos, sino que se convirtió en un medio fundamental de expresión simbólica e identitaria. ¿Qué nos indica arqueológicamente la aparición de motivos decorativos estandarizados (como la cerámica cardial en el Mediterráneo o la de bandas en Europa central)?",
+    "opciones": [
+      "La existencia de redes de intercambio, la consolidación de identidades culturales territoriales y la transmisión de códigos simbólicos compartidos entre distintas comunidades agrícolas.",
+      "La unificación política bajo un imperio neolítico centralizado que dictaba los patrones estéticos que debían seguir todos los artesanos del continente europeo.",
+      "La pérdida total de habilidades artísticas tras el Paleolítico, limitando a los humanos a presionar conchas o palos sin ningún tipo de intención simbólica o comunicativa.",
+      "El desarrollo exclusivo del matriarcado, ya que se asume que solo las mujeres fabricaban cerámica y utilizaban estos diseños para ritos secretos de fertilidad."
+    ],
+    "respuesta_correcta": "La existencia de redes de intercambio, la consolidación de identidades culturales territoriales y la transmisión de códigos simbólicos compartidos entre distintas comunidades agrícolas.",
+    "explicacion_detallada": "La decoración cerámica en el Neolítico (cardial, LBK o cerámica de bandas) actúa como un fósil director cultural. La estandarización y amplia distribución de ciertos estilos decorativos no implican imperios políticos, sino vastas redes de contacto, alianzas, difusión démica (migración de agricultores) e intercambio de ideas, reflejando identidades étnicas o culturales compartidas mediante lenguaje visual.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar la función de la cerámica decorada en arqueología prehistórica (fósil director, identidad).",
+      "Paso 2: Evaluar el contexto social del Neolítico (sin imperios centralizados, comunidades agrícolas en expansión).",
+      "Paso 3: Concluir que los estilos cerámicos (cardial, de bandas) mapean redes de interacción social, migración y códigos simbólicos comunes."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=ceramica+neolitica+cardial+bandas+identidad"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "La figura del 'teriántropo' (seres híbridos que combinan rasgos humanos y animales, como el Hechicero de Trois-Frères o el Hombre-León de Hohlenstein-Stadel) es recurrente en el arte del Paleolítico Superior. Desde una perspectiva antropológica moderna, ¿qué significado sociológico y religioso subyace más probablemente a estas representaciones?",
+    "opciones": [
+      "Una cosmovisión animista donde las fronteras ontológicas entre humanos y animales son fluidas, representando chamanes en trance, ancestros míticos o espíritus de la naturaleza.",
+      "El registro zoológico de especies de homínidos extintas que coexistieron con el Homo sapiens en Europa pero que presentaban malformaciones genéticas.",
+      "La ilustración de mitos de creación monoteístas donde una deidad antropomorfa castigaba a los humanos transformándolos en bestias por no seguir rituales agrarios.",
+      "Un código militar utilizado para infundir terror en tribus enemigas neandertales vistiendo pieles y cráneos de animales durante las batallas."
+    ],
+    "respuesta_correcta": "Una cosmovisión animista donde las fronteras ontológicas entre humanos y animales son fluidas, representando chamanes en trance, ancestros míticos o espíritus de la naturaleza.",
+    "explicacion_detallada": "La ontología animista y totémica de las sociedades cazadoras-recolectoras no establece una separación rígida (naturaleza vs. cultura) entre humanos y animales. Los teriántropos reflejan esta permeabilidad. Suelen interpretarse como chamanes transformándose durante el trance, espíritus tutelares o seres de un tiempo mítico originario donde humanos y animales eran indistinguibles.",
+    "pasos_resolucion": [
+      "Paso 1: Definir 'teriántropo' y recordar ejemplos clave (Trois-Frères, Hombre-León).",
+      "Paso 2: Aplicar la teoría antropológica sobre la religión de los cazadores-recolectores (animismo, perspectivismo, chamanismo).",
+      "Paso 3: Seleccionar la opción que aborde la fluidez de las fronteras ontológicas y la función mágico-religiosa sin imponer conceptos modernos (monoteísmo, zoología moderna)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=teriantropos+chamanismo+arte+paleolitico"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "La presencia de ocre rojo es una constante en los enterramientos del Paleolítico Superior (por ejemplo, el yacimiento de Sungir). ¿Qué significado simbólico universal se le otorga ampliamente a este pigmento en el contexto funerario prehistórico?",
+    "opciones": [
+      "Simboliza la sangre, la fuerza vital y el renacimiento, sugiriendo una creencia en la vida después de la muerte mediante la restitución del color vital al cadáver pálido.",
+      "Funcionaba exclusivamente como un agente químico para acelerar la descomposición de los cuerpos y prevenir epidemias en el campamento.",
+      "Indicaba que el individuo fallecido había sido castigado y exiliado de la tribu por cometer un tabú imperdonable, marcándolo como impuro.",
+      "Era utilizado para camuflar el olor del cadáver y evitar que los animales carroñeros desenterraran la tumba, careciendo de connotaciones religiosas."
+    ],
+    "respuesta_correcta": "Simboliza la sangre, la fuerza vital y el renacimiento, sugiriendo una creencia en la vida después de la muerte mediante la restitución del color vital al cadáver pálido.",
+    "explicacion_detallada": "El uso intensivo de ocre rojo en enterramientos (espolvoreado sobre el cuerpo, ropas y ofrendas) desde el Paleolítico Medio (Neandertales) y extendido en el Superior, es interpretado por la arqueología de la religión como un sustituto simbólico de la sangre. Pretendía devolver la 'vida' o energía vital al difunto, siendo un fuerte indicador de creencias en la vida de ultratumba.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar el uso del ocre en contextos funerarios (Sungir, Dolní Věstonice, Qafzeh).",
+      "Paso 2: Analizar la asociación psicológica y cultural del color rojo (sangre, vida).",
+      "Paso 3: Relacionar esta práctica con la emergencia de creencias escatológicas (vida después de la muerte)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=ocre+rojo+enterramientos+paleolitico+significado"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "La cueva de Altamira es conocida como la 'Capilla Sixtina del arte cuaternario'. Al estudiar los polícromos del Gran Techo, se observa una integración magistral entre la pintura y el soporte rocoso. ¿Qué técnica técnica específica emplearon los artistas magdalenienses para otorgar un realismo tridimensional a los bisontes allí representados?",
+    "opciones": [
+      "El aprovechamiento de las protuberancias naturales, grietas y relieves de la roca para crear volumen en las figuras de los animales.",
+      "La aplicación de un barniz resinoso transparente derivado de pinos, que generaba un efecto óptico de profundidad al ser iluminado con antorchas.",
+      "El uso exclusivo de la técnica de puntillismo utilizando huesos huecos a modo de aerógrafos para crear sombras perfectas sin tocar la roca.",
+      "La talla profunda de la silueta completa del animal en altorrelieve antes de aplicar gruesas capas de arcilla cocida sobre la pared."
+    ],
+    "respuesta_correcta": "El aprovechamiento de las protuberancias naturales, grietas y relieves de la roca para crear volumen en las figuras de los animales.",
+    "explicacion_detallada": "Una de las características más geniales del arte rupestre magdaleniense, especialmente evidente en Altamira, es el uso del relieve natural de la roca. Los artistas prehistóricos observaban las protuberancias del techo y pintaban los bisontes (encogidos o recostados) sobre ellas, de modo que el bulto natural de la piedra daba un efecto 3D al vientre o los lomos del animal.",
+    "pasos_resolucion": [
+      "Paso 1: Recordar las características específicas de los bisontes del Gran Techo de Altamira.",
+      "Paso 2: Descartar técnicas no correspondientes al periodo (barniz resinoso avanzado, arcilla cocida parietal).",
+      "Paso 3: Identificar la integración del soporte rocoso (protuberancias) como la técnica clave para lograr el volumen."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=altamira+tecnica+relieve+bisontes"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "En la transición de las sociedades cazadoras-recolectoras a las productoras (Neolítico), se observa un cambio profundo en el panteón de divinidades inferidas a través del arte y los ídolos. ¿Qué transición ideológica fundamental caracteriza este cambio de paradigma religioso?",
+    "opciones": [
+      "El paso de un animismo totémico centrado en los espíritus animales y la caza, a religiones focalizadas en el ciclo agrario, la fertilidad de la tierra, diosas madre y los fenómenos meteorológicos (sol, lluvia).",
+      "El paso de religiones monoteístas pacíficas a un politeísmo militarizado, evidenciado en la creación inmediata de panteones de dioses guerreros masculinos y la total desaparición de figuras femeninas.",
+      "La transición de un ateísmo práctico y materialista en el Paleolítico a la invención repentina de la religión en el Neolítico como herramienta de dominación política de las élites.",
+      "El abandono del culto a los antepasados para adorar exclusivamente a los animales de tiro y ganado estabulado, considerándolos superiores a la raza humana."
+    ],
+    "respuesta_correcta": "El paso de un animismo totémico centrado en los espíritus animales y la caza, a religiones focalizadas en el ciclo agrario, la fertilidad de la tierra, diosas madre y los fenómenos meteorológicos (sol, lluvia).",
+    "explicacion_detallada": "Con la invención de la agricultura, la supervivencia ya no dependía tanto de la imprevisibilidad de la presa (caza/animales), sino de los ciclos estacionales, la fertilidad de la tierra (semillas/tierra) y el clima (agua/sol). Por ello, el foco religioso cambió hacia la adoración de las fuerzas telúricas y celestes, proliferando los ídolos relacionados con la Diosa Madre (Tierra-fertilidad) y el culto solar.",
+    "pasos_resolucion": [
+      "Paso 1: Analizar la base económica del Paleolítico (caza/recolección) y su reflejo ideológico (animismo, animales).",
+      "Paso 2: Analizar la base económica del Neolítico (agricultura/ganadería) y su necesidad ideológica (fertilidad, clima, tierra).",
+      "Paso 3: Seleccionar la opción que describe este giro hacia los cultos agrarios y meteorológicos."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=religion+neolitica+diosa+madre+agricultura"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "La tumba de la cultura natufiense en Hilazon Tachtit (Israel), datada en torno al 12.000 a.C., contenía los restos de una mujer mayor enterrada con una cantidad excepcional de ofrendas animales, incluyendo alas de águila, caparazones de tortuga, y el pie humano y la pelvis de un leopardo. ¿Qué conclusión sociorreligiosa han extraído los arqueólogos de este contexto funerario particular?",
+    "opciones": [
+      "Evidencia uno de los primeros enterramientos de un líder espiritual o chamán, demostrando que en el periodo de transición previo a la agricultura existían roles religiosos especializados, ocupados incluso por mujeres.",
+      "Demuestra que los natufienses practicaban el comercio de animales exóticos con culturas del Lejano Oriente, y esta mujer era una rica mercader.",
+      "Prueba que en la transición al Neolítico, los humanos domesticaron leopardos y águilas para utilizarlos en cacerías especializadas.",
+      "Indica que esta mujer fue sacrificada como castigo por cazar animales sagrados totémicos, siendo enterrada con los restos de sus delitos."
+    ],
+    "respuesta_correcta": "Evidencia uno de los primeros enterramientos de un líder espiritual o chamán, demostrando que en el periodo de transición previo a la agricultura existían roles religiosos especializados, ocupados incluso por mujeres.",
+    "explicacion_detallada": "El enterramiento de Hilazon Tachtit es un hito porque las ofrendas inusuales y costosas (50 caparazones de tortuga, animales específicos) requieren mucha energía y un significado ritual muy específico. La investigadora Leore Grosman concluyó que la mujer era una chamana. Esto demuestra que la especialización ritual (y la estratificación social inicial) ya existía en las sociedades de cazadores-recolectores complejos (natufienses) antes de la agricultura formal.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar el contexto natufiense (sedentarización pre-agrícola, Epipaleolítico/Mesolítico en el Levante).",
+      "Paso 2: Analizar los ajuares inusuales (partes selectas de animales salvajes).",
+      "Paso 3: Relacionar estos elementos con la parafernalia chamánica típica de la etnografía, destacando el rol especializado de la mujer."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=chaman+hilazon+tachtit+natufiense"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "En el estudio del arte rupestre paleolítico, se distinguen claramente las manos en 'negativo' y en 'positivo'. Las investigaciones recientes mediante fotogrametría y análisis biométricos sobre las manos estarcidas (negativas) en cuevas como El Castillo o Gargas han arrojado conclusiones sorprendentes sobre la demografía de los artistas. ¿Qué afirman estos estudios recientes?",
+    "opciones": [
+      "Que una proporción muy significativa de las manos, posiblemente la mayoría, pertenecía a mujeres y niños, refutando la idea tradicional de que el arte rupestre era una actividad exclusivamente masculina.",
+      "Que el 100% de las manos analizadas corresponden a varones adultos, confirmando que las cuevas eran refugios de fraternidades de cazadores guerreros.",
+      "Que las manos representan malformaciones genéticas severas (ausencia real de dedos por endogamia) y pertenecen únicamente a individuos exiliados de sus clanes.",
+      "Que no son manos humanas reales, sino moldes de patas de primates extintos utilizados en rituales de magia simpática."
+    ],
+    "respuesta_correcta": "Que una proporción muy significativa de las manos, posiblemente la mayoría, pertenecía a mujeres y niños, refutando la idea tradicional de que el arte rupestre era una actividad exclusivamente masculina.",
+    "explicacion_detallada": "El arqueólogo Dean Snow analizó el dimorfismo sexual (la longitud relativa de los dedos, específicamente el índice y el anular) de los estarcidos de manos en cuevas de Francia y España. Concluyó que hasta un 75% de las manos correspondían a mujeres. Esto desmonta el mito del 'Hombre Cazador/Artista' exclusivo e incluye activamente a mujeres, niños y adolescentes en los procesos simbólicos de la Prehistoria.",
+    "pasos_resolucion": [
+      "Paso 1: Entender qué es un estarcido de mano (mano en negativo).",
+      "Paso 2: Conocer los estudios de Dean Snow y la aplicación de la biometría (índices dactilares) al arte rupestre.",
+      "Paso 3: Seleccionar la opción que resalta la autoría femenina/infantil, rompiendo los sesgos androcéntricos previos de la arqueología."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=manos+negativo+mujeres+arte+paleolitico+dean+snow"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "La arquitectura megalítica neolítica no solo tiene dimensiones funerarias y sociales, sino también profundas implicaciones astronómicas y cosmopolíticas. Un claro ejemplo es el monumento de Newgrange en Irlanda. ¿Qué fenómeno astronómico preciso fue incorporado intencionadamente en su diseño arquitectónico?",
+    "opciones": [
+      "La alineación de la 'caja de luz' (roofbox) sobre la entrada para permitir que la luz del sol al amanecer ilumine directamente la cámara funeraria interior durante el solsticio de invierno.",
+      "La orientación de las piedras perimetrales para marcar los eclipses lunares de manera exacta, creando un calendario predictivo de mareas.",
+      "La construcción de túneles orientados al norte magnético para guiarse por la Estrella Polar, algo esencial para la navegación atlántica de sus constructores.",
+      "El diseño de aperturas cenitales en el túmulo que permitían la observación directa del cinturón de Orión durante el equinoccio de primavera."
+    ],
+    "respuesta_correcta": "La alineación de la 'caja de luz' (roofbox) sobre la entrada para permitir que la luz del sol al amanecer ilumine directamente la cámara funeraria interior durante el solsticio de invierno.",
+    "explicacion_detallada": "Newgrange (aprox. 3200 a.C.) es una obra maestra de la arqueoastronomía. Sobre su entrada posee una abertura estructurada (roofbox). Durante el amanecer del solsticio de invierno (los días más cortos del año), un rayo de sol penetra por este orificio, recorre todo el pasaje de 19 metros e ilumina el fondo de la cámara cruciforme. Esto simboliza poderosamente el renacimiento, la victoria de la luz sobre la oscuridad y el ciclo agrario de la muerte y la vida.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar Newgrange como una tumba de corredor megalítica en Irlanda.",
+      "Paso 2: Recordar el fenómeno astronómico más famoso asociado a este sitio.",
+      "Paso 3: Seleccionar la alineación solar en el solsticio de invierno a través de la 'caja de luz'."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=newgrange+solsticio+de+invierno+arqueoastronomia"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "El arte mueble o mobiliar del Paleolítico (propulsores, bastones de mando, rodetes) presenta con frecuencia complejos entramados de incisiones lineales, cruces y marcas. Según investigadores como Alexander Marshack, ¿qué función utilitaria-cognitiva podrían haber tenido algunos de estos objetos grabados, más allá de la decoración pura?",
+    "opciones": [
+      "Servían como sistemas tempranos de notación calendárica y registro, anotando fases lunares o ciclos estacionales para coordinar la caza y la recolección.",
+      "Eran mapas estelares tridimensionales utilizados exclusivamente para la navegación oceánica entre Europa y el continente americano.",
+      "Constituían un alfabeto fonético primitivo utilizado para redactar contratos comerciales entre diferentes clanes nómadas.",
+      "Fueron creados como moldes para fundir los primeros metales de cobre a finales del Paleolítico Superior."
+    ],
+    "respuesta_correcta": "Servían como sistemas tempranos de notación calendárica y registro, anotando fases lunares o ciclos estacionales para coordinar la caza y la recolección.",
+    "explicacion_detallada": "El investigador Alexander Marshack realizó análisis microscópicos de las marcas (incisiones, muescas) en huesos y astas del Paleolítico. Propuso que no eran simples adornos o juegos de aburrimiento, sino sistemas simbólicos de almacenamiento de información, funcionando como calendarios lunares o registros temporales de eventos críticos para la subsistencia del grupo (gestación de animales, migraciones, estaciones).",
+    "pasos_resolucion": [
+      "Paso 1: Reconocer el arte mueble paleolítico con marcas geométricas e incisiones (ej. hueso de Blanchard, placa de Taï).",
+      "Paso 2: Relacionar estos objetos con los estudios de Marshack sobre cognición prehistórica.",
+      "Paso 3: Seleccionar la opción que habla de notación, registro y calendarios lunares, descartando escritura alfabética o metalurgia que son muy posteriores."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=alexander+marshack+notacion+paleolitica+calendario+lunar"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "En el Neolítico de Oriente Próximo, el culto al toro (bucráneos) es muy evidente, como se aprecia en yacimientos como Mureybet o Çatalhöyük. ¿Cómo se interpreta sociológicamente la apropiación de este animal peligroso y salvaje (el uro) dentro de la esfera doméstica y ritual de las primeras sociedades agrícolas?",
+    "opciones": [
+      "Representa la domesticación simbólica y el control humano sobre la naturaleza salvaje; el toro pasa a simbolizar la fuerza vital masculina y el poder fecundador necesario para la agricultura.",
+      "Evidencia que estas sociedades se dedicaban exclusivamente a la tauromaquia deportiva y que habían abandonado la agricultura debido a plagas recurrentes.",
+      "El toro era considerado un demonio destructor de cosechas, por lo que colocar sus cráneos en las paredes era una forma de insultar a los dioses del inframundo.",
+      "Indica una fuerte influencia directa de la cultura minoica de Creta sobre el Anatolia prehistórico, adoptando sus cultos palaciegos sin modificaciones."
+    ],
+    "respuesta_correcta": "Representa la domesticación simbólica y el control humano sobre la naturaleza salvaje; el toro pasa a simbolizar la fuerza vital masculina y el poder fecundador necesario para la agricultura.",
+    "explicacion_detallada": "El uro (toro salvaje) era un animal masivo y peligroso. Su introducción en las casas mediante bucráneos (cráneos con cuernos incrustados en las paredes) y relieves en el Neolítico simboliza la apropiación y dominación humana de esa fuerza bruta natural. Ideológicamente, el toro encarna la virilidad, la fuerza fecundante que fertiliza a la Diosa Madre (la tierra), un binomio vital para asegurar las cosechas.",
+    "pasos_resolucion": [
+      "Paso 1: Analizar el papel del uro/toro en los santuarios domésticos neolíticos (bucráneos).",
+      "Paso 2: Comprender la transición psicológica de los agricultores (controlar la naturaleza, domesticar).",
+      "Paso 3: Vincular al toro con su carga simbólica habitual en el Neolítico (fuerza, fertilidad, principio masculino complementario a la Tierra)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=culto+al+toro+bucraneos+neolitico+catalhoyuk"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "El paso del Paleolítico al Neolítico trajo consigo los primeros indicios claros de jerarquización social, los cuales se reflejaron intensamente en el arte funerario y las prácticas de enterramiento. ¿Qué elemento arqueológico de las necrópolis neolíticas avanzadas y calcolíticas (como la Necrópolis de Varna) demuestra innegablemente la existencia de élites socio-religiosas?",
+    "opciones": [
+      "La aparición de ajuares funerarios altamente desiguales, donde unos pocos individuos concentran bienes de prestigio excepcionales, como oro manufacturado, cobre y cetros, frente a la mayoría enterrada sin ofrendas.",
+      "El hecho de que todos los miembros de la sociedad fuesen cremados y sus cenizas mezcladas equitativamente en una urna común, borrando cualquier identidad individual.",
+      "La presencia de estelas de piedra estandarizadas e idénticas en todas las tumbas, con edictos legales que prohibían la propiedad privada bajo pena de exclusión del más allá.",
+      "La disposición de los cuerpos en fosas comunes circulares sin ningún tipo de ajuar, demostrando el desarrollo del primer comunismo agrario puramente igualitario."
+    ],
+    "respuesta_correcta": "La aparición de ajuares funerarios altamente desiguales, donde unos pocos individuos concentran bienes de prestigio excepcionales, como oro manufacturado, cobre y cetros, frente a la mayoría enterrada sin ofrendas.",
+    "explicacion_detallada": "La acumulación de excedentes agrícolas en el Neolítico permitió que ciertos grupos asumieran el control de los recursos y la intermediación religiosa (sacerdotes/jefes). Esto rompe el relativo igualitarismo paleolítico. En cementerios como Varna (Bulgaria, Calcolítico), unas pocas tumbas concentran masivas cantidades de oro (los más antiguos del mundo), cetros y objetos de prestigio, marcando el nacimiento de la estratificación social hereditaria y las jefaturas.",
+    "pasos_resolucion": [
+      "Paso 1: Entender la consecuencia social de la Revolución Neolítica (excedente agrario = desigualdad social).",
+      "Paso 2: Recordar cómo la arqueología mide la desigualdad en el pasado (análisis de ajuares funerarios).",
+      "Paso 3: Seleccionar la opción que describe la concentración desigual de riqueza y bienes de prestigio (como en Varna) en tumbas específicas."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=necropolis+de+varna+desigualdad+social+prehistoria"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.3",
+    "enunciado": "Dentro del estudio del arte megalítico europeo (arte esquemático y grabados en dólmenes, como en Gavrinis o Carnac), abundan los motivos en espiral, zigzags, serpientes y cazoletas. Desde una óptica de la antropología de la religión agraria, ¿qué se infiere que representan predominantemente estos símbolos abstractos?",
+    "opciones": [
+      "Símbolos vinculados al agua, la fertilidad, el transcurrir del tiempo, los ciclos cósmicos de muerte y regeneración vital dentro del útero de la Madre Tierra.",
+      "Un intrincado código jurídico diseñado para registrar las deudas de grano entre diferentes linajes a lo largo de las generaciones.",
+      "Representaciones exactas de la topografía del inframundo, elaboradas para que el alma del difunto esquive trampas físicas durante su viaje subterráneo.",
+      "Firmas de los clanes de constructores y canteros que cobraban tributos en especie a las tribus vecinas por levantar los monumentos."
+    ],
+    "respuesta_correcta": "Símbolos vinculados al agua, la fertilidad, el transcurrir del tiempo, los ciclos cósmicos de muerte y regeneración vital dentro del útero de la Madre Tierra.",
+    "explicacion_detallada": "El arte megalítico es fuertemente simbólico y abstracto. La historiadora y arqueóloga Marija Gimbutas, entre otros, ha vinculado los motivos de serpientes, espirales, meandros y cazoletas a la mitología de las sociedades agrarias. Estos signos suelen representar el fluir del agua (fuente de vida agraria), la energía vital, y el ciclo cósmico de regeneración (la espiral como un ir hacia la muerte y un retorno a la vida), relacionando el sepulcro megalítico con el útero regenerador de la Tierra.",
+    "pasos_resolucion": [
+      "Paso 1: Analizar la iconografía abstracta megalítica (espirales, zigzags).",
+      "Paso 2: Conectar estos símbolos con las preocupaciones fundamentales de una sociedad agrícola (ciclos temporales, agua, fertilidad, regeneración de semillas/vida).",
+      "Paso 3: Identificar la opción que recoge esta interpretación cósmica y regenerativa ligada a la tierra."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=simbolismo+arte+megalitico+espirales+fertilidad"
+  }
+]

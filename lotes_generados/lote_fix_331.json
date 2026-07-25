@@ -1,0 +1,90 @@
+[
+  {
+    "id": "cn_331_ex_001",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.3.1",
+    "enunciado": "¿Qué enzima digestiva, secretada por el páncreas, es la responsable de catalizar la hidrólisis de los lípidos en ácidos grasos y glicerol en el intestino delgado?",
+    "opciones": ["Lipasa pancreática", "Pepsina", "Amilasa pancreática", "Tripsina"],
+    "respuesta_correcta": "Lipasa pancreática",
+    "explicacion_detallada": "La lipasa pancreática es la enzima principal responsable de descomponer las grasas (lípidos) en el tracto digestivo, transformando los triglicéridos en ácidos grasos y monoglicéridos.",
+    "pasos_resolucion": ["Identificar el nutriente a degradar: lípidos.", "Relacionar el nutriente con la enzima específica: las lipasas actúan sobre los lípidos.", "Descartar pepsina y tripsina (proteínas) y amilasa (carbohidratos)."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_331_ex_002",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.3.1",
+    "enunciado": "En la circulación sanguínea del corazón humano, ¿qué cavidad recibe la sangre oxigenada proveniente de los pulmones a través de las venas pulmonares?",
+    "opciones": ["Aurícula izquierda", "Ventrículo izquierdo", "Aurícula derecha", "Ventrículo derecho"],
+    "respuesta_correcta": "Aurícula izquierda",
+    "explicacion_detallada": "La sangre oxigenada regresa desde los pulmones al corazón ingresando por la aurícula izquierda a través de las venas pulmonares, para luego pasar al ventrículo izquierdo y ser bombeada al resto del cuerpo.",
+    "pasos_resolucion": ["Recordar el recorrido de la circulación menor o pulmonar.", "La sangre sale del ventrículo derecho, va a los pulmones y regresa oxigenada.", "Las venas pulmonares desembocan exclusivamente en la aurícula izquierda."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_331_ex_003",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.3.1",
+    "enunciado": "¿Cuál es el mecanismo de transporte celular mediante el cual ocurre el intercambio gaseoso (O2 y CO2) a nivel de los alvéolos pulmonares y los capilares sanguíneos?",
+    "opciones": ["Difusión simple", "Transporte activo", "Ósmosis", "Endocitosis"],
+    "respuesta_correcta": "Difusión simple",
+    "explicacion_detallada": "El intercambio de gases en los alvéolos ocurre por difusión simple, un proceso pasivo donde el oxígeno y el dióxido de carbono se mueven a favor de su gradiente de concentración (de mayor a menor presión parcial).",
+    "pasos_resolucion": ["Identificar la naturaleza de las moléculas: O2 y CO2 son gases pequeños y no polares.", "Reconocer que estas moléculas atraviesan las membranas sin gasto de energía a favor de un gradiente.", "El término correcto para este transporte pasivo de solutos es difusión simple."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_331_ex_004",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.3.1",
+    "enunciado": "Una persona con tipo de sangre O negativo es considerada 'donante universal'. ¿Qué característica de sus eritrocitos explica esta condición?",
+    "opciones": ["Ausencia de antígenos A, B y factor Rh en la membrana", "Presencia de anticuerpos A y B en el plasma", "Ausencia de anticuerpos en el plasma sanguíneo", "Presencia de antígenos A, B y factor Rh en la membrana"],
+    "respuesta_correcta": "Ausencia de antígenos A, B y factor Rh en la membrana",
+    "explicacion_detallada": "El grupo O negativo carece de los antígenos A y B, y tampoco tiene el factor Rh en la superficie de sus glóbulos rojos. Esto evita que el sistema inmunológico del receptor ataque las células donadas.",
+    "pasos_resolucion": ["Recordar qué determina el grupo sanguíneo: los antígenos en la membrana de los eritrocitos.", "El grupo O no tiene antígenos A ni B. El 'negativo' indica la ausencia del antígeno D (Rh).", "Al no tener estos antígenos, la sangre puede ser transfundida a cualquier receptor sin generar una reacción inmunitaria aguda."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_331_ex_005",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.3.1",
+    "enunciado": "El sistema nervioso periférico (SNP) se divide funcionalmente en somático y autónomo. ¿Cuál de las siguientes acciones es controlada principalmente por el sistema nervioso autónomo simpático?",
+    "opciones": ["Dilatación de las pupilas y aumento de la frecuencia cardíaca", "Contracción de los músculos esqueléticos al caminar", "Estimulación de la digestión y secreción salival", "Disminución de la frecuencia respiratoria en reposo"],
+    "respuesta_correcta": "Dilatación de las pupilas y aumento de la frecuencia cardíaca",
+    "explicacion_detallada": "El sistema nervioso simpático prepara al cuerpo para situaciones de alerta o estrés ('lucha o huida'), provocando efectos como la midriasis (dilatación pupilar) y la taquicardia, además de inhibir funciones no esenciales en ese momento como la digestión.",
+    "pasos_resolucion": ["Diferenciar las subdivisiones del sistema nervioso autónomo: simpático y parasimpático.", "Recordar que el simpático activa la respuesta de 'lucha o huida'.", "Asociar los síntomas de alerta: corazón acelerado, pupilas dilatadas para ver mejor."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_331_ex_006",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.3.1",
+    "enunciado": "¿Qué glándula del sistema endocrino secreta la hormona calcitonina, cuya función es disminuir los niveles de calcio en la sangre al promover su depósito en los huesos?",
+    "opciones": ["Glándula tiroides", "Glándulas paratiroides", "Páncreas", "Corteza suprarrenal"],
+    "respuesta_correcta": "Glándula tiroides",
+    "explicacion_detallada": "La glándula tiroides, además de las hormonas tiroideas (T3 y T4), secreta calcitonina por las células C (parafoliculares). Su antagonista es la paratohormona, secretada por las glándulas paratiroides, que eleva el calcio en sangre.",
+    "pasos_resolucion": ["Identificar la hormona mencionada: calcitonina.", "Relacionar la hormona con su glándula productora: tiroides.", "Diferenciar de las paratiroides, que secretan paratohormona (acción contraria)."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_331_ex_007",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.3.1",
+    "enunciado": "Durante la formación de la orina en la nefrona, ¿en qué estructura ocurre principalmente la reabsorción obligatoria de agua, glucosa y aminoácidos de vuelta hacia la sangre?",
+    "opciones": ["Túbulo contorneado proximal", "Glomérulo de Malpighi", "Asa de Henle", "Túbulo contorneado distal"],
+    "respuesta_correcta": "Túbulo contorneado proximal",
+    "explicacion_detallada": "Aproximadamente el 65% del agua y la totalidad de nutrientes esenciales como glucosa y aminoácidos filtrados se reabsorben en el túbulo contorneado proximal de la nefrona, antes de llegar al asa de Henle.",
+    "pasos_resolucion": ["Recordar las fases de formación de orina: filtración, reabsorción y secreción.", "La filtración ocurre en el glomérulo.", "La reabsorción masiva de nutrientes valiosos ocurre inmediatamente después de la filtración, en el túbulo contorneado proximal."],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_331_ex_008",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.3.1",
+    "enunciado": "¿Qué tipo de leucocito es el más abundante en la sangre humana y es el primero en llegar al sitio de una infección para fagocitar bacterias?",
+    "opciones": ["Neutrófilo", "Linfocito", "Eosinófilo", "Basófilo"],
+    "respuesta_correcta": "Neutrófilo",
+    "explicacion_detallada": "Los neutrófilos representan entre el 50% y 70% de los glóbulos blancos. Son la primera línea de defensa celular en la respuesta inmunitaria innata, migrando rápidamente hacia los tejidos infectados para fagocitar patógenos.",
+    "pasos_resolucion": ["Identificar las células del sistema inmune (leucocitos).", "Recordar los porcentajes normales: los neutrófilos son los más numerosos.", "Relacionar su abundancia con su función de primera respuesta rápida ante infecciones bacterianas agudas."],
+    "video_explicativo_url": ""
+  }
+]

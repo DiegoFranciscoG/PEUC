@@ -1,0 +1,321 @@
+{
+  "total_preguntas": 1093,
+  "preguntas_nuevas_insertadas": 54,
+  "lotes_insertados": 31,
+  "lotes_fallidos": 0,
+  "subtemas_completos": 62,
+  "subtemas_pendientes": 0,
+  "pendientes": [],
+  "detalle_por_subtema": {
+    "1.1.1": {
+      "titulo": "Números reales. Polinomios reales con coeficientes en R. Factorización.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "1.1.2": {
+      "titulo": "Funciones reales.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "1.1.3": {
+      "titulo": "Función exponencial y logarítmica.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "1.1.4": {
+      "titulo": "Función cuadrática.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "1.1.5": {
+      "titulo": "Ecuaciones.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "1.1.6": {
+      "titulo": "Intervalos e inecuaciones.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "1.1.7": {
+      "titulo": "Matrices reales de m x n.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "1.2.1": {
+      "titulo": "Vectores geométricos en el plano. El espacio vectorial R2.",
+      "preguntas": 22,
+      "estado": "✅ COMPLETO"
+    },
+    "1.3.1": {
+      "titulo": "Estadística descriptiva.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "2.1.1": {
+      "titulo": "Variedades lingüísticas y cultura escrita.",
+      "preguntas": 24,
+      "estado": "✅ COMPLETO"
+    },
+    "2.2.1": {
+      "titulo": "Comunicación oral e interacción social.",
+      "preguntas": 22,
+      "estado": "✅ COMPLETO"
+    },
+    "2.3.1": {
+      "titulo": "Comprensión de textos.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "2.4.1": {
+      "titulo": "Producción de textos.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "2.5.1": {
+      "titulo": "Literatura y contexto.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "3.1.1": {
+      "titulo": "Origen y evolución de la vida.",
+      "preguntas": 26,
+      "estado": "✅ COMPLETO"
+    },
+    "3.1.2": {
+      "titulo": "Herencia y genética.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "3.1.3": {
+      "titulo": "Diversidad biológica y conservación.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "3.2.1": {
+      "titulo": "Unidades de medida.",
+      "preguntas": 16,
+      "estado": "✅ COMPLETO"
+    },
+    "3.3.1": {
+      "titulo": "Sistemas digestivo, excretor, circulatorio, respiratorio, nervioso, endócrino, osteoartromuscular, inmunológico.",
+      "preguntas": 15,
+      "estado": "✅ COMPLETO"
+    },
+    "3.3.2": {
+      "titulo": "Reproducción Humana.",
+      "preguntas": 14,
+      "estado": "✅ COMPLETO"
+    },
+    "3.4.1": {
+      "titulo": "Los gases.",
+      "preguntas": 25,
+      "estado": "✅ COMPLETO"
+    },
+    "3.4.2": {
+      "titulo": "Modelo atómico.",
+      "preguntas": 12,
+      "estado": "✅ COMPLETO"
+    },
+    "3.4.3": {
+      "titulo": "Los átomos y la tabla periódica.",
+      "preguntas": 7,
+      "estado": "✅ COMPLETO"
+    },
+    "3.4.4": {
+      "titulo": "El enlace químico.",
+      "preguntas": 6,
+      "estado": "✅ COMPLETO"
+    },
+    "3.4.5": {
+      "titulo": "Formación de compuestos químicos.",
+      "preguntas": 6,
+      "estado": "✅ COMPLETO"
+    },
+    "3.4.6": {
+      "titulo": "Compuestos orgánicos.",
+      "preguntas": 7,
+      "estado": "✅ COMPLETO"
+    },
+    "3.5.1": {
+      "titulo": "Las reacciones químicas y sus ecuaciones.",
+      "preguntas": 12,
+      "estado": "✅ COMPLETO"
+    },
+    "3.6.1": {
+      "titulo": "Química de disoluciones y sistemas dispersos.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "3.7.1": {
+      "titulo": "Posición y movimiento y movimiento rectilíneo.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "3.7.2": {
+      "titulo": "Movimiento en dos dimensiones.",
+      "preguntas": 5,
+      "estado": "✅ COMPLETO"
+    },
+    "3.7.3": {
+      "titulo": "Leyes de Newton.",
+      "preguntas": 5,
+      "estado": "✅ COMPLETO"
+    },
+    "3.7.4": {
+      "titulo": "Dinámica en dos dimensiones.",
+      "preguntas": 9,
+      "estado": "✅ COMPLETO"
+    },
+    "3.7.5": {
+      "titulo": "Movimiento de proyectiles.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "3.7.6": {
+      "titulo": "Carga eléctrica.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "3.7.7": {
+      "titulo": "Circuitos eléctricos.",
+      "preguntas": 7,
+      "estado": "✅ COMPLETO"
+    },
+    "3.7.8": {
+      "titulo": "El campo magnético.",
+      "preguntas": 7,
+      "estado": "✅ COMPLETO"
+    },
+    "3.8.1": {
+      "titulo": "Calor y la primera y segunda ley de la termodinámica.",
+      "preguntas": 7,
+      "estado": "✅ COMPLETO"
+    },
+    "3.9.1": {
+      "titulo": "El sistema solar, las estrellas, las galaxias y el Universo.",
+      "preguntas": 7,
+      "estado": "✅ COMPLETO"
+    },
+    "3.10.1": {
+      "titulo": "Vectores.",
+      "preguntas": 7,
+      "estado": "✅ COMPLETO"
+    },
+    "4.1.1": {
+      "titulo": "Historia, trabajo y cultura.",
+      "preguntas": 26,
+      "estado": "✅ COMPLETO"
+    },
+    "4.1.2": {
+      "titulo": "Primeras producciones del ser humano.",
+      "preguntas": 7,
+      "estado": "✅ COMPLETO"
+    },
+    "4.1.3": {
+      "titulo": "Civilizaciones clásicas del mediterráneo.",
+      "preguntas": 12,
+      "estado": "✅ COMPLETO"
+    },
+    "4.2.1": {
+      "titulo": "Silogística aristotélica y lógica moderna de clases.",
+      "preguntas": 32,
+      "estado": "✅ COMPLETO"
+    },
+    "4.3.1": {
+      "titulo": "La Tierra; África, Europa, Asia, Oceanía.",
+      "preguntas": 32,
+      "estado": "✅ COMPLETO"
+    },
+    "4.4.1": {
+      "titulo": "Capitalismo y modernidad.",
+      "preguntas": 7,
+      "estado": "✅ COMPLETO"
+    },
+    "4.5.1": {
+      "titulo": "Culturas nativas de América.",
+      "preguntas": 7,
+      "estado": "✅ COMPLETO"
+    },
+    "4.5.2": {
+      "titulo": "Culturas andinas, conquista española y el choque cultural.",
+      "preguntas": 7,
+      "estado": "✅ COMPLETO"
+    },
+    "4.5.3": {
+      "titulo": "Identidad latinoamericana (siglos XIX y XX).",
+      "preguntas": 21,
+      "estado": "✅ COMPLETO"
+    },
+    "4.6.1": {
+      "titulo": "Teorías y sistemas económicos contemporáneos.",
+      "preguntas": 21,
+      "estado": "✅ COMPLETO"
+    },
+    "4.7.1": {
+      "titulo": "Ciudadanía y derechos.",
+      "preguntas": 21,
+      "estado": "✅ COMPLETO"
+    },
+    "4.8.1": {
+      "titulo": "Democracia representativa y deliberativa.",
+      "preguntas": 21,
+      "estado": "✅ COMPLETO"
+    },
+    "4.9.1": {
+      "titulo": "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+      "preguntas": 21,
+      "estado": "✅ COMPLETO"
+    },
+    "4.10.1": {
+      "titulo": "Origen, evolución histórica y componentes del Estado.",
+      "preguntas": 21,
+      "estado": "✅ COMPLETO"
+    },
+    "4.11.1": {
+      "titulo": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+      "preguntas": 7,
+      "estado": "✅ COMPLETO"
+    },
+    "5.1.1": {
+      "titulo": "Semejanzas y diferencias gráficas.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "5.1.2": {
+      "titulo": "Analogías gráficas.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "5.2.1": {
+      "titulo": "Deformación de objetos.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "5.2.2": {
+      "titulo": "Cambio posicional de figuras.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "5.2.3": {
+      "titulo": "Complicación y simplificación de las formas.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "5.3.1": {
+      "titulo": "Figura rotativa.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "5.3.2": {
+      "titulo": "Transformación entre gráficos 2D y 3D.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    },
+    "5.3.3": {
+      "titulo": "Perspectivas de objetos.",
+      "preguntas": 20,
+      "estado": "✅ COMPLETO"
+    }
+  }
+}

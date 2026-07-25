@@ -1,0 +1,338 @@
+[
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.2",
+    "tituloSubtema": "Herencia y genética.",
+    "id": "cn_312_01",
+    "enunciado": "En la mosca Drosophila melanogaster, el color de ojos rojos es dominante (R) sobre el blanco (r). Si se cruza una hembra heterocigota con un macho de ojos blancos, ¿cuál es la probabilidad de que la descendencia masculina tenga ojos blancos, considerando que el gen está ligado al cromosoma X?",
+    "opciones": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "respuesta_correcta": "50%",
+    "explicacion_detallada": "Al estar ligado al cromosoma X, los machos (XY) heredan su cromosoma X únicamente de la madre. La madre es heterocigota (XRXr), por lo que tiene un 50% de probabilidad de transmitir el alelo recesivo (Xr) a cualquier descendiente macho, resultando en ojos blancos.",
+    "pasos_resolucion": [
+      "Identificar los genotipos de los parentales: hembra heterocigota (XRXr) y macho de ojos blancos (XrY).",
+      "Determinar qué heredan los machos: el cromosoma Y del padre y un cromosoma X de la madre.",
+      "Calcular las probabilidades para los machos: la madre aporta XR en el 50% de los casos y Xr en el 50% restante.",
+      "Concluir que la probabilidad de que un macho herede Xr (ojos blancos) es del 50%."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=herencia_ligada_sexo"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.2",
+    "tituloSubtema": "Herencia y genética.",
+    "id": "cn_312_02",
+    "enunciado": "Según las reglas de Chargaff para el ADN de doble cadena, si una muestra de ADN extraída de una célula epitelial humana contiene un 28% de timina, ¿cuál será el porcentaje de citosina en la misma muestra?",
+    "opciones": [
+      "22%",
+      "28%",
+      "44%",
+      "56%"
+    ],
+    "respuesta_correcta": "22%",
+    "explicacion_detallada": "Las reglas de Chargaff establecen que en el ADN de doble cadena, la cantidad de adenina es igual a la de timina (A=T), y la de guanina es igual a la de citosina (G=C). Si T=28%, entonces A=28%, sumando 56%. El 44% restante se divide por igual entre G y C, resultando en un 22% de citosina.",
+    "pasos_resolucion": [
+      "Recordar la regla de apareamiento de bases: Adenina se empareja con Timina, y Guanina con Citosina.",
+      "Calcular el porcentaje de Adenina: si Timina es 28%, Adenina también es 28%.",
+      "Sumar los porcentajes de A y T: 28% + 28% = 56%.",
+      "Calcular el porcentaje restante para G y C: 100% - 56% = 44%.",
+      "Dividir el remanente entre 2 para obtener el porcentaje de Citosina: 44% / 2 = 22%."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=reglas_de_chargaff"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.2",
+    "tituloSubtema": "Herencia y genética.",
+    "id": "cn_312_03",
+    "enunciado": "Un investigador analiza un pedigrí familiar donde individuos afectados por una enfermedad genética aparecen en cada generación (sin saltos), afectando por igual a hombres y mujeres. Un padre heterocigoto afectado tiene una probabilidad del 50% de transmitir la enfermedad a su descendencia. ¿Qué patrón de herencia presenta esta enfermedad?",
+    "opciones": [
+      "Autosómico recesivo",
+      "Autosómico dominante",
+      "Ligado al cromosoma X recesivo",
+      "Herencia mitocondrial"
+    ],
+    "respuesta_correcta": "Autosómico dominante",
+    "explicacion_detallada": "Las enfermedades de herencia autosómica dominante se manifiestan en estado heterocigoto, no saltan generaciones, afectan a ambos sexos por igual y existe un 50% de probabilidad de que un afectado (Aa) transmita el alelo mutante (A) a cada hijo.",
+    "pasos_resolucion": [
+      "Analizar la aparición en cada generación: sugiere dominancia, descartando patrones recesivos típicos.",
+      "Observar la proporción de sexos: si afecta por igual a hombres y mujeres, es autosómico, no ligado al sexo.",
+      "Considerar la probabilidad de transmisión: un 50% de probabilidad desde un individuo afectado cuadra perfectamente con un cruce Aa x aa (afectado heterocigoto con individuo sano).",
+      "Concluir el patrón de herencia: autosómico dominante."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=pedigree_autosomico_dominante"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.2",
+    "tituloSubtema": "Herencia y genética.",
+    "id": "cn_312_04",
+    "enunciado": "En el sistema ABO de grupos sanguíneos en humanos, existe alelismo múltiple y codominancia. Si una mujer con sangre tipo AB (genotipo IAIB) tiene descendencia con un hombre de sangre tipo O (genotipo ii), ¿cuáles son las probabilidades fenotípicas esperadas en sus hijos?",
+    "opciones": [
+      "100% de probabilidad de tener sangre tipo AB.",
+      "50% de probabilidad de tipo A y 50% de probabilidad de tipo B.",
+      "25% para cada tipo: A, B, AB y O.",
+      "50% de probabilidad de tipo AB y 50% de probabilidad de tipo O."
+    ],
+    "respuesta_correcta": "50% de probabilidad de tipo A y 50% de probabilidad de tipo B.",
+    "explicacion_detallada": "La mujer (IAIB) producirá gametos IA e IB. El hombre (ii) producirá únicamente gametos i. Al cruzarlos, se formarán los genotipos IAi (fenotipo A) e IBi (fenotipo B) en una proporción 1:1, es decir, 50% tipo A y 50% tipo B.",
+    "pasos_resolucion": [
+      "Determinar los alelos producidos por la madre (IAIB): produce óvulos IA y óvulos IB.",
+      "Determinar los alelos producidos por el padre (ii): produce solo espermatozoides i.",
+      "Construir el cuadro de Punnett para cruzar IA y IB con i.",
+      "Identificar los genotipos resultantes: IAi y IBi.",
+      "Interpretar los fenotipos: IAi corresponde a sangre tipo A (50%) y IBi a sangre tipo B (50%)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=grupos_sanguineos_ABO"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.2",
+    "tituloSubtema": "Herencia y genética.",
+    "id": "cn_312_05",
+    "enunciado": "Durante la síntesis de proteínas, una hebra molde de ADN contiene la secuencia 3'-TAC-GCA-TTC-5'. ¿Cuál será la secuencia complementaria de ARN mensajero (ARNm) producida en la transcripción?",
+    "opciones": [
+      "5'-ATG-CGT-AAG-3'",
+      "5'-AUG-CGU-AAG-3'",
+      "3'-UAC-GCA-UUC-5'",
+      "5'-UAG-CGA-UUG-3'"
+    ],
+    "respuesta_correcta": "5'-AUG-CGU-AAG-3'",
+    "explicacion_detallada": "La transcripción sintetiza ARNm antiparalelo (5' a 3') y complementario a la hebra molde de ADN (3' a 5'). La Adenina (A) del ADN se parea con el Uracilo (U) del ARN, la Timina (T) con Adenina (A), la Citosina (C) con Guanina (G) y la Guanina (G) con Citosina (C).",
+    "pasos_resolucion": [
+      "Identificar la direccionalidad: el molde va de 3' a 5', por lo que el ARNm irá de 5' a 3'.",
+      "Transcribir el primer triplete (3'-TAC-5'): T complementa con A, A con U, C con G. Resultado: 5'-AUG-3'.",
+      "Transcribir el segundo triplete (3'-GCA-5'): G con C, C con G, A con U. Resultado: 5'-CGU-3'.",
+      "Transcribir el tercer triplete (3'-TTC-5'): T con A, T con A, C con G. Resultado: 5'-AAG-3'.",
+      "Unir la secuencia final: 5'-AUG-CGU-AAG-3'."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=transcripcion_ADN_ARN"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.2",
+    "tituloSubtema": "Herencia y genética.",
+    "id": "cn_312_06",
+    "enunciado": "En la especie vegetal Mirabilis jalapa (maravilla de Perú), se observa dominancia incompleta para el color de la flor. Si se cruza una planta de flores rojas (CRCR) con una de flores blancas (CWCW), toda la progenie F1 será de flores rosadas (CRCW). Si se autofecundan dos individuos de esta F1, ¿qué proporción fenotípica se espera en la F2?",
+    "opciones": [
+      "3 rojas : 1 blanca",
+      "1 roja : 2 rosadas : 1 blanca",
+      "2 rojas : 2 blancas",
+      "100% rosadas"
+    ],
+    "respuesta_correcta": "1 roja : 2 rosadas : 1 blanca",
+    "explicacion_detallada": "Al cruzar dos heterocigotos con dominancia incompleta (CRCW x CRCW), la segregación de alelos produce 1 CRCR (roja), 2 CRCW (rosadas) y 1 CWCW (blanca). La proporción fenotípica y genotípica coincide (1:2:1).",
+    "pasos_resolucion": [
+      "Identificar los genotipos de los parentales a cruzar: ambos son CRCW.",
+      "Definir los gametos de cada parental: CR y CW.",
+      "Armar el cuadro de Punnett: CRxCR, CRxCW, CWxCR, CWxCW.",
+      "Contabilizar los genotipos: 25% CRCR, 50% CRCW, 25% CWCW.",
+      "Asignar fenotipos y simplificar la proporción: 1 roja : 2 rosadas : 1 blanca."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=dominancia_incompleta"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.2",
+    "tituloSubtema": "Herencia y genética.",
+    "id": "cn_312_07",
+    "enunciado": "La hemofilia A es un desorden de coagulación hereditario recesivo ligado al cromosoma X. Un hombre con hemofilia (XhY) tiene hijos con una mujer homocigota dominante, es decir, sin el alelo de la enfermedad (XHXH). ¿Cuál es la probabilidad de que tengan un hijo varón biológico que nazca con hemofilia?",
+    "opciones": [
+      "0%",
+      "25%",
+      "50%",
+      "100%"
+    ],
+    "respuesta_correcta": "0%",
+    "explicacion_detallada": "Para que un varón (XY) padezca hemofilia, debe heredar el cromosoma X afectado de su madre, ya que hereda el cromosoma Y de su padre. Como la madre en este caso no tiene el alelo de la enfermedad (XHXH), el 100% de los hijos varones serán sanos (XHY).",
+    "pasos_resolucion": [
+      "Determinar los genotipos de los progenitores: madre XHXH, padre XhY.",
+      "Identificar la herencia de cromosomas sexuales: un hijo varón recibe el cromosoma Y del padre y un cromosoma X de la madre.",
+      "Analizar los posibles cromosomas X que puede aportar la madre: solo posee alelos sanos (XH).",
+      "Deducir el genotipo de todos los hijos varones: XHY.",
+      "Concluir la probabilidad de varones afectados: 0%."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=hemofilia_herencia"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.2",
+    "tituloSubtema": "Herencia y genética.",
+    "id": "cn_312_08",
+    "enunciado": "En un cruzamiento dihíbrido clásico que sigue la Tercera Ley de Mendel (segregación independiente), se cruzan dos parentales heterocigotos para ambos genes (AaBb x AaBb). ¿Cuál es la probabilidad teórica de obtener un descendiente doble homocigoto recesivo (aabb) en la progenie?",
+    "opciones": [
+      "1/16",
+      "3/16",
+      "9/16",
+      "1/4"
+    ],
+    "respuesta_correcta": "1/16",
+    "explicacion_detallada": "Al aplicar la regla de la multiplicación para genes independientes, la probabilidad de heredar 'aa' es 1/4 y la probabilidad de heredar 'bb' es 1/4. Multiplicando ambas probabilidades (1/4 x 1/4), se obtiene 1/16 de probabilidad de tener un genotipo aabb.",
+    "pasos_resolucion": [
+      "Separar el cruce dihíbrido en dos cruces monohíbridos independientes: Aa x Aa y Bb x Bb.",
+      "Calcular la probabilidad del genotipo aa en el cruce Aa x Aa: 1/4.",
+      "Calcular la probabilidad del genotipo bb en el cruce Bb x Bb: 1/4.",
+      "Multiplicar las probabilidades independientes para obtener la combinada: 1/4 * 1/4 = 1/16."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=leyes_mendel_dihibridismo"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.2",
+    "tituloSubtema": "Herencia y genética.",
+    "id": "cn_312_09",
+    "enunciado": "El análisis citogenético de un neonato revela un cariotipo con 47 cromosomas en las células somáticas, identificándose tres cromosomas homólogos en la posición del par 21. ¿Qué anomalía cromosómica numérica se observa y qué proceso biológico principal la origina?",
+    "opciones": [
+      "Síndrome de Turner, causado por la deleción parcial de un cromosoma sexual durante la mitosis celular.",
+      "Síndrome de Down, causado por la no disyunción cromosómica durante la meiosis de uno de los progenitores.",
+      "Síndrome de Klinefelter, causado por la duplicación errónea del ADN en la fase S de la interfase.",
+      "Síndrome de Patau, causado por una translocación robertsoniana entre cromosomas acrocéntricos no homólogos."
+    ],
+    "respuesta_correcta": "Síndrome de Down, causado por la no disyunción cromosómica durante la meiosis de uno de los progenitores.",
+    "explicacion_detallada": "La presencia de tres cromosomas en el par 21 se conoce como Trisomía 21, que causa el Síndrome de Down. Usualmente ocurre debido a un error de separación (no disyunción) de los cromosomas homólogos o cromátidas hermanas durante la ovogénesis o espermatogénesis.",
+    "pasos_resolucion": [
+      "Relacionar la presencia de tres cromosomas en el par 21 (Trisomía 21) con la enfermedad específica: Síndrome de Down.",
+      "Evaluar la causa de las aneuploidías: generalmente se dan por no disyunción en la meiosis, cuando los cromosomas no se separan correctamente hacia los polos celulares.",
+      "Analizar los distractores: El Síndrome de Turner es 45, X0 (monosomía), Klinefelter es 47, XXY, y Patau es Trisomía 13.",
+      "Seleccionar la opción que empareja correctamente Síndrome de Down con no disyunción meiótica."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=anomalias_cromosomicas_trisomia"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.2",
+    "tituloSubtema": "Herencia y genética.",
+    "id": "cn_312_10",
+    "enunciado": "En una secuencia de ADN, ocurre una sustitución de nucleótidos que altera el codón de ARNm resultante de UAU (que codifica para el aminoácido tirosina) a UAA (que es un codón de parada o STOP). ¿Cómo se denomina este tipo de mutación puntual?",
+    "opciones": [
+      "Mutación silenciosa",
+      "Mutación de cambio de sentido (missense)",
+      "Mutación sin sentido (nonsense)",
+      "Mutación por desplazamiento del marco de lectura"
+    ],
+    "respuesta_correcta": "Mutación sin sentido (nonsense)",
+    "explicacion_detallada": "Una mutación sin sentido ('nonsense mutation') ocurre cuando una sustitución de bases resulta en un codón de terminación temprana (UAA, UAG o UGA), interrumpiendo prematuramente la traducción y generando una proteína truncada.",
+    "pasos_resolucion": [
+      "Comprender el efecto de la mutación: un codón que especificaba un aminoácido cambia a un codón STOP.",
+      "Diferenciar los tipos de mutaciones: 'silenciosa' no cambia el aminoácido; 'cambio de sentido' cambia un aminoácido por otro; 'desplazamiento' implica inserción/deleción.",
+      "Asociar el cambio a un codón STOP con la terminología correcta: mutación sin sentido.",
+      "Seleccionar la opción correspondiente."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=mutaciones_genicas"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.2",
+    "tituloSubtema": "Herencia y genética.",
+    "id": "cn_312_11",
+    "enunciado": "El sobrecruzamiento o recombinación homóloga (crossing-over) es un mecanismo clave para aumentar la variabilidad genética en los eucariotas. ¿En qué subfase específica de la meiosis I ocurre este intercambio físico de fragmentos de ADN entre cromátidas no hermanas?",
+    "opciones": [
+      "Leptoteno de la Profase I",
+      "Paquiteno de la Profase I",
+      "Diacinesis de la Metafase I",
+      "Citocinesis de la Telofase I"
+    ],
+    "respuesta_correcta": "Paquiteno de la Profase I",
+    "explicacion_detallada": "La recombinación genética ocurre en la etapa de paquiteno de la Profase I de la meiosis, una vez que los cromosomas homólogos se han apareado y formando el complejo sinaptonémico (bivalentes o tétradas), permitiendo el intercambio de información en sitios llamados quiasmas.",
+    "pasos_resolucion": [
+      "Recordar que el crossing-over ocurre durante la primera etapa de la meiosis, la Profase I.",
+      "Identificar las subfases de la Profase I: leptoteno, zigoteno, paquiteno, diploteno, diacinesis.",
+      "Vincular el sobrecruzamiento con su subfase: en paquiteno se forman los nódulos de recombinación y ocurre el intercambio efectivo.",
+      "Descartar distractores como metafase o telofase, que tienen funciones de alineación y división citoplasmática respectivamente."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=crossing_over_meiosis"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.2",
+    "tituloSubtema": "Herencia y genética.",
+    "id": "cn_312_12",
+    "enunciado": "Al estudiar el fenotipo de roedores, se descubre que existe un gen 'C' necesario para la producción general de pigmento, y un gen 'B' que define si el pigmento será negro (B) o marrón (b). Si un roedor es homocigoto recesivo (cc), será completamente blanco (albino) independientemente de los alelos del gen 'B'. ¿Qué tipo de interacción génica se describe en este caso?",
+    "opciones": [
+      "Alelos múltiples",
+      "Pleiotropía",
+      "Epistasis",
+      "Codominancia"
+    ],
+    "respuesta_correcta": "Epistasis",
+    "explicacion_detallada": "La epistasis es un fenómeno en el cual la expresión de un gen es enmascarada o modificada por otro gen en un locus diferente. En este caso, el locus 'C' es epistático sobre el locus 'B', ya que su estado homocigoto recesivo (cc) impide que el color (negro o marrón) se manifieste.",
+    "pasos_resolucion": [
+      "Identificar los elementos del caso: dos genes diferentes (C y B) afectando el mismo fenotipo final (color de pelaje).",
+      "Analizar la relación: un genotipo (cc) en el primer gen bloquea la expresión del segundo gen.",
+      "Asociar el concepto: el enmascaramiento del efecto de un gen por otro no alélico se denomina epistasis.",
+      "Diferenciar de pleiotropía (un gen afecta múltiples rasgos) y codominancia (ambos alelos se expresan juntos)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=epistasis_interaccion"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.2",
+    "tituloSubtema": "Herencia y genética.",
+    "id": "cn_312_13",
+    "enunciado": "La estatura y el color de piel en humanos son rasgos continuos que no siguen una proporción mendeliana simple de fenotipos discretos. En cambio, estos caracteres están determinados por la acción aditiva de múltiples pares de genes. Este patrón genético se conoce formalmente como:",
+    "opciones": [
+      "Herencia poligénica",
+      "Sobredominancia",
+      "Herencia ligada al sexo",
+      "Herencia extranuclear o citoplasmática"
+    ],
+    "respuesta_correcta": "Herencia poligénica",
+    "explicacion_detallada": "La herencia poligénica (o herencia cuantitativa) se da cuando un rasgo es el resultado de la expresión acumulativa de varios genes diferentes, produciendo una gradación de fenotipos (como la altura humana) que típicamente forma una curva de distribución normal.",
+    "pasos_resolucion": [
+      "Analizar las características del rasgo: fenotipo continuo y dependiente de múltiples genes con efectos sumatorios.",
+      "Recordar los tipos de herencia genética más allá de la mendeliana simple.",
+      "Asociar 'varios genes afectando un solo carácter continuo' con el término 'poligénica' (poli=muchos, génico=genes).",
+      "Descartar distractores como herencia extranuclear (mitocondrial) o sobredominancia (heterocigoto supera a los homocigotos)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=herencia_poligenica_humana"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.2",
+    "tituloSubtema": "Herencia y genética.",
+    "id": "cn_312_14",
+    "enunciado": "El daltonismo (ceguera a los colores) presenta un patrón de herencia recesiva ligada al cromosoma X. Si un hombre con visión normal (XDY) y una mujer daltónica (XdXd) deciden tener descendencia, ¿cuál será el fenotipo esperado exclusivamente para sus hijas (mujeres)?",
+    "opciones": [
+      "Todas las hijas serán daltónicas.",
+      "El 50% de las hijas será daltónica y el 50% tendrá visión normal.",
+      "Todas las hijas tendrán visión normal pero serán portadoras del alelo.",
+      "Ninguna hija será portadora ni padecerá de daltonismo."
+    ],
+    "respuesta_correcta": "Todas las hijas tendrán visión normal pero serán portadoras del alelo.",
+    "explicacion_detallada": "Las hijas (XX) heredan obligatoriamente el cromosoma X del padre y un cromosoma X de la madre. El padre tiene visión normal (XD), mientras que la madre sólo puede aportar el cromosoma con el alelo recesivo del daltonismo (Xd). El genotipo de todas las hijas será XDXd (heterocigotas portadoras con visión normal).",
+    "pasos_resolucion": [
+      "Definir el genotipo de los parentales: Padre normal = XDY, Madre daltónica = XdXd.",
+      "Identificar la herencia en las hijas: recogen el cromosoma X del padre y uno de la madre.",
+      "Determinar qué alelos se heredan: el padre transfiere XD y la madre transfiere obligatoriamente Xd.",
+      "Formar el genotipo final de las descendientes femeninas: XDXd.",
+      "Interpretar el fenotipo de XDXd: al ser recesivo, el gen sano (XD) domina, por lo tanto tienen visión normal pero portan el alelo."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=daltonismo_herencia_ligada"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.2",
+    "tituloSubtema": "Herencia y genética.",
+    "id": "cn_312_15",
+    "enunciado": "Una de las características universales del código genético es que se define como 'degenerado' o 'redundante'. ¿A qué hecho molecular concreto hace referencia exclusiva esta propiedad?",
+    "opciones": [
+      "Los nucleótidos de ADN sufren degradación natural con el avance del ciclo vital celular.",
+      "Un mismo aminoácido puede estar codificado por más de un codón diferente en el ARNm.",
+      "Los exones e intrones se superponen durante el proceso del empalme (splicing) alternativo.",
+      "Un único gen es capaz de controlar simultáneamente la expresión de múltiples caracteres fenotípicos distintos."
+    ],
+    "respuesta_correcta": "Un mismo aminoácido puede estar codificado por más de un codón diferente en el ARNm.",
+    "explicacion_detallada": "La redundancia o degeneración del código genético indica que, como hay 64 codones posibles y solo 20 aminoácidos estándar, la mayoría de los aminoácidos son codificados por dos, cuatro o incluso seis codones sinónimos (frecuentemente variando en la tercera base nitrogenada).",
+    "pasos_resolucion": [
+      "Analizar el término 'código genético degenerado o redundante'.",
+      "Identificar el número de codones (64) frente al número de aminoácidos (20).",
+      "Inferir que deben existir varios codones para un mismo aminoácido para que matemáticamente tenga sentido.",
+      "Descartar distractores: degradación del ADN (falso uso de la palabra 'degenerado'), empalme alternativo (no tiene relación) y pleiotropía (el distractor sobre control de múltiples caracteres)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=codigo_genetico_caracteristicas"
+  }
+]

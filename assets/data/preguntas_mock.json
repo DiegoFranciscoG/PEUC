@@ -1,0 +1,113 @@
+[
+  {
+    "id": "mat-1",
+    "materia": "Matemáticas",
+    "codigo_tema": "1.1.1",
+    "enunciado": "Factoriza el siguiente polinomio P(x) = x³ - 6x² + 11x - 6 y determina la suma de sus raíces reales.",
+    "opciones": ["3", "6", "-6", "11"],
+    "respuesta_correcta": "6",
+    "explicacion_detallada": "Las raíces del polinomio se hallan probando divisores del término independiente. Por Ruffini, las raíces son 1, 2 y 3. Su suma es 1 + 2 + 3 = 6."
+  },
+  {
+    "id": "mat-2",
+    "materia": "Matemáticas",
+    "codigo_tema": "1.1.5",
+    "enunciado": "Resuelve la ecuación logarítmica: log₂(x) + log₂(x - 3) = 2.",
+    "opciones": ["x = 4", "x = 1", "x = 4 y x = -1", "No tiene solución real"],
+    "respuesta_correcta": "x = 4",
+    "explicacion_detallada": "Por propiedades de logaritmos: log₂(x(x - 3)) = 2 -> x² - 3x - 4 = 0. Raíces: 4 y -1. Pero el dominio exige x > 3, así que x = 4."
+  },
+  {
+    "id": "len-1",
+    "materia": "Lengua y Literatura",
+    "codigo_tema": "2.3.1",
+    "enunciado": "Identifica el tipo de texto: 'La fotosíntesis es el proceso bioquímico mediante el cual las plantas convierten la energía solar en energía química, utilizando dióxido de carbono y agua.'",
+    "opciones": ["Texto literario", "Texto descriptivo subjetivo", "Texto expositivo científico", "Texto argumentativo"],
+    "respuesta_correcta": "Texto expositivo científico",
+    "explicacion_detallada": "Informa sobre un fenómeno natural de manera objetiva, empleando lenguaje técnico propio de la biología, sin emitir juicios ni relatar historias."
+  },
+  {
+    "id": "len-2",
+    "materia": "Lengua y Literatura",
+    "codigo_tema": "2.1.1",
+    "enunciado": "Complete la siguiente analogía verbal: 'Ceguera es a vista como sordera es a...'",
+    "opciones": ["Sonido", "Oreja", "Oído", "Ruido"],
+    "respuesta_correcta": "Oído",
+    "explicacion_detallada": "La relación es de 'Carencia de la capacidad sensorial'. La ceguera es la falta de vista, por lo tanto, la sordera es la falta de oído."
+  },
+  {
+    "id": "cn-1",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.3",
+    "enunciado": "Si se aplica una fuerza de 50 N a una masa de 10 kg en reposo sobre una superficie sin fricción, ¿cuál será su velocidad tras 4 segundos?",
+    "opciones": ["20 m/s", "40 m/s", "5 m/s", "200 m/s"],
+    "respuesta_correcta": "20 m/s",
+    "explicacion_detallada": "Por la Segunda Ley de Newton, a = F/m = 50/10 = 5 m/s². Usando cinemática, v = v0 + a*t = 0 + 5*4 = 20 m/s."
+  },
+  {
+    "id": "cs-1",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.11.1",
+    "enunciado": "Filósofo de la antigua Grecia que propuso el Mito de la Caverna como alegoría para explicar la teoría de las ideas y el conocimiento:",
+    "opciones": ["Aristóteles", "Sócrates", "Platón", "Tales de Mileto"],
+    "respuesta_correcta": "Platón",
+    "explicacion_detallada": "Platón, discípulo de Sócrates, expuso en su obra 'La República' la alegoría de la caverna para ilustrar cómo el ser humano puede liberarse del mundo sensible y acceder al mundo inteligible (las ideas)."
+  },
+  {
+    "id": "cs-2",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.2",
+    "enunciado": "¿En qué año se dio la Batalla de Pichincha, evento clave para la independencia de lo que hoy es Ecuador?",
+    "opciones": ["1809", "1820", "1822", "1830"],
+    "respuesta_correcta": "1822",
+    "explicacion_detallada": "La Batalla de Pichincha ocurrió el 24 de mayo de 1822 en las faldas del volcán Pichincha, sellando la independencia de la Real Audiencia de Quito."
+  },
+  {
+    "id": "ra-1",
+    "materia": "Razonamiento Abstracto",
+    "codigo_tema": "5.3.1",
+    "enunciado": "Observa la figura principal y determina cuál de las opciones representa la misma figura pero rotada 90° en sentido horario.",
+    "imagen_enunciado": "https://via.placeholder.com/400x200/000000/FFFFFF?text=Triangulo+apuntando+Arriba",
+    "es_opciones_imagen": true,
+    "opciones": [
+      "https://via.placeholder.com/200/FF0000/FFFFFF?text=Apuntando+Izquierda",
+      "https://via.placeholder.com/200/00FF00/FFFFFF?text=Apuntando+Derecha",
+      "https://via.placeholder.com/200/0000FF/FFFFFF?text=Apuntando+Abajo",
+      "https://via.placeholder.com/200/808080/FFFFFF?text=Apuntando+Arriba"
+    ],
+    "respuesta_correcta": "https://via.placeholder.com/200/00FF00/FFFFFF?text=Apuntando+Derecha",
+    "explicacion_detallada": "Si el triángulo apunta hacia arriba, una rotación de 90 grados en sentido de las manecillas del reloj hará que apunte hacia la derecha."
+  },
+  {
+    "id": "ra-2",
+    "materia": "Razonamiento Abstracto",
+    "codigo_tema": "5.1.2",
+    "enunciado": "Dada la siguiente matriz gráfica incompleta, elige la figura que completa lógicamente la secuencia de las opciones dadas.",
+    "imagen_enunciado": "https://via.placeholder.com/400x300/1E1E1E/FFFFFF?text=Matriz+3x3+Incompleta",
+    "es_opciones_imagen": true,
+    "opciones": [
+      "https://via.placeholder.com/150/555555/FFFFFF?text=Opcion+A",
+      "https://via.placeholder.com/150/555555/FFFFFF?text=Opcion+B",
+      "https://via.placeholder.com/150/555555/FFFFFF?text=Opcion+C",
+      "https://via.placeholder.com/150/555555/FFFFFF?text=Opcion+D"
+    ],
+    "respuesta_correcta": "https://via.placeholder.com/150/555555/FFFFFF?text=Opcion+C",
+    "explicacion_detallada": "La matriz alterna entre colores blanco y negro, a la vez que añade un lado a los polígonos por fila. La casilla faltante requiere un hexágono blanco (Opción C)."
+  },
+  {
+    "id": "ra-3",
+    "materia": "Razonamiento Abstracto",
+    "codigo_tema": "5.2.2",
+    "enunciado": "Identifica el patrón en la secuencia de imágenes y selecciona qué elemento continúa la serie.",
+    "imagen_enunciado": "https://via.placeholder.com/500x150/4A148C/FFFFFF?text=Secuencia+5+pasos",
+    "es_opciones_imagen": false,
+    "opciones": [
+      "Un cuadrado en la esquina superior izquierda",
+      "Un círculo en la esquina inferior derecha",
+      "Un triángulo en el centro",
+      "Un cuadrado en la esquina inferior izquierda"
+    ],
+    "respuesta_correcta": "Un cuadrado en la esquina inferior izquierda",
+    "explicacion_detallada": "El patrón posicional muestra un desplazamiento horario alrededor del perímetro, y la forma alterna entre círculo y cuadrado. El siguiente en la serie debe ser un cuadrado abajo a la izquierda."
+  }
+]

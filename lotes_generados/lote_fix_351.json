@@ -1,0 +1,209 @@
+[
+  {
+    "id": "cn_351_ex_001",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.5.1",
+    "enunciado": "¿Cuáles son los coeficientes estequiométricos correctos para balancear la siguiente ecuación química: Al + O2 -> Al2O3?",
+    "opciones": [
+      "4, 3, 2",
+      "2, 3, 1",
+      "4, 2, 3",
+      "2, 1, 2"
+    ],
+    "respuesta_correcta": "4, 3, 2",
+    "explicacion_detallada": "Para balancear la ecuación, el número de átomos de cada elemento debe ser igual en reactivos y productos. Colocando un 4 en Al y un 3 en O2, obtenemos 4 átomos de Al y 6 de O. En los productos, colocando un 2 en Al2O3, obtenemos 4 de Al y 6 de O. La ecuación balanceada es 4Al + 3O2 -> 2Al2O3.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar los elementos presentes (Al y O).",
+      "Paso 2: Contar los átomos en reactivos y productos. Reactivos: 1 Al, 2 O. Productos: 2 Al, 3 O.",
+      "Paso 3: Igualar los átomos de oxígeno usando el mínimo común múltiplo (6). Multiplicar O2 por 3 y Al2O3 por 2.",
+      "Paso 4: Igualar los átomos de aluminio. Ahora hay 4 Al en productos, así que multiplicar Al en reactivos por 4.",
+      "Paso 5: Los coeficientes finales son 4, 3, 2."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_351_ex_002",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.5.1",
+    "enunciado": "¿Qué tipo de reacción química representa la siguiente ecuación general: AB -> A + B?",
+    "opciones": [
+      "Reacción de síntesis",
+      "Reacción de descomposición",
+      "Reacción de desplazamiento simple",
+      "Reacción de doble desplazamiento"
+    ],
+    "respuesta_correcta": "Reacción de descomposición",
+    "explicacion_detallada": "En una reacción de descomposición, un solo compuesto (AB) se divide en dos o más sustancias más simples (A y B) mediante la aplicación de energía.",
+    "pasos_resolucion": [
+      "Paso 1: Analizar la estructura de la ecuación AB -> A + B.",
+      "Paso 2: Reconocer que se parte de un solo reactivo que produce varios productos.",
+      "Paso 3: Identificar que este patrón corresponde a la definición de reacción de descomposición."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_351_ex_003",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.5.1",
+    "enunciado": "En la combustión completa del metano (CH4), ¿cuáles son los productos de la reacción?",
+    "opciones": [
+      "Dióxido de carbono y agua",
+      "Monóxido de carbono y agua",
+      "Carbono sólido e hidrógeno gaseoso",
+      "Ácido carbónico y oxígeno"
+    ],
+    "respuesta_correcta": "Dióxido de carbono y agua",
+    "explicacion_detallada": "La combustión completa de cualquier hidrocarburo, como el metano, en presencia de suficiente oxígeno produce siempre dióxido de carbono (CO2) y agua (H2O), liberando energía.",
+    "pasos_resolucion": [
+      "Paso 1: Recordar la definición de combustión completa de hidrocarburos.",
+      "Paso 2: Identificar los reactivos: CH4 y O2.",
+      "Paso 3: Concluir que los productos obligatorios son CO2 y H2O."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_351_ex_004",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.5.1",
+    "enunciado": "¿Qué ley fundamental de la química se aplica al balancear una ecuación química?",
+    "opciones": [
+      "Ley de las proporciones definidas",
+      "Ley de las proporciones múltiples",
+      "Ley de conservación de la masa",
+      "Ley de los gases ideales"
+    ],
+    "respuesta_correcta": "Ley de conservación de la masa",
+    "explicacion_detallada": "La Ley de conservación de la masa, postulada por Lavoisier, establece que la masa no se crea ni se destruye, solo se transforma. En química, esto significa que el número de átomos de cada elemento debe ser el mismo en reactivos y productos.",
+    "pasos_resolucion": [
+      "Paso 1: Relacionar el concepto de balanceo de ecuaciones con la cantidad de materia.",
+      "Paso 2: Identificar que igualar átomos significa igualar masas.",
+      "Paso 3: Asociar esto con la Ley de conservación de la masa de Lavoisier."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_351_ex_005",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.5.1",
+    "enunciado": "Dada la reacción de desplazamiento simple: Zn + 2HCl -> ZnCl2 + H2. Si reaccionan 65.38 g de Zinc con exceso de HCl, ¿cuántos moles de H2 se producen? (Masa molar Zn = 65.38 g/mol)",
+    "opciones": [
+      "0.5 moles",
+      "1.0 mol",
+      "2.0 moles",
+      "22.4 moles"
+    ],
+    "respuesta_correcta": "1.0 mol",
+    "explicacion_detallada": "La ecuación balanceada indica que 1 mol de Zn produce 1 mol de H2. Si tenemos 65.38 g de Zn, que equivale a exactamente 1 mol (65.38 g / 65.38 g/mol), entonces se producirá 1 mol de gas hidrógeno.",
+    "pasos_resolucion": [
+      "Paso 1: Verificar que la ecuación Zn + 2HCl -> ZnCl2 + H2 esté balanceada.",
+      "Paso 2: Determinar la relación estequiométrica entre Zn y H2, que es 1:1.",
+      "Paso 3: Calcular los moles de Zinc utilizados (65.38 g / 65.38 g/mol = 1 mol).",
+      "Paso 4: Aplicar la relación estequiométrica: 1 mol Zn produce 1 mol H2."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_351_ex_006",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.5.1",
+    "enunciado": "Identifique los coeficientes estequiométricos para la combustión del propano: C3H8 + O2 -> CO2 + H2O",
+    "opciones": [
+      "1, 5, 3, 4",
+      "2, 5, 3, 4",
+      "1, 3, 3, 4",
+      "2, 10, 6, 8"
+    ],
+    "respuesta_correcta": "1, 5, 3, 4",
+    "explicacion_detallada": "Balanceamos primero el carbono (3 en reactivos, se pone un 3 en CO2). Luego el hidrógeno (8 en reactivos, se pone un 4 en H2O). Finalmente el oxígeno: 3x2=6 O del CO2 y 4x1=4 O del H2O, sumando 10 O en productos. Ponemos un 5 en el O2 para tener 10 O en reactivos. Coeficientes: 1, 5, 3, 4.",
+    "pasos_resolucion": [
+      "Paso 1: Balancear los átomos de Carbono (C) colocando un 3 en el CO2.",
+      "Paso 2: Balancear los átomos de Hidrógeno (H) colocando un 4 en el H2O.",
+      "Paso 3: Contar los oxígenos totales en los productos (3*2 + 4*1 = 10).",
+      "Paso 4: Colocar un 5 en el O2 de los reactivos para obtener 10 átomos de oxígeno.",
+      "Paso 5: Los coeficientes son 1, 5, 3, 4."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_351_ex_007",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.5.1",
+    "enunciado": "La reacción AgNO3 + NaCl -> AgCl + NaNO3 es un ejemplo de reacción de:",
+    "opciones": [
+      "Síntesis",
+      "Doble desplazamiento o intercambio",
+      "Descomposición",
+      "Desplazamiento simple"
+    ],
+    "respuesta_correcta": "Doble desplazamiento o intercambio",
+    "explicacion_detallada": "En esta reacción, el catión Ag+ y el catión Na+ intercambian de anión (NO3- y Cl-) para formar dos compuestos nuevos (AgCl y NaNO3). Este patrón AB + CD -> AD + CB define las reacciones de doble desplazamiento.",
+    "pasos_resolucion": [
+      "Paso 1: Observar los reactivos (dos compuestos, AgNO3 y NaCl).",
+      "Paso 2: Observar los productos (dos compuestos, AgCl y NaNO3).",
+      "Paso 3: Notar que las partes iónicas se han intercambiado mutuamente.",
+      "Paso 4: Identificar que este intercambio mutuo corresponde al doble desplazamiento."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_351_ex_008",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.5.1",
+    "enunciado": "En la síntesis de amoniaco: N2 + 3H2 -> 2NH3, si se hacen reaccionar 14 gramos de N2 con suficiente H2, ¿qué masa de amoniaco se obtiene? (Masas molares: N = 14 g/mol, H = 1 g/mol)",
+    "opciones": [
+      "17 g",
+      "34 g",
+      "8.5 g",
+      "68 g"
+    ],
+    "respuesta_correcta": "17 g",
+    "explicacion_detallada": "La masa molar del N2 es 28 g/mol, y la del NH3 es 17 g/mol. La reacción indica que 1 mol de N2 (28g) produce 2 moles de NH3 (2x17g = 34g). Si usamos 14g de N2 (medio mol), produciremos la mitad, es decir, 17g de NH3.",
+    "pasos_resolucion": [
+      "Paso 1: Calcular masas molares: N2 = 28 g/mol, NH3 = 17 g/mol.",
+      "Paso 2: Determinar relación estequiométrica en masa: 28 g de N2 producen 34 g de NH3.",
+      "Paso 3: Usar una regla de tres: si 28 g N2 -> 34 g NH3, entonces 14 g N2 -> X g NH3.",
+      "Paso 4: Calcular X = (14 * 34) / 28 = 17 g."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_351_ex_009",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.5.1",
+    "enunciado": "¿Qué indica el símbolo Δ (delta) cuando se coloca sobre la flecha en una ecuación química?",
+    "opciones": [
+      "Que la reacción requiere o libera calor",
+      "Que se necesita un catalizador metálico",
+      "Que la reacción ocurre en estado gaseoso",
+      "Que se forma un precipitado"
+    ],
+    "respuesta_correcta": "Que la reacción requiere o libera calor",
+    "explicacion_detallada": "El símbolo Δ sobre la flecha de rendimiento en una ecuación química es una convención estándar para indicar que es necesario aplicar calor para que la reacción ocurra (reacción endotérmica).",
+    "pasos_resolucion": [
+      "Paso 1: Recordar el significado de la simbología usada en ecuaciones químicas.",
+      "Paso 2: Identificar que el triángulo (delta) es el símbolo griego asociado a cambios, pero en química sobre una flecha indica aplicación de energía térmica (calor).",
+      "Paso 3: Seleccionar la opción que menciona el calor."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_351_ex_010",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.5.1",
+    "enunciado": "Según la ecuación balanceada: 2KClO3 -> 2KCl + 3O2, ¿cuántos moles de O2 se producen a partir de 4 moles de clorato de potasio (KClO3)?",
+    "opciones": [
+      "3 moles",
+      "6 moles",
+      "4 moles",
+      "2 moles"
+    ],
+    "respuesta_correcta": "6 moles",
+    "explicacion_detallada": "La relación estequiométrica dada por los coeficientes es que 2 moles de KClO3 producen 3 moles de O2. Si tenemos el doble de reactivo (4 moles), se producirá el doble de producto, es decir, 6 moles de O2.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar la relación estequiométrica en la ecuación: 2 mol KClO3 -> 3 mol O2.",
+      "Paso 2: Establecer la proporción usando una regla de tres: 2 mol KClO3 es a 3 mol O2 como 4 mol KClO3 es a X mol O2.",
+      "Paso 3: Resolver para X: X = (4 * 3) / 2 = 6 moles de O2."
+    ],
+    "video_explicativo_url": ""
+  }
+]

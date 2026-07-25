@@ -1,0 +1,134 @@
+[
+  {
+    "id": "cn_351_001",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.5.1",
+    "tituloSubtema": "Las reacciones químicas y sus ecuaciones",
+    "enunciado": "Al balancear la siguiente ecuación química: aFe + bO2 -> cFe2O3, los coeficientes estequiométricos (a, b, c) correctos que cumplen con la ley de la conservación de la masa son respectivamente:",
+    "opciones": [
+      "4, 3, 2",
+      "2, 3, 1",
+      "4, 2, 3",
+      "2, 1, 2"
+    ],
+    "respuesta_correcta": "4, 3, 2",
+    "explicacion_detallada": "Para balancear la ecuación, se debe igualar el número de átomos de cada elemento en los reactivos y en los productos. En el lado de los productos tenemos Fe2O3, lo que indica que el hierro debe estar en múltiplos de 2 y el oxígeno en múltiplos de 3. Colocando un coeficiente 2 en el producto (2Fe2O3), obtenemos 4 átomos de Fe y 6 átomos de O. Por lo tanto, necesitamos 4 átomos de Fe y 3 moléculas de O2 en los reactivos. Los coeficientes son 4, 3 y 2.",
+    "pasos_resolucion": [
+      "Identificar el producto: Fe2O3 tiene 2 átomos de Fe y 3 de O.",
+      "Asignar coeficiente 2 al producto para evitar oxígenos fraccionarios: 2Fe2O3 da 4 Fe y 6 O.",
+      "Ajustar los reactivos: 4 Fe requieren coeficiente 4 en Fe; 6 O requieren coeficiente 3 en O2.",
+      "Verificar: 4 átomos de Fe y 6 átomos de O en ambos lados."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_351_002",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.5.1",
+    "tituloSubtema": "Las reacciones químicas y sus ecuaciones",
+    "enunciado": "¿A qué tipo de reacción química corresponde la siguiente ecuación general: AB -> A + B?",
+    "opciones": [
+      "Descomposición",
+      "Síntesis",
+      "Sustitución simple",
+      "Doble sustitución"
+    ],
+    "respuesta_correcta": "Descomposición",
+    "explicacion_detallada": "Las reacciones de descomposición son aquellas en las que un solo compuesto se divide en dos o más sustancias más simples. Esto se representa con la forma general AB -> A + B, donde AB es el reactivo que se descompone en los productos A y B.",
+    "pasos_resolucion": [
+      "Analizar la ecuación dada: Un reactivo (AB) genera múltiples productos (A y B).",
+      "Comparar con los tipos de reacciones: Síntesis es A + B -> AB; Descomposición es AB -> A + B; Sustitución simple es A + BC -> AC + B.",
+      "Concluir que el formato corresponde a una reacción de descomposición."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_351_003",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.5.1",
+    "tituloSubtema": "Las reacciones químicas y sus ecuaciones",
+    "enunciado": "En la reacción de neutralización entre el ácido clorhídrico (HCl) y el hidróxido de sodio (NaOH), los productos que se forman son:",
+    "opciones": [
+      "Cloruro de sodio y agua",
+      "Clorito de sodio y agua",
+      "Cloruro de sodio y gas hidrógeno",
+      "Sodio metálico y ácido cloroso"
+    ],
+    "respuesta_correcta": "Cloruro de sodio y agua",
+    "explicacion_detallada": "Una reacción de neutralización ocurre cuando un ácido fuerte reacciona con una base fuerte para producir una sal y agua. En este caso, el ácido clorhídrico (HCl) reacciona con el hidróxido de sodio (NaOH) para formar la sal cloruro de sodio (NaCl) y agua (H2O). La ecuación es: HCl + NaOH -> NaCl + H2O.",
+    "pasos_resolucion": [
+      "Identificar los reactivos: HCl (ácido fuerte) y NaOH (base fuerte).",
+      "Recordar el principio de la reacción de neutralización: Ácido + Base -> Sal + Agua.",
+      "Combinar el catión de la base (Na+) con el anión del ácido (Cl-) para formar la sal (NaCl, cloruro de sodio).",
+      "Combinar los iones H+ y OH- para formar agua (H2O)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_351_004",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.5.1",
+    "tituloSubtema": "Las reacciones químicas y sus ecuaciones",
+    "enunciado": "La ley de conservación de la masa, propuesta por Antoine Lavoisier, establece que en toda reacción química:",
+    "opciones": [
+      "La masa total de los reactivos es igual a la masa total de los productos.",
+      "La masa de los productos siempre es mayor que la masa de los reactivos por la liberación de energía.",
+      "Los átomos cambian de identidad química al transformarse de reactivos a productos.",
+      "El volumen de los reactivos se conserva en los productos de forma idéntica."
+    ],
+    "respuesta_correcta": "La masa total de los reactivos es igual a la masa total de los productos.",
+    "explicacion_detallada": "La ley de la conservación de la masa dicta que la materia no se crea ni se destruye, sólo se transforma. Por consiguiente, en un sistema cerrado, la masa de las sustancias que reaccionan (reactivos) debe ser exactamente igual a la masa de las sustancias que se forman (productos).",
+    "pasos_resolucion": [
+      "Recordar el enunciado clásico de la ley de Lavoisier sobre la conservación de la masa.",
+      "Analizar las opciones: la masa no aumenta, ni los átomos cambian su identidad intrínseca (no es reacción nuclear).",
+      "El volumen no necesariamente se conserva, especialmente en reacciones con gases.",
+      "Seleccionar la opción que iguala la masa de reactivos y productos."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_351_005",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.5.1",
+    "tituloSubtema": "Las reacciones químicas y sus ecuaciones",
+    "enunciado": "Dada la siguiente reacción de combustión completa del metano sin balancear: CH4 + O2 -> CO2 + H2O. ¿Cuántas moléculas de oxígeno (O2) se requieren para reaccionar completamente con una molécula de metano (CH4)?",
+    "opciones": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "respuesta_correcta": "2",
+    "explicacion_detallada": "Para balancear la ecuación de combustión del metano, comenzamos igualando los átomos de carbono, que ya están balanceados (1 a cada lado). Luego, el metano tiene 4 átomos de hidrógeno, por lo que necesitamos 2 moléculas de agua en los productos (2 H2O). Esto nos da un total de 4 átomos de oxígeno en los productos (2 del CO2 y 2 del H2O). Para tener 4 átomos de oxígeno en los reactivos, necesitamos 2 moléculas de O2. La ecuación balanceada es: CH4 + 2O2 -> CO2 + 2H2O.",
+    "pasos_resolucion": [
+      "Escribir la ecuación inicial: CH4 + O2 -> CO2 + H2O.",
+      "Balancear carbono (C): 1 en CH4, 1 en CO2. (Ya está balanceado).",
+      "Balancear hidrógeno (H): 4 en CH4. Colocar un 2 frente al H2O en los productos para obtener 4 H.",
+      "Contar oxígeno (O) en productos: 2 (en CO2) + 2 (en 2H2O) = 4 átomos de oxígeno.",
+      "Balancear oxígeno en reactivos: Se necesitan 2 moléculas de O2 para tener 4 átomos. El coeficiente es 2."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_351_006",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.5.1",
+    "tituloSubtema": "Las reacciones químicas y sus ecuaciones",
+    "enunciado": "¿Cuál de los siguientes fenómenos NO es necesariamente una evidencia empírica de que ha ocurrido una reacción química?",
+    "opciones": [
+      "Cambio de estado de sólido a líquido al aplicar calor.",
+      "Formación de un precipitado al mezclar dos soluciones acuosas.",
+      "Desprendimiento de un gas manifestado por efervescencia.",
+      "Cambio permanente e inesperado de coloración en la mezcla."
+    ],
+    "respuesta_correcta": "Cambio de estado de sólido a líquido al aplicar calor.",
+    "explicacion_detallada": "El cambio de estado físico (fusión, ebullición, condensación, etc.) es un proceso puramente físico en el que la composición química de la sustancia no se altera. Las otras opciones (formación de precipitado, desprendimiento de gas, cambio de color) son evidencias clásicas macroscópicas de que ha ocurrido una transformación química (formación de nuevas sustancias).",
+    "pasos_resolucion": [
+      "Definir qué es una reacción química: proceso donde unas sustancias se transforman en otras diferentes.",
+      "Evaluar cada opción buscando la que represente un cambio físico y no químico.",
+      "Identificar que el cambio de sólido a líquido (fusión) solo altera el estado de agregación, no la identidad molecular.",
+      "Confirmar que precipitados, gases y cambios de color son indicios fuertes de reacciones químicas."
+    ],
+    "video_explicativo_url": ""
+  }
+]

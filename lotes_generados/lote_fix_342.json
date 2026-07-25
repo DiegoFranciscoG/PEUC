@@ -1,0 +1,205 @@
+[
+  {
+    "id": "cn_342_ex_001",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.2",
+    "enunciado": "El modelo atómico propuesto por J.J. Thomson a finales del siglo XIX sugiere que el átomo es una esfera de carga positiva en la cual se encuentran incrustados los electrones. ¿Cuál fue el descubrimiento clave que llevó a Thomson a proponer este modelo, conocido coloquialmente como 'pudín de pasas'?",
+    "opciones": [
+      "El descubrimiento del electrón mediante experimentos con tubos de rayos catódicos.",
+      "El descubrimiento del núcleo atómico mediante el bombardeo de una lámina de oro.",
+      "El descubrimiento del neutrón al bombardear berilio con partículas alfa.",
+      "La postulación de los niveles de energía discretos donde orbitan los electrones."
+    ],
+    "respuesta_correcta": "El descubrimiento del electrón mediante experimentos con tubos de rayos catódicos.",
+    "explicacion_detallada": "J.J. Thomson utilizó tubos de rayos catódicos para descubrir la existencia de partículas con carga negativa, a las que llamó electrones. Como los átomos son eléctricamente neutros, dedujo que debía existir una parte positiva que equilibrara esa carga negativa, proponiendo así su modelo del 'pudín de pasas'.",
+    "pasos_resolucion": [
+      "Identificar el modelo de Thomson ('pudín de pasas').",
+      "Recordar los experimentos de Thomson con tubos de rayos catódicos.",
+      "Relacionar estos experimentos con el descubrimiento del electrón y la necesidad de una carga positiva para mantener la neutralidad."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_342_ex_002",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.2",
+    "enunciado": "En el famoso experimento de Ernest Rutherford, se bombardearon láminas muy delgadas de oro con partículas alfa. La observación de que una pequeña fracción de estas partículas rebotaba en ángulos agudos llevó a una conclusión fundamental. ¿Qué característica del átomo se dedujo a partir de este experimento?",
+    "opciones": [
+      "La existencia de un núcleo atómico denso, pequeño y con carga positiva.",
+      "Que los electrones se mueven en órbitas circulares cuantizadas.",
+      "Que la masa del átomo está distribuida uniformemente en todo su volumen.",
+      "La existencia de isótopos con diferente número de neutrones."
+    ],
+    "respuesta_correcta": "La existencia de un núcleo atómico denso, pequeño y con carga positiva.",
+    "explicacion_detallada": "El hecho de que la mayoría de las partículas alfa atravesaran la lámina indicó que el átomo es mayormente espacio vacío. Las pocas partículas que rebotaron o se desviaron fuertemente lo hicieron porque chocaron con una región muy densa y positivamente cargada, la cual Rutherford llamó núcleo.",
+    "pasos_resolucion": [
+      "Analizar el experimento de la lámina de oro de Rutherford.",
+      "Recordar que las partículas alfa tienen carga positiva.",
+      "Deducir que el rebote de estas partículas implica una fuerte repulsión por una masa concentrada de carga positiva (el núcleo)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_342_ex_003",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.2",
+    "enunciado": "Según el modelo atómico de Niels Bohr para el átomo de hidrógeno, ¿qué sucede cuando un electrón transita de un nivel de energía superior (estado excitado) a un nivel de energía inferior (estado fundamental)?",
+    "opciones": [
+      "Se emite un fotón de luz con una energía igual a la diferencia entre los dos niveles.",
+      "Se absorbe un fotón de luz para compensar la pérdida de energía del electrón.",
+      "El átomo se convierte en un ión de carga positiva (catión).",
+      "El electrón pierde su carga negativa y se neutraliza."
+    ],
+    "respuesta_correcta": "Se emite un fotón de luz con una energía igual a la diferencia entre los dos niveles.",
+    "explicacion_detallada": "El modelo de Bohr postula que los electrones orbitan el núcleo en niveles de energía cuantizados. Cuando un electrón cae de un nivel de mayor energía a uno de menor energía, libera la energía sobrante en forma de radiación electromagnética, es decir, emite un fotón.",
+    "pasos_resolucion": [
+      "Recordar los postulados del modelo atómico de Bohr.",
+      "Identificar que el paso de un nivel superior a uno inferior implica una pérdida de energía del electrón.",
+      "Concluir que esta energía se libera al entorno en forma de un fotón (emisión de luz)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_342_ex_004",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.2",
+    "enunciado": "El isótopo de carbono-14 (C-14) se utiliza comúnmente en la datación radiométrica de restos orgánicos. Sabiendo que el número atómico del carbono es 6, ¿cuál es la composición subatómica del núcleo de un átomo neutro de carbono-14?",
+    "opciones": [
+      "6 protones y 8 neutrones.",
+      "6 protones y 14 neutrones.",
+      "8 protones y 6 neutrones.",
+      "14 protones y 6 neutrones."
+    ],
+    "respuesta_correcta": "6 protones y 8 neutrones.",
+    "explicacion_detallada": "El número atómico (Z) indica el número de protones, que es 6 para el carbono. El número másico (A) del carbono-14 es 14, que representa la suma de protones y neutrones. Por lo tanto, el número de neutrones se calcula como A - Z = 14 - 6 = 8 neutrones.",
+    "pasos_resolucion": [
+      "Identificar el número atómico (Z = 6), que es igual al número de protones.",
+      "Identificar el número másico (A = 14) dado en el nombre del isótopo.",
+      "Calcular el número de neutrones restando el número atómico del número másico (14 - 6 = 8)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_342_ex_005",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.2",
+    "enunciado": "La configuración electrónica de un elemento neutro en su estado fundamental es 1s² 2s² 2p⁶ 3s² 3p⁴. Con base en esta información, ¿a qué grupo y período de la tabla periódica pertenece este elemento?",
+    "opciones": [
+      "Grupo 16 (VIA) y Período 3.",
+      "Grupo 14 (IVA) y Período 3.",
+      "Grupo 16 (VIA) y Período 4.",
+      "Grupo 6 (VIB) y Período 2."
+    ],
+    "respuesta_correcta": "Grupo 16 (VIA) y Período 3.",
+    "explicacion_detallada": "El número cuántico principal más alto en la configuración es 3, lo que indica que el elemento está en el período 3. Los electrones de valencia se encuentran en el nivel 3 (3s² 3p⁴), sumando 2 + 4 = 6 electrones de valencia. Los elementos con 6 electrones de valencia pertenecen al grupo 16 (o VIA). El elemento es el azufre (S).",
+    "pasos_resolucion": [
+      "Observar el nivel de energía más alto en la configuración electrónica (n=3) para determinar el período.",
+      "Sumar los electrones en este último nivel (2 en 3s y 4 en 3p) para obtener los electrones de valencia (total de 6).",
+      "Asociar los 6 electrones de valencia con el grupo correspondiente en la tabla periódica (Grupo 16 o VIA)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_342_ex_006",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.2",
+    "enunciado": "En la teoría cuántica del átomo, los cuatro números cuánticos (n, l, m, s) describen el estado de un electrón. ¿Qué información principal proporciona el número cuántico secundario o azimutal (l)?",
+    "opciones": [
+      "La forma del orbital atómico en el que se encuentra el electrón.",
+      "El nivel principal de energía y el tamaño del orbital.",
+      "La orientación espacial del orbital bajo la influencia de un campo magnético.",
+      "El sentido de rotación (espín) del electrón sobre su propio eje."
+    ],
+    "respuesta_correcta": "La forma del orbital atómico en el que se encuentra el electrón.",
+    "explicacion_detallada": "El número cuántico azimutal (l) determina el subnivel de energía y la forma de la región del espacio (orbital) donde es más probable encontrar al electrón (por ejemplo, l=0 es esférico o 's', l=1 es lobular o 'p'). El nivel y tamaño los da 'n', la orientación 'm', y la rotación 's'.",
+    "pasos_resolucion": [
+      "Recordar el significado de los cuatro números cuánticos.",
+      "Identificar 'n' (principal) con nivel de energía/distancia al núcleo.",
+      "Identificar 'l' (azimutal) con la forma del orbital o subnivel (s, p, d, f)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_342_ex_007",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.2",
+    "enunciado": "Un anión divalente (X⁻²) tiene la siguiente configuración electrónica: 1s² 2s² 2p⁶ 3s² 3p⁶. ¿Cuál es el número atómico (Z) del elemento neutro X original?",
+    "opciones": [
+      "16",
+      "18",
+      "20",
+      "14"
+    ],
+    "respuesta_correcta": "16",
+    "explicacion_detallada": "El anión divalente (X⁻²) ha ganado 2 electrones en comparación con su estado neutro. La configuración dada tiene un total de 2 + 2 + 6 + 2 + 6 = 18 electrones. Si el ión tiene 18 electrones después de ganar 2, el átomo neutro debía tener 18 - 2 = 16 electrones. En un átomo neutro, el número de electrones es igual al número atómico (Z), por lo tanto Z = 16 (Azufre).",
+    "pasos_resolucion": [
+      "Contar el número total de electrones en la configuración dada del ión (18 electrones).",
+      "Entender que una carga de -2 significa que el átomo neutro ganó 2 electrones.",
+      "Restar los 2 electrones ganados del total para encontrar el número de electrones del átomo neutro (18 - 2 = 16).",
+      "Concluir que el número atómico Z es igual a este número (16)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_342_ex_008",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.2",
+    "enunciado": "¿Cuál de las siguientes afirmaciones describe mejor uno de los postulados originales de la teoría atómica de John Dalton propuesta a principios del siglo XIX?",
+    "opciones": [
+      "Los átomos de un mismo elemento son idénticos en masa y propiedades, y son indivisibles.",
+      "Los átomos contienen un núcleo central denso rodeado por electrones orbitando.",
+      "Los electrones se comportan tanto como partículas como ondas en los orbitales atómicos.",
+      "Los isótopos de un elemento tienen el mismo número de protones pero diferente número de neutrones."
+    ],
+    "respuesta_correcta": "Los átomos de un mismo elemento son idénticos en masa y propiedades, y son indivisibles.",
+    "explicacion_detallada": "La teoría atómica de Dalton (1803) postulaba que la materia está formada por partículas indivisibles llamadas átomos, y que todos los átomos de un elemento dado son idénticos en masa y características. Los conceptos de núcleo, comportamiento ondulatorio o isótopos fueron descubiertos mucho después y refutaron la indivisibilidad y la igualdad de masa para un mismo elemento (por la existencia de isótopos).",
+    "pasos_resolucion": [
+      "Identificar el contexto histórico del modelo de Dalton (el más antiguo).",
+      "Descartar postulados modernos como el núcleo (Rutherford), orbitales ondulatorios (Schrödinger) e isótopos (Soddy).",
+      "Seleccionar el postulado de Dalton sobre la indivisibilidad y la igualdad de los átomos de un mismo elemento."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_342_ex_009",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.2",
+    "enunciado": "Se conocen tres isótopos naturales del hidrógeno: protio, deuterio y tritio. Sabiendo que el número atómico del hidrógeno es 1, ¿qué diferencia estructural subatómica existe entre el deuterio y el tritio?",
+    "opciones": [
+      "El tritio tiene un neutrón más que el deuterio en su núcleo.",
+      "El tritio tiene un protón más que el deuterio en su núcleo.",
+      "El tritio tiene un electrón más orbitando su núcleo que el deuterio.",
+      "El deuterio carece completamente de neutrones, mientras que el tritio tiene uno."
+    ],
+    "respuesta_correcta": "El tritio tiene un neutrón más que el deuterio en su núcleo.",
+    "explicacion_detallada": "Los isótopos de un elemento tienen el mismo número atómico (protones) pero diferente número másico (neutrones). El protio tiene 0 neutrones (masa 1), el deuterio tiene 1 neutrón (masa 2) y el tritio tiene 2 neutrones (masa 3). Por tanto, el tritio (2 neutrones) posee un neutrón más que el deuterio (1 neutrón).",
+    "pasos_resolucion": [
+      "Recordar que los isótopos difieren en el número de neutrones.",
+      "Establecer la composición del deuterio: 1 protón y 1 neutrón.",
+      "Establecer la composición del tritio: 1 protón y 2 neutrones.",
+      "Comparar y deducir que la diferencia es un neutrón adicional en el tritio."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_342_ex_010",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.2",
+    "enunciado": "Al aplicar el principio de exclusión de Pauli y la regla de Hund para llenar los orbitales, ¿cuál es el conjunto de los cuatro números cuánticos (n, l, m, s) para el último electrón que se ubica en el átomo de nitrógeno (Z=7)? (Asumir convención de llenado m desde -l hasta +l, y primer electrón con s=+1/2)",
+    "opciones": [
+      "n=2, l=1, m=+1, s=+1/2",
+      "n=2, l=1, m=-1, s=-1/2",
+      "n=2, l=0, m=0, s=+1/2",
+      "n=3, l=1, m=+1, s=+1/2"
+    ],
+    "respuesta_correcta": "n=2, l=1, m=+1, s=+1/2",
+    "explicacion_detallada": "La configuración del nitrógeno (Z=7) es 1s² 2s² 2p³. Los 3 últimos electrones entran en el subnivel 2p (n=2, l=1). Según la regla de Hund, estos electrones se ubican desapareados en orbitales distintos: uno en m=-1, otro en m=0, y el tercero (último) en m=+1. Como entran desapareados, todos tienen el mismo espín s=+1/2. Así, para el séptimo electrón: n=2, l=1, m=+1, s=+1/2.",
+    "pasos_resolucion": [
+      "Realizar la configuración electrónica del nitrógeno: 1s² 2s² 2p³.",
+      "Analizar los electrones del último subnivel (2p³): n=2 y l=1.",
+      "Aplicar la regla de Hund: distribuir 3 electrones en los 3 orbitales p (m = -1, 0, +1).",
+      "Identificar que el último electrón entra en m=+1 con espín hacia arriba (s=+1/2)."
+    ],
+    "video_explicativo_url": ""
+  }
+]

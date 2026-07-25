@@ -1,0 +1,342 @@
+[
+  {
+    "id": "cs_411_001",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "Tales de Mileto (c. 624-546 a.C.) es considerado el primer filósofo occidental porque, a diferencia de los poetas épicos anteriores, intentó explicar el origen del cosmos mediante:",
+    "opciones": [
+      "Un principio natural único y racional (el agua como arjé), abandonando la explicación mítica.",
+      "La revelación divina de los dioses olímpicos transmitida en el oráculo de Delfos.",
+      "El movimiento de los astros como voluntad de Zeus sobre los asuntos humanos.",
+      "La combinación de los cuatro elementos: tierra, agua, fuego y aire en partes iguales."
+    ],
+    "respuesta_correcta": "Un principio natural único y racional (el agua como arjé), abandonando la explicación mítica.",
+    "explicacion_detallada": "Tales propuso que el arjé (principio primordial) de todo era el agua. Lo revolucionario no fue la respuesta, sino el método: buscó una causa natural y observacional, no mítica. Esto marca el tránsito del mythos al logos, inicio de la filosofía.",
+    "pasos_resolucion": ["Identificar qué hace a Tales 'filósofo': el uso del logos (razón) en vez del mito.", "Recordar su propuesta concreta: el agua como principio de todo.", "Descartar las opciones que remiten a explicaciones religiosas o míticas."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=tales+de+mileto+arje+inicio+filosofia"
+  },
+  {
+    "id": "cs_411_002",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "Pitágoras de Samos (c. 570-495 a.C.) y su escuela establecieron que la estructura profunda de la realidad es de naturaleza:",
+    "opciones": [
+      "Matemática: los números son el principio constitutivo de todas las cosas.",
+      "Material: todo se reduce a combinaciones de fuego y agua.",
+      "Pneumática: un espíritu universal anima y organiza la materia.",
+      "Política: la armonía del cosmos refleja la estructura ideal del Estado."
+    ],
+    "respuesta_correcta": "Matemática: los números son el principio constitutivo de todas las cosas.",
+    "explicacion_detallada": "Los pitagóricos descubrieron que las consonancias musicales se expresan en razones numéricas simples (1:2 octava, 2:3 quinta, 3:4 cuarta). Esto los llevó a proclamar que los números —no la materia— son el principio de la realidad, fundando el pensamiento matemático-filosófico.",
+    "pasos_resolucion": ["Recordar el aporte pitagórico: los números como arjé.", "Vincular con su descubrimiento de las proporciones musicales.", "Descartar opciones materialistas o espiritualistas ajenas a su doctrina."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=pitagoras+numeros+armonia+filosofia"
+  },
+  {
+    "id": "cs_411_003",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "Heráclito de Éfeso (c. 535-475 a.C.) resumió su visión del cosmos con la famosa frase 'panta rhei' (todo fluye). El principio rector que, según él, garantiza que este cambio perpetuo no sea caos sino orden es:",
+    "opciones": [
+      "El Logos: una razón o ley universal que gobierna la armonía entre opuestos.",
+      "El Agua: que al cambiar de estado sólido, líquido y gaseoso, genera todo cambio.",
+      "El Nous: una mente divina que mueve todo desde afuera sin cambiar ella misma.",
+      "El Apeiron: lo indefinido e ilimitado del que emergen todas las cosas."
+    ],
+    "respuesta_correcta": "El Logos: una razón o ley universal que gobierna la armonía entre opuestos.",
+    "explicacion_detallada": "Heráclito enseñó que el fuego es el símbolo del cambio constante, pero el Logos es la ley que hace que ese cambio sea armónico. Los opuestos (día/noche, guerra/paz) no se destruyen sino que se necesitan. El Logos es la tensión armónica entre ellos.",
+    "pasos_resolucion": ["Identificar a Heráclito con el cambio y el fuego.", "Recordar que el Logos es su concepto para el orden en el cambio.", "Distinguir: Logos (Heráclito) vs. Nous (Anaxágoras) vs. Apeiron (Anaximandro)."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=heraclito+logos+fuego+panta+rhei+filosofia"
+  },
+  {
+    "id": "cs_411_004",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "La escuela de Elea, fundada por Parménides (c. 515-460 a.C.), planteó que el movimiento y el cambio son ilusiones porque el Ser es uno, inmóvil e inmutable. El argumento filosófico central que sustenta esta tesis es:",
+    "opciones": [
+      "El no-ser no puede ser, por tanto el cambio (pasar del no-ser al ser) es lógicamente imposible.",
+      "El fuego consume todo y lo que queda es la esencia invariable de las cosas.",
+      "Los sentidos nos engañan constantemente, por tanto sólo lo revelado es verdadero.",
+      "El número es la realidad y los números no cambian, luego la realidad tampoco cambia."
+    ],
+    "respuesta_correcta": "El no-ser no puede ser, por tanto el cambio (pasar del no-ser al ser) es lógicamente imposible.",
+    "explicacion_detallada": "Parménides argumentó: 'El ser es, el no-ser no es.' Si algo cambia, antes 'no era' algo y luego 'es' ese algo. Pero el no-ser no puede existir ni pensarse. Ergo el cambio es una contradicción lógica. Solo el Ser eterno, pleno y esférico existe.",
+    "pasos_resolucion": ["Recordar la tesis eleática: Ser es, no-Ser no es.", "Aplicar: cambio = algo pasa de no-ser a ser, lo cual es imposible.", "Esta es la base del monismo eleático, opuesto al pluralismo y al devenir de Heráclito."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=parmenides+ser+no+ser+filosofia+presocratica"
+  },
+  {
+    "id": "cs_411_005",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "En la historia de la filosofía griega, Zenón de Elea (c. 490-430 a.C.) es famoso por sus paradojas (ej. 'Aquiles y la tortuga', 'La flecha'). El propósito filosófico de estas paradojas era:",
+    "opciones": [
+      "Demostrar por reducción al absurdo que el movimiento y la multiplicidad son lógicamente contradictorios, apoyando a Parménides.",
+      "Refutar la geometría de Euclides mostrando que las líneas son divisibles hasta el infinito.",
+      "Proponer un método matemático para calcular límites de series infinitas convergentes.",
+      "Demostrar que la percepción sensorial de la velocidad es siempre relativa al observador."
+    ],
+    "respuesta_correcta": "Demostrar por reducción al absurdo que el movimiento y la multiplicidad son lógicamente contradictorios, apoyando a Parménides.",
+    "explicacion_detallada": "Zenón no buscaba resolver acertijos matemáticos. Su método es la reductio ad absurdum: asume que el movimiento existe y deriva consecuencias absurdas (para llegar de A a B, hay infinitos puntos intermedios). Así defiende la tesis eleática de que el movimiento es ilusión.",
+    "pasos_resolucion": ["Identificar el objetivo filosófico: defender a Parménides.", "Recordar que las paradojas son argumentos, no acertijos matemáticos.", "La solución matemática moderna (límites) no era el objetivo de Zenón."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=zenon+elea+paradojas+aquiles+tortuga+explicacion"
+  },
+  {
+    "id": "cs_411_006",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "Anaxágoras (c. 500-428 a.C.) introdujo el concepto de Nous (Mente o Inteligencia) como principio cosmológico. ¿En qué se diferencia fundamentalmente su Nous del Logos de Heráclito?",
+    "opciones": [
+      "El Nous es una mente pura, separada e independiente de la materia, que la puso en movimiento inicial; el Logos es inmanente al cosmos mismo.",
+      "El Nous es una divinidad personal que cuida a los seres humanos; el Logos es solo una ley matemática impersonal.",
+      "El Nous existe dentro de la materia y la convierte; el Logos existe fuera del cosmos como creador.",
+      "Ambos son esencialmente lo mismo: principios racionales que organizan la realidad natural."
+    ],
+    "respuesta_correcta": "El Nous es una mente pura, separada e independiente de la materia, que la puso en movimiento inicial; el Logos es inmanente al cosmos mismo.",
+    "explicacion_detallada": "Anaxágoras concibió el Nous como absolutamente simple y puro, sin mezcla con la materia. Le dio el impulso inicial al vórtice cósmico pero no se involucra más (deísmo). El Logos heraclíteo, en cambio, es inmanente: es la ley que opera dentro del cambio continuo.",
+    "pasos_resolucion": ["Caracterizar el Nous: separado, puro, exterior.", "Caracterizar el Logos: inmanente, interior al cambio.", "Evitar confundir Nous con una divinidad religiosa personal."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=anaxagoras+nous+mente+filosofia+presocratica"
+  },
+  {
+    "id": "cs_411_007",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "Demócrito (c. 460-370 a.C.) y Leucipo propusieron el atomismo: la realidad está compuesta por átomos (indivisibles) y el vacío. ¿Cuál de las siguientes afirmaciones sobre el atomismo griego es correcta?",
+    "opciones": [
+      "Los átomos difieren solo en forma, tamaño y posición, no tienen cualidades como color o calor; esas son percepciones subjetivas.",
+      "Los átomos son cuatro tipos: tierra, agua, fuego y aire, que se combinan en proporciones distintas.",
+      "El vacío no existe porque el ser es pleno y continuo, solo existen átomos moviéndose en agua.",
+      "Los átomos tienen un alma o chispa divina que los organiza según un plan inteligente."
+    ],
+    "respuesta_correcta": "Los átomos difieren solo en forma, tamaño y posición, no tienen cualidades como color o calor; esas son percepciones subjetivas.",
+    "explicacion_detallada": "Para Demócrito, los átomos son partículas materiales puramente cuantitativas (forma, tamaño, posición, movimiento). El calor, color y sabor son cualidades secundarias que existen solo en la percepción. Este es el origen del dualismo cualidades primarias/secundarias que Locke retomará 2000 años después.",
+    "pasos_resolucion": ["Recordar el atomismo: solo átomos y vacío.", "Los átomos son cuantitativos, no cualitativos.", "Distinguir: el atomismo griego no tiene alma ni plan divino (eso es el Nous de Anaxágoras)."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=democrito+atomismo+filosofia+griega+presocratica"
+  },
+  {
+    "id": "cs_411_008",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "El Teorema de Pitágoras establece que en un triángulo rectángulo con catetos a y b, e hipotenusa c, se cumple que a² + b² = c². Si un triángulo rectángulo tiene catetos de 5 cm y 12 cm, ¿cuánto mide la hipotenusa?",
+    "opciones": [
+      "13 cm",
+      "17 cm",
+      "10 cm",
+      "8,5 cm"
+    ],
+    "respuesta_correcta": "13 cm",
+    "explicacion_detallada": "Aplicando el Teorema de Pitágoras: c² = 5² + 12² = 25 + 144 = 169. Por tanto c = √169 = 13 cm. La terna pitagórica (5, 12, 13) es un ejemplo clásico de números enteros que satisfacen el teorema, descubierto por la escuela pitagórica.",
+    "pasos_resolucion": ["Paso 1: Aplicar a²+b²=c²: 5²+12²=25+144=169.", "Paso 2: c=√169=13.", "Dato: (5,12,13) es una terna pitagórica entera conocida por la escuela de Pitágoras."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=teorema+pitagoras+ejercicios+resueltos"
+  },
+  {
+    "id": "cs_411_009",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "Los pitagóricos establecieron que las consonancias musicales fundamentales se expresan en razones numéricas simples. ¿Qué relación numérica corresponde al intervalo de octava en la escala musical?",
+    "opciones": [
+      "1:2 (la longitud de una cuerda es el doble de la otra)",
+      "2:3 (la longitud de una cuerda es 1,5 veces la otra)",
+      "3:4 (la longitud de una cuerda es 4/3 de la otra)",
+      "4:5 (la longitud de una cuerda es 5/4 de la otra)"
+    ],
+    "respuesta_correcta": "1:2 (la longitud de una cuerda es el doble de la otra)",
+    "explicacion_detallada": "Pitágoras descubrió experimentalmente que al dividir una cuerda exactamente a la mitad (razón 1:2), el sonido producido es una octava más aguda. La quinta corresponde a 2:3 y la cuarta a 3:4. Este hallazgo vinculó matemática y música, base de la cosmología pitagórica de 'la armonía de las esferas'.",
+    "pasos_resolucion": ["Recordar: octava = 1:2 (la mitad de la longitud).", "Quinta = 2:3, Cuarta = 3:4.", "Esto motivó a los pitagóricos a ver los números como el principio de toda realidad."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=pitagoras+armonia+musica+numeros+octava"
+  },
+  {
+    "id": "cs_411_010",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "Euclides de Alejandría (c. 300 a.C.) organizó el conocimiento geométrico de su época en los 'Elementos'. ¿Cuál es el método fundamental que estructura esta obra y que sigue siendo el modelo de la demostración matemática rigurosa?",
+    "opciones": [
+      "El método axiomático-deductivo: partiendo de definiciones, postulados y axiomas, deriva todas las proposiciones por deducción lógica.",
+      "El método empírico-inductivo: midiendo muchos triángulos y generalizando las propiedades comunes observadas.",
+      "El método dialéctico: a través de la confrontación de tesis y antítesis sobre las formas geométricas.",
+      "El método algebraico: expresando cada proposición geométrica como una ecuación con incógnitas."
+    ],
+    "respuesta_correcta": "El método axiomático-deductivo: partiendo de definiciones, postulados y axiomas, deriva todas las proposiciones por deducción lógica.",
+    "explicacion_detallada": "Los Elementos de Euclides tienen 5 postulados (ej. por dos puntos pasa una sola línea recta) y deduce de ellos cientos de teoremas. Este método axiomático-deductivo es la base del pensamiento matemático formal hasta hoy. Hilbert lo formalizó en 1899 con sus 'Fundamentos de la Geometría'.",
+    "pasos_resolucion": ["Identificar el método de Euclides: axiomático-deductivo.", "Recordar los elementos: definiciones, postulados, nociones comunes, proposiciones.", "Distinguir de la inducción empírica (método opuesto)."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=euclides+elementos+metodo+axiomatico+geometria"
+  },
+  {
+    "id": "cs_411_011",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "El término 'filosofía' fue acuñado, según la tradición, por Pitágoras. Su etimología griega revela una actitud epistémica fundamental. ¿Qué significa literalmente la palabra 'filosofía' y qué actitud implica?",
+    "opciones": [
+      "Amor a la sabiduría (philos=amor + sophia=sabiduría): implica que el filósofo no posee la sabiduría sino que la busca.",
+      "Conocimiento de la naturaleza (physis=naturaleza + logos=estudio): implica el estudio científico del mundo.",
+      "Amistad con el ser (philos=amigo + ontos=ser): implica la aceptación del mundo tal como es.",
+      "Amor a la virtud (philos=amor + arete=virtud): implica que la filosofía es sinónimo de ética."
+    ],
+    "respuesta_correcta": "Amor a la sabiduría (philos=amor + sophia=sabiduría): implica que el filósofo no posee la sabiduría sino que la busca.",
+    "explicacion_detallada": "Pitágoras habría dicho que solo los dioses son sabios (sophoi); los hombres pueden solo ser amigos o amantes de la sabiduría (philosophoi). Esto instala la humildad epistémica y la búsqueda permanente como actitud filosófica, contraria a la arrogancia del sofista que afirma poseer el saber.",
+    "pasos_resolucion": ["Descomponer: philo (amor, amistad) + sophia (sabiduría).", "La clave es que el filósofo BUSCA, no posee.", "Distinguir del sofista, que cobra por enseñar 'sabiduría'."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=etimologia+filosofia+amor+sabiduria+pitagoras"
+  },
+  {
+    "id": "cs_411_012",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "Anaximandro de Mileto (c. 610-546 a.C.), discípulo de Tales, propuso como arjé el 'Apeiron'. A diferencia del agua de Tales, el Apeiron es:",
+    "opciones": [
+      "Algo indefinido e ilimitado que no tiene cualidades determinadas y de donde surgen todos los opuestos.",
+      "El aire que al condensarse forma el agua y al rarificarse forma el fuego.",
+      "El fuego eterno que es la sustancia de todos los astros del cosmos.",
+      "El vacío infinito en el que se mueven los átomos materiales."
+    ],
+    "respuesta_correcta": "Algo indefinido e ilimitado que no tiene cualidades determinadas y de donde surgen todos los opuestos.",
+    "explicacion_detallada": "Anaximandro razonó: si el arjé fuera el agua (o cualquier elemento determinado), esa cualidad 'ganaría' siempre sobre su opuesto. Para que exista equilibrio entre opuestos (calor/frío, seco/húmedo), el principio debe ser neutro, indeterminado: el Apeiron (a=sin, peiras=límite).",
+    "pasos_resolucion": ["Recordar la lógica: si el arjé tiene cualidad, domina sobre su opuesto.", "El Apeiron es neutro e ilimitado para generar todos los opuestos por igual.", "Distinguir Apeiron (Anaximandro) del Aire (Anaxímenes)."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=anaximandro+apeiron+presocraticos+explicacion"
+  },
+  {
+    "id": "cs_411_013",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "Empédocles de Agrigento (c. 490-430 a.C.) propuso que la realidad está compuesta de cuatro raíces o elementos (tierra, agua, fuego, aire) y dos fuerzas que los gobiernan. ¿Cuáles son esas dos fuerzas?",
+    "opciones": [
+      "Amor (Philia) y Odio/Discordia (Neikos): fuerzas de unión y separación.",
+      "Logos y Apeiron: razón universal y principio ilimitado.",
+      "Nous y Pneuma: mente divina y aliento vital.",
+      "Movimiento y Reposo: impulso cinético e inercia del ser."
+    ],
+    "respuesta_correcta": "Amor (Philia) y Odio/Discordia (Neikos): fuerzas de unión y separación.",
+    "explicacion_detallada": "Empédocles explicó el cambio sin recurrir al no-ser (para no chocar con Parménides): los cuatro elementos son eternos e inmutables. Lo que cambia es su combinación, gobernada por el Amor (que los mezcla y crea) y la Discordia (que los separa). El cosmos oscila cíclicamente entre la mezcla total (Sphairos) y la separación total.",
+    "pasos_resolucion": ["Recordar: cuatro elementos + dos fuerzas.", "Amor = mezcla/unión; Discordia = separación.", "Esto resuelve el cambio sin violar la tesis de Parménides (los elementos en sí no cambian)."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=empedocles+cuatro+elementos+amor+discordia+filosofia"
+  },
+  {
+    "id": "cs_411_014",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "La 'Armonía de las Esferas' era una teoría de la escuela pitagórica que afirmaba que los planetas y el Sol, al moverse por el cosmos, producen sonidos. La razón por la que los humanos no escuchan esta música cósmica es, según esta teoría:",
+    "opciones": [
+      "Porque escuchamos ese sonido desde el nacimiento y nos hemos acostumbrado a él, igual que no notamos el ruido constante de nuestra respiración.",
+      "Porque nuestros oídos solo perciben frecuencias entre 20 Hz y 20.000 Hz y la música de las esferas está en frecuencias ultrasonicas.",
+      "Porque la música existe solo como abstracción matemática, no produce ondas físicas reales.",
+      "Porque los planetas están demasiado lejos y el sonido no puede viajar a través del vacío del espacio."
+    ],
+    "respuesta_correcta": "Porque escuchamos ese sonido desde el nacimiento y nos hemos acostumbrado a él, igual que no notamos el ruido constante de nuestra respiración.",
+    "explicacion_detallada": "Esta es la explicación que Aristóteles recoge y critica en 'De Caelo': los pitagóricos decían que como vivimos con ese sonido desde antes de nacer, ya no lo percibimos. Aristóteles lo rechazó porque el sonido requiere percusión y el movimiento estelar es demasiado armonioso para producirlo.",
+    "pasos_resolucion": ["Recordar la teoría pitagórica: planetas = sonidos proporcionales a sus velocidades.", "La explicación de por qué no la escuchamos: acostumbramiento desde el nacimiento.", "Este es el argumento registrado por Aristóteles en 'De Caelo', Libro II."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=armonia+esferas+pitagoras+musica+cosmos"
+  },
+  {
+    "id": "cs_411_015",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "Anaxímenes de Mileto (c. 585-525 a.C.) propuso el aire como arjé, pero añadió un mecanismo de cambio que los filósofos anteriores no habían especificado. Ese mecanismo es:",
+    "opciones": [
+      "La condensación y la rarefacción: el aire al condensarse forma agua, tierra y piedra; al rarificarse forma fuego.",
+      "La mezcla y la separación impulsada por el Amor y la Discordia.",
+      "El movimiento de vórtice inicial dado por el Nous que separa los contrarios.",
+      "La división sucesiva del Apeiron en partes cada vez más pequeñas hasta los elementos."
+    ],
+    "respuesta_correcta": "La condensación y la rarefacción: el aire al condensarse forma agua, tierra y piedra; al rarificarse forma fuego.",
+    "explicacion_detallada": "Anaxímenes es el primero en proponer un mecanismo físico claro de transformación: la densidad. Aire condensado → nube → agua → tierra → piedra. Aire rarificado → fuego. Esto lo hace más científico que Tales (solo postula el agua) y conecta con la termodinámica moderna.",
+    "pasos_resolucion": ["Identificar el arjé de Anaxímenes: el aire.", "El mecanismo: condensación (más denso) y rarefacción (más raro).", "Distinguir de Empédocles (Amor/Discordia) y Anaxágoras (Nous)."],
+    "video_epicativo_url": "https://www.youtube.com/results?search_query=anaxímenes+aire+condensacion+rarefaccion+filosofia"
+  },
+  {
+    "id": "cs_411_016",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "En la Antigua Grecia, el tránsito del mythos al logos se produjo aproximadamente en el siglo VII-VI a.C. en Mileto (actual Turquía). ¿Cuál de los siguientes factores sociales y culturales favoreció específicamente que el logos filosófico surgiera en las colonias jonias y no en la metrópolis ateniense?",
+    "opciones": [
+      "El contacto comercial y cultural con Egipto, Babilonia y Persia expuso a los jonios a conocimientos matemáticos y astronómicos previos que estimularon la reflexión racional.",
+      "La existencia de una aristocracia guerrera (los espartiatas) que valoraba el pensamiento racional sobre la religión.",
+      "La prohibición legal en las colonias jonias de representar a los dioses olímpicos en escultura y pintura.",
+      "La ausencia total de tradición oral y mítica en las colonias jonias, que obligó a los colonos a explicar la naturaleza sin recurrir a los dioses."
+    ],
+    "respuesta_correcta": "El contacto comercial y cultural con Egipto, Babilonia y Persia expuso a los jonios a conocimientos matemáticos y astronómicos previos que estimularon la reflexión racional.",
+    "explicacion_detallada": "Mileto era un centro comercial de primer orden en el Mar Egeo. Sus navegantes y mercaderes conocieron de primera mano la geometría práctica egipcia (para medir tierras) y la astronomía babilónica (para navegar). Este contacto con saberes extranjeros acumulados estimuló la búsqueda de explicaciones racionales propias.",
+    "pasos_resolucion": ["Ubicar Mileto como puerto comercial mediterráneo.", "Recordar que Egipto tenía geometría práctica y Babilonia astronomía avanzada.", "Descartar opciones que atribuyen el logos a factores normativos o a la ausencia de mitos."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=mito+logos+origen+filosofia+grecia+mileto"
+  },
+  {
+    "id": "cs_411_017",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "El filósofo pitagórico Filolao de Crotona (c. 470-385 a.C.) fue el primero en afirmar que la Tierra no es el centro del universo, sino que gira alrededor de un 'Fuego Central'. ¿Qué importancia histórica tiene esta tesis en la historia de la ciencia?",
+    "opciones": [
+      "Representa el primer modelo heliocéntrico en la historia, anticipando en dos milenios la propuesta de Copérnico de 1543.",
+      "Demostró experimentalmente mediante eclipses que la Tierra tiene forma esférica.",
+      "Fue el primer matemático en calcular la velocidad de revolución de los planetas alrededor del Sol.",
+      "Estableció que el cosmos tiene forma de dodecaedro, una de las cinco figuras geométricas perfectas."
+    ],
+    "respuesta_correcta": "Representa el primer modelo heliocéntrico en la historia, anticipando en dos milenios la propuesta de Copérnico de 1543.",
+    "explicacion_detallada": "Aunque no es exactamente heliocéntrico (el centro es un Fuego Central, no el Sol), el modelo de Filolao rompe el geocentrismo y coloca a la Tierra en movimiento, lo que lo convierte en un precursor conceptual de Aristarco y Copérnico. Muestra cómo el pensamiento pitagórico, al vincular matemática con cosmología, hizo posible pensar lo no evidente para los sentidos.",
+    "pasos_resolucion": ["Identificar la ruptura: la Tierra ya no es el centro.", "Reconocer la anticipación conceptual del heliocentrismo.", "Aclarar que el centro no es el Sol sino un 'Fuego Central' hipotético."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=filolao+pitagorico+tierra+fuego+central+geocentrismo"
+  },
+  {
+    "id": "cs_411_018",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "El concepto griego de 'armonía' (harmonia) en la cultura pitagórica tenía un significado que iba mucho más allá del simple 'acuerdo agradable de sonidos'. ¿Cuál era su significado filosófico-matemático profundo?",
+    "opciones": [
+      "La proporción exacta entre elementos opuestos o dispares que produce un todo unificado y bello, expresable mediante una razón numérica.",
+      "La imitación perfecta de los movimientos de los astros en la danza ritual de los sacerdotes del templo.",
+      "La eliminación de todos los sonidos disonantes mediante la selección natural de las frecuencias más puras.",
+      "El silencio absoluto que precede al logos y en el cual se comprende la esencia del ser."
+    ],
+    "respuesta_correcta": "La proporción exacta entre elementos opuestos o dispares que produce un todo unificado y bello, expresable mediante una razón numérica.",
+    "explicacion_detallada": "Para los pitagóricos, harmonia significa literalmente 'ajuste' o 'ensamblaje'. Deriva de harmos (ensamble de piezas). La armonía musical (razones 1:2, 2:3, 3:4) es solo el caso más obvio de un principio universal: la realidad bella y ordenada es la que armoniza opuestos (alto/bajo, rápido/lento) mediante proporciones numéricas.",
+    "pasos_resolucion": ["Recuperar la etimología: harmonia = ensamblaje, ajuste.", "La armonía es una razón numérica entre opuestos.", "Aplicación: cósmica (planetas), musical (cuerdas), humana (salud = equilibrio)."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=armonia+pitagorica+proporcion+numerica+filosofia"
+  },
+  {
+    "id": "cs_411_019",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "¿Cuál de los siguientes presocráticos planteó que el ser es uno, esférico, finito, homogéneo e inmóvil, siendo esta postura la más radicalmente contraria al pensamiento de Heráclito?",
+    "opciones": [
+      "Parménides de Elea.",
+      "Anaximandro de Mileto.",
+      "Empédocles de Agrigento.",
+      "Demócrito de Abdera."
+    ],
+    "respuesta_correcta": "Parménides de Elea.",
+    "explicacion_detallada": "Heráclito: 'todo fluye', el cambio es la única realidad. Parménides: el ser es uno, eterno, inmóvil e indivisible. El cambio y el movimiento son ilusiones de los sentidos. Son los dos polos opuestos del pensamiento presocrático, y su tensión llevó a las síntesis pluralistas de Empédocles, Anaxágoras y Demócrito.",
+    "pasos_resolucion": ["Recordar los polos: Heráclito (cambio) vs. Parménides (ser inmóvil).", "Empédocles es pluralista pero acepta el cambio vía mezcla.", "Demócrito tiene movimiento de átomos en el vacío."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=parmenides+vs+heraclito+ser+cambio+presocraticos"
+  },
+  {
+    "id": "cs_411_020",
+    "materia": "Ciencias Sociales",
+    "codigoTema": "4.11.1",
+    "tituloSubtema": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música).",
+    "enunciado": "La escuela pitagórica tenía una dimensión religiosa y ética además de matemática. El pitagorismo enseñaba la metempsicosis. ¿En qué consiste este concepto y cómo se relaciona con el papel de la filosofía en el pensamiento pitagórico?",
+    "opciones": [
+      "La metempsicosis es la reencarnación del alma en sucesivos cuerpos; la filosofía y la purificación matemática liberan el alma del ciclo de reencarnaciones.",
+      "La metempsicosis es la transmisión del conocimiento matemático de maestro a discípulo a través de generaciones.",
+      "La metempsicosis es la transformación de un elemento en otro (agua en vapor, vapor en fuego) descrita por Heráclito.",
+      "La metempsicosis es el movimiento cíclico de los planetas alrededor del fuego central descrito por Filolao."
+    ],
+    "respuesta_correcta": "La metempsicosis es la reencarnación del alma en sucesivos cuerpos; la filosofía y la purificación matemática liberan el alma del ciclo de reencarnaciones.",
+    "explicacion_detallada": "Los pitagóricos creían en la metempsicosis (transmigración de almas), influidos por el orfismo. El alma pura (libre de pasiones corporales) puede escapar el ciclo de reencarnaciones (samsara, en términos orientales). La contemplación matemática era la forma más alta de purificación del alma, uniendo matemática, música y filosofía espiritual.",
+    "pasos_resolucion": ["Definir metempsicosis: transmigración/reencarnación del alma.", "Vincular con la práctica filosófico-matemática como purificación.", "Relacionar con el orfismo (movimiento religioso griego contemporáneo)."],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=pitagoras+metempsicosis+alma+reencarnacion+filosofia"
+  }
+]

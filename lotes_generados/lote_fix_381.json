@@ -1,0 +1,313 @@
+[
+  {
+    "id": "cn_381_ex_008",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.8.1",
+    "enunciado": "Un bloque de aluminio de 0,5 kg a 100 °C se sumerge en 1 kg de agua a 20 °C. Si el calor específico del aluminio es 900 J/(kg·°C) y el del agua es 4180 J/(kg·°C), ¿cuál es la temperatura de equilibrio aproximada del sistema? (Desprecie las pérdidas de calor al entorno).",
+    "opciones": [
+      "27,8 °C",
+      "32,1 °C",
+      "45,0 °C",
+      "60,0 °C"
+    ],
+    "respuesta_correcta": "27,8 °C",
+    "explicacion_detallada": "Por conservación de la energía, el calor cedido por el aluminio es igual al calor absorbido por el agua: -Q_aluminio = Q_agua. Entonces: -m_Al * c_Al * (T_f - T_i,Al) = m_H2O * c_H2O * (T_f - T_i,H2O). Despejando T_f obtenemos la temperatura de equilibrio.",
+    "pasos_resolucion": [
+      "Plantea la ecuación: -0,5 * 900 * (T_f - 100) = 1 * 4180 * (T_f - 20).",
+      "-450 * T_f + 45000 = 4180 * T_f - 83600.",
+      "4630 * T_f = 128600.",
+      "T_f = 128600 / 4630 ≈ 27,77 °C."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_ex_009",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.8.1",
+    "enunciado": "¿Cuál de los siguientes fenómenos es el mejor ejemplo de transferencia de calor por convección?",
+    "opciones": [
+      "El calentamiento de la atmósfera terrestre por el Sol.",
+      "Las corrientes oceánicas cálidas y frías que distribuyen la temperatura en la Tierra.",
+      "Sentir el calor de una fogata al acercar las manos sin tocar el fuego.",
+      "Una cuchara de metal que se calienta al dejarla en una taza de café caliente."
+    ],
+    "respuesta_correcta": "Las corrientes oceánicas cálidas y frías que distribuyen la temperatura en la Tierra.",
+    "explicacion_detallada": "La convección es la transferencia de calor mediante el movimiento de fluidos (líquidos o gases). Las corrientes oceánicas son un ejemplo clásico de convección natural, donde el agua más cálida y menos densa asciende, y el agua más fría y densa desciende.",
+    "pasos_resolucion": [
+      "Analiza la opción A y C: son ejemplos de radiación electromagnética.",
+      "Analiza la opción D: es un ejemplo de conducción térmica a través de un sólido.",
+      "Analiza la opción B: implica el movimiento de masas de un fluido (agua), lo cual define la convección."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_ex_010",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.8.1",
+    "enunciado": "Si un gas ideal encerrado en un cilindro absorbe 500 J de calor del entorno y, al mismo tiempo, el gas se expande realizando un trabajo de 200 J sobre un pistón, ¿cuál es la variación de su energía interna según la primera ley de la termodinámica?",
+    "opciones": [
+      "700 J",
+      "300 J",
+      "-300 J",
+      "-700 J"
+    ],
+    "respuesta_correcta": "300 J",
+    "explicacion_detallada": "La primera ley de la termodinámica establece que la variación de la energía interna (ΔU) de un sistema es igual al calor añadido al sistema (Q) menos el trabajo realizado por el sistema (W).",
+    "pasos_resolucion": [
+      "Identifica la fórmula de la primera ley: ΔU = Q - W.",
+      "Identifica el calor absorbido: Q = +500 J.",
+      "Identifica el trabajo realizado por el gas: W = +200 J.",
+      "Calcula: ΔU = 500 J - 200 J = 300 J."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_ex_011",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.8.1",
+    "enunciado": "Un motor de Carnot funciona entre dos fuentes de calor, una caliente a 600 K y una fría a 300 K. ¿Cuál es la eficiencia térmica máxima teórica de este motor?",
+    "opciones": [
+      "30%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "respuesta_correcta": "50%",
+    "explicacion_detallada": "La eficiencia de una máquina térmica de Carnot (eficiencia máxima teórica) depende únicamente de las temperaturas absolutas de sus depósitos caliente (T_h) y frío (T_c), dada por la fórmula η = 1 - (T_c / T_h).",
+    "pasos_resolucion": [
+      "Identifica T_h = 600 K y T_c = 300 K.",
+      "Aplica la fórmula de eficiencia de Carnot: η = 1 - (300 / 600).",
+      "Calcula: η = 1 - 0.5 = 0.5.",
+      "Convierte a porcentaje: 0.5 * 100 = 50%."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_ex_012",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.8.1",
+    "enunciado": "Un gas ideal ocupa un volumen de 4 litros a una presión de 1 atm. Si se comprime isotérmicamente (a temperatura constante) hasta que su volumen es de 2 litros, ¿cuál será la nueva presión del gas?",
+    "opciones": [
+      "0,5 atm",
+      "1 atm",
+      "2 atm",
+      "4 atm"
+    ],
+    "respuesta_correcta": "2 atm",
+    "explicacion_detallada": "Según la Ley de Boyle, a temperatura constante, el volumen de una masa fija de gas es inversamente proporcional a la presión que se le aplica. Matemáticamente: P1 * V1 = P2 * V2.",
+    "pasos_resolucion": [
+      "Identifica los valores iniciales: P1 = 1 atm, V1 = 4 L.",
+      "Identifica los valores finales: V2 = 2 L.",
+      "Aplica la Ley de Boyle: 1 atm * 4 L = P2 * 2 L.",
+      "Despeja P2: P2 = 4 atm·L / 2 L = 2 atm."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_ex_013",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.8.1",
+    "enunciado": "Se requiere convertir 100 gramos de hielo a 0 °C en agua líquida a 0 °C. Si el calor latente de fusión del agua es de 334 J/g, ¿cuánto calor se debe suministrar?",
+    "opciones": [
+      "3 340 J",
+      "33 400 J",
+      "334 000 J",
+      "0 J, porque la temperatura no cambia."
+    ],
+    "respuesta_correcta": "33 400 J",
+    "explicacion_detallada": "Durante un cambio de fase, la temperatura permanece constante, pero se requiere añadir o quitar energía. El calor requerido para cambiar de fase está dado por la fórmula Q = m * L, donde m es la masa y L es el calor latente.",
+    "pasos_resolucion": [
+      "Identifica la masa m = 100 g y el calor latente de fusión L_f = 334 J/g.",
+      "Aplica la ecuación del calor para el cambio de fase: Q = m * L_f.",
+      "Sustituye los valores: Q = 100 g * 334 J/g.",
+      "Calcula: Q = 33 400 J."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_ex_014",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.8.1",
+    "enunciado": "Un gas ideal está confinado en un recipiente de volumen fijo. Si su temperatura absoluta se duplica, ¿qué ocurre con su presión?",
+    "opciones": [
+      "Se reduce a la mitad.",
+      "Permanece constante.",
+      "Se cuadruplica.",
+      "Se duplica."
+    ],
+    "respuesta_correcta": "Se duplica.",
+    "explicacion_detallada": "De acuerdo con la Ley de Gay-Lussac, a volumen constante, la presión de una masa fija de gas ideal es directamente proporcional a su temperatura absoluta (en Kelvin).",
+    "pasos_resolucion": [
+      "Escribe la Ley de Gay-Lussac: P1 / T1 = P2 / T2.",
+      "La condición es que T2 = 2 * T1.",
+      "Sustituye: P1 / T1 = P2 / (2 * T1).",
+      "Despeja P2: P2 = P1 * 2, por lo tanto, la presión se duplica."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_ex_015",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.8.1",
+    "enunciado": "¿Qué enuncia la Segunda Ley de la Termodinámica en términos de la entropía de un sistema aislado?",
+    "opciones": [
+      "La entropía de un sistema aislado siempre disminuye con el tiempo.",
+      "La entropía de un sistema aislado permanece constante solo en procesos irreversibles.",
+      "La entropía de un sistema aislado nunca disminuye; permanece constante en procesos reversibles o aumenta en procesos irreversibles.",
+      "La entropía es equivalente a la energía interna, por lo que se conserva en todo proceso."
+    ],
+    "respuesta_correcta": "La entropía de un sistema aislado nunca disminuye; permanece constante en procesos reversibles o aumenta en procesos irreversibles.",
+    "explicacion_detallada": "La Segunda Ley de la Termodinámica establece la dirección del tiempo y de los procesos naturales, indicando que el desorden o la entropía (S) del universo o de un sistema aislado tiende a incrementarse con el tiempo.",
+    "pasos_resolucion": [
+      "Recordar la definición de entropía en la Segunda Ley.",
+      "Analizar las opciones: la energía interna (Primera Ley) se conserva, pero la entropía (Segunda Ley) aumenta espontáneamente.",
+      "La opción correcta señala que ΔS ≥ 0 para un sistema aislado."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_ex_016",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.8.1",
+    "enunciado": "Si 2 moles de un gas ideal se encuentran a una temperatura de 300 K y una presión de 1 atm, ¿qué volumen ocupan aproximadamente? (Dato: R = 0.082 atm·L/(mol·K))",
+    "opciones": [
+      "24,6 L",
+      "49,2 L",
+      "12,3 L",
+      "100 L"
+    ],
+    "respuesta_correcta": "49,2 L",
+    "explicacion_detallada": "La ecuación de estado de los gases ideales es PV = nRT, la cual relaciona la presión, volumen, número de moles y temperatura absoluta de un gas.",
+    "pasos_resolucion": [
+      "Escribe la ecuación: P * V = n * R * T.",
+      "Despeja el volumen: V = (n * R * T) / P.",
+      "Sustituye valores: V = (2 mol * 0.082 atm·L/(mol·K) * 300 K) / 1 atm.",
+      "Calcula: V = (2 * 24.6) / 1 = 49.2 L."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_ex_017",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.8.1",
+    "enunciado": "Un proceso termodinámico se realiza de manera que el sistema no intercambia calor con su entorno (Q = 0). Este tipo de proceso se denomina:",
+    "opciones": [
+      "Isotérmico",
+      "Isobárico",
+      "Isocórico",
+      "Adiabático"
+    ],
+    "respuesta_correcta": "Adiabático",
+    "explicacion_detallada": "Un proceso adiabático es aquel en el que no hay transferencia neta de calor entre el sistema y su entorno (Q = 0). Según la primera ley (ΔU = Q - W), en un proceso adiabático el trabajo realizado por o sobre el sistema afecta directamente su energía interna (ΔU = -W).",
+    "pasos_resolucion": [
+      "Recordar las definiciones: Isotérmico (temperatura constante).",
+      "Isobárico (presión constante).",
+      "Isocórico (volumen constante).",
+      "Adiabático (sin intercambio de calor, Q=0)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_ex_018",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.8.1",
+    "enunciado": "Un globo flexible contiene 3 litros de aire a 300 K. Si se calienta a presión constante hasta que la temperatura alcance los 400 K, ¿cuál será el nuevo volumen del globo?",
+    "opciones": [
+      "2,25 litros",
+      "3,5 litros",
+      "4,0 litros",
+      "6,0 litros"
+    ],
+    "respuesta_correcta": "4,0 litros",
+    "explicacion_detallada": "La Ley de Charles establece que, a presión constante, el volumen de un gas ideal es directamente proporcional a su temperatura absoluta.",
+    "pasos_resolucion": [
+      "Aplica la Ley de Charles: V1 / T1 = V2 / T2.",
+      "Valores: V1 = 3 L, T1 = 300 K, T2 = 400 K.",
+      "Despeja V2: V2 = V1 * (T2 / T1).",
+      "Calcula: V2 = 3 * (400 / 300) = 3 * (4/3) = 4 L."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_ex_019",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.8.1",
+    "enunciado": "El calor fluye espontáneamente desde un cuerpo caliente hacia un cuerpo frío, pero nunca de manera espontánea en sentido inverso. Este es un enunciado clásico de:",
+    "opciones": [
+      "La Ley Cero de la termodinámica.",
+      "La Primera Ley de la termodinámica.",
+      "La Segunda Ley de la termodinámica.",
+      "La Ley de la Conservación de la Masa."
+    ],
+    "respuesta_correcta": "La Segunda Ley de la termodinámica.",
+    "explicacion_detallada": "El enunciado de Clausius para la Segunda Ley de la Termodinámica establece la irreversibilidad natural del flujo de calor, confirmando que la transferencia de calor de un cuerpo frío a uno caliente requiere aporte de trabajo (ej. en un refrigerador).",
+    "pasos_resolucion": [
+      "Revisar el enunciado.",
+      "Asociar el flujo unidireccional del calor (de caliente a frío) con la creación de entropía.",
+      "Identificarlo como un corolario de la Segunda Ley de la termodinámica."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_ex_020",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.8.1",
+    "enunciado": "En un termo ideal (aislado perfectamente del ambiente), se mezclan 200 g de agua a 80 °C con 200 g de agua a 20 °C. ¿Qué temperatura de equilibrio alcanzará la mezcla?",
+    "opciones": [
+      "40 °C",
+      "50 °C",
+      "60 °C",
+      "100 °C"
+    ],
+    "respuesta_correcta": "50 °C",
+    "explicacion_detallada": "Dado que las dos sustancias involucradas son idénticas (agua) y poseen la misma masa, el cambio de temperatura que sufrirá cada una para alcanzar el equilibrio será el mismo. La temperatura de equilibrio será el promedio exacto de las temperaturas iniciales.",
+    "pasos_resolucion": [
+      "Ecuación: m * c * (T_f - 20) = m * c * (80 - T_f).",
+      "Como m y c son iguales a ambos lados, se cancelan: T_f - 20 = 80 - T_f.",
+      "2 * T_f = 100.",
+      "T_f = 50 °C."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_ex_021",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.8.1",
+    "enunciado": "¿Qué mecanismo principal permite que la energía térmica del sol viaje a través del vacío del espacio y caliente la Tierra?",
+    "opciones": [
+      "Conducción",
+      "Convección",
+      "Radiación",
+      "Sublimación"
+    ],
+    "respuesta_correcta": "Radiación",
+    "explicacion_detallada": "La radiación térmica es la transferencia de calor en forma de ondas electromagnéticas. Es el único mecanismo de transferencia de calor que no requiere de un medio material para propagarse, permitiendo que la energía solar viaje por el vacío del espacio.",
+    "pasos_resolucion": [
+      "Evaluar conducción: requiere contacto directo a nivel molecular (no sirve en el vacío).",
+      "Evaluar convección: requiere un medio fluido (no sirve en el vacío).",
+      "Evaluar radiación: viaja como ondas electromagnéticas, puede propagarse en el vacío."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_ex_022",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.8.1",
+    "enunciado": "Durante un proceso isocórico (a volumen constante), se transfieren 400 J de calor a un gas ideal. ¿Cuánto trabajo realiza el gas y cuál es el cambio en su energía interna?",
+    "opciones": [
+      "Trabajo = 400 J; Cambio en energía interna = 0 J",
+      "Trabajo = 0 J; Cambio en energía interna = 400 J",
+      "Trabajo = -400 J; Cambio en energía interna = 400 J",
+      "Trabajo = 0 J; Cambio en energía interna = 0 J"
+    ],
+    "respuesta_correcta": "Trabajo = 0 J; Cambio en energía interna = 400 J",
+    "explicacion_detallada": "En un proceso isocórico, el volumen del sistema no cambia (ΔV = 0), por lo que el trabajo mecánico realizado es nulo (W = PΔV = 0). Según la Primera Ley (ΔU = Q - W), todo el calor agregado se invierte en aumentar la energía interna del gas.",
+    "pasos_resolucion": [
+      "Identificar que 'isocórico' significa volumen constante (ΔV = 0).",
+      "Deducir que el trabajo W = 0 J.",
+      "Usar la primera ley: ΔU = Q - W.",
+      "Sustituir: ΔU = 400 J - 0 J = 400 J."
+    ],
+    "video_explicativo_url": ""
+  }
+]

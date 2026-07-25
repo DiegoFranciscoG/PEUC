@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cs_4111_ex_001",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.11.1",
+    "enunciado": "Tales de Mileto, considerado el primer filósofo de la historia occidental, propuso que el principio originario o 'arché' de todas las cosas era:",
+    "opciones": [
+      "El agua.",
+      "El fuego.",
+      "El aire.",
+      "Lo indeterminado (ápeiron)."
+    ],
+    "respuesta_correcta": "El agua.",
+    "explicacion_detallada": "Tales de Mileto observó que el agua es esencial para la vida, que se presenta en los tres estados (sólido, líquido, gaseoso) y que la humedad está presente en la semilla de todas las cosas, concluyendo que es el principio originario (arché) del universo.",
+    "pasos_resolucion": [
+      "Identificar al filósofo presocrático mencionado: Tales de Mileto.",
+      "Recordar la doctrina filosófica de Tales respecto al 'arché' (principio de todo).",
+      "Asociar a Tales con el elemento del agua como origen de la naturaleza."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_ex_002",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.11.1",
+    "enunciado": "La célebre frase 'Nadie se baña dos veces en el mismo río', que ilustra la idea de un universo en constante devenir y cambio, es atribuida a:",
+    "opciones": [
+      "Heráclito de Éfeso.",
+      "Parménides de Elea.",
+      "Pitágoras de Samos.",
+      "Sócrates."
+    ],
+    "respuesta_correcta": "Heráclito de Éfeso.",
+    "explicacion_detallada": "Heráclito sostenía que todo fluye y está en constante cambio (el devenir). Utilizó la metáfora del río para explicar que tanto la realidad como el observador cambian de un momento a otro.",
+    "pasos_resolucion": [
+      "Analizar la frase 'Nadie se baña dos veces en el mismo río'.",
+      "Identificar que la frase hace referencia al concepto del devenir y el cambio constante.",
+      "Relacionar este concepto central con Heráclito, en oposición a la inmutabilidad de Parménides."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_ex_003",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.11.1",
+    "enunciado": "A diferencia de los filósofos que defendían el movimiento, este pensador presocrático afirmó que 'el Ser es y el no-Ser no es', estableciendo que la verdadera realidad es única, eterna e inmutable. ¿A quién pertenece este pensamiento?",
+    "opciones": [
+      "Parménides de Elea.",
+      "Demócrito.",
+      "Anaximandro.",
+      "Aristóteles."
+    ],
+    "respuesta_correcta": "Parménides de Elea.",
+    "explicacion_detallada": "Parménides es el fundador de la ontología. En su poema filosófico argumenta que el cambio y el movimiento son ilusiones de los sentidos, y que por la vía de la razón se llega a comprender que el Ser es uno, inmutable y eterno.",
+    "pasos_resolucion": [
+      "Leer la premisa sobre 'el Ser es y el no-Ser no es'.",
+      "Reconocer la idea de la inmutabilidad y la negación del cambio.",
+      "Identificar a Parménides de Elea como el principal exponente de esta escuela (eleática)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_ex_004",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.11.1",
+    "enunciado": "En la filosofía pitagórica, el principio fundamental que rige el orden del universo (cosmos), la música y la existencia misma, se fundamenta en:",
+    "opciones": [
+      "Los números y las proporciones matemáticas.",
+      "Los cuatro elementos de la naturaleza.",
+      "La lucha de opuestos.",
+      "El mundo de las ideas abstractas."
+    ],
+    "respuesta_correcta": "Los números y las proporciones matemáticas.",
+    "explicacion_detallada": "Los pitagóricos creían que la esencia de todas las cosas eran los números. Descubrieron relaciones matemáticas en los intervalos musicales y postularon que el universo entero está ordenado según proporciones numéricas.",
+    "pasos_resolucion": [
+      "Identificar a la escuela pitagórica en el contexto presocrático.",
+      "Recordar el concepto central de su filosofía (arché).",
+      "Seleccionar la opción que vincula a Pitágoras con los números, la geometría y la armonía musical."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_ex_005",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.11.1",
+    "enunciado": "'El hombre es la medida de todas las cosas, de las que son en cuanto que son, y de las que no son en cuanto que no son'. Esta afirmación, que introduce el relativismo filosófico, fue propuesta por el sofista:",
+    "opciones": [
+      "Protágoras.",
+      "Gorgias.",
+      "Calicles.",
+      "Empédocles."
+    ],
+    "respuesta_correcta": "Protágoras.",
+    "explicacion_detallada": "Esta es la máxima del 'homo mensura' formulada por Protágoras. Expresa un relativismo epistemológico y moral, indicando que no hay verdades objetivas o absolutas, sino que la verdad depende de la percepción de cada individuo.",
+    "pasos_resolucion": [
+      "Leer la cita conocida como el principio del 'homo mensura'.",
+      "Identificar que corresponde al movimiento de los sofistas.",
+      "Atribuir correctamente la frase a Protágoras de Abdera, su autor más representativo."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_ex_006",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.11.1",
+    "enunciado": "El método filosófico de Sócrates, que consistía en hacer preguntas sucesivas para que el interlocutor descubriera la verdad por sí mismo (dando a luz a las ideas), se conoce como:",
+    "opciones": [
+      "Mayéutica.",
+      "Dialéctica hegeliana.",
+      "Silogismo.",
+      "Hilemorfismo."
+    ],
+    "respuesta_correcta": "Mayéutica.",
+    "explicacion_detallada": "Sócrates comparaba su labor filosófica con el oficio de su madre, que era partera. La 'mayéutica' (del griego maieutiké, arte de ayudar a dar a luz) es el método socrático mediante el cual, a través de preguntas, el individuo llega a extraer el conocimiento que ya reside en su interior.",
+    "pasos_resolucion": [
+      "Analizar la descripción del método: hacer preguntas para descubrir la verdad.",
+      "Relacionar la metáfora de 'dar a luz ideas' con el filósofo Sócrates.",
+      "Identificar el término correcto: Mayéutica."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_ex_007",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.11.1",
+    "enunciado": "La postura ética de Sócrates, que sostiene que el conocimiento es condición necesaria y suficiente para obrar bien, y que el mal es producto de la ignorancia, se denomina:",
+    "opciones": [
+      "Intelectualismo moral.",
+      "Utilitarismo ético.",
+      "Escepticismo.",
+      "Relativismo moral."
+    ],
+    "respuesta_correcta": "Intelectualismo moral.",
+    "explicacion_detallada": "El intelectualismo moral socrático postula que nadie actúa mal voluntariamente; quien conoce el bien actuará virtuosamente. Por tanto, la virtud es conocimiento y el vicio es ignorancia.",
+    "pasos_resolucion": [
+      "Comprender la relación planteada por Sócrates entre conocimiento y virtud.",
+      "Reconocer que la reducción de la moral al intelecto se llama 'intelectualismo'.",
+      "Seleccionar 'Intelectualismo moral' frente a otras posturas éticas."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_ex_008",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.11.1",
+    "enunciado": "En la 'Alegoría de la caverna' de Platón, ¿qué representan los prisioneros encadenados que solo ven sombras proyectadas en la pared?",
+    "opciones": [
+      "La humanidad en su estado de ignorancia, creyendo que el mundo sensible es la única realidad.",
+      "Los filósofos que han alcanzado el conocimiento de las Ideas perfectas.",
+      "Los sofistas que engañan deliberadamente al pueblo con discursos falsos.",
+      "El mundo inteligible donde residen los conceptos universales y eternos."
+    ],
+    "respuesta_correcta": "La humanidad en su estado de ignorancia, creyendo que el mundo sensible es la única realidad.",
+    "explicacion_detallada": "En la alegoría, la caverna representa el mundo sensible y las sombras representan las ilusiones o apariencias. Los prisioneros encadenados simbolizan a los seres humanos comunes que toman como verdadera la realidad empírica engañosa, antes de liberarse a través de la educación filosófica.",
+    "pasos_resolucion": [
+      "Recordar los elementos de la Alegoría de la Caverna del libro VII de 'La República'.",
+      "Identificar qué simbolizan las cadenas y las sombras (ignorancia, mundo sensible).",
+      "Relacionar a los prisioneros con la condición inicial del ser humano."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_ex_009",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.11.1",
+    "enunciado": "Según la teoría política expuesta por Platón en 'La República', ¿quiénes deben ser los gobernantes de la polis ideal debido a su sabiduría y conocimiento del Bien?",
+    "opciones": [
+      "Los filósofos.",
+      "Los guerreros.",
+      "Los artesanos.",
+      "Los sacerdotes."
+    ],
+    "respuesta_correcta": "Los filósofos.",
+    "explicacion_detallada": "Platón proponía una aristocracia del conocimiento. Sostenía que solo aquellos que han alcanzado el conocimiento de la Idea de Bien (los filósofos) tienen la capacidad y rectitud moral para gobernar el Estado de manera justa (el 'rey-filósofo').",
+    "pasos_resolucion": [
+      "Recordar la estructura de la ciudad ideal propuesta por Platón.",
+      "Identificar las tres clases sociales: productores, guardianes y gobernantes.",
+      "Asociar el papel de gobernante con la virtud de la sabiduría, propia de los filósofos."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_ex_010",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.11.1",
+    "enunciado": "Aristóteles rechazó la Teoría de las Ideas de Platón y propuso la teoría hilemórfica, la cual postula que toda sustancia individual está compuesta inseparablemente por:",
+    "opciones": [
+      "Materia (hyle) y Forma (morphé).",
+      "Cuerpo físico y Alma inmortal.",
+      "Ser y Devenir.",
+      "Átomos y Vacío."
+    ],
+    "respuesta_correcta": "Materia (hyle) y Forma (morphé).",
+    "explicacion_detallada": "El hilemorfismo de Aristóteles establece que las sustancias en el mundo no son reflejos de un mundo inteligible separado (como decía Platón), sino que están formadas intrínsecamente por materia (aquello de lo que están hechas) y forma (la esencia que las determina a ser lo que son).",
+    "pasos_resolucion": [
+      "Identificar la teoría aristotélica que responde a la dicotomía platónica.",
+      "Descomponer la palabra 'hilemórfica' en sus raíces griegas: hyle (materia) y morphé (forma).",
+      "Seleccionar la opción que combina materia y forma como componentes de la sustancia."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_ex_011",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.11.1",
+    "enunciado": "En su estudio de la naturaleza, Aristóteles determinó que para explicar el cambio o la existencia de algo, se deben conocer sus cuatro causas. ¿Cuál de las siguientes causas explica el propósito, el fin o la meta hacia la cual tiende un ente?",
+    "opciones": [
+      "La causa final.",
+      "La causa material.",
+      "La causa formal.",
+      "La causa eficiente."
+    ],
+    "respuesta_correcta": "La causa final.",
+    "explicacion_detallada": "Aristóteles estableció cuatro causas: material, formal, eficiente y final. La 'causa final' (telos) es el propósito, meta o fin para el cual existe o ocurre algo en la naturaleza, fundamentando su visión teleológica del universo.",
+    "pasos_resolucion": [
+      "Recordar la doctrina de las cuatro causas de Aristóteles.",
+      "Distinguir el significado de cada causa: de qué está hecho, qué es, quién lo hace, para qué se hace.",
+      "Identificar 'el propósito o fin' con la causa final."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_ex_012",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.11.1",
+    "enunciado": "La escuela atomista, representada principalmente por Leucipo y Demócrito, concebía que el origen de la realidad (arché) estaba constituido por:",
+    "opciones": [
+      "Partículas indivisibles, infinitas e invisibles (átomos) que se mueven en el vacío.",
+      "Los cuatro elementos básicos: tierra, agua, aire y fuego.",
+      "Un principio inmaterial e inteligente denominado 'Nous'.",
+      "Semillas (homeomerías) que contenían una porción de todo."
+    ],
+    "respuesta_correcta": "Partículas indivisibles, infinitas e invisibles (átomos) que se mueven en el vacío.",
+    "explicacion_detallada": "Demócrito propuso un modelo mecanicista del universo donde todo lo que existe está formado por átomos (del griego 'indivisible'), partículas materiales eternas y sólidas, que chocan y se agrupan moviéndose a través del vacío.",
+    "pasos_resolucion": [
+      "Relacionar a Demócrito con el concepto de átomo.",
+      "Identificar las características del átomo en la filosofía antigua (indivisible).",
+      "Seleccionar la opción que menciona los átomos y el vacío."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_ex_013",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.11.1",
+    "enunciado": "Anaximandro, discípulo de Tales de Mileto, argumentó que el principio de todas las cosas no podía ser un elemento específico (como el agua), sino una sustancia infinita, indeterminada e inagotable a la que llamó:",
+    "opciones": [
+      "Ápeiron.",
+      "Pneuma.",
+      "Logos.",
+      "Éter."
+    ],
+    "respuesta_correcta": "Ápeiron.",
+    "explicacion_detallada": "Anaximandro propuso que el arché debía ser el 'ápeiron' (lo ilimitado, indefinido o indeterminado), del cual surgen todos los cielos y los mundos que hay en ellos. Argumentó que si el principio fuera un elemento determinado (como el agua), su opuesto (el fuego) habría sido destruido.",
+    "pasos_resolucion": [
+      "Identificar al filósofo Anaximandro.",
+      "Recordar su concepto del 'arché' como algo indeterminado.",
+      "Reconocer la palabra griega 'ápeiron' que significa 'sin límites'."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_ex_014",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.11.1",
+    "enunciado": "Empédocles de Agrigento intentó conciliar las posturas de Heráclito y Parménides proponiendo una teoría pluralista. Según él, el universo se compone de cuatro raíces (fuego, aire, tierra y agua) que se unen y se separan por la acción de dos fuerzas cósmicas llamadas:",
+    "opciones": [
+      "Amor y Odio (o Discordia).",
+      "Atracción y Repulsión gravitacional.",
+      "Bien y Mal.",
+      "Luz y Oscuridad."
+    ],
+    "respuesta_correcta": "Amor y Odio (o Discordia).",
+    "explicacion_detallada": "Empédocles introdujo las fuerzas del Amor (Eros), que une los elementos diferentes para formar cosas, y el Odio o Discordia (Eris), que los separa. Este ciclo continuo explica el cambio en el mundo mientras mantiene eternos los elementos primordiales.",
+    "pasos_resolucion": [
+      "Vincular a Empédocles con la teoría de los cuatro elementos.",
+      "Identificar las fuerzas dinámicas que postula para explicar la mezcla y separación.",
+      "Seleccionar 'Amor y Odio' (Eros y Eris) como dichas fuerzas ontológicas."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_4111_ex_015",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.11.1",
+    "enunciado": "¿Qué aporte metodológico fundamental estableció Aristóteles como la herramienta propedéutica para garantizar el rigor y la validez de los argumentos en todas las ciencias?",
+    "opciones": [
+      "La lógica (el silogismo).",
+      "La introspección psicológica.",
+      "El mito y la alegoría.",
+      "El método hipotético-deductivo matemático."
+    ],
+    "respuesta_correcta": "La lógica (el silogismo).",
+    "explicacion_detallada": "Aristóteles es considerado el padre de la lógica formal. Sistematizó las reglas del razonamiento correcto a través del silogismo, estableciéndola no como una ciencia en sí, sino como el instrumento (órganon) indispensable para el desarrollo del conocimiento científico y filosófico.",
+    "pasos_resolucion": [
+      "Relacionar a Aristóteles con sus contribuciones metodológicas.",
+      "Identificar la creación del Organon y el estudio formal del razonamiento.",
+      "Reconocer la lógica silogística como su principal aporte al rigor argumentativo."
+    ],
+    "video_explicativo_url": ""
+  }
+]

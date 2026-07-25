@@ -1,0 +1,402 @@
+[
+  {
+    "id": "cn_343_ex_001",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "En la tabla periódica moderna, los elementos están organizados en filas horizontales y columnas verticales. ¿Cómo se denominan respectivamente a estas filas y columnas, y qué característica común comparten los elementos de una misma columna?",
+    "opciones": [
+      "Períodos y grupos; comparten el mismo número de electrones de valencia.",
+      "Grupos y períodos; comparten el mismo número de niveles de energía.",
+      "Familias y bloques; comparten el mismo número atómico.",
+      "Series y categorías; comparten el mismo estado de agregación a temperatura ambiente."
+    ],
+    "respuesta_correcta": "Períodos y grupos; comparten el mismo número de electrones de valencia.",
+    "explicacion_detallada": "En la tabla periódica, las filas horizontales se llaman períodos y las columnas verticales se denominan grupos o familias. Los elementos de un mismo grupo tienen el mismo número de electrones en su capa más externa (electrones de valencia), lo que les confiere propiedades químicas similares.",
+    "pasos_resolucion": [
+      "Paso 1: Recordar la terminología básica de la tabla periódica: filas = períodos, columnas = grupos.",
+      "Paso 2: Identificar la propiedad química principal de los grupos: configuración electrónica externa similar, lo que se traduce en el mismo número de electrones de valencia."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_002",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "¿A qué grupo de la tabla periódica pertenecen los elementos litio (Li), sodio (Na) y potasio (K), y cuál es su principal característica reactiva?",
+    "opciones": [
+      "Metales alcalinos (Grupo 1); son altamente reactivos, especialmente con el agua, formando hidróxidos.",
+      "Metales alcalinotérreos (Grupo 2); son inertes y no reaccionan con el agua.",
+      "Halógenos (Grupo 17); son muy reactivos y forman sales al reaccionar con metales.",
+      "Gases nobles (Grupo 18); tienen su capa de valencia completa y no forman compuestos."
+    ],
+    "respuesta_correcta": "Metales alcalinos (Grupo 1); son altamente reactivos, especialmente con el agua, formando hidróxidos.",
+    "explicacion_detallada": "El Li, Na y K son elementos del Grupo 1, conocidos como metales alcalinos. Se caracterizan por tener un solo electrón de valencia, el cual pierden fácilmente, haciéndolos metales muy reactivos que reaccionan violentamente con el agua para formar hidróxidos y liberar gas hidrógeno.",
+    "pasos_resolucion": [
+      "Paso 1: Ubicar los elementos Li, Na y K en la tabla periódica (primera columna).",
+      "Paso 2: Relacionar la primera columna con el nombre 'metales alcalinos'.",
+      "Paso 3: Recordar sus propiedades químicas, destacando su alta reactividad con el agua."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_003",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "Los halógenos son elementos no metálicos muy reactivos. Seleccione la opción que contenga únicamente elementos halógenos.",
+    "opciones": [
+      "Flúor, Cloro, Bromo, Yodo",
+      "Oxígeno, Azufre, Selenio, Teluro",
+      "Helio, Neón, Argón, Kriptón",
+      "Nitrógeno, Fósforo, Arsénico, Antimonio"
+    ],
+    "respuesta_correcta": "Flúor, Cloro, Bromo, Yodo",
+    "explicacion_detallada": "Los halógenos pertenecen al Grupo 17 de la tabla periódica e incluyen flúor (F), cloro (Cl), bromo (Br), yodo (I) y astato (At). Son conocidos por tener 7 electrones de valencia y tender a ganar un electrón para alcanzar la estabilidad.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar el grupo de los halógenos en la tabla periódica (Grupo 17).",
+      "Paso 2: Reconocer los elementos que lo componen: F, Cl, Br, I, At.",
+      "Paso 3: Descartar las otras opciones (calcógenos, gases nobles, nitrogenoideos)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_004",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "¿Qué característica de la configuración electrónica explica la baja reactividad química de los gases nobles (Grupo 18)?",
+    "opciones": [
+      "Poseen el nivel de energía más externo completamente lleno de electrones.",
+      "Tienen un solo electrón en su capa de valencia que es difícil de remover.",
+      "Carecen de electrones en el subnivel p, lo que los hace inertes.",
+      "Sus núcleos tienen un número igual de protones y neutrones."
+    ],
+    "respuesta_correcta": "Poseen el nivel de energía más externo completamente lleno de electrones.",
+    "explicacion_detallada": "Los gases nobles (a excepción del helio, que tiene 2) tienen 8 electrones en su capa de valencia (configuración s2 p6), completando su octeto. Esta configuración electrónica es muy estable, lo que explica su falta de tendencia a ganar, perder o compartir electrones, resultando en una baja reactividad.",
+    "pasos_resolucion": [
+      "Paso 1: Analizar la ubicación de los gases nobles (Grupo 18).",
+      "Paso 2: Recordar la regla del octeto y cómo una capa externa llena confiere estabilidad termodinámica.",
+      "Paso 3: Relacionar esta estabilidad con la incapacidad para formar enlaces químicos comunes."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_005",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "Los metales de transición se encuentran en la parte central de la tabla periódica. ¿A qué bloque de orbitales atómicos corresponden principalmente estos elementos?",
+    "opciones": [
+      "Bloque d",
+      "Bloque s",
+      "Bloque p",
+      "Bloque f"
+    ],
+    "respuesta_correcta": "Bloque d",
+    "explicacion_detallada": "La tabla periódica se divide en bloques (s, p, d, f) según el subnivel de energía que se está llenando con electrones. Los metales de transición (grupos 3 al 12) corresponden al llenado de los orbitales d.",
+    "pasos_resolucion": [
+      "Paso 1: Visualizar la estructura en bloques de la tabla periódica.",
+      "Paso 2: Identificar que los grupos 1 y 2 son el bloque s, del 13 al 18 el bloque p, y la región central (grupos 3-12) es el bloque d.",
+      "Paso 3: Relacionar los metales de transición con la región central y, por ende, con el bloque d."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_006",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "El radio atómico es una propiedad periódica. ¿Cómo varía de manera general el radio atómico al descender en un mismo grupo de la tabla periódica y por qué?",
+    "opciones": [
+      "Aumenta, porque se incrementa el número de niveles de energía (capas electrónicas).",
+      "Disminuye, porque aumenta la carga nuclear efectiva que atrae a los electrones.",
+      "Se mantiene constante, porque el número de electrones de valencia no cambia.",
+      "Aumenta, porque disminuye el efecto pantalla de los electrones internos."
+    ],
+    "respuesta_correcta": "Aumenta, porque se incrementa el número de niveles de energía (capas electrónicas).",
+    "explicacion_detallada": "Al descender en un grupo de la tabla periódica, cada elemento sucesivo tiene un nivel de energía principal (n) adicional ocupado por electrones. Estas nuevas capas se encuentran más alejadas del núcleo, lo que incrementa el tamaño del átomo o radio atómico.",
+    "pasos_resolucion": [
+      "Paso 1: Definir radio atómico como la distancia del núcleo a la capa más externa.",
+      "Paso 2: Analizar qué ocurre al bajar en un grupo (el número atómico aumenta y se añaden nuevas capas electrónicas n).",
+      "Paso 3: Concluir que al tener más capas, el volumen del átomo aumenta, haciendo mayor el radio atómico."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_007",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "Analizando la tendencia del radio atómico a lo largo de un período (de izquierda a derecha) en la tabla periódica, ¿cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "El radio atómico disminuye debido al aumento de la carga nuclear efectiva.",
+      "El radio atómico aumenta porque se añaden más electrones al mismo nivel de energía.",
+      "El radio atómico no varía significativamente en un mismo período.",
+      "El radio atómico disminuye porque los electrones son más ligeros."
+    ],
+    "respuesta_correcta": "El radio atómico disminuye debido al aumento de la carga nuclear efectiva.",
+    "explicacion_detallada": "En un mismo período, los electrones se añaden al mismo nivel de energía principal, pero el núcleo gana protones. El aumento de la carga positiva del núcleo atrae con mayor fuerza a la nube de electrones (mayor carga nuclear efectiva), acercándolos al núcleo y reduciendo así el radio atómico.",
+    "pasos_resolucion": [
+      "Paso 1: Entender que en un período el nivel de energía principal (n) es constante.",
+      "Paso 2: Observar que de izquierda a derecha aumenta el número de protones en el núcleo (carga nuclear).",
+      "Paso 3: Deducir que una mayor carga atrayendo electrones a la misma distancia relativa resulta en una contracción de la nube electrónica, disminuyendo el radio."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_008",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "La energía de ionización es la energía necesaria para arrancar un electrón de un átomo neutro en estado gaseoso. ¿Qué elemento esperaría que tuviera la mayor primera energía de ionización?",
+    "opciones": [
+      "Helio (He)",
+      "Francio (Fr)",
+      "Flúor (F)",
+      "Sodio (Na)"
+    ],
+    "respuesta_correcta": "Helio (He)",
+    "explicacion_detallada": "La energía de ionización aumenta de abajo hacia arriba en un grupo y de izquierda a derecha en un período. El Helio está en la esquina superior derecha (es el elemento más pequeño y con una configuración de capa cerrada), por lo que requiere la máxima cantidad de energía para removerle un electrón.",
+    "pasos_resolucion": [
+      "Paso 1: Recordar la tendencia de la energía de ionización (aumenta hacia la derecha y hacia arriba).",
+      "Paso 2: Ubicar las opciones en la tabla periódica: Fr (abajo-izquierda, menor energía), Na (arriba-izquierda), F (arriba-derecha), He (arriba-derecha, más arriba que F y grupo 18).",
+      "Paso 3: Seleccionar el elemento más arriba y a la derecha."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_009",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "¿Cómo se define la electronegatividad y cuál es el elemento más electronegativo de la tabla periódica según la escala de Pauling?",
+    "opciones": [
+      "La tendencia de un átomo a atraer electrones hacia sí mismo en un enlace químico; el elemento más electronegativo es el Flúor (F).",
+      "La energía liberada al añadir un electrón a un átomo neutro; el elemento más electronegativo es el Cloro (Cl).",
+      "La capacidad de un átomo para donar electrones en una reacción; el elemento más electronegativo es el Francio (Fr).",
+      "La fuerza con la que un núcleo retiene sus propios protones; el elemento más electronegativo es el Helio (He)."
+    ],
+    "respuesta_correcta": "La tendencia de un átomo a atraer electrones hacia sí mismo en un enlace químico; el elemento más electronegativo es el Flúor (F).",
+    "explicacion_detallada": "La electronegatividad es una medida de la capacidad de un átomo (en una molécula) para atraer hacia sí los electrones compartidos en un enlace. El Flúor, ubicado en el extremo superior derecho (sin contar los gases nobles, que generalmente no forman enlaces), es el elemento con la electronegatividad más alta (4.0 en la escala de Pauling).",
+    "pasos_resolucion": [
+      "Paso 1: Recordar la definición de electronegatividad relacionada con los enlaces químicos.",
+      "Paso 2: Identificar la tendencia periódica de la electronegatividad (aumenta hacia arriba y hacia la derecha).",
+      "Paso 3: Reconocer al Flúor como el máximo exponente de esta propiedad."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_010",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "Un átomo neutro tiene la siguiente configuración electrónica: 1s2 2s2 2p6 3s2 3p4. ¿Cuántos electrones de valencia posee este elemento y a qué grupo pertenece?",
+    "opciones": [
+      "Tiene 6 electrones de valencia y pertenece al Grupo 16 (calcógenos).",
+      "Tiene 4 electrones de valencia y pertenece al Grupo 14 (carbonoideos).",
+      "Tiene 16 electrones de valencia y pertenece al Grupo 3.",
+      "Tiene 2 electrones de valencia y pertenece al Grupo 2 (alcalinotérreos)."
+    ],
+    "respuesta_correcta": "Tiene 6 electrones de valencia y pertenece al Grupo 16 (calcógenos).",
+    "explicacion_detallada": "Los electrones de valencia son aquellos en el nivel de energía principal más alto (n mayor). En este caso, el nivel más alto es n=3. Los subniveles 3s y 3p contienen 2 y 4 electrones respectivamente, sumando 6 electrones de valencia. Los elementos con 6 electrones de valencia pertenecen al Grupo 16 de la tabla periódica.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar el nivel de energía principal más externo en la configuración (n=3).",
+      "Paso 2: Sumar los electrones en ese nivel: 2 (en 3s) + 4 (en 3p) = 6 electrones de valencia.",
+      "Paso 3: Relacionar el número de electrones de valencia (6) con el número de grupo (10 + 6 = 16 para el bloque p)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_011",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "De acuerdo con las reglas de nomenclatura de la IUPAC, ¿cuál es el nombre correcto para el compuesto FeCl3?",
+    "opciones": [
+      "Cloruro de hierro(III)",
+      "Cloruro férrico",
+      "Tricloruro de monohierro",
+      "Clorato de hierro"
+    ],
+    "respuesta_correcta": "Cloruro de hierro(III)",
+    "explicacion_detallada": "En la nomenclatura de Stock recomendada por la IUPAC para sales binarias de metales con múltiples estados de oxidación, se escribe la raíz del no metal terminada en '-uro' (cloruro), seguida de 'de' y el nombre del metal con su estado de oxidación en números romanos entre paréntesis. El cloro actúa con -1, por lo que para que FeCl3 sea neutro, el hierro debe actuar con +3, de ahí 'hierro(III)'.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar el tipo de compuesto: una sal binaria formada por un metal (Fe) y un no metal (Cl).",
+      "Paso 2: Determinar el estado de oxidación del hierro. Como hay 3 iones cloruro (-1 cada uno), el hierro debe ser +3.",
+      "Paso 3: Aplicar la nomenclatura de Stock de la IUPAC: no metal-uro de metal(estado de oxidación)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_012",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "El compuesto Al2O3 es un óxido metálico. ¿Cuál es su nombre según la nomenclatura sistemática (estequiométrica o de prefijos) de la IUPAC?",
+    "opciones": [
+      "Trióxido de dialuminio",
+      "Óxido de aluminio",
+      "Óxido alumínico",
+      "Óxido de aluminio(III)"
+    ],
+    "respuesta_correcta": "Trióxido de dialuminio",
+    "explicacion_detallada": "La nomenclatura sistemática utiliza prefijos multiplicadores (mono, di, tri, etc.) para indicar el número de átomos de cada elemento en la fórmula. Para Al2O3, hay tres oxígenos ('trióxido') y dos aluminios ('dialuminio'), resultando en 'trióxido de dialuminio'.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar que se pide nomenclatura sistemática o por prefijos.",
+      "Paso 2: Contar los átomos de oxígeno: 3 -> prefijo 'tri'.",
+      "Paso 3: Contar los átomos de aluminio: 2 -> prefijo 'di'.",
+      "Paso 4: Unir las partes: Trióxido de dialuminio."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_013",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "En la nomenclatura de oxoácidos, si el elemento central es el azufre (S) que presenta números de oxidación +4 y +6. ¿Cómo se nombra al compuesto H2SO4 donde el azufre actúa con su mayor estado de oxidación?",
+    "opciones": [
+      "Ácido sulfúrico",
+      "Ácido sulfuroso",
+      "Ácido hiposulfuroso",
+      "Sulfato de hidrógeno"
+    ],
+    "respuesta_correcta": "Ácido sulfúrico",
+    "explicacion_detallada": "En la nomenclatura tradicional de los oxoácidos, cuando el no metal central tiene dos estados de oxidación, el sufijo '-oso' se usa para el menor estado y '-ico' para el mayor. El azufre en el H2SO4 tiene un estado de oxidación de +6 (el oxígeno es -2, el hidrógeno +1; 2(+1) + S + 4(-2) = 0 -> S = +6), por lo que corresponde la terminación '-ico', siendo 'ácido sulfúrico'.",
+    "pasos_resolucion": [
+      "Paso 1: Determinar el estado de oxidación del S en H2SO4. (2x1) + S + (4x-2) = 0 -> S = +6.",
+      "Paso 2: Comparar con los estados posibles del S (+4, +6). +6 es el mayor.",
+      "Paso 3: Aplicar la regla de sufijos para el mayor estado de oxidación ('-ico')."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_014",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "Identifique el elemento cuya configuración electrónica condensada es [Ar] 4s1.",
+    "opciones": [
+      "Potasio (K)",
+      "Sodio (Na)",
+      "Calcio (Ca)",
+      "Rubidio (Rb)"
+    ],
+    "respuesta_correcta": "Potasio (K)",
+    "explicacion_detallada": "El gas noble Argón [Ar] representa una configuración de 18 electrones. Si a esta configuración se le añade un electrón en el subnivel 4s, el átomo tiene en total 19 electrones. En un átomo neutro, Z=19 corresponde al Potasio (K), ubicado en el periodo 4 y grupo 1.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar el número atómico del gas noble en la notación condensada: Argón (Ar) tiene Z=18.",
+      "Paso 2: Sumar los electrones adicionales en la capa de valencia: 18 + 1 = 19.",
+      "Paso 3: Buscar en la tabla periódica el elemento con número atómico 19, que es el Potasio (K)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_015",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "El fósforo (P) se encuentra en el Grupo 15 de la tabla periódica. Basándose en esto, ¿cuántos electrones de valencia tiene y qué tipo de ión suele formar comúnmente para alcanzar la estabilidad?",
+    "opciones": [
+      "5 electrones de valencia, tiende a formar aniones P^3-.",
+      "15 electrones de valencia, tiende a formar cationes P^5+.",
+      "3 electrones de valencia, tiende a formar aniones P^3-.",
+      "5 electrones de valencia, tiende a formar cationes P^3+."
+    ],
+    "respuesta_correcta": "5 electrones de valencia, tiende a formar aniones P^3-.",
+    "explicacion_detallada": "Los elementos del Grupo 15 (o VA en notación antigua) tienen 5 electrones de valencia (ns2 np3). Para alcanzar el octeto estable, necesitan ganar 3 electrones, formando iones con carga -3 (aniones), como el ión fosfuro (P^3-).",
+    "pasos_resolucion": [
+      "Paso 1: Relacionar el grupo 15 con el número de electrones de valencia. El último dígito indica 5 electrones en su capa externa.",
+      "Paso 2: Aplicar la regla del octeto. Un átomo con 5 electrones necesita 3 más para completar 8.",
+      "Paso 3: Concluir que al ganar 3 electrones (cargas negativas), adquiere una carga neta de -3 (anión P^3-)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_016",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "Entre los siguientes elementos, ¿cuál es clasificado como un metaloide o semimetal debido a que presenta propiedades intermedias entre metales y no metales?",
+    "opciones": [
+      "Silicio (Si)",
+      "Aluminio (Al)",
+      "Fósforo (P)",
+      "Carbono (C)"
+    ],
+    "respuesta_correcta": "Silicio (Si)",
+    "explicacion_detallada": "Los metaloides son elementos ubicados en la zona escalonada de la tabla periódica que separa a los metales de los no metales. El silicio (Si) es un ejemplo clásico de metaloide, ampliamente utilizado como semiconductor. El aluminio es un metal, mientras que el carbono y el fósforo son no metales.",
+    "pasos_resolucion": [
+      "Paso 1: Recordar la ubicación de los metaloides en la tabla periódica (línea diagonal de B a Po).",
+      "Paso 2: Identificar los elementos comunes de este grupo: Boro, Silicio, Germanio, Arsénico, Antimonio, Teluro, Polonio.",
+      "Paso 3: Seleccionar al Silicio de entre las opciones."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_017",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "Al comparar las propiedades físicas y químicas típicas de metales y no metales, ¿cuál de las siguientes afirmaciones describe mejor a los no metales?",
+    "opciones": [
+      "Son malos conductores del calor y la electricidad, y tienden a ganar electrones en reacciones químicas.",
+      "Son sólidos maleables a temperatura ambiente y tienden a perder electrones formando cationes.",
+      "Poseen brillo característico y presentan altos puntos de fusión y ebullición.",
+      "Son excelentes conductores eléctricos y reaccionan fácilmente con los ácidos liberando hidrógeno."
+    ],
+    "respuesta_correcta": "Son malos conductores del calor y la electricidad, y tienden a ganar electrones en reacciones químicas.",
+    "explicacion_detallada": "Los no metales, ubicados en el lado derecho de la tabla periódica, se caracterizan por ser aislantes (malos conductores térmicos y eléctricos), frágiles en estado sólido, y por su alta electronegatividad, lo que los lleva a ganar o compartir electrones para completar su octeto.",
+    "pasos_resolucion": [
+      "Paso 1: Recordar las propiedades físicas de los no metales: opacos, aislantes térmicos/eléctricos, frágiles si son sólidos.",
+      "Paso 2: Recordar las propiedades químicas: alta afinidad electrónica, alta electronegatividad, tendencia a ganar electrones para formar aniones.",
+      "Paso 3: Contrastar esto con las propiedades de los metales (brillo, conductividad, maleabilidad, tendencia a perder electrones)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_018",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "Un elemento presenta la configuración electrónica: 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p5. ¿En qué período y grupo se encuentra este elemento en la tabla periódica?",
+    "opciones": [
+      "Período 4, Grupo 17",
+      "Período 3, Grupo 15",
+      "Período 4, Grupo 5",
+      "Período 5, Grupo 17"
+    ],
+    "respuesta_correcta": "Período 4, Grupo 17",
+    "explicacion_detallada": "El período está determinado por el nivel de energía principal más alto alcanzado, que en este caso es n=4. Para determinar el grupo (en el bloque p), se suman los electrones de valencia en s y p (4s2 + 4p5 = 7 electrones de valencia). Los elementos con 7 electrones de valencia en el bloque p pertenecen al Grupo 17 (halógenos). El elemento es el Bromo (Br).",
+    "pasos_resolucion": [
+      "Paso 1: Observar el coeficiente principal más alto en la configuración. Este es 4 (4s y 4p). Por lo tanto, el período es 4.",
+      "Paso 2: Contar los electrones en ese nivel externo: 2 en 4s y 5 en 4p = 7 electrones de valencia.",
+      "Paso 3: Relacionar 7 electrones de valencia del bloque p con el Grupo 17 (10 del bloque d + 7)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_019",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "Dada la posición en la tabla periódica de los elementos Oxígeno (O), Azufre (S), Selenio (Se) y Teluro (Te), organícelos en orden de electronegatividad decreciente (de mayor a menor).",
+    "opciones": [
+      "O > S > Se > Te",
+      "Te > Se > S > O",
+      "O > Se > S > Te",
+      "S > O > Te > Se"
+    ],
+    "respuesta_correcta": "O > S > Se > Te",
+    "explicacion_detallada": "Estos elementos pertenecen al Grupo 16 de la tabla periódica. La electronegatividad es una propiedad periódica que disminuye a medida que se desciende en un grupo debido al aumento del tamaño atómico y al efecto pantalla, lo que reduce la capacidad del núcleo para atraer los electrones de enlace. Por tanto, el oxígeno, al estar más arriba, es el más electronegativo.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar que O, S, Se y Te pertenecen al mismo grupo (Grupo 16).",
+      "Paso 2: Recordar que la electronegatividad disminuye de arriba hacia abajo en un grupo.",
+      "Paso 3: Ordenar los elementos según su posición descendente: O, S, Se, Te."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_343_ex_020",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.3",
+    "enunciado": "El magnesio (Mg) y el cloro (Cl) reaccionan para formar cloruro de magnesio (MgCl2). ¿Qué ocurre con los electrones durante la formación de este compuesto iónico basándose en su ubicación en la tabla periódica?",
+    "opciones": [
+      "El magnesio cede 2 electrones, uno a cada átomo de cloro, formando cationes Mg^2+ y aniones Cl^-.",
+      "El magnesio y el cloro comparten electrones para formar enlaces covalentes dobles.",
+      "El cloro cede 1 electrón al magnesio, formando aniones Cl^- y cationes Mg^+.",
+      "El magnesio gana 2 electrones del cloro, formando aniones Mg^2- y cationes Cl^+."
+    ],
+    "respuesta_correcta": "El magnesio cede 2 electrones, uno a cada átomo de cloro, formando cationes Mg^2+ y aniones Cl^-.",
+    "explicacion_detallada": "El Magnesio está en el Grupo 2 (metal alcalinotérreo) y tiende a perder sus 2 electrones de valencia para alcanzar estabilidad, formando un catión Mg^2+. El Cloro está en el Grupo 17 (halógeno) y necesita 1 electrón para completar su octeto, formando un anión Cl^-. Por lo tanto, un átomo de Mg cede un electrón a cada uno de los dos átomos de Cl.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar las posiciones: Mg en el grupo 2 (metal), Cl en el grupo 17 (no metal).",
+      "Paso 2: Deducir que se formará un enlace iónico mediante transferencia de electrones del metal al no metal.",
+      "Paso 3: Determinar que Mg pierde 2 e- (para formar Mg^2+) y cada Cl gana 1 e- (para formar Cl^-), equilibrando las cargas."
+    ],
+    "video_explicativo_url": ""
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cn_381_001",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.8.1",
+    "tituloSubtema": "Calor y la primera y segunda ley de la termodinámica",
+    "enunciado": "Un sistema termodinámico recibe 500 J de calor de su entorno y al mismo tiempo realiza 200 J de trabajo sobre él. ¿Cuál es el cambio en la energía interna del sistema, de acuerdo con la primera ley de la termodinámica?",
+    "opciones": [
+      "300 J",
+      "700 J",
+      "-300 J",
+      "2.5 J"
+    ],
+    "respuesta_correcta": "300 J",
+    "explicacion_detallada": "La primera ley de la termodinámica establece que la variación de la energía interna de un sistema (ΔU) es igual al calor (Q) añadido al sistema menos el trabajo (W) realizado por el sistema: ΔU = Q - W. En este caso, Q = 500 J (calor recibido es positivo) y W = 200 J (trabajo realizado por el sistema es positivo). Por lo tanto, ΔU = 500 J - 200 J = 300 J.",
+    "pasos_resolucion": [
+      "1. Identificar los valores dados: Q = +500 J, W = +200 J.",
+      "2. Aplicar la fórmula de la primera ley de la termodinámica: ΔU = Q - W.",
+      "3. Sustituir los valores: ΔU = 500 J - 200 J = 300 J."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_002",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.8.1",
+    "tituloSubtema": "Calor y la primera y segunda ley de la termodinámica",
+    "enunciado": "De acuerdo con la segunda ley de la termodinámica, ¿cuál de las siguientes afirmaciones es correcta respecto a una máquina térmica que opera en un ciclo cerrado?",
+    "opciones": [
+      "Es imposible que la máquina convierta todo el calor absorbido en trabajo útil.",
+      "La máquina puede tener una eficiencia del 100% si no hay fricción en sus componentes.",
+      "El calor puede fluir espontáneamente desde un foco frío hacia un foco caliente.",
+      "La entropía del universo disminuye en cada ciclo de operación."
+    ],
+    "respuesta_correcta": "Es imposible que la máquina convierta todo el calor absorbido en trabajo útil.",
+    "explicacion_detallada": "El enunciado de Kelvin-Planck de la segunda ley de la termodinámica establece que es imposible construir una máquina térmica que, operando en un ciclo, no produzca otro efecto que la extracción de calor de una sola fuente y la realización de una cantidad equivalente de trabajo. Siempre debe haber un rechazo de calor hacia un sumidero a menor temperatura.",
+    "pasos_resolucion": [
+      "1. Recordar los postulados de la segunda ley de la termodinámica.",
+      "2. Evaluar cada opción frente al enunciado de Kelvin-Planck y Clausius.",
+      "3. Identificar que la conversión total de calor en trabajo es imposible (opción A)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_003",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.8.1",
+    "tituloSubtema": "Calor y la primera y segunda ley de la termodinámica",
+    "enunciado": "Si la entropía de un sistema aislado aumenta durante un proceso termodinámico, podemos afirmar que el proceso es:",
+    "opciones": [
+      "Irreversible",
+      "Reversible",
+      "Isotérmico",
+      "Isobárico"
+    ],
+    "respuesta_correcta": "Irreversible",
+    "explicacion_detallada": "La segunda ley de la termodinámica establece que para un sistema aislado, la entropía permanece constante si el proceso es reversible, pero aumenta si el proceso es irreversible. Como en la naturaleza todos los procesos reales son irreversibles (por ejemplo, disipación por fricción, transferencia de calor finita), la entropía tiende a aumentar.",
+    "pasos_resolucion": [
+      "1. Relacionar la entropía con la reversibilidad de los procesos.",
+      "2. Recordar que ΔS > 0 para procesos irreversibles en sistemas aislados.",
+      "3. Concluir que el proceso es irreversible."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_004",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.8.1",
+    "tituloSubtema": "Calor y la primera y segunda ley de la termodinámica",
+    "enunciado": "En un proceso isocórico (volumen constante), un gas ideal absorbe 150 J de calor. ¿Cuál es el trabajo realizado y el cambio en la energía interna?",
+    "opciones": [
+      "W = 0 J, ΔU = 150 J",
+      "W = 150 J, ΔU = 0 J",
+      "W = 150 J, ΔU = 150 J",
+      "W = 0 J, ΔU = 0 J"
+    ],
+    "respuesta_correcta": "W = 0 J, ΔU = 150 J",
+    "explicacion_detallada": "En un proceso isocórico el volumen es constante, por lo que no hay expansión ni compresión, y el trabajo mecánico es cero (W = PΔV = 0). Según la primera ley de la termodinámica (ΔU = Q - W), si W = 0, entonces ΔU = Q. Por lo tanto, todo el calor absorbido se invierte en aumentar la energía interna del gas.",
+    "pasos_resolucion": [
+      "1. Identificar que el proceso es isocórico, lo que implica que ΔV = 0 y W = 0.",
+      "2. Aplicar la primera ley: ΔU = Q - W.",
+      "3. Como W = 0 y Q = 150 J, entonces ΔU = 150 J."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_005",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.8.1",
+    "tituloSubtema": "Calor y la primera y segunda ley de la termodinámica",
+    "enunciado": "Se dispone de una máquina ideal de Carnot que opera entre dos focos térmicos a temperaturas de 600 K y 300 K. ¿Cuál es la eficiencia térmica de esta máquina?",
+    "opciones": [
+      "50%",
+      "100%",
+      "30%",
+      "200%"
+    ],
+    "respuesta_correcta": "50%",
+    "explicacion_detallada": "La eficiencia térmica (η) de una máquina de Carnot se calcula mediante la fórmula η = 1 - (Tc / Th), donde Tc es la temperatura de la fuente fría y Th la de la fuente caliente, ambas en Kelvin. En este caso, η = 1 - (300 K / 600 K) = 1 - 0.5 = 0.5. Al multiplicarlo por 100 para obtener el porcentaje, la eficiencia es del 50%.",
+    "pasos_resolucion": [
+      "1. Identificar las temperaturas de los focos: Th = 600 K, Tc = 300 K.",
+      "2. Aplicar la fórmula de la eficiencia de Carnot: η = 1 - (Tc / Th).",
+      "3. Sustituir los valores: η = 1 - (300 / 600) = 0.5, es decir, 50%."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_381_006",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.8.1",
+    "tituloSubtema": "Calor y la primera y segunda ley de la termodinámica",
+    "enunciado": "¿Qué concepto físico se define como la medida del desorden molecular o grado de aleatoriedad de un sistema?",
+    "opciones": [
+      "Entropía",
+      "Entalpía",
+      "Energía interna",
+      "Calor específico"
+    ],
+    "respuesta_correcta": "Entropía",
+    "explicacion_detallada": "La entropía es una propiedad termodinámica que puede interpretarse microscópicamente como una medida del desorden, la aleatoriedad o el número de microestados accesibles a un sistema. De acuerdo a la segunda ley de la termodinámica, la entropía del universo tiende a aumentar.",
+    "pasos_resolucion": [
+      "1. Analizar el concepto de desorden molecular.",
+      "2. Identificar la variable termodinámica correspondiente.",
+      "3. Seleccionar la entropía como la respuesta correcta."
+    ],
+    "video_explicativo_url": ""
+  }
+]

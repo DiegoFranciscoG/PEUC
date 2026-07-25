@@ -1,0 +1,362 @@
+[
+  {
+    "id": "cn_real_001", "materia": "Ciencias Naturales", "codigoTema": "3.1.1",
+    "enunciado": "¿Cuál organelo celular es conocido como la 'central energética' de la célula porque produce ATP mediante la respiración celular?",
+    "opciones": ["Mitocondria", "Ribosoma", "Aparato de Golgi", "Vacuola"],
+    "respuestaCorrecta": "Mitocondria",
+    "explicacionDetallada": "La mitocondria realiza la respiración celular aeróbica. En su matriz se lleva a cabo el ciclo de Krebs y en su membrana interna (crestas) la cadena de transporte de electrones, produciendo la mayor cantidad de ATP. Por eso se la llama 'central energética'.",
+    "pasosResolucion": ["**Paso 1:** Identificar qué organelo produce energía (ATP).", "**Paso 2:** La mitocondria realiza la respiración celular aeróbica → ciclo de Krebs + fosforilación oxidativa.", "**Paso 3:** Descartar: ribosomas=síntesis proteínas; Golgi=modificación/transporte; vacuola=almacenamiento."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=mitocondria+ATP+respiracion+celular+biologia"
+  },
+  {
+    "id": "cn_real_002", "materia": "Ciencias Naturales", "codigoTema": "3.1.1",
+    "enunciado": "En el proceso de mitosis, ¿en qué fase los cromosomas se alinean en el plano ecuatorial de la célula?",
+    "opciones": ["Metafase", "Anafase", "Profase", "Telofase"],
+    "respuestaCorrecta": "Metafase",
+    "explicacionDetallada": "Durante la metafase, los cromosomas alcanzan su mayor grado de condensación y son alineados en la placa metafásica (plano ecuatorial) por las fibras del huso mitótico. Esta fase es clave en diagnóstico citogenético pues los cromosomas son visibles claramente.",
+    "pasosResolucion": ["**Paso 1:** Profase → condensación cromosómica y formación del huso.", "**Paso 2:** Metafase → alineación en placa ecuatorial.", "**Paso 3:** Anafase → separación de cromátidas; Telofase → reconstitución nuclear."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=fases+mitosis+metafase+biologia+bachillerato"
+  },
+  {
+    "id": "cn_real_003", "materia": "Ciencias Naturales", "codigoTema": "3.1.1",
+    "enunciado": "La pared celular vegetal está compuesta principalmente de:",
+    "opciones": ["Celulosa", "Glucógeno", "Quitina", "Colágeno"],
+    "respuestaCorrecta": "Celulosa",
+    "explicacionDetallada": "La pared celular de las plantas está formada principalmente por celulosa, un polisacárido estructural de glucosa unida por enlaces β-1,4. Esto la diferencia de hongos (quitina), bacterias (peptidoglicano) y animales (que carecen de pared celular).",
+    "pasosResolucion": ["**Paso 1:** Identificar que la pregunta es sobre células vegetales.", "**Paso 2:** Celulosa es el polisacárido estructural de plantas.", "**Paso 3:** Glucógeno = reserva animal; Quitina = hongos/artrópodos; Colágeno = proteína animal."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=pared+celular+vegetal+celulosa+biologia"
+  },
+  {
+    "id": "cn_real_004", "materia": "Ciencias Naturales", "codigoTema": "3.1.1",
+    "enunciado": "¿Cuál de las siguientes estructuras está presente en células procariotas pero NO en células eucariotas?",
+    "opciones": ["Nucleoide (ADN circular sin membrana)", "Membrana plasmática", "Ribosomas", "ADN como material genético"],
+    "respuestaCorrecta": "Nucleoide (ADN circular sin membrana)",
+    "explicacionDetallada": "Las células procariotas carecen de núcleo verdadero. Su ADN circular se encuentra en una región llamada nucleoide, sin membrana nuclear que lo delimite. Las eucariotas poseen núcleo con doble membrana. Ribosomas y membrana plasmática existen en ambos tipos.",
+    "pasosResolucion": ["**Paso 1:** Procariotas = sin membrana nuclear.", "**Paso 2:** Nucleoide = región donde se ubica el ADN sin membrana → exclusivo de procariotas.", "**Paso 3:** Membrana plasmática, ribosomas y ADN están presentes en ambos tipos celulares."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=diferencias+procariota+eucariota+biologia"
+  },
+  {
+    "id": "cn_real_005", "materia": "Ciencias Naturales", "codigoTema": "3.1.1",
+    "enunciado": "Durante la meiosis II, el número de cromosomas que resulta en cada célula hija es:",
+    "opciones": ["Haploide (n)", "Diploide (2n)", "Tetraploide (4n)", "El mismo que el de la célula original"],
+    "respuestaCorrecta": "Haploide (n)",
+    "explicacionDetallada": "La meiosis II es similar a la mitosis pero parte de células haploides. Separa las cromátidas hermanas resultando en 4 células haploides (n). En humanos: 23 cromosomas por célula hija. Las meiosis I es la división reduccional que va de 2n a n.",
+    "pasosResolucion": ["**Paso 1:** Meiosis I = divisón reduccional (2n → n).", "**Paso 2:** Meiosis II = división ecuacional de células haploides (n → n).", "**Paso 3:** Resultado final: 4 células haploides."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=meiosis+II+haploide+celulas+sexuales"
+  },
+  {
+    "id": "cn_real_006", "materia": "Ciencias Naturales", "codigoTema": "3.1.2",
+    "enunciado": "¿Cuál es la función principal de las enzimas en las reacciones bioquímicas?",
+    "opciones": ["Actuar como catalizadores biológicos reduciendo la energía de activación", "Proporcionar energía directamente a la célula", "Formar parte de la membrana celular", "Transportar oxígeno en la sangre"],
+    "respuestaCorrecta": "Actuar como catalizadores biológicos reduciendo la energía de activación",
+    "explicacionDetallada": "Las enzimas son proteínas (algunas ARN=ribozimas) que aceleran las reacciones bioquímicas reduciendo la energía de activación sin consumirse en el proceso. El sustrato se une al sitio activo formando el complejo enzima-sustrato.",
+    "pasosResolucion": ["**Paso 1:** Definir enzima: catalizador biológico de naturaleza proteica.", "**Paso 2:** Su acción: reducir la energía de activación → acelera la reacción.", "**Paso 3:** No se consume, no altera el equilibrio, es específica para su sustrato."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=enzimas+catalizadores+energia+activacion+bioquimica"
+  },
+  {
+    "id": "cn_real_007", "materia": "Ciencias Naturales", "codigoTema": "3.1.2",
+    "enunciado": "La doble hélice del ADN está formada por la complementariedad de bases nitrogenadas. La citosina (C) se aparea siempre con:",
+    "opciones": ["Guanina (G)", "Adenina (A)", "Timina (T)", "Uracilo (U)"],
+    "respuestaCorrecta": "Guanina (G)",
+    "explicacionDetallada": "En el ADN, las bases púricas se aparean con las pirimidínicas: Adenina-Timina (enlace doble de H) y Citosina-Guanina (enlace triple de H). La regla de Chargaff establece que %A=%T y %C=%G. El uracilo aparece en el ARN, reemplazando a la Timina.",
+    "pasosResolucion": ["**Paso 1:** Recordar regla de Chargaff: A=T; C=G.", "**Paso 2:** Citosina (pirimidina) se une a Guanina (purina) con 3 puentes de hidrógeno.", "**Paso 3:** Uracilo solo está en ARN, no en ADN."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=doble+helice+ADN+bases+nitrogenadas+Chargaff"
+  },
+  {
+    "id": "cn_real_008", "materia": "Ciencias Naturales", "codigoTema": "3.1.2",
+    "enunciado": "¿Qué tipo de enlace une los aminoácidos para formar las proteínas?",
+    "opciones": ["Enlace peptídico", "Enlace glucosídico", "Enlace fosfodiéster", "Enlace hidrógeno"],
+    "respuestaCorrecta": "Enlace peptídico",
+    "explicacionDetallada": "El enlace peptídico se forma entre el grupo carboxilo (-COOH) de un aminoácido y el grupo amino (-NH2) del siguiente, con eliminación de una molécula de agua (condensación). La cadena resultante se llama polipéptido.",
+    "pasosResolucion": ["**Paso 1:** Identificar monómeros de proteínas = aminoácidos.", "**Paso 2:** Unión -COOH + -NH2 → enlace peptídico + H2O.", "**Paso 3:** Glucosídico = azúcares; fosfodiéster = ADN/ARN; hidrógeno = estructura secundaria."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=enlace+peptidico+formacion+proteinas+bioquimica"
+  },
+  {
+    "id": "cn_real_009", "materia": "Ciencias Naturales", "codigoTema": "3.2.1",
+    "enunciado": "En un cruce entre dos organismos heterocigotos para un carácter (Aa × Aa), ¿cuál es la proporción fenotípica esperada en la F1 según Mendel?",
+    "opciones": ["3 dominante : 1 recesivo", "1 dominante : 1 recesivo", "1:2:1", "Todos dominantes"],
+    "respuestaCorrecta": "3 dominante : 1 recesivo",
+    "explicacionDetallada": "Cruce Aa × Aa produce: 1 AA + 2 Aa + 1 aa. Fenotípicamente: AA y Aa expresan el fenotipo dominante (3), aa expresa recesivo (1). Proporción 3:1. Genotípicamente la proporción es 1:2:1.",
+    "pasosResolucion": ["**Paso 1:** Hacer el cuadro de Punnett: Aa × Aa.", "**Paso 2:** Genotipos resultantes: 1AA : 2Aa : 1aa.", "**Paso 3:** Fenotipos: AA y Aa = dominante (3); aa = recesivo (1) → proporción 3:1."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=cuadro+punnett+heterocigoto+proporcion+3+1+Mendel"
+  },
+  {
+    "id": "cn_real_010", "materia": "Ciencias Naturales", "codigoTema": "3.2.1",
+    "enunciado": "La primera ley de Mendel o ley de la segregación establece que:",
+    "opciones": ["Los alelos de un gen se separan durante la formación de gametos", "Los genes de diferentes caracteres se heredan independientemente", "El carácter dominante siempre suprime al recesivo en F2", "Los genes están ligados en los cromosomas sexuales"],
+    "respuestaCorrecta": "Los alelos de un gen se separan durante la formación de gametos",
+    "explicacionDetallada": "La 1ª Ley de Mendel (Segregación): cada individuo diploide tiene dos alelos para cada gen, que se separan durante la meiosis. Cada gameto recibe solo un alelo. Esto explica la reaparición del carácter recesivo en F2.",
+    "pasosResolucion": ["**Paso 1:** 1ª Ley = Segregación = separación de alelos en la meiosis.", "**Paso 2:** 2ª Ley = Distribución independiente (genes en cromosomas distintos).", "**Paso 3:** Los alelos se separan → cada gameto lleva uno → unión al azar en la fertilización."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=primera+ley+Mendel+segregacion+genetica"
+  },
+  {
+    "id": "cn_real_011", "materia": "Ciencias Naturales", "codigoTema": "3.2.1",
+    "enunciado": "Una mujer portadora del gen de la hemofilia (XHXh) tiene hijos con un hombre normal (XHY). ¿Qué probabilidad tienen los hijos varones de tener hemofilia?",
+    "opciones": ["50%", "25%", "0%", "100%"],
+    "respuestaCorrecta": "50%",
+    "explicacionDetallada": "Cruce XHXh × XHY: hijos posibles → XHXH (mujer normal), XHXh (mujer portadora), XHY (varón normal), XhY (varón con hemofilia). Los varones heredan Y del padre y X de la madre. La probabilidad de recibir Xh es 50%. Por tanto, 50% de los hijos varones tendrán hemofilia.",
+    "pasosResolucion": ["**Paso 1:** Madre portadora = XHXh; Padre normal = XHY.", "**Paso 2:** Gametos maternos: XH y Xh (50% cada uno).", "**Paso 3:** Varones: XHY (normal) o XhY (hemofílico) → 50% de probabilidad en varones."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=hemofilia+herencia+ligada+sexo+X+genetica"
+  },
+  {
+    "id": "cn_real_012", "materia": "Ciencias Naturales", "codigoTema": "3.2.2",
+    "enunciado": "¿Cuántos codones posee el código genético y cuántos codifican aminoácidos?",
+    "opciones": ["64 codones en total, 61 codifican aminoácidos", "64 codones en total, 64 codifican aminoácidos", "20 codones en total, 20 para aminoácidos", "61 codones en total, 3 son de parada"],
+    "respuestaCorrecta": "64 codones en total, 61 codifican aminoácidos",
+    "explicacionDetallada": "El código genético tiene 64 codones (4³ combinaciones de 3 bases). 61 codifican los 20 aminoácidos (degenerado). 3 son codones de parada (UAA, UAG, UGA) que señalan el fin de la traducción.",
+    "pasosResolucion": ["**Paso 1:** Codón = triplete de bases del ARNm. 4³ = 64 codones posibles.", "**Paso 2:** 3 codones de stop (UAA, UAG, UGA) → no codifican aminoácidos.", "**Paso 3:** 64 - 3 = 61 codones que codifican los 20 aminoácidos (código degenerado)."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=codigo+genetico+codones+aminoacidos+biologia"
+  },
+  {
+    "id": "cn_real_013", "materia": "Ciencias Naturales", "codigoTema": "3.3.1",
+    "enunciado": "Según Darwin, el mecanismo principal que impulsa la evolución de las especies es:",
+    "opciones": ["La selección natural sobre variaciones heredables", "La adaptación dirigida por el ambiente", "Las mutaciones inducidas por el entorno", "La herencia de caracteres adquiridos"],
+    "respuestaCorrecta": "La selección natural sobre variaciones heredables",
+    "explicacionDetallada": "Darwin propuso que los individuos con variaciones heredables favorables sobreviven y se reproducen más (selección natural). Lamarck propuso herencia de caracteres adquiridos, que fue descartada. La evolución moderna integra la genética con la selección natural (síntesis moderna).",
+    "pasosResolucion": ["**Paso 1:** Darwin = selección natural + variación heredable.", "**Paso 2:** Individuos mejor adaptados → mayor reproducción → frecuencia alélica cambia.", "**Paso 3:** Lamarck = herencia de adquiridos (erróneo); Darwin = variación preexistente seleccionada."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=seleccion+natural+Darwin+evolucion+biologia"
+  },
+  {
+    "id": "cn_real_014", "materia": "Ciencias Naturales", "codigoTema": "3.3.1",
+    "enunciado": "En la clasificación taxonómica de los seres vivos, el orden correcto de menor a mayor inclusión es:",
+    "opciones": ["Especie, Género, Familia, Orden, Clase, Filo, Reino, Dominio", "Dominio, Reino, Filo, Clase, Orden, Familia, Género, Especie", "Especie, Filo, Orden, Reino, Dominio, Clase, Género, Familia", "Reino, Dominio, Filo, Clase, Orden, Familia, Género, Especie"],
+    "respuestaCorrecta": "Especie, Género, Familia, Orden, Clase, Filo, Reino, Dominio",
+    "explicacionDetallada": "La jerarquía taxonómica de Linneo (de menor a mayor inclusión): Especie < Género < Familia < Orden < Clase < Filo (División en plantas) < Reino < Dominio. El nombre científico usa género + especie (nomenclatura binomial).",
+    "pasosResolucion": ["**Paso 1:** Mnemotécnico: 'El Gran Faraón Ordenó Cinco Filas Real Dobles'.", "**Paso 2:** E=Especie, G=Género, F=Familia, O=Orden, C=Clase, F=Filo, R=Reino, D=Dominio.", "**Paso 3:** La especie es la categoría más específica; el dominio es la más general."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=taxonomia+clasificacion+seres+vivos+jerarquia"
+  },
+  {
+    "id": "cn_real_015", "materia": "Ciencias Naturales", "codigoTema": "3.3.2",
+    "enunciado": "En una cadena alimentaria, los productores son organismos que:",
+    "opciones": ["Sintetizan materia orgánica a partir de energía solar mediante fotosíntesis", "Consumen organismos muertos para reciclar nutrientes", "Obtienen energía consumiendo herbívoros", "Descomponen la materia orgánica en inorgánica"],
+    "respuestaCorrecta": "Sintetizan materia orgánica a partir de energía solar mediante fotosíntesis",
+    "explicacionDetallada": "Los productores (autótrofos) son el primer nivel trófico. Realizan fotosíntesis (o quimiosíntesis) para convertir energía solar y CO2 en glucosa. Son la base de todas las cadenas alimentarias. Los consumidores son heterótrofos; los descomponedores reciclan nutrientes.",
+    "pasosResolucion": ["**Paso 1:** Cadena: Productor → Consumidor primario → Consumidor secundario → Descomponedor.", "**Paso 2:** Productores = plantas, algas, cianobacterias → fotosíntesis.", "**Paso 3:** Descomponedores = hongos y bacterias → no son productores."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=cadena+alimentaria+productores+niveles+troficos"
+  },
+  {
+    "id": "cn_real_016", "materia": "Ciencias Naturales", "codigoTema": "3.3.2",
+    "enunciado": "El ciclo del nitrógeno es fundamental para la vida. ¿Qué proceso convierte el N₂ atmosférico en amonio (NH₄⁺) que las plantas pueden absorber?",
+    "opciones": ["Fijación biológica del nitrógeno por bacterias como Rhizobium", "Nitrificación por bacterias Nitrosomonas", "Denitrificación por bacterias anaerobias", "Desnitrificación en el suelo"],
+    "respuestaCorrecta": "Fijación biológica del nitrógeno por bacterias como Rhizobium",
+    "explicacionDetallada": "La fijación del nitrógeno convierte N₂ (inerte, no utilizable por plantas) en NH₃/NH₄⁺ utilizable. Bacterias como Rhizobium (en nódulos de leguminosas), Azotobacter (libre en suelo) y cianobacterias poseen la enzima nitrogenasa. La nitrificación convierte NH₄⁺ en NO₃⁻.",
+    "pasosResolucion": ["**Paso 1:** N₂ atmosférico → inerte, no útil para plantas directamente.", "**Paso 2:** Fijación: N₂ + 8H⁺ + 8e⁻ → 2NH₃ + H₂ (enzima nitrogenasa).", "**Paso 3:** Nitrificación: NH₄⁺ → NO₂⁻ → NO₃⁻ (nitratos absorbibles por plantas)."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=ciclo+nitrogeno+fijacion+Rhizobium+biologia"
+  },
+  {
+    "id": "cn_real_017", "materia": "Ciencias Naturales", "codigoTema": "3.4.1",
+    "enunciado": "¿En qué parte del sistema digestivo humano se absorbe la mayor parte de los nutrientes?",
+    "opciones": ["Intestino delgado", "Estómago", "Intestino grueso", "Esófago"],
+    "respuestaCorrecta": "Intestino delgado",
+    "explicacionDetallada": "El intestino delgado (duodeno, yeyuno, íleon) es el principal sitio de absorción de nutrientes. Sus vellosidades intestinales y microvellosidades (borde en cepillo) aumentan enormemente la superficie de absorción. El estómago digesta proteínas; el intestino grueso absorbe agua y electrolitos.",
+    "pasosResolucion": ["**Paso 1:** Digestión ocurre en boca, estómago y duodeno.", "**Paso 2:** Absorción ocurre principalmente en yeyuno e íleon (intestino delgado).", "**Paso 3:** Vellosidades + microvellosidades = gran superficie absortiva (200 m²)."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=absorcion+nutrientes+intestino+delgado+vellosidades"
+  },
+  {
+    "id": "cn_real_018", "materia": "Ciencias Naturales", "codigoTema": "3.4.1",
+    "enunciado": "¿Cuál es la función del eritrocito (glóbulo rojo) en el sistema circulatorio?",
+    "opciones": ["Transportar oxígeno mediante la hemoglobina", "Defender al organismo de patógenos", "Participar en la coagulación sanguínea", "Producir anticuerpos en respuesta a infecciones"],
+    "respuestaCorrecta": "Transportar oxígeno mediante la hemoglobina",
+    "explicacionDetallada": "Los eritrocitos contienen hemoglobina, proteína con hierro que se une reversiblemente al O₂ (oxihemoglobina) y lo transporta desde los pulmones hasta los tejidos. También transportan CO₂ de regreso. Los leucocitos defienden; las plaquetas coagulan; los linfocitos B producen anticuerpos.",
+    "pasosResolucion": ["**Paso 1:** Componentes sanguíneos: eritrocitos, leucocitos, plaquetas, plasma.", "**Paso 2:** Eritrocito → hemoglobina → O₂ (transporte de oxígeno).", "**Paso 3:** Leucocitos = defensa inmune; plaquetas = hemostasia; anticuerpos = linfocitos B."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=eritrocitos+hemoglobina+transporte+oxigeno+sangre"
+  },
+  {
+    "id": "cn_real_019", "materia": "Ciencias Naturales", "codigoTema": "3.4.2",
+    "enunciado": "En la ecuación global de la fotosíntesis: 6CO₂ + 6H₂O + energía lumínica → C₆H₁₂O₆ + 6O₂, ¿de dónde proviene el oxígeno que se libera?",
+    "opciones": ["Del agua (H₂O) que se fotoliza en la fase lumínica", "Del dióxido de carbono (CO₂) en el ciclo de Calvin", "De la glucosa (C₆H₁₂O₆) que se forma", "Del oxígeno disuelto en el suelo"],
+    "respuestaCorrecta": "Del agua (H₂O) que se fotoliza en la fase lumínica",
+    "explicacionDetallada": "En la fase lumínica (fotosistema II), la energía solar fotoliza el agua: 2H₂O → 4H⁺ + 4e⁻ + O₂. El O₂ liberado proviene del agua, no del CO₂. Esto se demostró con experimentos de marcaje isotópico con ¹⁸O. El CO₂ se incorpora en el ciclo de Calvin para formar glucosa.",
+    "pasosResolucion": ["**Paso 1:** Fase lumínica (tilacoides) → captura luz → fotólisis del agua.", "**Paso 2:** 2H₂O → 4H⁺ + 4e⁻ + O₂ (O₂ proviene del H₂O).", "**Paso 3:** Fase oscura/Calvin (estroma) → fijación de CO₂ → glucosa (no produce O₂)."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=fotosintesis+oxigeno+agua+fotolisis+cloroplasto"
+  },
+  {
+    "id": "cn_real_020", "materia": "Ciencias Naturales", "codigoTema": "3.4.2",
+    "enunciado": "La hormona vegetal que promueve el alargamiento celular y el fototropismo positivo es:",
+    "opciones": ["Auxina (AIA)", "Giberelina", "Etileno", "Citoquinina"],
+    "respuestaCorrecta": "Auxina (AIA)",
+    "explicacionDetallada": "Las auxinas (principalmente el ácido indolacético, AIA) son producidas en el meristema apical y promueven el alargamiento celular. En el fototropismo, la luz hace que las auxinas migren al lado sombreado, causando más alargamiento ahí y curvatura hacia la luz.",
+    "pasosResolucion": ["**Paso 1:** Hormonas vegetales principales: auxinas, giberelinas, citoquininas, etileno, ácido abscísico.", "**Paso 2:** Auxinas = alargamiento celular → fototropismo positivo (curvatura hacia la luz).", "**Paso 3:** Giberelinas = alargamiento del tallo; Etileno = maduración frutos; Citoquininas = división celular."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=auxinas+fototropismo+hormona+vegetal+biologia"
+  },
+  {
+    "id": "cn_real_021", "materia": "Ciencias Naturales", "codigoTema": "3.5.1",
+    "enunciado": "En la tabla periódica, los elementos del Grupo IA (metales alcalinos) se caracterizan por:",
+    "opciones": ["Tener 1 electrón de valencia y alta reactividad", "Tener capa de valencia completa y ser inertes", "Ser no metales con alta electronegatividad", "Tener 7 electrones de valencia"],
+    "respuestaCorrecta": "Tener 1 electrón de valencia y alta reactividad",
+    "explicacionDetallada": "Los metales alcalinos (Li, Na, K, Rb, Cs, Fr) tienen 1 electrón en su último nivel de energía. Lo pierden fácilmente formando cationes M⁺, por eso son muy reactivos. Reaccionan violentamente con el agua produciendo hidróxidos y H₂.",
+    "pasosResolucion": ["**Paso 1:** Grupo IA = 1 electrón de valencia.", "**Paso 2:** Pierden ese electrón fácilmente → alta reactividad.", "**Paso 3:** Gases nobles (Grupo 0/18) = capa completa e inertes; Halógenos (Grupo VIIA) = 7 electrones de valencia."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=metales+alcalinos+grupo+IA+tabla+periodica"
+  },
+  {
+    "id": "cn_real_022", "materia": "Ciencias Naturales", "codigoTema": "3.5.1",
+    "enunciado": "En la reacción redox: Zn + CuSO₄ → ZnSO₄ + Cu, ¿qué especie se oxida?",
+    "opciones": ["El zinc (Zn) se oxida porque pierde electrones (Zn → Zn²⁺)", "El cobre (Cu²⁺) se oxida porque gana electrones", "El sulfato (SO₄²⁻) se oxida", "El zinc se reduce porque gana electrones"],
+    "respuestaCorrecta": "El zinc (Zn) se oxida porque pierde electrones (Zn → Zn²⁺)",
+    "explicacionDetallada": "En una reacción redox: oxidación = pérdida de electrones; reducción = ganancia de electrones. Zn pierde 2e⁻ → se OXIDA (agente reductor). Cu²⁺ gana 2e⁻ → se REDUCE (agente oxidante). Mnemónico: OIL RIG (Oxidation Is Loss, Reduction Is Gain).",
+    "pasosResolucion": ["**Paso 1:** Zn⁰ → Zn²⁺ + 2e⁻ (pérdida de electrones = oxidación).", "**Paso 2:** Cu²⁺ + 2e⁻ → Cu⁰ (ganancia de electrones = reducción).", "**Paso 3:** Zn es el agente reductor (se oxida); Cu²⁺ es el agente oxidante (se reduce)."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=reaccion+redox+oxidacion+reduccion+zinc+cobre"
+  },
+  {
+    "id": "cn_real_023", "materia": "Ciencias Naturales", "codigoTema": "3.5.2",
+    "enunciado": "Los hidrocarburos saturados (alcanos) se caracterizan por:",
+    "opciones": ["Tener solo enlaces simples C-C y fórmula general CₙH₂ₙ₊₂", "Tener dobles enlaces entre carbonos y fórmula CₙH₂ₙ", "Tener triples enlaces y ser muy reactivos", "Tener anillos aromáticos con electrones deslocalizados"],
+    "respuestaCorrecta": "Tener solo enlaces simples C-C y fórmula general CₙH₂ₙ₊₂",
+    "explicacionDetallada": "Los alcanos son hidrocarburos saturados con solo enlaces simples C-C y C-H. Fórmula general: CₙH₂ₙ₊₂. Ejemplo: metano CH₄, etano C₂H₆. Los alquenos tienen un doble enlace (CₙH₂ₙ); los alquinos un triple enlace (CₙH₂ₙ₋₂); los aromáticos (benceno) tienen dobles enlaces deslocalizados.",
+    "pasosResolucion": ["**Paso 1:** Alcanos = saturados = solo enlace simple.", "**Paso 2:** Fórmula: CₙH₂ₙ₊₂. Ejemplo: C₄H₁₀ (butano, n=4: 2×4+2=10).", "**Paso 3:** Alquenos: CₙH₂ₙ (un doble enlace); Alquinos: CₙH₂ₙ₋₂ (un triple enlace)."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=alcanos+hidrocarburos+saturados+quimica+organica"
+  },
+  {
+    "id": "cn_real_024", "materia": "Ciencias Naturales", "codigoTema": "3.6.1",
+    "enunciado": "La Segunda Ley de Newton establece que la fuerza neta aplicada a un objeto es igual a:",
+    "opciones": ["La masa del objeto multiplicada por su aceleración (F = ma)", "La masa del objeto dividida por su velocidad", "La velocidad del objeto por el tiempo transcurrido", "La energía cinética dividida entre la distancia recorrida"],
+    "respuestaCorrecta": "La masa del objeto multiplicada por su aceleración (F = ma)",
+    "explicacionDetallada": "La 2ª Ley de Newton: F_neta = m × a. La fuerza se mide en Newtons (N = kg·m/s²). Si la masa es constante, una mayor fuerza produce mayor aceleración. Si la masa aumenta (misma fuerza), la aceleración disminuye. Esta ley relaciona causa (fuerza) con efecto (aceleración).",
+    "pasosResolucion": ["**Paso 1:** F = m × a. Si m = 10 kg y a = 5 m/s², entonces F = 50 N.", "**Paso 2:** 1ª Ley = inercia (sin fuerza neta, el objeto mantiene su estado).", "**Paso 3:** 3ª Ley = acción-reacción (fuerzas iguales y opuestas sobre objetos distintos)."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=segunda+ley+Newton+fuerza+masa+aceleracion"
+  },
+  {
+    "id": "cn_real_025", "materia": "Ciencias Naturales", "codigoTema": "3.6.1",
+    "enunciado": "Un automóvil parte del reposo y alcanza una velocidad de 72 km/h en 10 segundos. ¿Cuál es su aceleración?",
+    "opciones": ["2 m/s²", "7.2 m/s²", "0.72 m/s²", "20 m/s²"],
+    "respuestaCorrecta": "2 m/s²",
+    "explicacionDetallada": "Conversión: 72 km/h × (1000m/3600s) = 20 m/s. Aceleración = Δv/Δt = (20 - 0)/10 = 2 m/s². La unidad correcta es metros por segundo al cuadrado (m/s²).",
+    "pasosResolucion": ["**Paso 1:** Convertir 72 km/h a m/s: 72 × 1000/3600 = 20 m/s.", "**Paso 2:** a = Δv/Δt = (vf - v0)/t = (20 - 0)/10 = 2 m/s².", "**Paso 3:** Verificar unidades: m/s ÷ s = m/s²."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=aceleracion+cinematica+fisica+bachillerato+Ecuador"
+  },
+  {
+    "id": "cn_real_026", "materia": "Ciencias Naturales", "codigoTema": "3.6.2",
+    "enunciado": "La primera ley de la termodinámica establece que:",
+    "opciones": ["La energía no se crea ni se destruye, solo se transforma (conservación de la energía)", "El calor fluye espontáneamente del cuerpo frío al caliente", "En un proceso adiabático, la temperatura siempre aumenta", "La entropía del universo siempre disminuye"],
+    "respuestaCorrecta": "La energía no se crea ni se destruye, solo se transforma (conservación de la energía)",
+    "explicacionDetallada": "La 1ª Ley de la Termodinámica es la ley de conservación de la energía: ΔU = Q - W. El cambio de energía interna (ΔU) del sistema es igual al calor absorbido (Q) menos el trabajo realizado (W). La 2ª Ley establece que la entropía del universo aumenta espontáneamente.",
+    "pasosResolucion": ["**Paso 1:** 1ª Ley: ΔU = Q - W → conservación de energía.", "**Paso 2:** Si Q=100J y W=40J → ΔU=60J (la energía interna aumenta en 60J).", "**Paso 3:** 2ª Ley: entropía aumenta; calor fluye de caliente a frío (no al revés)."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=primera+ley+termodinamica+conservacion+energia"
+  },
+  {
+    "id": "cn_real_027", "materia": "Ciencias Naturales", "codigoTema": "3.6.2",
+    "enunciado": "La velocidad del sonido en el aire a 20°C es aproximadamente 343 m/s. Si una onda sonora tiene una frecuencia de 686 Hz, ¿cuál es su longitud de onda?",
+    "opciones": ["0.5 m", "235,000 m", "2 m", "0.002 m"],
+    "respuestaCorrecta": "0.5 m",
+    "explicacionDetallada": "Relación de ondas: v = f × λ → λ = v/f. λ = 343 m/s ÷ 686 Hz = 0.5 m. Las ondas sonoras de alta frecuencia tienen longitudes de onda cortas. El sonido audible va de 20 Hz a 20,000 Hz.",
+    "pasosResolucion": ["**Paso 1:** Fórmula de ondas: v = f × λ.", "**Paso 2:** Despejar λ: λ = v/f = 343/686 = 0.5 m.", "**Paso 3:** Verificar: 686 Hz × 0.5 m = 343 m/s ✓"],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=longitud+onda+frecuencia+sonido+fisica"
+  },
+  {
+    "id": "cn_real_028", "materia": "Ciencias Naturales", "codigoTema": "3.7.1",
+    "enunciado": "La Ley de Ohm establece la relación entre voltaje, corriente y resistencia. Si una resistencia de 10 Ω tiene una corriente de 2 A, ¿cuál es el voltaje aplicado?",
+    "opciones": ["20 V", "5 V", "12 V", "0.2 V"],
+    "respuestaCorrecta": "20 V",
+    "explicacionDetallada": "Ley de Ohm: V = I × R. Con I = 2 A y R = 10 Ω: V = 2 × 10 = 20 V. También: I = V/R y R = V/I. El voltio (V) es la unidad de diferencia de potencial; el amperio (A) es la unidad de intensidad de corriente; el ohmio (Ω) es la unidad de resistencia.",
+    "pasosResolucion": ["**Paso 1:** V = I × R (Ley de Ohm).", "**Paso 2:** V = 2 A × 10 Ω = 20 V.", "**Paso 3:** Verificar: I = V/R = 20/10 = 2 A ✓"],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=ley+ohm+voltaje+corriente+resistencia+fisica"
+  },
+  {
+    "id": "cn_real_029", "materia": "Ciencias Naturales", "codigoTema": "3.7.1",
+    "enunciado": "¿Cuál es la diferencia fundamental entre un conductor eléctrico y un aislante?",
+    "opciones": ["Los conductores permiten el libre flujo de electrones; los aislantes lo impiden", "Los conductores tienen más protones que electrones", "Los aislantes conducen mejor la electricidad a altas temperaturas", "Los conductores son siempre metálicos y los aislantes siempre son no metálicos"],
+    "respuestaCorrecta": "Los conductores permiten el libre flujo de electrones; los aislantes lo impiden",
+    "explicacionDetallada": "En los conductores (metales como Cu, Ag, Au), los electrones de la banda de conducción se mueven libremente. En los aislantes (plástico, vidrio, madera), los electrones están fuertemente ligados a sus átomos. Los semiconductores (Si, Ge) tienen conductividad intermedia, controlable.",
+    "pasosResolucion": ["**Paso 1:** Conductor = electrones libres → corriente fluye fácilmente (Cu, Al, Ag).", "**Paso 2:** Aislante = electrones enlazados → corriente no fluye (goma, vidrio, plástico).", "**Paso 3:** Semiconductores = conductividad intermedia (Si, Ge) → base de circuitos electrónicos."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=conductor+aislante+semiconductor+electrones+fisica"
+  },
+  {
+    "id": "cn_real_030", "materia": "Ciencias Naturales", "codigoTema": "3.1.1",
+    "enunciado": "¿Cuál es la función principal del aparato de Golgi en la célula eucariota?",
+    "opciones": ["Modificar, empaquetar y distribuir proteínas y lípidos hacia su destino final", "Sintetizar proteínas a partir de aminoácidos", "Producir energía en forma de ATP", "Almacenar el material genético de la célula"],
+    "respuestaCorrecta": "Modificar, empaquetar y distribuir proteínas y lípidos hacia su destino final",
+    "explicacionDetallada": "El aparato de Golgi actúa como el 'sistema postal' de la célula. Recibe vesículas del retículo endoplasmático rugoso, modifica las proteínas (glicosilación, fosforilación), las empaqueta en vesículas y las distribuye a su destino: membrana plasmática, lisosomas o secreción al exterior.",
+    "pasosResolucion": ["**Paso 1:** RER sintetiza proteínas → vesículas → Golgi.", "**Paso 2:** Golgi modifica (glicosilación) y empaqueta en vesículas de secreción.", "**Paso 3:** Vesículas van a: membrana plasmática (secreción), lisosomas (digestión), o exocitosis."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=aparato+Golgi+funcion+celula+biologia"
+  },
+  {
+    "id": "cn_real_031", "materia": "Ciencias Naturales", "codigoTema": "3.2.1",
+    "enunciado": "En la genética mendeliana, la ley de la distribución independiente aplica cuando los genes están ubicados en:",
+    "opciones": ["Cromosomas diferentes (no ligados)", "El mismo cromosoma (genes ligados)", "El cromosoma X solamente", "Alelos del mismo gen"],
+    "respuestaCorrecta": "Cromosomas diferentes (no ligados)",
+    "explicacionDetallada": "La 2ª Ley de Mendel (distribución independiente) aplica solo para genes en cromosomas distintos. Si los genes están en el mismo cromosoma (ligados), tienden a heredarse juntos. Morgan descubrió el ligamiento génico y la recombinación por crossing-over.",
+    "pasosResolucion": ["**Paso 1:** 2ª Ley = genes en cromosomas distintos se distribuyen al azar.", "**Paso 2:** Genes ligados = mismo cromosoma → se heredan juntos (no aplica 2ª Ley).", "**Paso 3:** Crossing-over durante meiosis I puede separar genes ligados."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=segunda+ley+Mendel+distribucion+independiente+genetica"
+  },
+  {
+    "id": "cn_real_032", "materia": "Ciencias Naturales", "codigoTema": "3.3.2",
+    "enunciado": "El fenómeno de eutrofización de un lago se produce cuando:",
+    "opciones": ["Exceso de nutrientes (nitratos y fosfatos) causa proliferación descontrolada de algas", "La temperatura del agua desciende por debajo de 4°C congelando la superficie", "El agua pierde oxígeno por evaporación solar intensa", "Los peces consumen toda la vegetación acuática"],
+    "respuestaCorrecta": "Exceso de nutrientes (nitratos y fosfatos) causa proliferación descontrolada de algas",
+    "explicacionDetallada": "La eutrofización ocurre cuando el exceso de nutrientes (principalmente nitratos y fosfatos de fertilizantes agrícolas y aguas residuales) provoca una explosión demográfica de algas (bloom algal). Al morir las algas, las bacterias que las descomponen consumen el O₂, creando zonas anóxicas que matan peces.",
+    "pasosResolucion": ["**Paso 1:** Fuente: fertilizantes + aguas residuales → nitratos y fosfatos en el lago.", "**Paso 2:** Nutrientes en exceso → proliferación de algas (bloom algal → agua verdosa).", "**Paso 3:** Bacterias descomponen algas muertas → consumen O₂ → hipoxia → muerte de peces."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=eutrofizacion+lago+algas+contaminacion+agua"
+  },
+  {
+    "id": "cn_real_033", "materia": "Ciencias Naturales", "codigoTema": "3.4.1",
+    "enunciado": "¿En qué parte de la neurona se genera y transmite el impulso nervioso (potencial de acción)?",
+    "opciones": ["A lo largo del axón recubierto de mielina", "En las dendritas exclusivamente", "En el núcleo de la célula nerviosa", "En la sinapsis entre dos neuronas"],
+    "respuestaCorrecta": "A lo largo del axón recubierto de mielina",
+    "explicacionDetallada": "El potencial de acción (impulso nervioso) se genera en el cono axónico y viaja a lo largo del axón. La vaina de mielina actúa como aislante eléctrico, haciendo que el impulso 'salte' entre los nódulos de Ranvier (conducción saltatoria), lo que acelera la transmisión hasta 120 m/s.",
+    "pasosResolucion": ["**Paso 1:** Neurona: dendrita (recibe) → soma (integra) → axón (transmite).", "**Paso 2:** Potencial de acción = cambio de permeabilidad a Na⁺ y K⁺ → se propaga por el axón.", "**Paso 3:** Mielina → conducción saltatoria más rápida (nódulos de Ranvier)."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=potencial+accion+axon+mielina+neurona+biologia"
+  },
+  {
+    "id": "cn_real_034", "materia": "Ciencias Naturales", "codigoTema": "3.5.1",
+    "enunciado": "¿Qué tipo de enlace se forma cuando el sodio (Na) reacciona con el cloro (Cl) para formar NaCl?",
+    "opciones": ["Enlace iónico (Na⁺ y Cl⁻ por transferencia de electrón)", "Enlace covalente no polar", "Enlace metálico", "Enlace covalente polar"],
+    "respuestaCorrecta": "Enlace iónico (Na⁺ y Cl⁻ por transferencia de electrón)",
+    "explicacionDetallada": "El Na tiene 1 electrón de valencia que cede al Cl (7 electrones de valencia). Na → Na⁺ + e⁻ y Cl + e⁻ → Cl⁻. La atracción electrostática entre los iones opuestos forma el enlace iónico. Los compuestos iónicos son sólidos cristalinos, con altos puntos de fusión y conductores en solución.",
+    "pasosResolucion": ["**Paso 1:** Na (Grupo IA) → cede 1e⁻ → Na⁺.", "**Paso 2:** Cl (Grupo VIIA) → acepta 1e⁻ → Cl⁻.", "**Paso 3:** Atracción electrostática Na⁺---Cl⁻ = enlace iónico. Diferencia electronegatividad > 1.7."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=enlace+ionico+NaCl+sodio+cloro+quimica"
+  },
+  {
+    "id": "cn_real_035", "materia": "Ciencias Naturales", "codigoTema": "3.6.1",
+    "enunciado": "Un objeto de 5 kg está en reposo sobre una superficie horizontal sin fricción. Se aplica una fuerza horizontal de 20 N. ¿Cuál es la aceleración del objeto?",
+    "opciones": ["4 m/s²", "100 m/s²", "0.25 m/s²", "25 m/s²"],
+    "respuestaCorrecta": "4 m/s²",
+    "explicacionDetallada": "Por la 2ª Ley de Newton: a = F/m = 20 N / 5 kg = 4 m/s². Al no haber fricción, la única fuerza horizontal es la aplicada. El objeto acelerará uniformemente en la dirección de la fuerza.",
+    "pasosResolucion": ["**Paso 1:** F_neta = F_aplicada (sin fricción).", "**Paso 2:** a = F_neta/m = 20/5 = 4 m/s².", "**Paso 3:** Verificar: F = m × a = 5 kg × 4 m/s² = 20 N ✓"],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=segunda+ley+Newton+aceleracion+fuerza+ejercicio"
+  },
+  {
+    "id": "cn_real_036", "materia": "Ciencias Naturales", "codigoTema": "3.1.2",
+    "enunciado": "¿Cuál es la diferencia entre ADN y ARN?",
+    "opciones": ["El ADN tiene timina y desoxirribosa; el ARN tiene uracilo y ribosa", "El ADN es de cadena simple; el ARN es de doble cadena", "El ADN se encuentra solo en el citoplasma; el ARN solo en el núcleo", "El ADN codifica proteínas directamente; el ARN almacena información genética"],
+    "respuestaCorrecta": "El ADN tiene timina y desoxirribosa; el ARN tiene uracilo y ribosa",
+    "explicacionDetallada": "Diferencias estructurales clave: ADN usa timina (T) y desoxirribosa (sin OH en C2'); ARN usa uracilo (U) y ribosa (con OH en C2'). El ADN es doble cadena (generalmente) y el ARN es de cadena simple. El flujo de información: ADN → ARN (transcripción) → Proteína (traducción).",
+    "pasosResolucion": ["**Paso 1:** ADN: doble cadena, desoxirribosa, bases A-T-C-G.", "**Paso 2:** ARN: cadena simple, ribosa, bases A-U-C-G (U reemplaza T).", "**Paso 3:** Tipos de ARN: ARNm (mensajero), ARNt (transferencia), ARNr (ribosomal)."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=diferencias+ADN+ARN+estructura+bioquimica"
+  },
+  {
+    "id": "cn_real_037", "materia": "Ciencias Naturales", "codigoTema": "3.3.1",
+    "enunciado": "¿Qué evidencia apoya más directamente la teoría de la evolución por selección natural?",
+    "opciones": ["El registro fósil que muestra cambios graduales en especies a través del tiempo", "La existencia de especies idénticas en todos los continentes", "El hecho de que todos los organismos tienen el mismo número de cromosomas", "La ausencia de variación genética entre individuos de la misma especie"],
+    "respuestaCorrecta": "El registro fósil que muestra cambios graduales en especies a través del tiempo",
+    "explicacionDetallada": "El registro fósil proporciona evidencia directa de cambios evolutivos a lo largo del tiempo geológico. También apoyan la evolución: la anatomía comparada (estructuras homólogas y vestigiales), la biogeografía, la embriología comparada, la biología molecular (similitudes en ADN) y la evidencia directa en poblaciones actuales.",
+    "pasosResolucion": ["**Paso 1:** Registro fósil = cambios graduales documentados (ej. evolución del caballo).", "**Paso 2:** Estructuras homólogas (ej. huesos del brazo humano y aleta de ballena) = ancestro común.", "**Paso 3:** Órganos vestigiales (apéndice humano, huesos de pelvis en ballenas) = evolución."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=evidencias+evolucion+registro+fosil+anatomia+comparada"
+  },
+  {
+    "id": "cn_real_038", "materia": "Ciencias Naturales", "codigoTema": "3.3.2",
+    "enunciado": "¿Cuál es la fuente primaria de energía en casi todos los ecosistemas de la Tierra?",
+    "opciones": ["La energía solar capturada por los productores mediante fotosíntesis", "La energía química de los minerales del suelo", "El calor interno de la Tierra (energía geotérmica)", "La energía almacenada en los consumidores primarios"],
+    "respuestaCorrecta": "La energía solar capturada por los productores mediante fotosíntesis",
+    "explicacionDetallada": "El Sol es la fuente de energía primaria de casi todos los ecosistemas. Los productores (plantas, algas) capturan la energía luminosa en la fotosíntesis y la convierten en energía química (glucosa). Esta energía fluye a través de los niveles tróficos con una eficiencia de ~10% en cada nivel.",
+    "pasosResolucion": ["**Paso 1:** Flujo de energía: Sol → Productores → Consumidores primarios → Secundarios.", "**Paso 2:** En cada nivel trófico se pierde ~90% de la energía como calor.", "**Paso 3:** Excepción: ecosistemas quimiotróficos (fondos oceánicos) usan quimiosíntesis."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=flujo+energia+ecosistema+piramide+ecologica"
+  },
+  {
+    "id": "cn_real_039", "materia": "Ciencias Naturales", "codigoTema": "3.4.2",
+    "enunciado": "¿Cuál es el pigmento fotosintético principal en las plantas verdes y en qué organelo se encuentra?",
+    "opciones": ["Clorofila a, en los tilacoides del cloroplasto", "Caroteno, en el citoplasma celular", "Ficoeritrina, en las mitocondrias", "Xantofila, en el retículo endoplasmático"],
+    "respuestaCorrecta": "Clorofila a, en los tilacoides del cloroplasto",
+    "explicacionDetallada": "La clorofila a es el pigmento fotosintético principal (absorbe luz roja y azul-violeta, refleja verde). Se encuentra en las membranas tilacoidales del cloroplasto, organizadas en fotosistemas (PSI y PSII). La clorofila b, carotenoides y xantofilas son pigmentos accesorios.",
+    "pasosResolucion": ["**Paso 1:** Clorofila a = pigmento principal → absorbe longitudes de onda roja (~680nm) y azul (~450nm).", "**Paso 2:** Se encuentra en membranas tilacoidales (grana) del cloroplasto.", "**Paso 3:** Pigmentos accesorios (clorofila b, carotenos) amplían el espectro de absorción."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=clorofila+fotosintesis+cloroplasto+pigmentos"
+  },
+  {
+    "id": "cn_real_040", "materia": "Ciencias Naturales", "codigoTema": "3.5.2",
+    "enunciado": "¿Cuál de las siguientes es una característica única del carbono que le permite formar millones de compuestos orgánicos?",
+    "opciones": ["Su capacidad para formar 4 enlaces covalentes y encadenarse consigo mismo", "Su alta electronegatividad que le permite atraer electrones de otros átomos", "Ser el elemento más abundante en la corteza terrestre", "Tener solo 2 electrones en su nivel de valencia"],
+    "respuestaCorrecta": "Su capacidad para formar 4 enlaces covalentes y encadenarse consigo mismo",
+    "explicacionDetallada": "El carbono (Z=6) tiene 4 electrones de valencia, puede formar 4 enlaces covalentes simultáneos y tiene la capacidad única de unirse a sí mismo (catenación) formando cadenas largas, ramificadas y cíclicas. Esto le permite crear una diversidad enorme de moléculas (aprox. 10 millones de compuestos conocidos).",
+    "pasosResolucion": ["**Paso 1:** Carbono: configuración 2,4 → 4 electrones de valencia → 4 enlaces covalentes.", "**Paso 2:** Catenación: C-C-C-C... cadenas de longitud variable.", "**Paso 3:** Formas de cadenas: lineal, ramificada, cíclica (benceno, ciclohexano)."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=carbono+cuatro+enlaces+covalentes+quimica+organica"
+  }
+]

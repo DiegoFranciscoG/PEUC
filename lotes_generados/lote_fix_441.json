@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cs_441_ex_001",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "La Revolución Industrial, que marcó el inicio del capitalismo moderno en el siglo XVIII, tuvo su origen geográfico principalmente en:",
+    "opciones": [
+      "Inglaterra, debido a sus vastos recursos de carbón y hierro, así como su estabilidad política.",
+      "Francia, impulsada por las ideas económicas de la Revolución Francesa y la Ilustración.",
+      "Alemania, como resultado de la unificación liderada por Prusia y su política mercantilista.",
+      "Estados Unidos, gracias a la expansión territorial hacia el oeste y el descubrimiento de oro."
+    ],
+    "respuesta_correcta": "Inglaterra, debido a sus vastos recursos de carbón y hierro, así como su estabilidad política.",
+    "explicacion_detallada": "La Revolución Industrial comenzó en Inglaterra a mediados del siglo XVIII. Factores como la disponibilidad de materias primas (carbón, hierro), capital acumulado del comercio colonial, innovaciones tecnológicas (máquina de vapor) y un marco político estable propiciaron este desarrollo que sentó las bases del capitalismo industrial.",
+    "pasos_resolucion": [
+      "Identificar el período histórico y el evento principal: Revolución Industrial en el siglo XVIII.",
+      "Recordar qué país lideró la transición hacia la manufactura mecanizada.",
+      "Relacionar los recursos naturales y condiciones sociopolíticas de Inglaterra con el inicio de este proceso."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_441_ex_002",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "Adam Smith, en su obra 'La riqueza de las naciones', introduce el concepto de la 'mano invisible'. ¿Qué describe fundamentalmente este concepto en el marco del capitalismo?",
+    "opciones": [
+      "La autorregulación del libre mercado, donde la búsqueda del beneficio individual conduce al bienestar social.",
+      "La intervención oculta del Estado para corregir las fallas del mercado y asegurar el pleno empleo.",
+      "El poder de la burguesía para manipular los precios en detrimento de la clase trabajadora.",
+      "La fuerza del proletariado organizada de manera clandestina para derrocar al sistema capitalista."
+    ],
+    "respuesta_correcta": "La autorregulación del libre mercado, donde la búsqueda del beneficio individual conduce al bienestar social.",
+    "explicacion_detallada": "Adam Smith acuñó la metáfora de la 'mano invisible' para explicar cómo, en un sistema de libre mercado, los individuos que buscan su propio interés egoísta terminan, sin proponérselo, promoviendo el interés de la sociedad en su conjunto mediante la eficiencia y la asignación óptima de recursos.",
+    "pasos_resolucion": [
+      "Asociar a Adam Smith con el liberalismo económico y el capitalismo clásico.",
+      "Definir el significado de 'mano invisible' en la teoría económica de Smith.",
+      "Descartar las opciones que implican intervención estatal o conceptos marxistas (burguesía/proletariado)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_441_ex_003",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "Según el pensamiento de Karl Marx, el motor principal del cambio histórico y la dinámica fundamental del capitalismo es:",
+    "opciones": [
+      "La lucha de clases entre la burguesía dueña de los medios de producción y el proletariado.",
+      "El equilibrio de la oferta y la demanda a través de la competencia perfecta.",
+      "El progreso tecnológico constante estimulado por la libre iniciativa empresarial.",
+      "La expansión pacífica del comercio internacional mediante el mercantilismo."
+    ],
+    "respuesta_correcta": "La lucha de clases entre la burguesía dueña de los medios de producción y el proletariado.",
+    "explicacion_detallada": "Para Karl Marx, 'la historia de todas las sociedades hasta nuestros días es la historia de la lucha de clases'. En el contexto del capitalismo, esta lucha se da específicamente entre la burguesía (propietarios de los medios de producción) y el proletariado (trabajadores que venden su fuerza de trabajo).",
+    "pasos_resolucion": [
+      "Identificar el enfoque teórico de Karl Marx (materialismo histórico).",
+      "Reconocer las dos clases sociales antagónicas definidas por Marx bajo el sistema capitalista.",
+      "Seleccionar la opción que describe el conflicto central según la teoría marxista."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_441_ex_004",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "¿Qué principio fundamental caracteriza a la doctrina del 'laissez-faire' dentro del desarrollo del capitalismo moderno?",
+    "opciones": [
+      "La mínima o nula intervención del Estado en los asuntos económicos y empresariales.",
+      "La abolición completa de la propiedad privada de los medios de producción.",
+      "El establecimiento de aranceles altos para proteger la industria nacional frente a la extranjera.",
+      "La planificación centralizada de la economía por parte de un gobierno autoritario."
+    ],
+    "respuesta_correcta": "La mínima o nula intervención del Estado en los asuntos económicos y empresariales.",
+    "explicacion_detallada": "El término 'laissez-faire' (dejar hacer) resume la doctrina del liberalismo económico clásico, la cual postula que la economía funciona mejor y produce mayor riqueza cuando el Estado no interfiere mediante regulaciones, impuestos o subsidios, permitiendo el libre juego de la oferta y la demanda.",
+    "pasos_resolucion": [
+      "Traducir o recordar el significado del término francés 'laissez-faire' en el contexto económico.",
+      "Relacionar este principio con el liberalismo económico propuesto por fisiócratas y Adam Smith.",
+      "Identificar la opción que rechaza la intervención estatal."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_441_ex_005",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "En la obra 'El Capital', Marx desarrolla el concepto de 'plusvalía', el cual se refiere a:",
+    "opciones": [
+      "El valor no pagado del trabajo del obrero que es apropiado por el capitalista como ganancia.",
+      "El aumento del valor de los bienes manufacturados debido a la inflación económica.",
+      "La diferencia entre el costo de las materias primas y el precio de venta impulsado por los aranceles.",
+      "El excedente de producción que las naciones capitalistas exportan a sus colonias."
+    ],
+    "respuesta_correcta": "El valor no pagado del trabajo del obrero que es apropiado por el capitalista como ganancia.",
+    "explicacion_detallada": "En la teoría marxista, la plusvalía es el valor adicional que el trabajador produce por encima del valor de su fuerza de trabajo (su salario). Este valor extra es apropiado por el dueño de los medios de producción (el capitalista) y constituye la base de la ganancia capitalista y de la explotación laboral.",
+    "pasos_resolucion": [
+      "Recordar la teoría del valor-trabajo analizada en 'El Capital'.",
+      "Definir 'plusvalía' según Marx.",
+      "Identificar la opción que relaciona la plusvalía con la ganancia capitalista extraída del trabajo."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_441_ex_006",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "El mercantilismo, sistema económico predominante previo al capitalismo industrial, se caracterizaba principalmente por:",
+    "opciones": [
+      "La acumulación de metales preciosos y una fuerte intervención estatal proteccionista.",
+      "El libre comercio internacional absoluto y la eliminación de aduanas.",
+      "La promoción de los derechos sindicales y la reducción de la jornada laboral.",
+      "La propiedad colectiva de la tierra y la producción orientada al autoconsumo rural."
+    ],
+    "respuesta_correcta": "La acumulación de metales preciosos y una fuerte intervención estatal proteccionista.",
+    "explicacion_detallada": "El mercantilismo (siglos XVI-XVIII) consideraba que la riqueza de una nación dependía de la acumulación de metales preciosos (oro y plata). Para lograrlo, los Estados promovían una balanza comercial positiva, fomentando exportaciones y restringiendo importaciones mediante fuertes políticas proteccionistas.",
+    "pasos_resolucion": [
+      "Ubicar históricamente al mercantilismo como antesala del capitalismo liberal.",
+      "Recordar las premisas mercantilistas (bullonismo, balanza comercial favorable).",
+      "Seleccionar la opción que describe el proteccionismo y la acumulación de metales."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_441_ex_007",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "Una de las transformaciones sociales más profundas de la modernidad, impulsada por la Revolución Industrial y el capitalismo naciente, fue:",
+    "opciones": [
+      "La masiva migración del campo a la ciudad, generando una rápida urbanización.",
+      "El fortalecimiento del sistema feudal y el aumento del poder de la nobleza terrateniente.",
+      "La desaparición paulatina del comercio internacional en favor de las economías locales cerradas.",
+      "El retorno a las prácticas artesanales como modelo de producción dominante."
+    ],
+    "respuesta_correcta": "La masiva migración del campo a la ciudad, generando una rápida urbanización.",
+    "explicacion_detallada": "La industrialización concentró la producción en las fábricas ubicadas en las ciudades. Esto provocó el éxodo rural, ya que los campesinos migraron masivamente a los centros urbanos en busca de trabajo asalariado, dando lugar a un rápido e inédito proceso de urbanización característico de la modernidad.",
+    "pasos_resolucion": [
+      "Analizar los impactos sociales de la industrialización.",
+      "Contrastar el modelo de vida preindustrial (rural/agrícola) con el industrial (urbano/fabril).",
+      "Identificar la migración campo-ciudad (urbanización) como un cambio estructural clave."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_441_ex_008",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "El desarrollo del capitalismo industrial en el siglo XIX estuvo estrechamente vinculado con el colonialismo y el imperialismo porque las potencias europeas buscaban:",
+    "opciones": [
+      "Nuevos mercados para sus productos manufacturados y fuentes de materias primas baratas.",
+      "Difundir de forma equitativa las tecnologías industriales hacia los continentes africano y asiático.",
+      "Fomentar la independencia política de los territorios de ultramar para fortalecer el libre comercio global.",
+      "Establecer alianzas militares defensivas frente al avance del bloque socialista."
+    ],
+    "respuesta_correcta": "Nuevos mercados para sus productos manufacturados y fuentes de materias primas baratas.",
+    "explicacion_detallada": "La segunda fase de la Revolución Industrial generó una enorme capacidad productiva. Las potencias capitalistas imperialistas (como Gran Bretaña y Francia) necesitaban materias primas para sus fábricas y nuevos mercados donde vender sus excedentes industriales, motivando la colonización de África y Asia.",
+    "pasos_resolucion": [
+      "Analizar la necesidad económica del capitalismo industrial en su fase de expansión.",
+      "Comprender el rol económico que se asignó a las colonias durante el imperialismo del siglo XIX.",
+      "Seleccionar la opción que describe la búsqueda de materias primas y mercados cautivos."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_441_ex_009",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "Max Weber, en su obra 'La ética protestante y el espíritu del capitalismo', argumenta que:",
+    "opciones": [
+      "Los valores del ascetismo calvinista fomentaron la acumulación racional de capital y el trabajo disciplinado.",
+      "El catolicismo tradicional fue la única fuerza impulsora de las instituciones capitalistas en el sur de Europa.",
+      "La religión actúa siempre como un obstáculo para el progreso económico y la innovación tecnológica.",
+      "El espíritu capitalista surgió exclusivamente por la abundancia de recursos naturales, independientemente de la religión."
+    ],
+    "respuesta_correcta": "Los valores del ascetismo calvinista fomentaron la acumulación racional de capital y el trabajo disciplinado.",
+    "explicacion_detallada": "Max Weber planteó que ciertas corrientes del protestantismo, en especial el calvinismo, promovían valores como el trabajo arduo, la austeridad (ascetismo) y la consideración del éxito económico como una señal de salvación divina. Estos valores éticos proporcionaron el 'espíritu' necesario para el desarrollo del capitalismo moderno.",
+    "pasos_resolucion": [
+      "Identificar la tesis principal del sociólogo Max Weber respecto a la religión y la economía.",
+      "Recordar el vínculo que establece entre la ética del protestantismo (calvinismo) y la mentalidad capitalista.",
+      "Seleccionar la opción que refleja la influencia de los valores calvinistas en la acumulación de capital."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_441_ex_010",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "¿Qué concepto marxista describe la situación en la que el trabajador se siente ajeno al producto de su trabajo y al proceso productivo mismo dentro del sistema capitalista?",
+    "opciones": [
+      "Alienación (o enajenación).",
+      "Materialismo dialéctico.",
+      "Conciencia de clase.",
+      "Determinismo económico."
+    ],
+    "respuesta_correcta": "Alienación (o enajenación).",
+    "explicacion_detallada": "La alienación en la teoría marxista ocurre porque, en el capitalismo, el trabajador no es dueño de los medios de producción ni del producto final. El trabajo se convierte en una actividad mecánica que no le pertenece, haciéndolo sentir ajeno y deshumanizado respecto al acto de producir.",
+    "pasos_resolucion": [
+      "Analizar la descripción: separación o extrañeza del trabajador respecto a su obra.",
+      "Relacionar este fenómeno psicológico y sociológico con el término empleado por Marx.",
+      "Distinguir 'alienación' de otros conceptos filosóficos como materialismo dialéctico."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_441_ex_011",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "Durante la transición hacia el capitalismo y la modernidad, la 'división del trabajo', explicada ampliamente por Adam Smith utilizando el ejemplo de una fábrica de alfileres, tiene como propósito principal:",
+    "opciones": [
+      "Aumentar significativamente la productividad al especializar a los trabajadores en tareas específicas.",
+      "Garantizar que todos los trabajadores dominen por completo la elaboración de un bien de principio a fin.",
+      "Reducir las ganancias del empresario para lograr una distribución más equitativa de los ingresos.",
+      "Fomentar la creatividad artística y la individualidad del artesano durante el proceso fabril."
+    ],
+    "respuesta_correcta": "Aumentar significativamente la productividad al especializar a los trabajadores en tareas específicas.",
+    "explicacion_detallada": "Adam Smith demostró que la división del trabajo (descomponer la producción en tareas simples y especializadas) incrementa enormemente la productividad, ya que ahorra tiempo, mejora la destreza del obrero en su tarea específica y facilita la invención de maquinaria.",
+    "pasos_resolucion": [
+      "Recordar el concepto de 'división del trabajo' en la economía clásica.",
+      "Analizar el objetivo de fraccionar las tareas en el modelo industrial.",
+      "Identificar el aumento de la productividad y eficiencia como el propósito central."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_441_ex_012",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "A principios del siglo XX, el capitalismo experimentó una nueva transformación organizativa conocida como fordismo. Su principal innovación fue:",
+    "opciones": [
+      "La introducción de la cadena de montaje y la producción en masa con consumo de masas.",
+      "El retorno a la agricultura de subsistencia promovido por los primeros ecologistas industriales.",
+      "La nacionalización total de las industrias automotrices para evitar el monopolio privado.",
+      "La eliminación completa de los gerentes y la autogestión de las fábricas por parte de los obreros."
+    ],
+    "respuesta_correcta": "La introducción de la cadena de montaje y la producción en masa con consumo de masas.",
+    "explicacion_detallada": "El fordismo, impulsado por Henry Ford, revolucionó el capitalismo al combinar la producción en masa (gracias a la línea de ensamblaje móvil) con la idea de pagar salarios más altos para que los propios trabajadores pudieran comprar los productos manufacturados (consumo de masas).",
+    "pasos_resolucion": [
+      "Identificar a Henry Ford y sus innovaciones en la industria automotriz.",
+      "Recordar las características del fordismo en la organización del trabajo.",
+      "Relacionar la producción en masa y la cadena de montaje con esta fase capitalista."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_441_ex_013",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "El contraste fundamental entre el sistema económico capitalista puro y el modelo socialista teórico planteado en el siglo XIX radica en:",
+    "opciones": [
+      "La propiedad privada de los medios de producción frente a la propiedad colectiva o estatal de los mismos.",
+      "El uso del dinero metálico frente a la adopción temprana de criptomonedas y dinero fiduciario.",
+      "La promoción de la democracia representativa frente a la defensa de las monarquías absolutistas.",
+      "El desarrollo de la industria pesada frente al enfoque exclusivo en el sector de servicios."
+    ],
+    "respuesta_correcta": "La propiedad privada de los medios de producción frente a la propiedad colectiva o estatal de los mismos.",
+    "explicacion_detallada": "La principal diferencia estructural entre capitalismo y socialismo reside en la propiedad. El capitalismo defiende la propiedad privada y la acumulación de capital por individuos, mientras que el socialismo propugna la propiedad social o estatal de los medios de producción para buscar mayor equidad.",
+    "pasos_resolucion": [
+      "Analizar los pilares económicos de ambas corrientes de pensamiento.",
+      "Identificar el papel del Estado y de la propiedad en el capitalismo versus el socialismo.",
+      "Seleccionar la distinción central referente a la propiedad de los medios de producción."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_441_ex_014",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "En el contexto de la modernidad tardía y la globalización, las empresas multinacionales juegan un rol clave en el capitalismo porque:",
+    "opciones": [
+      "Operan en múltiples países, buscando optimizar costos, acceder a nuevos mercados y recursos a nivel global.",
+      "Se dedican exclusivamente a la filantropía internacional sin fines de lucro en los países en desarrollo.",
+      "Limitan sus actividades al comercio justo impulsado únicamente por organizaciones gubernamentales locales.",
+      "Se someten a la planificación económica central dictada por un único organismo mundial estatal."
+    ],
+    "respuesta_correcta": "Operan en múltiples países, buscando optimizar costos, acceder a nuevos mercados y recursos a nivel global.",
+    "explicacion_detallada": "Las corporaciones multinacionales son actores centrales del capitalismo globalizado. Su característica principal es tener presencia e invertir en varios países para reducir costos de producción, aprovechar ventajas comparativas locales, y expandir su alcance de mercado a nivel planetario.",
+    "pasos_resolucion": [
+      "Definir qué es una empresa multinacional.",
+      "Analizar su función económica dentro del sistema capitalista global.",
+      "Seleccionar la opción que describe la maximización de beneficios a través de la expansión geográfica."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_441_ex_015",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.4.1",
+    "enunciado": "Desde una perspectiva histórica, ¿cuál fue una de las principales consecuencias de la consolidación de la burguesía como clase dominante durante el desarrollo del capitalismo moderno?",
+    "opciones": [
+      "La abolición paulatina de los privilegios estamentales del feudalismo y el ascenso de las revoluciones liberales.",
+      "El restablecimiento de las relaciones de vasallaje para mantener controlados a los trabajadores industriales.",
+      "La renuncia voluntaria al poder político en favor de las antiguas aristocracias terratenientes.",
+      "El rechazo absoluto al desarrollo científico y tecnológico para preservar los gremios medievales."
+    ],
+    "respuesta_correcta": "La abolición paulatina de los privilegios estamentales del feudalismo y el ascenso de las revoluciones liberales.",
+    "explicacion_detallada": "Con el auge del capitalismo, la burguesía (comerciantes, industriales, banqueros) adquirió gran poder económico, lo que la impulsó a buscar también el poder político. Esto derivó en las revoluciones liberales (como la francesa) que abolieron el Antiguo Régimen y sus privilegios estamentales, estableciendo estados modernos basados en la igualdad ante la ley.",
+    "pasos_resolucion": [
+      "Identificar el papel histórico de la burguesía en el paso de la Edad Moderna a la Contemporánea.",
+      "Recordar las transformaciones políticas impulsadas por esta clase (fin del feudalismo/absolutismo).",
+      "Seleccionar la opción que relaciona la burguesía con las revoluciones liberales y el fin de los privilegios estamentales."
+    ],
+    "video_explicativo_url": ""
+  }
+]

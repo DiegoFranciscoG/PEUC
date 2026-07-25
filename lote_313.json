@@ -1,0 +1,332 @@
+[
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.3",
+    "tituloSubtema": "Diversidad biológica y conservación.",
+    "id": "cn_313_001",
+    "enunciado": "El Parque Nacional Yasuní, ubicado en la Amazonía ecuatoriana, es considerado uno de los lugares más biodiversos del planeta. En el contexto de los refugios pleistocénicos, ¿cuál es el mecanismo evolutivo principal que explica la altísima diversidad de especies endémicas en esta región?",
+    "opciones": [
+      "A) La especiación alopátrica por aislamiento geográfico durante los períodos glaciares e interglaciares del Pleistoceno, que fragmentaron el bosque tropical húmedo.",
+      "B) La hibridación simpátrica constante entre especies migrantes provenientes de los Andes y la cuenca amazónica brasileña debido al cambio climático reciente.",
+      "C) La deriva génica generada por el efecto fundador tras la última gran extinción masiva del Holoceno en los bosques inundables de la cuenca amazónica.",
+      "D) La radiación adaptativa impulsada exclusivamente por la introducción de nuevas especies polinizadoras durante el Mioceno tardío."
+    ],
+    "respuesta_correcta": "A) La especiación alopátrica por aislamiento geográfico durante los períodos glaciares e interglaciares del Pleistoceno, que fragmentaron el bosque tropical húmedo.",
+    "explicacion_detallada": "Durante las glaciaciones del Pleistoceno, el clima amazónico se volvió más seco y frío, provocando que la selva húmeda se fragmentara en 'refugios' o islas de vegetación aisladas por sabanas. En estos refugios (como el propuesto para el área del actual Yasuní), las poblaciones biológicas quedaron aisladas, sufriendo procesos de especiación alopátrica. Al retornar las condiciones húmedas, los refugios se expandieron y el bosque se reconectó, integrando la vasta diversidad de especies originadas en aislamiento.",
+    "pasos_resolucion": [
+      "1. Analizar el contexto de los refugios pleistocénicos en la Amazonía, que postula la fragmentación temporal de la selva continua debido a fluctuaciones climáticas.",
+      "2. Identificar el mecanismo evolutivo operante: cuando las poblaciones se separan geográficamente y quedan aisladas por barreras, ocurre especiación alopátrica.",
+      "3. Descartar la hibridación (opción B) y la deriva génica del Holoceno (opción C) por errores cronológicos y conceptuales sobre el origen de esta megadiversidad.",
+      "4. Descartar la opción D, ya que la radiación por polinizadores del Mioceno no concuerda con el mecanismo estricto de los refugios del Pleistoceno."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=EjemploYasuniRefugios"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.3",
+    "tituloSubtema": "Diversidad biológica y conservación.",
+    "id": "cn_313_002",
+    "enunciado": "Según el marco del Sistema Nacional de Áreas Protegidas (SNAP) del Ecuador, la conservación in situ es la estrategia principal para preservar la diversidad biológica. ¿Cuál de las siguientes acciones representa estrictamente una medida de conservación in situ?",
+    "opciones": [
+      "A) El mantenimiento de poblaciones viables del cóndor andino (Vultur gryphus) en la Reserva Ecológica Antisana, permitiendo su desarrollo evolutivo en su entorno natural.",
+      "B) La criopreservación de semillas de especies endémicas de orquídeas del bosque nublado en el banco de germoplasma del INIAP.",
+      "C) La reproducción en cautiverio de la rana marsupial andina en los laboratorios del centro de investigación académica Balsa de los Sapos.",
+      "D) La exhibición de especímenes rescatados de tapir amazónico (Tapirus terrestris) en el zoológico de Guayllabamba para programas de educación ambiental."
+    ],
+    "respuesta_correcta": "A) El mantenimiento de poblaciones viables del cóndor andino (Vultur gryphus) en la Reserva Ecológica Antisana, permitiendo su desarrollo evolutivo en su entorno natural.",
+    "explicacion_detallada": "La conservación in situ implica el mantenimiento y recuperación de poblaciones viables de especies en sus ecosistemas naturales o hábitats originarios, permitiendo que continúen sus procesos evolutivos. La Reserva Ecológica Antisana protege al cóndor andino en estado silvestre, cumpliendo este concepto. Las demás opciones corresponden a métodos de conservación ex situ (bancos de germoplasma, cría en laboratorios y zoológicos).",
+    "pasos_resolucion": [
+      "1. Recordar la definición de conservación in situ (protección dentro del hábitat original).",
+      "2. Identificar qué opción describe una medida en un entorno natural y silvestre.",
+      "3. Descartar la criopreservación, el laboratorio y el zoológico, pues son técnicas ex situ que retiran la especie de su ecosistema natural.",
+      "4. Confirmar que la población silvestre de cóndores en la Reserva Antisana representa la alternativa correcta."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=EjemploInSituEcuador"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.3",
+    "tituloSubtema": "Diversidad biológica y conservación.",
+    "id": "cn_313_003",
+    "enunciado": "La fragmentación de los bosques húmedos del Chocó biogeográfico en la costa ecuatoriana genera el denominado 'efecto de borde'. ¿Cuál es una consecuencia ecológica directa de este efecto sobre las poblaciones de flora y fauna remanentes en los parches de bosque?",
+    "opciones": [
+      "A) El aumento de la temperatura, la disminución de la humedad relativa y la mayor vulnerabilidad a la invasión de especies exóticas en la periferia del parche boscoso.",
+      "B) El incremento en el flujo génico inter-poblacional, favoreciendo la variabilidad genética y la especiación simpátrica en el centro del ecosistema boscoso.",
+      "C) La ampliación del rango de forrajeo de los depredadores ápice, como el jaguar, lo que disminuye la competencia interespecífica en fragmentos de menor tamaño.",
+      "D) La homogenización del microclima en todo el fragmento, lo que estabiliza las tasas fotosintéticas de las especies vegetales de dosel intolerantes a la sombra."
+    ],
+    "respuesta_correcta": "A) El aumento de la temperatura, la disminución de la humedad relativa y la mayor vulnerabilidad a la invasión de especies exóticas en la periferia del parche boscoso.",
+    "explicacion_detallada": "El efecto de borde ocurre cuando el interior profundo de un bosque queda expuesto tras ser fragmentado o talado. Los bordes se ven sometidos a mayor radiación solar y exposición al viento, incrementando la temperatura y reduciendo la humedad. Este estrés microclimático debilita las especies nativas del interior, facilita el acceso de depredadores y de especies ruderales invasoras, degradando progresivamente el remanente de bosque.",
+    "pasos_resolucion": [
+      "1. Definir el 'efecto de borde' en ecología de fragmentación espacial.",
+      "2. Analizar el cambio en las variables abióticas de los márgenes: hay más insolación y viento, lo cual eleva la temperatura y seca el ambiente.",
+      "3. Relacionar este disturbio climático con alteraciones bióticas (llegada de especies oportunistas e invasoras).",
+      "4. Descartar la homogenización climática y los supuestos beneficios al flujo génico, que son contrarios a los efectos negativos reales de la fragmentación."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=EjemploEfectoBorde"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.3",
+    "tituloSubtema": "Diversidad biológica y conservación.",
+    "id": "cn_313_004",
+    "enunciado": "Norman Myers acuñó el término 'hotspot' (punto caliente) de biodiversidad para definir regiones con excepcional concentración de especies endémicas que enfrentan amenazas extremas de destrucción. Ecuador comparte territorio con dos de estos hotspots. ¿Cuáles son estas dos ecorregiones reconocidas a nivel mundial?",
+    "opciones": [
+      "A) Los Andes Tropicales y el Tumbes-Chocó-Magdalena.",
+      "B) La cuenca del Amazonas y el Cerrado sudamericano.",
+      "C) Los Andes Centrales y el Bosque Atlántico occidental.",
+      "D) El Tumbes-Chocó-Magdalena y la Patagonia andina."
+    ],
+    "respuesta_correcta": "A) Los Andes Tropicales y el Tumbes-Chocó-Magdalena.",
+    "explicacion_detallada": "Ecuador, siendo un país megadiverso, incluye parte de dos hotspots globales clave según Conservation International (basado en Myers). La primera ecorregión son los Andes Tropicales, que atraviesan de norte a sur el país (la zona más biodiversa del mundo); y la segunda es el Tumbes-Chocó-Magdalena (bosques húmedos del Chocó ecuatoriano y bosques secos tumbesinos en la costa).",
+    "pasos_resolucion": [
+      "1. Recordar la definición de un 'hotspot' de biodiversidad y su listado a nivel global.",
+      "2. Identificar qué ecorregiones altamente endémicas y amenazadas abarcan el territorio ecuatoriano.",
+      "3. Reconocer a los 'Andes Tropicales' y 'Tumbes-Chocó-Magdalena' como las dos unidades aplicables a Ecuador.",
+      "4. Descartar opciones que involucren biomas de otros países (Cerrado, Patagonia, Bosque Atlántico)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=EjemploHotspotsEcuador"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.3",
+    "tituloSubtema": "Diversidad biológica y conservación.",
+    "id": "cn_313_005",
+    "enunciado": "La CITES (Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres) clasifica a las especies en tres Apéndices. Si una especie arbórea endémica del Ecuador, altamente explotada por su madera, está listada en el Apéndice I, ¿qué regulación comercial internacional se aplica?",
+    "opciones": [
+      "A) Se prohíbe terminantemente su comercio internacional con fines comerciales; solo se permite bajo circunstancias excepcionales, como para investigación científica.",
+      "B) Se permite su comercio internacional libremente, siempre y cuando el país exportador emita un certificado de manejo sostenible avalado por la autoridad ambiental.",
+      "C) Se restringe su comercio únicamente entre países sudamericanos, estableciendo cuotas de exportación anuales determinadas por la convención.",
+      "D) Se requiere un permiso exclusivo de importación, pero se exime del certificado de exportación si la madera proviene de plantaciones mixtas forestales."
+    ],
+    "respuesta_correcta": "A) Se prohíbe terminantemente su comercio internacional con fines comerciales; solo se permite bajo circunstancias excepcionales, como para investigación científica.",
+    "explicacion_detallada": "El Apéndice I de CITES agrupa a las especies de flora y fauna amenazadas de extinción cuyo comercio está regulado más estrictamente. Prohíbe totalmente todo comercio internacional con propósitos netamente comerciales. El traslado o comercio entre países solo se autoriza por motivos que no perjudiquen la supervivencia de la especie, fundamentalmente con fines de investigación científica o biomédica.",
+    "pasos_resolucion": [
+      "1. Repasar los lineamientos de la Convención CITES y la función de sus apéndices.",
+      "2. Identificar que el Apéndice I agrupa a las especies con mayor riesgo crítico por presión comercial.",
+      "3. Determinar que la principal consecuencia de pertenecer al Apéndice I es la prohibición general del comercio internacional lucrativo.",
+      "4. Seleccionar la opción que describe la prohibición comercial y las excepciones científicas (Opción A)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=EjemploCITES"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.3",
+    "tituloSubtema": "Diversidad biológica y conservación.",
+    "id": "cn_313_006",
+    "enunciado": "Las especies exóticas invasoras representan una de las mayores amenazas para la diversidad biológica en sistemas insulares. En el Parque Nacional Galápagos, la mora (Rubus niveus) es una planta altamente invasora. ¿Cuál es el principal impacto ecológico de esta especie en el ecosistema endémico del archipiélago?",
+    "opciones": [
+      "A) Forma densos matorrales que impiden el paso de luz solar al estrato herbáceo, desplazando especies endémicas y alterando el hábitat crítico para la fauna local.",
+      "B) Se hibrida rápidamente con las especies nativas de arbustos, provocando introgresión genética y la pérdida paulatina de los alelos endémicos de la flora insular.",
+      "C) Modifica irreversiblemente el pH del suelo volcánico al secretar toxinas alcaloides, haciendo inviable el crecimiento de cactáceas endémicas del género Opuntia.",
+      "D) Agota por completo los limitados acuíferos subterráneos de las islas áridas por su alto metabolismo estomático, privando de agua superficial a reptiles endémicos."
+    ],
+    "respuesta_correcta": "A) Forma densos matorrales que impiden el paso de luz solar al estrato herbáceo, desplazando especies endémicas y alterando el hábitat crítico para la fauna local.",
+    "explicacion_detallada": "Rubus niveus (mora) es extremadamente perjudicial en Galápagos por su alta tasa de crecimiento, formando un dosel denso de hasta tres metros que domina el estrato medio y bajo (sotobosque). Esto asfixia el crecimiento y la regeneración por semillas de plantas vasculares endémicas como la Scalesia pedunculata (margarita gigante) al bloquear la luz solar, lo que a su vez destruye el hábitat y alimento de especies animales asociadas (ej. pinzones).",
+    "pasos_resolucion": [
+      "1. Identificar la especie invasora (mora - Rubus niveus) en Galápagos y su patrón de crecimiento leñoso e invasivo.",
+      "2. Recordar el impacto directo sobre la vegetación nativa en ecosistemas frágiles, el cual es la competencia asimétrica por espacio y luz.",
+      "3. Diferenciar este mecanismo (competencia biológica y bloqueo de luz) de otras teorías sin evidencia abrumadora (como toxicidad química sistémica o hibridación).",
+      "4. Elegir la opción que describe la formación de matorrales densos y el desplazamiento de especies endémicas."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=EjemploInvasorasGalapagos"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.3",
+    "tituloSubtema": "Diversidad biológica y conservación.",
+    "id": "cn_313_007",
+    "enunciado": "El Ecuador alberga una megadiversidad de anfibios, destacando el género Atelopus (ranas arlequines). Según los registros científicos y listas rojas recientes, muchas de estas especies andinas han sufrido extinciones locales masivas. ¿Cuál es el patógeno biológico considerado la causa directa del mayor declive mundial en la historia reciente de estos anfibios?",
+    "opciones": [
+      "A) El hongo quitridio (Batrachochytrium dendrobatidis), que provoca quitridiomicosis, una infección letal que deteriora el intercambio de gases y la osmorregulación cutánea.",
+      "B) El nematodo parásito de las vías respiratorias (Rhabdias spp.), introducido por alevines de truchas que consumen huevos nativos en los sistemas lóticos altoandinos.",
+      "C) Una variante de la bacteria Mycobacterium marinum, causante de úlceras incurables diseminada por la competencia trófica con la rana toro exótica (Lithobates catesbeianus).",
+      "D) El ranavirus, mutado a gran altura, que ataca exclusivamente los renacuajos impidiendo su metamorfosis durante el desarrollo en cuerpos de agua temporales del páramo."
+    ],
+    "respuesta_correcta": "A) El hongo quitridio (Batrachochytrium dendrobatidis), que provoca quitridiomicosis, una infección letal que deteriora el intercambio de gases y la osmorregulación cutánea.",
+    "explicacion_detallada": "La quitridiomicosis, originada por el hongo Batrachochytrium dendrobatidis (Bd), infecta la queratina de la piel de los anfibios en su fase adulta. Dado que estos animales dependen de su piel altamente permeable para respirar e intercambiar electrolitos con su medio hídrico, la infección resulta en fallos cardíacos y respiratorios. Ha sido el principal factor detrás del declive catastrófico del género Atelopus en Sudamérica.",
+    "pasos_resolucion": [
+      "1. Analizar el contexto del declive anfibio neotropical, que fue extremadamente rápido en las décadas de los 80 y 90.",
+      "2. Relacionar este declive poblacional con la emergencia de una enfermedad epizoótica a escala global.",
+      "3. Identificar el agente patógeno Bd (hongo quitridio) y su patogénesis (destrucción de la epidermis vital para la osmorregulación anura).",
+      "4. Escoger la opción A que menciona al Batrachochytrium dendrobatidis y sus síntomas críticos correctos."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=EjemploHongoQuitridio"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.3",
+    "tituloSubtema": "Diversidad biológica y conservación.",
+    "id": "cn_313_008",
+    "enunciado": "En ecología de comunidades y conservación, para cuantificar la diversidad biológica de un ecosistema (biodiversidad alfa) se utilizan índices matemáticos. El índice de Shannon-Wiener (H') es extensamente empleado. ¿Qué componentes estructurales de la comunidad biológica integra de forma simultánea este índice matemático?",
+    "opciones": [
+      "A) La riqueza de especies (número total de taxones distintos) y la equitatividad o abundancia relativa (distribución proporcional de individuos por cada especie).",
+      "B) Exclusivamente la riqueza específica bruta, contabilizando el número total de especies observadas sin considerar el tamaño numérico real de sus poblaciones.",
+      "C) La tasa de recambio biológico de especies entre dos ecosistemas diferentes y contiguos (diversidad beta) junto con el grado de endemismo geográfico local.",
+      "D) La biomasa total neta acumulada por los productores primarios del nivel trófico inferior en relación inversa con la tasa local de extinción de los depredadores ápice."
+    ],
+    "respuesta_correcta": "A) La riqueza de especies (número total de taxones distintos) y la equitatividad o abundancia relativa (distribución proporcional de individuos por cada especie).",
+    "explicacion_detallada": "Para medir la biodiversidad local (alfa diversidad) de un sitio, el índice de Shannon-Wiener evalúa matemáticamente tanto el número total de especies presentes (riqueza) como la uniformidad con la que se distribuyen los individuos entre estas especies (equitatividad o paridad). Una comunidad con muchas especies representadas en proporciones similares tendrá un alto índice H'.",
+    "pasos_resolucion": [
+      "1. Definir qué tipo de diversidad mide el índice H' (diversidad alfa dentro de una comunidad puntual).",
+      "2. Recordar la ecuación matemática de Shannon-Wiener y los parámetros que la alimentan (la proporción pi de cada especie).",
+      "3. Interpretar qué representan dichos parámetros ecológicamente: 'riqueza' de especies y 'abundancia relativa' (equitatividad).",
+      "4. Descartar las opciones B (solo riqueza), C (diversidad beta) y D (biomasa y tasas de extinción)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=EjemploIndiceShannon"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.3",
+    "tituloSubtema": "Diversidad biológica y conservación.",
+    "id": "cn_313_009",
+    "enunciado": "Los ecosistemas de manglar en el estuario del Golfo de Guayaquil proveen múltiples servicios ecosistémicos cruciales para la biodiversidad marina local. Desde la perspectiva de su conservación estructural, ¿qué función físico-biológica desempeñan primariamente las intrincadas raíces fúlcreas del mangle rojo (Rhizophora mangle)?",
+    "opciones": [
+      "A) Actúan como barreras físicas tridimensionales que ralentizan corrientes, retienen grandes cantidades de sedimento para prevenir la erosión y sirven de áreas seguras de cría para alevines.",
+      "B) Liberan activamente ácido sulfhídrico (H2S) al medio acuático somero, lo que impide naturalmente la proliferación de algas tóxicas durante las épocas lluviosas de pleamar alta.",
+      "C) Absorben nitrógeno atmosférico libre de forma directa debido a una coevolución endosimbiótica exclusiva con cianobacterias pélagicas, exportando nutrientes al océano abierto.",
+      "D) Reflejan pasivamente gran parte de la radiación ultravioleta incidente a través de glándulas secretoras de sal, actuando como el principal regulador del microclima estuarino regional."
+    ],
+    "respuesta_correcta": "A) Actúan como barreras físicas tridimensionales que ralentizan corrientes, retienen grandes cantidades de sedimento para prevenir la erosión y sirven de áreas seguras de cría para alevines.",
+    "explicacion_detallada": "Las raíces fúlcreas (raíces adventicias en forma de zancos) del mangle rojo forman una densa red física impenetrable para muchos depredadores mayores, convirtiendo al manglar en una 'guardería' biológica para crustáceos, moluscos y alevines (peces jóvenes). Además, este entramado disminuye la energía del oleaje y las corrientes marinas, facilitando la sedimentación y consolidando así la franja costera para prevenir la erosión marina.",
+    "pasos_resolucion": [
+      "1. Relacionar la morfología característica del Rhizophora mangle (raíces zancudas o fúlcreas) con el ambiente intermareal estuarino.",
+      "2. Determinar la función mecánica e hidrodinámica del manglar: disipar la energía del agua, lo que promueve la retención del cieno fangoso.",
+      "3. Determinar la función ecológica biológica: el refugio tridimensional sirve para evadir a grandes peces marinos, operando como sitio de cría.",
+      "4. Descartar los otros procesos bioquímicos que no corresponden a la función anatómica de la raíz fúlcrea (fijación gaseosa del N2 o refracción lumínica)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=EjemploRaicesManglar"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.3",
+    "tituloSubtema": "Diversidad biológica y conservación.",
+    "id": "cn_313_010",
+    "enunciado": "La creación de infraestructuras biológicas como el 'Corredor Ecológico Llanganates-Sangay' busca entrelazar grandes reservas naturales en los Andes orientales ecuatorianos. ¿Cuál es la principal ventaja genética fundamental a largo plazo que proporciona este tipo de conectividad espacial para poblaciones ralas de grandes mamíferos endémicos, como el tapir de montaña?",
+    "opciones": [
+      "A) Facilita el flujo génico constante entre metapoblaciones temporalmente aisladas, mitigando así la depresión por endogamia y manteniendo una elevada variabilidad genética frente a presiones.",
+      "B) Elimina por completo las causas subyacentes de mortalidad antrópica directa, al estar prohibido cualquier asentamiento poblacional indígena o mestizo en el radio del corredor.",
+      "C) Incrementa significativamente la tasa de especiación simpátrica en el área, haciendo que los individuos desarrollen nuevos morfotipos al competir intensamente en la franja inter-reserva.",
+      "D) Fomenta la deriva genética mediante el efecto cuello de botella recurrente, lo que asegura que las mutaciones dominantes ventajosas se estabilicen más rápido en toda la especie."
+    ],
+    "respuesta_correcta": "A) Facilita el flujo génico constante entre metapoblaciones temporalmente aisladas, mitigando así la depresión por endogamia y manteniendo una elevada variabilidad genética frente a presiones.",
+    "explicacion_detallada": "Los corredores ecológicos restablecen la conectividad del paisaje interrumpiendo el aislamiento geográfico de las subpoblaciones causado por la infraestructura humana. Esto permite la migración de individuos dispersores (ej. machos jóvenes de tapir, pumas, osos), lo que asegura el intercambio de material genético (flujo génico) entre las áreas del Sangay y Llanganates, previniendo el empobrecimiento genético por cruzamiento entre familiares (endogamia).",
+    "pasos_resolucion": [
+      "1. Recordar la función principal de un corredor biológico: reconectar fragmentos de hábitat y mitigar los daños ecológicos de las barreras antrópicas.",
+      "2. Analizar el impacto sobre la genética de poblaciones: el aislamiento conduce a endogamia y pérdida de vigor híbrido.",
+      "3. Relacionar la conectividad del hábitat con el paso fluido de individuos reproductores (flujo génico inter-poblacional).",
+      "4. Seleccionar la opción que plantea la mitigación de la endogamia como la base fundamental de su justificación genética."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=EjemploCorredoresEcologicos"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.3",
+    "tituloSubtema": "Diversidad biológica y conservación.",
+    "id": "cn_313_011",
+    "enunciado": "Ecuador posee más de 4000 especies de orquídeas documentadas, una vasta proporción correspondiente a plantas epífitas microendémicas de los frágiles bosques nublados andinos (ej. género Dracula). Debido a su extrema coevolución con polinizadores de dípteros específicos, si un cambio térmico hiciera desaparecer localmente a la mosca mutualista, ¿qué evento reproductivo inminente experimentaría la orquídea?",
+    "opciones": [
+      "A) Padecería una interrupción total de su ciclo de fecundación sexual entomófila, decreciendo la producción viable de semillas y elevando el riesgo demográfico de extinción biológica local.",
+      "B) Expresaría mecanismos genéticos recesivos de autopolinización obligada (cleistogamia) en la siguiente temporada floral para compensar la ausencia biótica sin alterar su genoma general.",
+      "C) Modificaría el diámetro y coloración de su labelo de manera inmediata durante el mismo año fenológico para atraer biológicamente a murciélagos nectarívoros u otros vectores generalistas.",
+      "D) Adoptaría automáticamente un sistema de dispersión vegetativa masiva desde el sistema radicular, suplantando por completo y permanentemente su fase gametofítica reproductora."
+    ],
+    "respuesta_correcta": "A) Padecería una interrupción total de su ciclo de fecundación sexual entomófila, decreciendo la producción viable de semillas y elevando el riesgo demográfico de extinción biológica local.",
+    "explicacion_detallada": "Las relaciones altamente especializadas de coevolución significan que las orquídeas microendémicas dependen exclusivamente de una o unas pocas especies de insectos para trasladar su polen. La pérdida de su polinizador específico conlleva el fracaso inmediato de la polinización cruzada (fecundación entomófila). Las plantas no pueden adaptar rápida y conscientemente sus genotipos o morfologías en una o dos temporadas; la falta de reproducción sexual lleva a la senescencia poblacional sin descendencia.",
+    "pasos_resolucion": [
+      "1. Comprender el concepto ecológico de mutualismo altamente especializado y coevolutivo (orquídea-mosca).",
+      "2. Determinar la dependencia anatómica y fenológica de la flor respecto a su único vector zoológico.",
+      "3. Deducir qué sucede si se elimina al vector: la transferencia de los polinios fracasa.",
+      "4. Descartar las ideas de lamarckismo o adaptación morfológica inmediata y espontánea (opciones B, C y D carecen de sustento biológico darwiniano). Seleccionar el inminente riesgo de extinción local (A)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=EjemploCoevolucionOrquideas"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.3",
+    "tituloSubtema": "Diversidad biológica y conservación.",
+    "id": "cn_313_012",
+    "enunciado": "El bioma altoandino de páramo neotropical (presente por encima de los 3300 m s.n.m. en Ecuador) soporta condiciones climáticas extremas y gran oscilación térmica. Para sobrevivir a la alta desecación eólica, heladas nocturnas y alta radiación UV diaria, ¿qué adaptación anatómica y morfológica predomina en especies vegetales leñosas como la chuquiragua (Chuquiraga jussieui)?",
+    "opciones": [
+      "A) La presencia de hojas de textura dura, esclerófilas y coriáceas, que al ser pequeñas y rígidas minimizan fuertemente la pérdida de agua por evapotranspiración estomática.",
+      "B) El desarrollo de extensos neumatóforos perennes (raíces respiratorias) que sobresalen del suelo hidromórfico turboso para intercambiar oxígeno de forma exclusiva en la zona radicular.",
+      "C) La activación de una vía fotosintética estricta de fijación simbiótica C4 que permite asimilar nitrógeno atmosférico solamente cuando las temperaturas matutinas descienden del punto de congelación.",
+      "D) La producción estacional de macrófilas (hojas de lámina inmensamente ancha y delgada) para aprovechar al máximo los tenues picos fotónicos que atraviesan los estratos de nubes andinas."
+    ],
+    "respuesta_correcta": "A) La presencia de hojas de textura dura, esclerófilas y coriáceas, que al ser pequeñas y rígidas minimizan fuertemente la pérdida de agua por evapotranspiración estomática.",
+    "explicacion_detallada": "A pesar de ser ecosistemas muy húmedos en el sustrato, las plantas del páramo sufren 'sequía fisiológica' (el agua helada del suelo es difícil de absorber) combinada con fuertes vientos desecantes e insolación de alta montaña. Las plantas altoandinas adaptan morfologías xerofíticas, tales como hojas duras (coriáceas/esclerófilas), cubiertas pubescentes y portes achaparrados, para atrapar la humedad y retener el calor al máximo, reduciendo significativamente la transpiración.",
+    "pasos_resolucion": [
+      "1. Identificar las tensiones abióticas primarias de la alta cordillera (vientos, oscilación térmica drástica, alta UV y frío radicular).",
+      "2. Recordar las estrategias anatómicas xerofíticas (morfología protectora para conservar el recurso hídrico).",
+      "3. Reconocer la esclerofilia (hojas gruesas, pequeñas y coriáceas) como característica fundamental en arbustos como la chuquiragua.",
+      "4. Diferenciarla de los neumatóforos (mangles), fotosíntesis C4 con asimilación simbiótica errónea, o macrófilas (bosque húmedo tropical del sotobosque)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=EjemploAdaptacionesParamo"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.3",
+    "tituloSubtema": "Diversidad biológica y conservación.",
+    "id": "cn_313_013",
+    "enunciado": "El Sistema Nacional de Áreas Protegidas (SNAP) del Ministerio del Ambiente agrupa zonas bajo diferentes categorías legales de conservación. Teniendo en cuenta sus metas de uso, ¿qué atributo central diferencia a una 'Reserva Ecológica' de un área categorizada puramente como 'Parque Nacional' en el contexto legal y social ecuatoriano?",
+    "opciones": [
+      "A) Las Reservas Ecológicas toleran cierto grado de actividades extractivas tradicionales y aprovechamiento sustentable por las comunidades ancestrales arraigadas, lo cual es inaceptable en los estables Parques Nacionales destinados fundamentalmente a la intangibilidad biológica.",
+      "B) Los Parques Nacionales son administrados en su totalidad mediante concesiones a entidades privadas transnacionales para el turismo masivo, mientras que la Reserva Ecológica pertenece enteramente a los gobiernos parroquiales descentralizados.",
+      "C) Las Reservas Ecológicas carecen de un mandato para proteger vertebrados endémicos, enfocándose sólo en formaciones geológicas terrestres, mientras que el Parque Nacional está abocado netamente a la recuperación de cuencas hidrológicas internacionales.",
+      "D) Los Parques Nacionales se limitan a preservar exclusivamente territorios insulares y marinos de aguas profundas continentales, dejando a las Reservas Ecológicas el amparo privativo de las áreas boscosas continentales amazónicas."
+    ],
+    "respuesta_correcta": "A) Las Reservas Ecológicas toleran cierto grado de actividades extractivas tradicionales y aprovechamiento sustentable por las comunidades ancestrales arraigadas, lo cual es inaceptable en los estables Parques Nacionales destinados fundamentalmente a la intangibilidad biológica.",
+    "explicacion_detallada": "Un Parque Nacional en Ecuador se caracteriza por poseer ecosistemas poco alterados, priorizando la preservación estricta de su biodiversidad, y permite primordialmente ecoturismo e investigación; es un área intangible donde no se admite extracción de recursos o asentamientos. Una Reserva Ecológica resguarda especies silvestres de valor alto, pero sí comprende interacciones histórico-culturales, admitiendo el manejo regulado de ciertos recursos naturales y prácticas agrícolas tradicionales de comunidades ya establecidas ahí.",
+    "pasos_resolucion": [
+      "1. Diferenciar el marco regulatorio del nivel de preservación entre categorías del SNAP.",
+      "2. Establecer que 'Parque Nacional' implica el grado máximo de protección paisajística y biológica a nivel terrestre y acuático, con mínima injerencia de extracción utilitaria.",
+      "3. Conocer que la 'Reserva Ecológica' puede incluir presencia de pueblos ancestrales que mantienen un modo de vida tradicional compatible con la conservación sustentable del entorno.",
+      "4. Elegir la opción que describe claramente la diferencia entre intangibilidad de un parque versus el uso sustentable de una reserva."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=EjemploParquesVsReservas"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.3",
+    "tituloSubtema": "Diversidad biológica y conservación.",
+    "id": "cn_313_014",
+    "enunciado": "A mediados del siglo XX, la población entera de la tortuga gigante de la isla Española (Chelonoidis hoodensis) en las Galápagos sufrió una drástica reducción demográfica a tan solo 15 ejemplares, padeciendo un evento evolutivo denominado 'cuello de botella genético'. Desde la conservación moderna, ¿cuál es el daño subyacente más severo que enfrenta esta especie hoy en día por aquel evento, aun cuando su número poblacional ha vuelto a miles de individuos?",
+    "opciones": [
+      "A) La persistente alta homocigosis y profunda depresión por endogamia originada en los fundadores, que aminora en gran medida su plasticidad evolutiva y resistencia inmunológica futura.",
+      "B) La propensión inmediata y acelerada de desarrollar alelos súper dominantes de mutaciones letales que impedirán la oviposición en menos de una década silvestre.",
+      "C) La irreversibilidad del polimorfismo genético hipervariable, que ocasiona que las hembras expulsen sistemáticamente a los machos en cada ciclo reproductivo afectando la etología.",
+      "D) El incremento irreversible de su metabolismo basal, que obliga a la población de quelonios a migrar anualmente hacia corrientes oceánicas muy frías alterando su fisiología insular natural."
+    ],
+    "respuesta_correcta": "A) La persistente alta homocigosis y profunda depresión por endogamia originada en los fundadores, que aminora en gran medida su plasticidad evolutiva y resistencia inmunológica futura.",
+    "explicacion_detallada": "Un cuello de botella genético ocurre cuando una especie se reduce drásticamente, perdiendo en el evento a la gran mayoría de sus linajes y genotipos. Los pocos sobrevivientes (15 en Española) que repueblan la especie originan una descendencia altamente emparentada (endogamia). La falta de diversidad alélica incrementa la homocigosis de enfermedades y merma la capacidad adaptativa de las tortugas ante nuevos parásitos, patógenos o cambios climáticos, una deficiencia que tarda milenios en sanar.",
+    "pasos_resolucion": [
+      "1. Definir el término biológico 'cuello de botella demográfico' y sus resultados genotípicos en pequeñas poblaciones.",
+      "2. Deducir que, al cruzar genéticamente solo 15 individuos aislados, la pérdida de alelos (variabilidad) es inevitable.",
+      "3. Identificar que esta carencia genética causa depresión endogámica (alta homocigosis recesiva) que mengua el éxito biológico global a largo plazo.",
+      "4. Excluir las otras respuestas que plantean anomalías etológicas (migraciones oceánicas de tortugas terrestres) o hipervariabilidad (un cuello de botella causa exactamente lo opuesto)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=EjemploCuelloDeBotellaTortugas"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.1.3",
+    "tituloSubtema": "Diversidad biológica y conservación.",
+    "id": "cn_313_015",
+    "enunciado": "A través del programa 'Hombre y Biosfera' (MaB), la UNESCO reconoce a vastas ecorregiones del Ecuador, como Podocarpus-El Cóndor, como 'Reservas de Biosfera'. La estructura territorial de estas reservas exige estrictamente una planificación tripartita. De estas, ¿cuál es la única función que puede ejercerse lícitamente dentro del área delimitada como 'zona núcleo'?",
+    "opciones": [
+      "A) Mantenerse bajo protección jurídica estricta, priorizando incondicionalmente la salvaguardia íntegra de la biodiversidad, ecosistemas prístinos e investigaciones biológicas de carácter no destructivo.",
+      "B) Permitir exclusivamente la instauración de actividades de extracción y aprovechamiento forestal a gran escala para poder generar los rubros económicos necesarios que sostengan la conservación periférica del lugar.",
+      "C) Actuar como el cordón territorial externo que fomenta la agricultura intensiva monocultivadora y la expansión urbana planificada para integrar de forma socioeconómica a las etnias locales.",
+      "D) Funcionar como una represa experimental dedicada a evaluar el impacto de las centrales hidroeléctricas transnacionales en zonas sísmicas para salvaguardar futuros proyectos energéticos estatales."
+    ],
+    "respuesta_correcta": "A) Mantenerse bajo protección jurídica estricta, priorizando incondicionalmente la salvaguardia íntegra de la biodiversidad, ecosistemas prístinos e investigaciones biológicas de carácter no destructivo.",
+    "explicacion_detallada": "La zonificación de una Reserva de Biosfera consta de tres áreas concéntricas o colindantes: núcleo, amortiguamiento y transición. La 'zona núcleo' tiene la categoría de protección más absoluta de todo el modelo; su propósito intrínseco es la preservación a largo plazo de los ecosistemas intocados o hábitats amenazados, sirviendo de laboratorio prístino para la investigación científica, libre de presencia extractiva, urbana o maderera comercial.",
+    "pasos_resolucion": [
+      "1. Conceptualizar el modelo territorial de Reservas de Biosfera impulsado por la UNESCO.",
+      "2. Identificar las tres zonas que componen legalmente este sistema (Núcleo, Amortiguamiento, y Área de Transición o Cooperación).",
+      "3. Determinar el propósito de la 'zona núcleo': es el corazón del área, y debe conservarse lo más inalterado posible.",
+      "4. Descartar cualquier actividad antrópica impactante dentro de esta área central, tales como hidroeléctricas, monocultivos o tala industrial. Seleccionar la opción de preservación íntegra."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/watch?v=EjemploReservasBiosferaEcuador"
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.8.1",
+    "enunciado": "La Revolución Industrial se inició en Gran Bretaña en la segunda mitad del siglo XVIII. Históricamente, se han propuesto múltiples factores para explicar por qué Inglaterra fue el país pionero. ¿Cuál de los siguientes factores institucionales fue determinante según el economista Douglas North?",
+    "opciones": [
+      "La existencia de derechos de propiedad seguros y un sistema parlamentario que protegía los contratos y limitaba la expropiación arbitraria por parte del Estado, incentivando la inversión privada a largo plazo.",
+      "El control del Imperio colonial indio, que proporcionó mano de obra esclava gratuita para las primeras fábricas textiles de Manchester y Liverpool.",
+      "La superioridad climática del norte de Inglaterra, con sus lluvias constantes que generaban la energía hidráulica necesaria para los telares mecánicos.",
+      "La iniciativa directa del Estado inglés, que creó empresas estatales de textiles y minería para demostrar que la producción mecanizada era más rentable que el trabajo artesanal."
+    ],
+    "respuesta_correcta": "La existencia de derechos de propiedad seguros y un sistema parlamentario que protegía los contratos y limitaba la expropiación arbitraria por parte del Estado, incentivando la inversión privada a largo plazo.",
+    "explicacion_detallada": "Douglas North (Premio Nobel de Economía) argumentó que la clave de la Revolución Industrial en Inglaterra no fueron los recursos naturales ni la geografía, sino las instituciones. La Gloriosa Revolución de 1688 estableció la supremacía parlamentaria sobre la Corona, asegurando que el Estado no podía confiscar propiedades arbitrariamente. Esto creó un entorno donde los empresarios podían invertir a largo plazo en innovación y maquinaria sin temor a la expropiación, un incentivo fundamental ausente en las monarquías absolutas continentales.",
+    "pasos_resolucion": [
+      "Identificar a Douglas North y su enfoque institucionalista.",
+      "La clave: derechos de propiedad + limitación del poder arbitrario del Estado = incentivo a la inversión.",
+      "Relacionar con la Gloriosa Revolución (1688) que aseguró estos derechos en Inglaterra antes que en ningún otro país europeo."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Douglas+North+instituciones+Revolucion+Industrial+Inglaterra"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.8.1",
+    "enunciado": "El proceso de 'cercamiento de tierras' (Enclosure Acts) en la Inglaterra de los siglos XVIII-XIX tuvo consecuencias decisivas para la Revolución Industrial. ¿Cuál fue su impacto en el mercado de trabajo?",
+    "opciones": [
+      "Al privatizar las tierras comunales, expulsó a miles de campesinos que perdieron sus medios de subsistencia y se convirtieron en proletarios urbanos disponibles como mano de obra barata para las nacientes fábricas.",
+      "Generó un florecimiento de la pequeña agricultura familiar que redujo la migración hacia las ciudades y obligó a las fábricas a pagar salarios muy altos para atraer trabajadores.",
+      "Fue diseñado para proteger a los campesinos de la especulación de los nobles, garantizando un salario mínimo agrícola que sirvió de modelo para los contratos fabriles.",
+      "Concentró la tierra en manos del Estado inglés, que la utilizó para construir los primeros ferrocarriles y canales que conectaron los centros industriales."
+    ],
+    "respuesta_correcta": "Al privatizar las tierras comunales, expulsó a miles de campesinos que perdieron sus medios de subsistencia y se convirtieron en proletarios urbanos disponibles como mano de obra barata para las nacientes fábricas.",
+    "explicacion_detallada": "Los Enclosure Acts permitieron a los grandes terratenientes vallar y privatizar las tierras comunales (commons) donde los campesinos pobres apacientaban sus animales y subsistían. Privados de este recurso complementario, los campesinos no tuvieron más opción que emigrar a las ciudades industriales en busca de trabajo asalariado. Esta 'primitive accumulation' (Marx) creó el enorme ejército de reserva de trabajo barato que hizo posible la explotación masiva en las fábricas textiles.",
+    "pasos_resolucion": [
+      "Definir los cercamientos: privatización de tierras comunales medievales.",
+      "Consecuencia inmediata: expulsión de campesinos que perdían sus medios de subsistencia complementarios.",
+      "Relación con la industria: esos ex-campesinos se convirtieron en la fuerza laboral barata de las fábricas."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Cercamientos+tierras+Enclosure+Acts+proletarios+Revolucion+Industrial"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.8.1",
+    "enunciado": "El vapor fue el motor energético de la primera Revolución Industrial. James Watt perfeccionó la máquina de vapor entre 1763 y 1782. ¿Cuál fue la innovación técnica crucial que transformó la máquina de vapor de Newcomen (usada solo para bombear agua en minas) en una fuente universal de energía mecánica?",
+    "opciones": [
+      "La introducción del condensador separado y el mecanismo de movimiento rotativo, que permitió convertir el movimiento alternativo del pistón en movimiento rotatorio continuo, aplicable a telares y maquinaria industrial.",
+      "El uso del carbón mineral en lugar de madera como combustible, lo que multiplicó por diez la presión de vapor alcanzable y la potencia de la máquina.",
+      "La miniaturización del motor para que pudiera instalarse en vehículos terrestres, creando directamente la primera locomotora ferroviaria.",
+      "El diseño de un sistema de válvulas automáticas que permitía a la máquina regular su propia velocidad sin necesidad de ningún operador humano."
+    ],
+    "respuesta_correcta": "La introducción del condensador separado y el mecanismo de movimiento rotativo, que permitió convertir el movimiento alternativo del pistón en movimiento rotatorio continuo, aplicable a telares y maquinaria industrial.",
+    "explicacion_detallada": "La máquina de Newcomen era de simple efecto y solo generaba movimiento alternativo vertical (subida y bajada del pistón), útil para bombas de agua en minas pero no para maquinaria giratoria. Watt introdujo dos innovaciones clave: el condensador separado (aumentó enormemente la eficiencia al no enfriar y recalentar el mismo cilindro) y el mecanismo de biela-manivela y volante (sun-and-planet gear) que convirtió el movimiento lineal en rotativo continuo. Esto permitió conectar la máquina de vapor a cualquier maquinaria, universalizando su uso industrial.",
+    "pasos_resolucion": [
+      "Identificar el límite de la máquina de Newcomen: movimiento alternativo, sin rotación.",
+      "Las dos innovaciones de Watt: condensador separado (eficiencia) + biela-manivela (movimiento rotativo).",
+      "Consecuencia: la máquina de vapor ya puede mover telares, tornos, molinos, trenes, etc."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=James+Watt+maquina+vapor+condensador+rotativo"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.8.1",
+    "enunciado": "Las condiciones laborales en las fábricas textiles durante la primera Revolución Industrial (ca. 1780-1850) han sido documentadas exhaustivamente. ¿Cuál era la situación del trabajo infantil en este período y cómo fue respondiendo la legislación inglesa?",
+    "opciones": [
+      "El trabajo infantil era masivo, con niños desde los 5-6 años trabajando jornadas de 12-16 horas, y fue progresivamente regulado por las Factory Acts (1833, 1844, 1847) que establecieron edades mínimas, límites horarios y el requisito de asistencia escolar.",
+      "El trabajo infantil estaba completamente prohibido desde 1780 por ley, y los propietarios de fábricas que lo practicaban eran procesados penalmente con penas de prisión.",
+      "Los niños trabajaban únicamente en las minas de carbón, no en las fábricas textiles, ya que los telares mecánicos requerían una fuerza física que los menores no podían proveer.",
+      "El trabajo infantil fue abolido de manera voluntaria por los propios industriales tras darse cuenta de que los niños eran menos productivos que los adultos, sin necesitar intervención legislativa."
+    ],
+    "respuesta_correcta": "El trabajo infantil era masivo, con niños desde los 5-6 años trabajando jornadas de 12-16 horas, y fue progresivamente regulado por las Factory Acts (1833, 1844, 1847) que establecieron edades mínimas, límites horarios y el requisito de asistencia escolar.",
+    "explicacion_detallada": "El trabajo infantil era fundamental en la primera industria textil: los niños eran empleados como 'scavengers' (recogían pelusa bajo las máquinas en movimiento) o 'piecers' (anudaban hilos rotos) por ser pequeños y ágiles, y sus salarios mínimos los hacían muy rentables. La Factory Act de 1833 (impulsada por Anthony Ashley-Cooper) fue pionera al prohibir el trabajo de menores de 9 años en fábricas textiles, limitar a 8 horas la jornada de los 9-13 años y exigir 2 horas de escolarización diaria. Las leyes de 1844 y 1847 extendieron estas protecciones.",
+    "pasos_resolucion": [
+      "Confirmar la realidad: niños desde los 5 años en jornadas extenuantes en fábricas textiles.",
+      "Identificar el mecanismo de cambio: no voluntario, sino mediante presión social y legislación (Factory Acts).",
+      "Secuenciar las Factory Acts: 1833 (prohibición menores de 9, 8 horas para 9-13), luego 1844 y 1847."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Trabajo+infantil+Revolucion+Industrial+Factory+Acts"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.8.1",
+    "enunciado": "El movimiento ludita (1811-1816) fue la primera respuesta organizada de los trabajadores ingleses a la industrialización. ¿Cuál era la naturaleza real del movimiento ludita y qué confusión historiográfica existe sobre él?",
+    "opciones": [
+      "Los luditas no eran simplemente 'enemigos de la tecnología'; eran artesanos calificados (tejedores, calceteros) que destruían maquinaria específica para presionar económicamente a los industriales que violaban los precios mínimos pactados, siendo una forma de negociación laboral.",
+      "Los luditas eran filósofos ilustrados que publicaban manifiestos contra el capitalismo industrial y organizaban huelgas pacíficas para abolir el sistema de fábricas por medios democráticos.",
+      "El ludismo fue un movimiento exclusivamente rural de terratenientes arruinados que destruían las máquinas de vapor de los ferrocarriles para proteger sus cosechas de los daños causados por el humo.",
+      "Los luditas eran esclavos coloniales traídos a Inglaterra que se rebelaron contra las condiciones de las fábricas, destruyendo maquinaria como acto de resistencia antiimperialista."
+    ],
+    "respuesta_correcta": "Los luditas no eran simplemente 'enemigos de la tecnología'; eran artesanos calificados (tejedores, calceteros) que destruían maquinaria específica para presionar económicamente a los industriales que violaban los precios mínimos pactados, siendo una forma de negociación laboral.",
+    "explicacion_detallada": "El historiador Eric Hobsbawm acuñó el concepto de 'negociación colectiva mediante el motín' para describir el ludismo. Los luditas no rechazaban la tecnología per se: muchos trabajaban con telares mejorados. Lo que rechazaban era la implementación de maquinaria para reemplazarlos o reducir sus salarios, violando acuerdos previos. La destrucción de máquinas era una herramienta de presión económica dirigida, no un rechazo irracional al progreso. El término 'ludita' como sinónimo de 'anti-tecnología' es una deformación posterior.",
+    "pasos_resolucion": [
+      "Corregir el mito: los luditas no eran 'anti-tecnología' en general.",
+      "Identificar quiénes eran: artesanos calificados (no vagabundos ni esclavos).",
+      "Entender su lógica: destrucción selectiva de maquinaria como herramienta de negociación laboral (Hobsbawm)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Movimiento+ludita+historia+real+Hobsbawm"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.8.1",
+    "enunciado": "La Segunda Revolución Industrial (ca. 1870-1914) se diferencia de la primera en varios aspectos. ¿Cuál fue la diferencia fundamental en cuanto a los sectores líderes y el papel del conocimiento científico?",
+    "opciones": [
+      "Mientras la primera se basó en el vapor y el textil empíricamente desarrollados, la segunda se caracterizó por la electricidad, la química y el acero, sectores que requerían la aplicación sistemática del conocimiento científico y la investigación industrial organizada.",
+      "La segunda Revolución Industrial fue liderada por Francia y España, mientras que Gran Bretaña abandonó el desarrollo industrial para convertirse en una economía puramente agraria y colonialista.",
+      "La segunda Revolución Industrial representó el retorno a los métodos artesanales de alta calidad tras el fracaso de la producción en masa de la primera fase, que generó bienes de consumo de calidad inferior.",
+      "La segunda Revolución Industrial se produjo exclusivamente en colonias africanas y asiáticas, donde las potencias europeas trasladaron sus industrias para explotar mano de obra más barata."
+    ],
+    "respuesta_correcta": "Mientras la primera se basó en el vapor y el textil empíricamente desarrollados, la segunda se caracterizó por la electricidad, la química y el acero, sectores que requerían la aplicación sistemática del conocimiento científico y la investigación industrial organizada.",
+    "explicacion_detallada": "La primera Revolución Industrial fue esencialmente empírica: inventores como Watt o Arkwright actuaban por ensayo y error, sin necesitar un conocimiento científico profundo. La segunda Revolución Industrial (eléctrica, química, siderúrgica) fue científica: requirió laboratorios de I+D (Edison General Electric, BASF en Alemania), formación universitaria en ingeniería química y eléctrica, y la aplicación sistemática de descubrimientos científicos (electromagnetismo de Faraday, tabla periódica de Mendeléiev). Alemania y EE.UU. lideraron esta segunda fase.",
+    "pasos_resolucion": [
+      "Diferenciar los sectores: vapor/textil (1ª) vs. electricidad/química/acero (2ª).",
+      "Diferenciar el método: empirismo/ensayo-error (1ª) vs. ciencia aplicada/laboratorios de I+D (2ª).",
+      "Identificar los nuevos líderes: Alemania y EE.UU. superan a Gran Bretaña en la 2ª fase."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Segunda+Revolucion+Industrial+electricidad+quimica+acero"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.8.1",
+    "enunciado": "Karl Marx y Friedrich Engels publicaron el 'Manifiesto Comunista' en 1848. ¿Cuál era el diagnóstico central de Marx sobre el sistema capitalista industrial y la dinámica que predecía?",
+    "opciones": [
+      "El capitalismo genera inevitablemente una contradicción entre la burguesía (propietaria de los medios de producción) y el proletariado (vendedor de fuerza de trabajo), cuya intensificación culminaría en una revolución socialista que aboliría la propiedad privada de los medios de producción.",
+      "El capitalismo industrial era el sistema económico más justo posible porque remuneraba a cada trabajador exactamente en función de su aportación productiva individual.",
+      "El capitalismo industrial conduciría a una paz perpetua porque la interdependencia económica global haría la guerra demasiado costosa para todos los Estados.",
+      "El capitalismo industrial sería superado por la competencia entre empresas, que inevitablemente generaría monopolios estatales que nacionalizarían toda la economía de forma gradual y pacífica."
+    ],
+    "respuesta_correcta": "El capitalismo genera inevitablemente una contradicción entre la burguesía (propietaria de los medios de producción) y el proletariado (vendedor de fuerza de trabajo), cuya intensificación culminaría en una revolución socialista que aboliría la propiedad privada de los medios de producción.",
+    "explicacion_detallada": "El análisis de Marx se basaba en la 'teoría del valor-trabajo' y el concepto de 'plusvalía': el capitalista se apropiaba del valor generado por el trabajador por encima del salario pagado. Esta contradicción fundamental entre el capital y el trabajo se intensificaría con el tiempo (pauperización del proletariado, crisis cíclicas), hasta hacer inevitable una revolución que aboliría la propiedad privada de los medios de producción y establecería una sociedad sin clases (comunismo). El 'Manifiesto' terminaba con la famosa llamada: 'Proletarios de todos los países, ¡uníos!'",
+    "pasos_resolucion": [
+      "Identificar los dos actores: burguesía (dueños del capital) y proletariado (vendedores de trabajo).",
+      "Entender la contradicción fundamental: extracción de plusvalía como fuente del conflicto de clase.",
+      "Derivar la predicción marxista: pauperización + crisis = revolución inevitablemente."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Marx+Manifiesto+Comunista+capitalismo+proletariado"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.8.1",
+    "enunciado": "La Revolución Industrial generó el fenómeno de la urbanización masiva. La ciudad de Manchester pasó de 25.000 habitantes en 1772 a más de 300.000 en 1850. ¿Qué crisis sanitarias específicas generó esta urbanización acelerada y qué respuesta política produjo?",
+    "opciones": [
+      "El hacinamiento sin infraestructuras de saneamiento causó epidemias de cólera (1831, 1848, 1853) que demostraron que las enfermedades no eran solo un problema individual sino social, impulsando el surgimiento de la salud pública y las primeras leyes sanitarias (Public Health Act, 1848).",
+      "La industrialización generó epidemias de enfermedades respiratorias que llevaron al gobierno inglés a prohibir el uso del carbón en las ciudades, obligando a las fábricas a trasladarse al campo.",
+      "El hacinamiento urbano generó una crisis de sobrepoblación que obligó al gobierno inglés a establecer la deportación masiva de trabajadores pobres hacia las colonias australianas.",
+      "La contaminación industrial del agua potable generó brotes de malaria endémica en todas las ciudades industriales inglesas del siglo XIX."
+    ],
+    "respuesta_correcta": "El hacinamiento sin infraestructuras de saneamiento causó epidemias de cólera (1831, 1848, 1853) que demostraron que las enfermedades no eran solo un problema individual sino social, impulsando el surgimiento de la salud pública y las primeras leyes sanitarias (Public Health Act, 1848).",
+    "explicacion_detallada": "Las ciudades industriales crecieron sin planificación: miles de trabajadores se hacinaban en barrios sin alcantarillado ni agua potable limpia. Las epidemias de cólera de 1831 y 1848 mataron a decenas de miles. El médico John Snow demostró en 1854 que el cólera se transmitía por agua contaminada (no por el 'miasma'), y Edwin Chadwick había documentado en 1842 las condiciones insalubres de los trabajadores. Esto impulsó la primera Public Health Act (1848) y el desarrollo de la epidemiología moderna y las políticas de salud pública.",
+    "pasos_resolucion": [
+      "Relacionar la urbanización industrial masiva con la ausencia de infraestructuras sanitarias.",
+      "Identificar las epidemias de cólera como crisis sanitaria directamente relacionada con el hacinamiento.",
+      "Conectar estas epidemias con el surgimiento de la salud pública como concepto político (Public Health Act, 1848)."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Colera+Revolucion+Industrial+Manchester+salud+publica"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.8.1",
+    "enunciado": "El ferrocarril fue el símbolo tecnológico por excelencia de la Revolución Industrial. La inauguración del ferrocarril Liverpool-Manchester en 1830 fue un hito histórico. ¿Cuál fue el impacto económico más profundo del ferrocarril en la economía del siglo XIX?",
+    "opciones": [
+      "Creó el primer mercado nacional integrado al reducir drásticamente los costes de transporte, unificando los precios de los bienes, permitiendo la especialización regional y expandiendo masivamente la demanda de carbón, acero e ingeniería.",
+      "El ferrocarril generó quiebras masivas en el sector agrícola porque permitió importar alimentos baratos de las colonias, arruinando a los agricultores ingleses.",
+      "Su principal impacto fue militar: permitió al ejército inglés movilizarse diez veces más rápido que con caballos, manteniendo el orden en las ciudades industriales en huelga.",
+      "El ferrocarril generó la primera burbuja financiera de la historia al hacer que todos los inversores del mundo quisieran comprar acciones de compañías ferroviarias, colapsando la bolsa de Londres en 1845."
+    ],
+    "respuesta_correcta": "Creó el primer mercado nacional integrado al reducir drásticamente los costes de transporte, unificando los precios de los bienes, permitiendo la especialización regional y expandiendo masivamente la demanda de carbón, acero e ingeniería.",
+    "explicacion_detallada": "Antes del ferrocarril, los costes de transporte terrestre eran altísimos y fragmentaban los mercados. El ferrocarril redujo los costes de transporte en un 80-90% respecto al transporte por carretera con caballos. Esto creó mercados nacionales integrados: un agricultor en Yorkshire podía vender en Londres; una fábrica en Manchester podía recibir carbón de Newcastle. Además, el ferrocarril fue un enorme 'sector locomotora' que impulsó la demanda de carbón, hierro/acero, ingeniería mecánica y trabajo de construcción, multiplicando sus efectos sobre toda la economía. La 'Railway Mania' de 1845-46 sí existió pero fue un episodio especulativo posterior.",
+    "pasos_resolucion": [
+      "Cuantificar el impacto en costes de transporte: reducción del 80-90%.",
+      "Derivar la consecuencia directa: integración de mercados nacionales antes fragmentados.",
+      "Identificar los efectos de arrastre (backward linkages): demanda masiva de carbón, acero, ingeniería."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Ferrocarril+impacto+economico+Revolucion+Industrial+mercado+nacional"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.8.1",
+    "enunciado": "El imperialismo del siglo XIX estuvo íntimamente ligado a la Revolución Industrial. Según la teoría de John A. Hobson ('Imperialismo', 1902), ¿cuál era la causa económica estructural que impulsaba a las potencias industriales a colonizar nuevos territorios?",
+    "opciones": [
+      "La sobreproducción industrial y la subconsumo interno generados por los bajos salarios obligaban a los capitalistas a buscar mercados externos donde colocar sus excedentes de capital e inversión, impulsando la expansión colonial.",
+      "La escasez de materias primas en Europa era tan severa que sin las colonias las fábricas europeas habrían tenido que cerrar en menos de una década.",
+      "El imperialismo era causado por el racismo cultural de las clases populares europeas, que presionaban a sus gobiernos para 'civilizar' a los pueblos atrasados.",
+      "Las colonias eran necesarias para absorber el exceso demográfico europeo: sin territorios de emigración, las ciudades industriales habrían sufrido hambrunas generalizadas."
+    ],
+    "respuesta_correcta": "La sobreproducción industrial y la subconsumo interno generados por los bajos salarios obligaban a los capitalistas a buscar mercados externos donde colocar sus excedentes de capital e inversión, impulsando la expansión colonial.",
+    "explicacion_detallada": "Hobson argumentó que los bajos salarios del capitalismo industrial concentraban la riqueza en pocas manos, generando sobreproducción (se producía más de lo que los trabajadores mal pagados podían comprar) y superávit de capital sin inversión rentable en casa. Los capitalistas necesitaban mercados externos y territorios donde invertir con alta rentabilidad. Esta dinámica impulsaba estructuralmente el imperialismo. Lenin adoptó y radicalizó este análisis en 'El imperialismo, fase superior del capitalismo' (1916), vinculándolo con el monopolio financiero.",
+    "pasos_resolucion": [
+      "Identificar el diagnóstico de Hobson: sobreproducción + subconsumo interno por bajos salarios.",
+      "Derivar la consecuencia: exceso de capital que no encuentra inversión rentable en el mercado doméstico.",
+      "Conectar con el imperialismo: búsqueda de mercados externos e inversión colonial como salida al excedente."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Hobson+Imperialismo+teoria+economica+colonialismo"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.8.1",
+    "enunciado": "La 'Cuestión Social' generada por la Revolución Industrial dio origen a diversas respuestas ideológicas. El socialismo utópico de Robert Owen en Gran Bretaña (New Lanark, 1800-1825) se diferenciaba del socialismo científico de Marx principalmente en que:",
+    "opciones": [
+      "Owen creía que la reforma social podía lograrse mediante el ejemplo de comunidades ideales voluntarias y la persuasión moral de los industriales, sin necesitar conflicto de clases ni revolución política.",
+      "Owen defendía la abolición del dinero y el trabajo voluntario, mientras que Marx defendía el mantenimiento del capitalismo con salarios más altos.",
+      "El socialismo utópico era una ideología religiosa que buscaba restaurar el comunismo cristiano primitivo de los primeros siglos, mientras que Marx era un militante ateo.",
+      "Owen proponía un estado centralizado todopoderoso que planificara cada aspecto de la vida económica, mientras que Marx defendía una economía de mercado regulada."
+    ],
+    "respuesta_correcta": "Owen creía que la reforma social podía lograrse mediante el ejemplo de comunidades ideales voluntarias y la persuasión moral de los industriales, sin necesitar conflicto de clases ni revolución política.",
+    "explicacion_detallada": "Robert Owen mejoró radicalmente las condiciones en su fábrica de New Lanark (redujo jornadas, construyó escuelas, prohibió el trabajo infantil) y demostró que era rentable. Creía que si mostraba que las condiciones humanas eran compatibles con el beneficio empresarial, los demás industriales seguirían su ejemplo voluntariamente. Marx calificó a Owen y a Fourier como 'utópicos' porque ignoraban el análisis científico de las contradicciones estructurales del capitalismo y la necesidad de la lucha de clases para transformar el sistema.",
+    "pasos_resolucion": [
+      "Definir el socialismo utópico de Owen: reforma por ejemplo voluntario, sin conflicto de clases.",
+      "Definir el socialismo científico de Marx: análisis estructural, conflicto de clases inevitable, revolución necesaria.",
+      "La diferencia clave: la creencia de Owen en la persuasión moral vs. la inevitabilidad marxista de la lucha de clases."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Robert+Owen+socialismo+utopico+New+Lanark"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.8.1",
+    "enunciado": "Los sindicatos (Trade Unions) fueron una respuesta organizada de los trabajadores a la Revolución Industrial. ¿Cuál fue el proceso legal que permitió su consolidación en Gran Bretaña?",
+    "opciones": [
+      "Las Combination Acts de 1799-1800 habían prohibido las asociaciones de trabajadores; su derogación en 1824-1825 despenalizó las Trade Unions, aunque con restricciones, y el Trade Union Act de 1871 les otorgó plena personalidad jurídica.",
+      "Los sindicatos fueron legalizados inmediatamente con la Revolución Industrial en 1780, ya que el gobierno inglés consideraba la negociación colectiva un derecho natural de los trabajadores libres.",
+      "Los sindicatos nunca fueron legalmente reconocidos en Gran Bretaña durante el siglo XIX; su actividad fue siempre clandestina hasta la Primera Guerra Mundial.",
+      "El Parlamento inglés aprobó los sindicatos en 1848 tras las revoluciones europeas, temiendo que sin ellos Inglaterra sufriría una revolución similar a la francesa."
+    ],
+    "respuesta_correcta": "Las Combination Acts de 1799-1800 habían prohibido las asociaciones de trabajadores; su derogación en 1824-1825 despenalizó las Trade Unions, aunque con restricciones, y el Trade Union Act de 1871 les otorgó plena personalidad jurídica.",
+    "explicacion_detallada": "El proceso de legalización sindical en Gran Bretaña fue gradual. Las Combination Acts (1799-1800) habían criminalizado cualquier asociación de trabajadores para negociar condiciones laborales. Su derogación en 1824 fue un primer paso, pero el miedo a las huelgas llevó a restricciones en 1825. Los sindicatos operaron en una zona gris legal durante décadas. El Trade Union Act de 1871 (bajo Gladstone) les dio por fin reconocimiento legal pleno y protección de sus fondos. La Criminal Law Amendment Act del mismo año, sin embargo, seguía restringiendo el piquete, lo que generó más presión sindical.",
+    "pasos_resolucion": [
+      "Recordar las Combination Acts (1799-1800): prohibición de asociaciones de trabajadores.",
+      "Hitos de la legalización gradual: derogación 1824, Trade Union Act 1871.",
+      "Reconocer el proceso gradual y con obstáculos, no una legalización inmediata ni nunca legal."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Trade+Unions+historia+legal+Gran+Bretana+sindicatos"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.8.1",
+    "enunciado": "El modelo historiográfico de W.W. Rostow sobre el crecimiento económico moderno ('Las etapas del crecimiento económico', 1960) identifica el período del 'despegue' (take-off) como el momento clave de la industrialización. ¿Cuáles eran las condiciones del take-off según Rostow?",
+    "opciones": [
+      "Un aumento de la tasa de inversión productiva del 5% al 10% o más del PIB, el desarrollo de uno o más sectores manufactureros líderes, y la existencia de un marco político e institucional que fomente la modernización.",
+      "La conquista de colonias que proporcionaran materias primas gratuitas, la abolición de todos los impuestos comerciales y la disponibilidad de esclavos como mano de obra.",
+      "La estabilización de la moneda nacional a través de un patrón oro estricto, la privatización completa de la tierra agrícola y la eliminación de todos los gremios artesanales.",
+      "Un crecimiento demográfico sostenido superior al 3% anual durante 20 años, junto a la invención de al menos una patente tecnológica fundamental que cambie el modo de producción dominante."
+    ],
+    "respuesta_correcta": "Un aumento de la tasa de inversión productiva del 5% al 10% o más del PIB, el desarrollo de uno o más sectores manufactureros líderes, y la existencia de un marco político e institucional que fomente la modernización.",
+    "explicacion_detallada": "Rostow propuso un modelo de cinco etapas (sociedad tradicional, precondiciones, despegue, madurez, consumo de masas). El 'take-off' era la etapa crítica donde la inversión productiva salta del 5% al 10%+ del PIB, surge un 'sector líder' (en Gran Bretaña: textil; en EE.UU.: ferrocarril) y las élites políticas e institucionales se alinean con la modernización. El modelo fue muy influyente en la política de desarrollo de la Guerra Fría pero ha sido criticado por ser demasiado esquemático y etnocéntrico.",
+    "pasos_resolucion": [
+      "Recordar las cinco etapas de Rostow y ubicar el 'take-off' como la tercera.",
+      "Identificar las tres condiciones del take-off: inversión >10% PIB, sector líder, marco institucional favorable.",
+      "Reconocer el contexto político del modelo: fue un argumento 'anticomunista' sobre el desarrollo capitalista."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Rostow+etapas+crecimiento+economico+take+off"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.8.1",
+    "enunciado": "La Doctrina Social de la Iglesia Católica respondió a los problemas sociales de la Revolución Industrial con la encíclica 'Rerum Novarum' (1891) del Papa León XIII. ¿Cuál era la posición de esta encíclica respecto al capitalismo y al socialismo?",
+    "opciones": [
+      "Rechazaba tanto el capitalismo laissez-faire (que dejaba al trabajador indefenso) como el socialismo colectivista (que suprimía la propiedad privada), proponiendo la dignidad del trabajo, el salario justo y el derecho de asociación sindical bajo principios de justicia social.",
+      "Apoyaba plenamente el capitalismo industrial como sistema compatible con los valores cristianos, condenando únicamente el marxismo ateo por su oposición a la Iglesia.",
+      "Condenaba la industrialización en sí misma como contraria a la naturaleza humana y pedía el retorno a una economía agraria cristiana medieval basada en los gremios.",
+      "Era un documento secreto que autorizaba a los capitalistas católicos a usar el trabajo infantil siempre que se garantizara la educación religiosa en las fábricas."
+    ],
+    "respuesta_correcta": "Rechazaba tanto el capitalismo laissez-faire (que dejaba al trabajador indefenso) como el socialismo colectivista (que suprimía la propiedad privada), proponiendo la dignidad del trabajo, el salario justo y el derecho de asociación sindical bajo principios de justicia social.",
+    "explicacion_detallada": "La 'Rerum Novarum' (De las cosas nuevas) es el texto fundador de la Doctrina Social de la Iglesia. León XIII rechazaba el liberalismo económico extremo porque abandonaba al trabajador a la ley del mercado sin protección. También rechazaba el socialismo porque negaba el derecho natural a la propiedad privada. La solución propuesta era un 'tercer camino': el Estado debía garantizar el salario justo, la jornada razonable y el derecho a la asociación sindical de los trabajadores para negociar con los empleadores, dentro de un marco de respeto a la propiedad privada.",
+    "pasos_resolucion": [
+      "Identificar la doble crítica: ni capitalismo sin límites ni socialismo colectivista.",
+      "La propuesta positiva: salario justo, jornada digna, derecho sindical, bajo respeto a la propiedad.",
+      "Contextualizar: es el nacimiento de la Doctrina Social de la Iglesia como respuesta a la Cuestión Obrera."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Rerum+Novarum+Leon+XIII+doctrina+social+iglesia"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.8.1",
+    "enunciado": "El historiador económico Robert Allen ha propuesto la 'hipótesis de los salarios altos' para explicar por qué la Revolución Industrial comenzó en Gran Bretaña y no en Bélgica, Francia o China, países que también tenían acceso al carbón. ¿Cuál es el núcleo de su argumento?",
+    "opciones": [
+      "En Inglaterra, los salarios eran excepcionalmente altos en comparación con el resto de Europa, lo que incentivó a los fabricantes a innovar y mecanizar la producción para sustituir mano de obra cara por máquinas relativamente baratas, especialmente cuando el carbón local reducía el coste energético.",
+      "Los salarios ingleses eran los más bajos de Europa, lo que permitía a los fabricantes acumular enormes beneficios para reinvertir en maquinaria sin necesidad de crédito bancario.",
+      "Los trabajadores ingleses eran más altos físicamente que los europeos continentales debido a su dieta superior, lo que los hacía más productivos por hora trabajada, generando el excedente que financió la industrialización.",
+      "Los sindicatos ingleses negociaron salarios tan altos que destruyeron la rentabilidad del trabajo manual, forzando a los fabricantes a mecanizar o cerrar sus negocios."
+    ],
+    "respuesta_correcta": "En Inglaterra, los salarios eran excepcionalmente altos en comparación con el resto de Europa, lo que incentivó a los fabricantes a innovar y mecanizar la producción para sustituir mano de obra cara por máquinas relativamente baratas, especialmente cuando el carbón local reducía el coste energético.",
+    "explicacion_detallada": "Allen utilizó datos salariales históricos para comparar los salarios reales en diferentes países europeos y en China. Demostró que los salarios ingleses eran entre 2 y 4 veces más altos que en otras regiones. Esto creaba el incentivo económico para que los empresarios ingleses invirtieran en máquinas que ahorraran trabajo: si la mano de obra es cara y la energía (carbón) es barata, tiene sentido sustituir trabajo caro por máquinas energía-intensivas. En Francia o China, donde el trabajo era barato, las mismas máquinas no eran económicamente rentables en ese momento.",
+    "pasos_resolucion": [
+      "Identificar el argumento de Allen: salarios altos en Inglaterra = incentivo para mecanizar.",
+      "Añadir la otra parte de la ecuación: carbón barato en Inglaterra = coste energético bajo.",
+      "Contrastar con Europa continental y China: salarios bajos = sin incentivo para adoptar tecnología ahorradora de trabajo."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Robert+Allen+hipotesis+salarios+altos+Revolucion+Industrial"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.8.1",
+    "enunciado": "La Revolución Industrial transformó la relación entre el tiempo y el trabajo. E.P. Thompson, en su ensayo 'Time, Work-Discipline, and Industrial Capitalism' (1967), analizó cómo cambiaron las percepciones del tiempo con la industrialización. ¿Cuál fue el cambio fundamental que identificó?",
+    "opciones": [
+      "El trabajo preindustrial estaba organizado por la 'orientación a la tarea' (se trabajaba hasta terminar algo), mientras que la fábrica industrial impuso la 'orientación al tiempo' mediante el reloj y el horario fijo, separando radicalmente el tiempo de trabajo del tiempo libre.",
+      "Antes de la industrialización, los trabajadores percibían el tiempo como infinito y no tenían noción de la puntualidad; la fábrica les enseñó a valorar su tiempo como un recurso escaso.",
+      "La industrialización generó la percepción de que el tiempo se aceleraba, lo que causó enfermedades mentales masivas en los trabajadores urbanos incapaces de adaptarse al ritmo fabril.",
+      "El ferrocarril unificó los husos horarios nacionales, lo que obligó a los trabajadores a sincronizar sus relojes personales por primera vez, generando la primera cultura de la puntualidad."
+    ],
+    "respuesta_correcta": "El trabajo preindustrial estaba organizado por la 'orientación a la tarea' (se trabajaba hasta terminar algo), mientras que la fábrica industrial impuso la 'orientación al tiempo' mediante el reloj y el horario fijo, separando radicalmente el tiempo de trabajo del tiempo libre.",
+    "explicacion_detallada": "Thompson argumentó que el trabajo artesanal y agrícola preindustrial seguía los ritmos naturales: se trabajaba intensamente en la cosecha y se descansaba en el invierno; se completaba una pieza y luego se podía descansar. La fábrica capitalista impuso una disciplina completamente diferente: la producción continua en turnos de tiempo fijo, donde el reloj (no la tarea) determinaba cuándo se entraba y cuándo se salía. El tiempo de trabajo se convirtió en una mercancía separada del tiempo libre, lo que fue una transformación cultural profunda que exigió décadas de 'entrenamiento' de los trabajadores.",
+    "pasos_resolucion": [
+      "Definir 'orientación a la tarea': trabajo hasta completar; sin separación rígida trabajo-ocio.",
+      "Definir 'orientación al tiempo': entrada/salida por reloj; tiempo de trabajo como mercancía vendida al empleador.",
+      "Reconocer que este cambio fue una transformación cultural profunda que requirió disciplinamiento de los trabajadores."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=EP+Thompson+tiempo+disciplina+capitalismo+industrial"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.8.1",
+    "enunciado": "La Conferencia de Berlín (1884-1885) reguló el reparto colonial de África entre las potencias europeas industriales. ¿Cuál fue el principio jurídico central que estableció para legitimar la ocupación colonial?",
+    "opciones": [
+      "El principio de 'ocupación efectiva': para que una potencia pudiera reclamar soberanía sobre un territorio africano, debía demostrar presencia administrativa y capacidad de mantener el orden, evitando la mera reclamación nominal de territorios no ocupados realmente.",
+      "El principio de 'terra nullius': toda África fue declarada tierra sin dueño legítimo, por lo que cualquier potencia podía ocuparla sin necesidad de ningún tipo de administración real ni notificación a otras potencias.",
+      "El principio de 'libre comercio': todas las potencias europeas debían tener acceso igualitario a los mercados africanos, y ninguna podía establecer monopolios comerciales en sus zonas de influencia.",
+      "El principio de 'mandato civilizador': las potencias debían justificar su ocupación mediante la construcción de al menos tres escuelas y un hospital por cada territorio de 100.000 km² colonizado."
+    ],
+    "respuesta_correcta": "El principio de 'ocupación efectiva': para que una potencia pudiera reclamar soberanía sobre un territorio africano, debía demostrar presencia administrativa y capacidad de mantener el orden, evitando la mera reclamación nominal de territorios no ocupados realmente.",
+    "explicacion_detallada": "La Conferencia de Berlín, convocada por Bismarck y presidida por él, intentó regular el 'Scramble for Africa' para evitar conflictos directos entre potencias europeas. El principio de 'ocupación efectiva' requería que una potencia que reclamara un territorio demostrase que lo controlaba realmente (con administración, puestos militares, etc.) y que notificara a las demás potencias. Esto desencadenó la carrera por establecer presencia física en el continente, acelerando la colonización. Los africanos no fueron consultados en la conferencia.",
+    "pasos_resolucion": [
+      "Contextualizar la Conferencia de Berlín: regulación del reparto colonial de África (Scramble for Africa).",
+      "Identificar el principio clave: ocupación efectiva = presencia administrativa real, no mera declaración.",
+      "Reconocer el resultado: aceleración de la ocupación militar y administrativa del continente."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Conferencia+Berlin+1884+reparto+Africa+ocupacion+efectiva"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.8.1",
+    "enunciado": "La corriente artística e intelectual del 'Romanticismo' surgió en parte como reacción a la Revolución Industrial y a los valores de la Ilustración racionalista. ¿Cuál fue la principal crítica romántica a la industrialización?",
+    "opciones": [
+      "El Romanticismo rechazaba la visión de la naturaleza como recurso a explotar mecánicamente, contraponiendo la sublimidad de lo natural e irracional a la frialdad calculadora de la razón industrial, y lamentaba la destrucción del paisaje y la deshumanización del trabajador.",
+      "Los románticos eran defensores entusiastas de la industria porque creían que las máquinas liberarían al hombre del trabajo físico degradante, permitiéndole dedicarse a la contemplación artística.",
+      "El Romanticismo era exclusivamente una corriente musical y no tenía posición sobre los cambios sociales y económicos de la industrialización.",
+      "Los románticos propugnaban la vuelta al sistema feudal medieval como alternativa al caos industrial, abogando por la restauración de la servidumbre como modelo de relación social estable."
+    ],
+    "respuesta_correcta": "El Romanticismo rechazaba la visión de la naturaleza como recurso a explotar mecánicamente, contraponiendo la sublimidad de lo natural e irracional a la frialdad calculadora de la razón industrial, y lamentaba la destrucción del paisaje y la deshumanización del trabajador.",
+    "explicacion_detallada": "El Romanticismo (Blake, Wordsworth, Coleridge, Friedrich, Goethe) surgió como reacción cultural a la industrialización y al racionalismo ilustrado. William Blake habló de los 'satanic mills' (molinos satánicos) para referirse a las fábricas que destruían el paisaje inglés y alienaban a los trabajadores. Los románticos contraponían la experiencia sublime de la naturaleza salvaje a la frialdad mecánica de la fábrica; valoraban la emoción, la imaginación y lo irracional frente al cálculo y la eficiencia industrial. Es el origen del movimiento ecologista y de la crítica humanista al industrialismo.",
+    "pasos_resolucion": [
+      "Situar el Romanticismo como reacción al racionalismo y a la industrialización.",
+      "Identificar la crítica central: deshumanización del trabajador + destrucción del paisaje natural.",
+      "Asociar con figuras clave (Blake, Wordsworth) y el concepto de lo 'sublime natural' frente a la 'razón mecánica'."
+    ],
+    "video_explicativo_url": "https://www.youtube.com/results?search_query=Romanticismo+critica+Revolucion+Industrial+Blake+naturaleza"
+  }
+]

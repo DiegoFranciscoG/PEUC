@@ -1,0 +1,134 @@
+[
+  {
+    "id": "cn_374_003_01",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.7.4",
+    "tituloSubtema": "Dinámica en dos dimensiones",
+    "enunciado": "Un proyectil es lanzado desde el suelo con un ángulo de elevación de 30° respecto a la horizontal. Si se desprecia la resistencia del aire, ¿cuál es la magnitud y dirección de la aceleración en el punto más alto de su trayectoria parabólica?",
+    "opciones": [
+      "9.8 m/s² dirigida verticalmente hacia abajo.",
+      "Cero, ya que la velocidad vertical en el punto más alto es nula.",
+      "9.8 m/s² dirigida en la dirección del movimiento horizontal.",
+      "Depende de la velocidad inicial con la que fue lanzado el proyectil."
+    ],
+    "respuesta_correcta": "9.8 m/s² dirigida verticalmente hacia abajo.",
+    "explicacion_detallada": "En el movimiento de proyectiles (despreciando la resistencia del aire), la única fuerza que actúa sobre el objeto en vuelo es la fuerza de gravedad. Según la segunda ley de Newton, esta fuerza produce una aceleración constante igual a la aceleración de la gravedad (g ≈ 9.8 m/s²). Esta aceleración siempre está dirigida verticalmente hacia abajo, independientemente de la posición del proyectil en su trayectoria. En el punto más alto, la velocidad vertical es cero, pero la aceleración sigue siendo 9.8 m/s² hacia abajo, que es lo que hace que la velocidad vertical cambie de positiva a negativa.",
+    "pasos_resolucion": [
+      "Identificar las fuerzas que actúan sobre el proyectil en el aire. (Solo la gravedad)",
+      "Recordar que la aceleración debida a la gravedad es constante (g ≈ 9.8 m/s²).",
+      "Concluir que la dirección de la aceleración gravitacional siempre es hacia abajo, hacia el centro de la Tierra."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_374_003_02",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.7.4",
+    "tituloSubtema": "Dinámica en dos dimensiones",
+    "enunciado": "Un automóvil recorre una curva circular plana y horizontal a velocidad constante. ¿Cuál es la dirección de la fuerza resultante neta que actúa sobre el automóvil?",
+    "opciones": [
+      "Hacia el centro de la curva circular (fuerza centrípeta).",
+      "Tangente a la curva, en la dirección del movimiento.",
+      "Hacia el exterior de la curva (fuerza centrífuga).",
+      "La fuerza neta es cero porque la velocidad es constante."
+    ],
+    "respuesta_correcta": "Hacia el centro de la curva circular (fuerza centrípeta).",
+    "explicacion_detallada": "Para que un objeto describa una trayectoria circular, debe existir una fuerza neta dirigida hacia el centro de la rotación; esta fuerza es conocida como fuerza centrípeta. Aunque la rapidez del automóvil es constante, su dirección de movimiento (y por ende su velocidad vectorial) está cambiando continuamente. Este cambio en la velocidad requiere una aceleración dirigida hacia el centro, generada por una fuerza neta en esa misma dirección, que en el caso de un automóvil en una curva plana es proporcionada por la fricción estática entre las llantas y el pavimento.",
+    "pasos_resolucion": [
+      "Reconocer que el movimiento circular implica un cambio continuo en la dirección de la velocidad.",
+      "Identificar que todo cambio de velocidad es una aceleración.",
+      "Determinar que la aceleración en un movimiento circular uniforme apunta hacia el centro (aceleración centrípeta).",
+      "Aplicar la segunda ley de Newton: la fuerza neta tiene la misma dirección que la aceleración."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_374_003_03",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.7.4",
+    "tituloSubtema": "Dinámica en dos dimensiones",
+    "enunciado": "Un bloque de masa 'm' se desliza hacia abajo por un plano inclinado que forma un ángulo 'θ' con la horizontal. Si se desprecia la fricción entre el bloque y la superficie del plano, ¿cuál es la magnitud de la aceleración del bloque?",
+    "opciones": [
+      "g * sen(θ)",
+      "g * cos(θ)",
+      "g",
+      "m * g * sen(θ)"
+    ],
+    "respuesta_correcta": "g * sen(θ)",
+    "explicacion_detallada": "Al colocar un objeto en un plano inclinado sin fricción, las fuerzas que actúan sobre él son el peso (mg) hacia abajo y la fuerza normal (N) perpendicular a la superficie. El peso se puede descomponer en dos componentes: una paralela al plano inclinado (mg * sen(θ)) y otra perpendicular (mg * cos(θ)). La fuerza normal se equilibra con la componente perpendicular del peso. La única fuerza neta que causa movimiento a lo largo del plano es la componente paralela. Según la segunda ley de Newton: F_neta = m * a, entonces mg * sen(θ) = m * a. Despejando la aceleración, obtenemos a = g * sen(θ).",
+    "pasos_resolucion": [
+      "Dibujar el diagrama de cuerpo libre del bloque sobre el plano inclinado.",
+      "Descomponer la fuerza del peso en sus componentes paralela y perpendicular al plano.",
+      "Identificar que la componente paralela (mg * sen(θ)) es la fuerza neta a lo largo del movimiento.",
+      "Aplicar la segunda ley de Newton (F = ma) e igualar: mg * sen(θ) = ma.",
+      "Simplificar la masa 'm' de ambos lados para obtener a = g * sen(θ)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_374_003_04",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.7.4",
+    "tituloSubtema": "Dinámica en dos dimensiones",
+    "enunciado": "Dos esferas metálicas idénticas son lanzadas simultáneamente desde el borde de una mesa de 1 metro de altura. La esfera A se deja caer verticalmente desde el reposo, mientras que la esfera B es lanzada horizontalmente con una velocidad de 5 m/s. Si se desprecia la resistencia del aire, ¿qué esfera impacta primero en el piso?",
+    "opciones": [
+      "Ambas esferas impactan el piso al mismo tiempo.",
+      "La esfera A impacta primero por tener menor recorrido.",
+      "La esfera B impacta primero por llevar mayor velocidad inicial.",
+      "Depende de la masa exacta de las esferas metálicas."
+    ],
+    "respuesta_correcta": "Ambas esferas impactan el piso al mismo tiempo.",
+    "explicacion_detallada": "El principio de independencia de los movimientos establece que en un movimiento parabólico, los movimientos horizontal y vertical ocurren de forma independiente. Para ambas esferas, la velocidad inicial vertical es cero (v_0y = 0). Ambas experimentan la misma aceleración hacia abajo debido a la gravedad (g = 9.8 m/s²) y ambas deben recorrer la misma distancia vertical (la altura de la mesa). Por lo tanto, el tiempo de caída para ambas depende únicamente de la altura y la gravedad (t = √(2h/g)), siendo idéntico para las dos. La velocidad horizontal inicial de la esfera B solo afecta la distancia horizontal que recorrerá antes de tocar el suelo, no su tiempo de vuelo.",
+    "pasos_resolucion": [
+      "Analizar las componentes verticales del movimiento para cada esfera por separado.",
+      "Notar que ambas esferas parten con velocidad inicial vertical de 0 m/s.",
+      "Reconocer que ambas están sujetas a la misma aceleración (gravedad).",
+      "Deducir mediante la ecuación cinemática y = 1/2*g*t² que el tiempo solo depende de la altura."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_374_003_05",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.7.4",
+    "tituloSubtema": "Dinámica en dos dimensiones",
+    "enunciado": "En un sistema donde un bloque se encuentra sobre un plano inclinado con rozamiento, se incrementa gradualmente el ángulo de inclinación del plano hasta que el bloque está a punto de deslizar. En este ángulo crítico (θ_c), ¿a qué es igual el coeficiente de fricción estática (μ_s)?",
+    "opciones": [
+      "A la tangente del ángulo crítico (tan(θ_c)).",
+      "Al seno del ángulo crítico (sen(θ_c)).",
+      "Al coseno del ángulo crítico (cos(θ_c)).",
+      "A la cotangente del ángulo crítico (cot(θ_c))."
+    ],
+    "respuesta_correcta": "A la tangente del ángulo crítico (tan(θ_c)).",
+    "explicacion_detallada": "Cuando el bloque está a punto de deslizar (movimiento inminente), la fuerza de fricción estática alcanza su valor máximo, f_s = μ_s * N. En un plano inclinado, la fuerza Normal N = m*g*cos(θ_c) y la componente del peso que intenta deslizar el bloque es P_x = m*g*sen(θ_c). Como está en equilibrio justo antes del deslizamiento, las fuerzas son iguales: m*g*sen(θ_c) = μ_s * m*g*cos(θ_c). Al dividir ambos lados por m*g*cos(θ_c), obtenemos que μ_s = sen(θ_c) / cos(θ_c), lo cual es igual a tan(θ_c).",
+    "pasos_resolucion": [
+      "Establecer la condición de equilibrio inminente: Fuerza de deslizamiento = Fricción estática máxima.",
+      "Sustituir las expresiones de las fuerzas: m*g*sen(θ_c) = μ_s * N.",
+      "Sustituir la normal: m*g*sen(θ_c) = μ_s * m*g*cos(θ_c).",
+      "Despejar μ_s dividiendo la expresión: μ_s = sen(θ_c) / cos(θ_c) = tan(θ_c)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_374_003_06",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.7.4",
+    "tituloSubtema": "Dinámica en dos dimensiones",
+    "enunciado": "Un piloto hace volar un avión en un rizo vertical circular de radio R a velocidad constante. Comparando la fuerza normal aparente (el peso que siente el piloto) en el punto más alto de la trayectoria con el punto más bajo, ¿cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "La fuerza aparente es mayor en el punto más bajo del rizo.",
+      "La fuerza aparente es mayor en el punto más alto del rizo.",
+      "La fuerza aparente es igual en ambos puntos porque la velocidad es constante.",
+      "La fuerza aparente es siempre igual al peso real del piloto."
+    ],
+    "respuesta_correcta": "La fuerza aparente es mayor en el punto más bajo del rizo.",
+    "explicacion_detallada": "En un rizo circular vertical, la fuerza neta siempre debe apuntar hacia el centro (fuerza centrípeta, F_c = mv²/R). En el punto más bajo, tanto la fuerza normal (N, que empuja hacia arriba) como el peso (mg, hacia abajo) están en juego. F_c = N - mg, por lo que N = mv²/R + mg. En el punto más alto, tanto la normal como el peso apuntan hacia abajo (al centro del círculo): F_c = N + mg, por lo que N = mv²/R - mg. Es evidente que la fuerza normal (fuerza aparente o sensación de peso) es mucho mayor en la parte inferior del rizo.",
+    "pasos_resolucion": [
+      "Plantear las ecuaciones para la fuerza centrípeta en los extremos del rizo.",
+      "Para el punto más bajo: F_neta = N_bajo - mg = mv²/R, despejar N_bajo.",
+      "Para el punto más alto: F_neta = N_alto + mg = mv²/R, despejar N_alto.",
+      "Comparar las magnitudes: N_bajo (mv²/R + mg) es mayor que N_alto (mv²/R - mg)."
+    ],
+    "video_explicativo_url": ""
+  }
+]

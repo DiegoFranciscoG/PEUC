@@ -1,0 +1,135 @@
+[
+  {
+    "id": "cn_3101_001",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.10.1",
+    "tituloSubtema": "Vectores",
+    "enunciado": "Dados los vectores A = (3, -2) y B = (-1, 5), ¿cuál es el vector resultante de la operación 2A - B?",
+    "opciones": [
+      "(7, -9)",
+      "(5, 1)",
+      "(7, -1)",
+      "(5, -9)"
+    ],
+    "respuesta_correcta": "(7, -9)",
+    "explicacion_detallada": "Para realizar la operación 2A - B, primero se multiplica el vector A por el escalar 2 y luego se resta el vector B componente a componente.",
+    "pasos_resolucion": [
+      "Multiplicar el vector A por 2: 2A = 2 * (3, -2) = (6, -4).",
+      "Restar el vector B: 2A - B = (6, -4) - (-1, 5).",
+      "Operar las componentes: x = 6 - (-1) = 7; y = -4 - 5 = -9.",
+      "El vector resultante es (7, -9)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_002",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.10.1",
+    "tituloSubtema": "Vectores",
+    "enunciado": "Un móvil se desplaza 4 km hacia el Norte y luego 3 km hacia el Este. ¿Cuál es el módulo del vector desplazamiento total?",
+    "opciones": [
+      "5 km",
+      "7 km",
+      "1 km",
+      "25 km"
+    ],
+    "respuesta_correcta": "5 km",
+    "explicacion_detallada": "Los desplazamientos forman un triángulo rectángulo, donde los catetos son 4 km y 3 km. El desplazamiento total es la hipotenusa de este triángulo, la cual se calcula usando el Teorema de Pitágoras.",
+    "pasos_resolucion": [
+      "Identificar el vector desplazamiento como la suma vectorial de D1 = (0, 4) y D2 = (3, 0).",
+      "El vector suma es D_total = (3, 4).",
+      "Calcular el módulo usando Pitágoras: |D_total| = √(3^2 + 4^2).",
+      "|D_total| = √(9 + 16) = √25 = 5 km."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_003",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.10.1",
+    "tituloSubtema": "Vectores",
+    "enunciado": "¿Cuál de las siguientes afirmaciones sobre el producto escalar (producto punto) de dos vectores no nulos es correcta?",
+    "opciones": [
+      "Si el producto escalar es cero, los vectores son perpendiculares.",
+      "El resultado del producto escalar es siempre un vector.",
+      "Si el producto escalar es cero, los vectores son paralelos.",
+      "El producto escalar es máximo cuando los vectores forman un ángulo de 90 grados."
+    ],
+    "respuesta_correcta": "Si el producto escalar es cero, los vectores son perpendiculares.",
+    "explicacion_detallada": "El producto escalar de dos vectores A y B se define como |A||B|cos(θ). Si A y B no son nulos y su producto escalar es 0, implica que cos(θ) = 0, lo cual ocurre cuando el ángulo θ es 90°, es decir, los vectores son perpendiculares (ortogonales).",
+    "pasos_resolucion": [
+      "Recordar la fórmula del producto escalar: A · B = |A| * |B| * cos(θ).",
+      "Analizar la condición A · B = 0 sabiendo que |A| ≠ 0 y |B| ≠ 0.",
+      "Deducir que cos(θ) debe ser 0.",
+      "Concluir que θ = 90°, lo que significa que son perpendiculares."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_004",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.10.1",
+    "tituloSubtema": "Vectores",
+    "enunciado": "Se tiene un vector F cuya magnitud es de 10 N y forma un ángulo de 60 grados con el semieje positivo de las x. ¿Cuáles son las componentes rectangulares (Fx, Fy) del vector?",
+    "opciones": [
+      "(5 N, 5√3 N)",
+      "(5√3 N, 5 N)",
+      "(10 N, 10√3 N)",
+      "(5 N, 10 N)"
+    ],
+    "respuesta_correcta": "(5 N, 5√3 N)",
+    "explicacion_detallada": "Las componentes rectangulares de un vector se calculan usando las funciones trigonométricas seno y coseno respecto al ángulo formado con el eje x.",
+    "pasos_resolucion": [
+      "Usar la fórmula para la componente x: Fx = F * cos(θ).",
+      "Sustituir los valores: Fx = 10 * cos(60°) = 10 * (1/2) = 5 N.",
+      "Usar la fórmula para la componente y: Fy = F * sen(θ).",
+      "Sustituir los valores: Fy = 10 * sen(60°) = 10 * (√3/2) = 5√3 N."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_005",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.10.1",
+    "tituloSubtema": "Vectores",
+    "enunciado": "Dados los vectores u = (2, -1, 3) y v = (1, 4, -2), el valor del producto escalar u · v es:",
+    "opciones": [
+      "-8",
+      "8",
+      "-4",
+      "4"
+    ],
+    "respuesta_correcta": "-8",
+    "explicacion_detallada": "El producto escalar de dos vectores en tres dimensiones se obtiene sumando los productos de sus respectivas componentes (x con x, y con y, z con z).",
+    "pasos_resolucion": [
+      "Multiplicar las componentes en x: 2 * 1 = 2.",
+      "Multiplicar las componentes en y: -1 * 4 = -4.",
+      "Multiplicar las componentes en z: 3 * -2 = -6.",
+      "Sumar los resultados obtenidos: 2 + (-4) + (-6) = -8."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_3101_006",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.10.1",
+    "tituloSubtema": "Vectores",
+    "enunciado": "Dos fuerzas concurrentes F1 y F2 tienen igual magnitud F. Si la magnitud de la fuerza resultante es también F, ¿qué ángulo forman entre sí los vectores F1 y F2?",
+    "opciones": [
+      "120 grados",
+      "60 grados",
+      "90 grados",
+      "0 grados"
+    ],
+    "respuesta_correcta": "120 grados",
+    "explicacion_detallada": "Utilizando la ley de los cosenos para la suma de vectores, si la resultante de dos vectores de igual magnitud tiene la misma magnitud, los vectores deben formar un ángulo de 120°.",
+    "pasos_resolucion": [
+      "Escribir la fórmula del módulo de la suma: R^2 = F1^2 + F2^2 + 2*F1*F2*cos(θ).",
+      "Sustituir R, F1 y F2 por F: F^2 = F^2 + F^2 + 2*F*F*cos(θ).",
+      "Simplificar la ecuación: F^2 = 2*F^2 + 2*F^2*cos(θ).",
+      "Despejar cos(θ): -F^2 = 2*F^2*cos(θ) -> cos(θ) = -1/2.",
+      "El ángulo cuyo coseno es -1/2 es 120 grados."
+    ],
+    "video_explicativo_url": ""
+  }
+]

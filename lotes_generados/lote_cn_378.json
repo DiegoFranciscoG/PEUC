@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cn_378_001",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.7.8",
+    "tituloSubtema": "El campo magnético",
+    "enunciado": "Las líneas de campo magnético producidas por un imán de barra tienen la característica principal de que:",
+    "opciones": [
+      "Salen del polo norte y entran por el polo sur, formando lazos cerrados continuos.",
+      "Salen del polo sur y entran por el polo norte, formando lazos cerrados continuos.",
+      "Salen del polo norte y terminan en el infinito, comportándose como cargas eléctricas aisladas.",
+      "Comienzan y terminan en los polos magnéticos sin formar lazos en el interior del imán."
+    ],
+    "respuesta_correcta": "Salen del polo norte y entran por el polo sur, formando lazos cerrados continuos.",
+    "explicacion_detallada": "Las líneas de campo magnético siempre forman lazos cerrados continuos, a diferencia de las líneas de campo eléctrico. En el exterior de un imán, por convención, estas líneas se dibujan saliendo del polo norte magnético y entrando por el polo sur. En el interior del imán, las líneas continúan del polo sur al polo norte para cerrar el ciclo.",
+    "pasos_resolucion": [
+      "Recordar la convención de la dirección de las líneas de campo magnético en el exterior de un imán (de norte a sur).",
+      "Recordar la propiedad fundamental de los campos magnéticos: no existen monopolos magnéticos, por lo que las líneas no tienen un principio ni un fin, forman lazos cerrados continuos."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_002",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.7.8",
+    "tituloSubtema": "El campo magnético",
+    "enunciado": "Por un alambre recto y muy largo circula una corriente de 5 A. ¿Cuál es la magnitud del campo magnético a una distancia de 0.1 m del alambre? (Considere la permeabilidad del vacío $\\mu_0 = 4\\pi \\times 10^{-7} \\, \\text{T}\\cdot\\text{m/A}$)",
+    "opciones": [
+      "$1 \\times 10^{-5} \\, \\text{T}$",
+      "$2 \\times 10^{-5} \\, \\text{T}$",
+      "$5 \\times 10^{-5} \\, \\text{T}$",
+      "$4\\pi \\times 10^{-6} \\, \\text{T}$"
+    ],
+    "respuesta_correcta": "$1 \\times 10^{-5} \\, \\text{T}$",
+    "explicacion_detallada": "El campo magnético creado por un hilo rectilíneo infinitamente largo a una distancia r se calcula utilizando la ley de Biot-Savart o la ley de Ampère: B = (\\mu_0 * I) / (2\\pi * r). Al sustituir los valores del problema, obtenemos la magnitud exacta del campo magnético.",
+    "pasos_resolucion": [
+      "Identificar la fórmula del campo magnético para un alambre largo: $B = \\frac{\\mu_0 \\cdot I}{2\\pi \\cdot r}$.",
+      "Sustituir los valores conocidos: $B = \\frac{(4\\pi \\times 10^{-7} \\, \\text{T}\\cdot\\text{m/A}) \\cdot (5 \\, \\text{A})}{2\\pi \\cdot (0.1 \\, \\text{m})}$.",
+      "Simplificar la expresión: $B = \\frac{2 \\times 10^{-7} \\cdot 5}{0.1} = \\frac{10 \\times 10^{-7}}{0.1} = 100 \\times 10^{-7} \\, \\text{T} = 1 \\times 10^{-5} \\, \\text{T}$."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_003",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.7.8",
+    "tituloSubtema": "El campo magnético",
+    "enunciado": "Un protón (carga $q = 1.6 \\times 10^{-19} \\, \\text{C}$) ingresa a un campo magnético uniforme de $0.5 \\, \\text{T}$ con una velocidad de $2 \\times 10^6 \\, \\text{m/s}$ perpendicular a las líneas de campo. ¿Cuál es la magnitud de la fuerza magnética que experimenta el protón?",
+    "opciones": [
+      "$1.6 \\times 10^{-13} \\, \\text{N}$",
+      "$3.2 \\times 10^{-13} \\, \\text{N}$",
+      "$0.8 \\times 10^{-13} \\, \\text{N}$",
+      "$0 \\, \\text{N}$"
+    ],
+    "respuesta_correcta": "$1.6 \\times 10^{-13} \\, \\text{N}$",
+    "explicacion_detallada": "La fuerza magnética sobre una carga en movimiento se calcula con la fuerza de Lorentz: F = q * v * B * sen(\\theta). Como la velocidad es perpendicular al campo, el ángulo \\theta es de 90 grados y sen(90) = 1. Multiplicando la carga del protón, su velocidad y la magnitud del campo magnético obtenemos el valor de la fuerza.",
+    "pasos_resolucion": [
+      "Identificar la fórmula de la fuerza magnética: $F = |q| \\cdot v \\cdot B \\cdot \\text{sen}(\\theta)$.",
+      "Reconocer que al ser perpendicular, $\\theta = 90^\\circ$ y $\\text{sen}(90^\\circ) = 1$.",
+      "Sustituir los valores: $F = (1.6 \\times 10^{-19} \\, \\text{C}) \\cdot (2 \\times 10^6 \\, \\text{m/s}) \\cdot (0.5 \\, \\text{T})$.",
+      "Calcular el resultado final: $F = (1.6 \\times 10^{-19}) \\cdot 10^6 = 1.6 \\times 10^{-13} \\, \\text{N}$."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_004",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.7.8",
+    "tituloSubtema": "El campo magnético",
+    "enunciado": "Si se tienen dos alambres paralelos, rectos y largos, por los cuales circulan corrientes eléctricas constantes en la misma dirección, ¿qué tipo de fuerza magnética se ejerce entre ellos?",
+    "opciones": [
+      "Una fuerza de atracción, debido a la interacción de sus campos magnéticos.",
+      "Una fuerza de repulsión, ya que los campos magnéticos entre los alambres se suman.",
+      "No experimentan ninguna fuerza, ya que los alambres son neutros eléctricamente.",
+      "Una fuerza tangencial perpendicular a ambos alambres que los hace girar."
+    ],
+    "respuesta_correcta": "Una fuerza de atracción, debido a la interacción de sus campos magnéticos.",
+    "explicacion_detallada": "Cuando dos corrientes rectilíneas y paralelas circulan en el mismo sentido, los campos magnéticos generados provocan que sobre cada alambre se ejerza una fuerza dirigida hacia el otro alambre. Es decir, se atraen. Si las corrientes circulan en sentidos opuestos, la fuerza resultante es de repulsión.",
+    "pasos_resolucion": [
+      "Aplicar la regla de la mano derecha al primer alambre para determinar la dirección de su campo magnético en la posición del segundo alambre.",
+      "Utilizar la regla de la mano derecha para la fuerza magnética sobre un cable con corriente ($F = I \\cdot L \\times B$) en el segundo alambre, notando que la fuerza se dirige hacia el primer alambre.",
+      "Concluir que corrientes paralelas en la misma dirección siempre producen fuerzas de atracción mutua."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_005",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.7.8",
+    "tituloSubtema": "El campo magnético",
+    "enunciado": "El campo magnético terrestre es fundamental para la vida en la Tierra. Sobre las características de los polos magnéticos de la Tierra, es correcto afirmar que:",
+    "opciones": [
+      "El polo sur magnético de la Tierra se encuentra cerca del polo norte geográfico, y por eso atrae al polo norte de una brújula.",
+      "El polo norte magnético de la Tierra coincide exactamente con el polo norte geográfico de rotación.",
+      "El campo magnético terrestre es estático e invariable y es generado de forma exclusiva por la corteza sólida de la Tierra.",
+      "El polo sur magnético de la Tierra se encuentra cerca del polo sur geográfico y repele al polo sur de una brújula."
+    ],
+    "respuesta_correcta": "El polo sur magnético de la Tierra se encuentra cerca del polo norte geográfico, y por eso atrae al polo norte de una brújula.",
+    "explicacion_detallada": "El polo norte de la aguja magnetizada de una brújula apunta hacia el norte geográfico. Dado que los polos opuestos se atraen, el polo magnético de la Tierra que se encuentra situado en las proximidades del polo norte geográfico es, en realidad, un polo sur magnético. Además, los polos magnéticos no coinciden exactamente con los geográficos y se desplazan con el tiempo.",
+    "pasos_resolucion": [
+      "Recordar el principio básico del magnetismo: los polos opuestos se atraen y los polos iguales se repelen.",
+      "Analizar el funcionamiento de una brújula: su polo norte magnético (punta pintada) se alinea señalando hacia el Polo Norte geográfico.",
+      "Deducir que para atraer el polo norte de la brújula, debe existir un 'Polo Sur' magnético terrestre situado cerca del Norte geográfico."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_006",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.7.8",
+    "tituloSubtema": "El campo magnético",
+    "enunciado": "¿Qué característica principal tiene el campo magnético en la región central del interior de un solenoide ideal (largo) por el que circula una corriente constante?",
+    "opciones": [
+      "Es uniforme y sus líneas de campo son paralelas al eje longitudinal del solenoide.",
+      "Es directamente proporcional a la distancia desde el eje del solenoide.",
+      "Varía significativamente y es máximo cerca de las espiras, anulándose en el centro.",
+      "Es cero, ya que las contribuciones del campo magnético de las espiras individuales se cancelan mutuamente."
+    ],
+    "respuesta_correcta": "Es uniforme y sus líneas de campo son paralelas al eje longitudinal del solenoide.",
+    "explicacion_detallada": "En un solenoide ideal (cuya longitud es mucho mayor que su diámetro), el campo magnético en el interior es intenso, aproximadamente uniforme en toda la sección transversal central, y sus líneas de campo son paralelas a su eje central. Su magnitud está dada por $B = \\mu_0 \\cdot n \\cdot I$. En el exterior, el campo es prácticamente nulo.",
+    "pasos_resolucion": [
+      "Reconocer la configuración física de un solenoide: una bobina formada por un alambre enrollado en forma de hélice.",
+      "Analizar la superposición de los campos magnéticos creados por cada espira de corriente.",
+      "Concluir teóricamente (mediante la Ley de Ampère) que en el interior de un solenoide largo, el campo magnético resultante es uniforme y paralelo al eje."
+    ],
+    "video_explicativo_url": ""
+  }
+]

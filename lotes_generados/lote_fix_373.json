@@ -1,0 +1,342 @@
+[
+  {
+    "id": "cn_373_ex_006",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.3",
+    "enunciado": "Un bloque de masa 4 kg se mueve con una aceleración constante de 2 m/s² sobre una superficie sin fricción. ¿Cuál es la magnitud de la fuerza neta que actúa sobre él?",
+    "opciones": [
+      "8 N",
+      "2 N",
+      "6 N",
+      "16 N"
+    ],
+    "respuesta_correcta": "8 N",
+    "explicacion_detallada": "Por la segunda ley de Newton, la fuerza neta es el producto de la masa y la aceleración. F = m * a = 4 kg * 2 m/s² = 8 N.",
+    "pasos_resolucion": [
+      "Identificar los datos: m = 4 kg, a = 2 m/s²",
+      "Aplicar la fórmula F = m * a",
+      "Calcular el resultado: 4 * 2 = 8 N"
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_373_ex_007",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.3",
+    "enunciado": "Si un astronauta viaja de la Tierra a la Luna, ¿qué le ocurre a su masa y a su peso?",
+    "opciones": [
+      "La masa se mantiene constante y el peso disminuye",
+      "La masa disminuye y el peso se mantiene constante",
+      "Ambos disminuyen en la misma proporción",
+      "La masa y el peso se mantienen constantes"
+    ],
+    "respuesta_correcta": "La masa se mantiene constante y el peso disminuye",
+    "explicacion_detallada": "La masa es la cantidad de materia de un cuerpo y no cambia según la ubicación. El peso es la fuerza gravitacional que experimenta la masa (P = m*g), por lo que disminuye en la Luna debido a que la gravedad lunar es menor que la terrestre.",
+    "pasos_resolucion": [
+      "Recordar la definición de masa como propiedad intrínseca e invariable del cuerpo.",
+      "Entender que el peso depende de la gravedad local (P=mg).",
+      "Concluir que al haber menor gravedad en la Luna, el peso es menor pero la masa no cambia."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_373_ex_008",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.3",
+    "enunciado": "Un automóvil frena bruscamente y los pasajeros tienden a irse hacia adelante. Este fenómeno es un ejemplo clásico de:",
+    "opciones": [
+      "La primera ley de Newton (inercia)",
+      "La segunda ley de Newton (fuerza y aceleración)",
+      "La tercera ley de Newton (acción y reacción)",
+      "La ley de gravitación universal"
+    ],
+    "respuesta_correcta": "La primera ley de Newton (inercia)",
+    "explicacion_detallada": "La primera ley de Newton, o ley de la inercia, establece que un cuerpo tiende a mantener su estado de reposo o de movimiento rectilíneo uniforme a menos que una fuerza externa actúe sobre él. Los pasajeros mantienen su velocidad hacia adelante cuando el auto frena.",
+    "pasos_resolucion": [
+      "Identificar el cambio en el movimiento: el auto frena, pero los pasajeros continúan hacia adelante.",
+      "Relacionar esta tendencia a mantener el estado de movimiento previo con el concepto de inercia.",
+      "Asociar la inercia con la Primera Ley de Newton."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_373_ex_009",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.3",
+    "enunciado": "Sobre un bloque de 5 kg apoyado en una superficie horizontal lisa se aplican dos fuerzas: F1 de 15 N hacia la derecha y F2 de 5 N hacia la izquierda. ¿Cuál es la aceleración del bloque?",
+    "opciones": [
+      "2 m/s² hacia la derecha",
+      "4 m/s² hacia la derecha",
+      "3 m/s² hacia la izquierda",
+      "10 m/s² hacia la derecha"
+    ],
+    "respuesta_correcta": "2 m/s² hacia la derecha",
+    "explicacion_detallada": "La fuerza neta es la diferencia de las fuerzas opuestas: 15 N - 5 N = 10 N hacia la derecha. Según la segunda ley de Newton (a = F_neta / m), la aceleración es 10 N / 5 kg = 2 m/s².",
+    "pasos_resolucion": [
+      "Calcular la fuerza neta (Fneta = 15 - 5 = 10 N).",
+      "Usar la segunda ley de Newton: Fneta = m * a.",
+      "Despejar y calcular a = 10 / 5 = 2 m/s² hacia la derecha."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_373_ex_010",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.3",
+    "enunciado": "De acuerdo con la tercera ley de Newton (acción y reacción), si empujas una pared con una fuerza de 30 N:",
+    "opciones": [
+      "La pared ejerce una fuerza de 30 N sobre ti en sentido opuesto",
+      "La pared ejerce una fuerza de 30 N sobre ti en el mismo sentido",
+      "La pared no ejerce fuerza porque es un objeto inanimado",
+      "La pared ejerce una fuerza de 15 N para compensar la acción"
+    ],
+    "respuesta_correcta": "La pared ejerce una fuerza de 30 N sobre ti en sentido opuesto",
+    "explicacion_detallada": "La tercera ley de Newton establece que para cada acción existe una reacción de igual magnitud pero en dirección opuesta. Por lo tanto, la pared responde con una fuerza de 30 N.",
+    "pasos_resolucion": [
+      "Recordar el principio de acción y reacción: las fuerzas ocurren en pares.",
+      "Establecer que las fuerzas son de igual magnitud y sentido contrario.",
+      "Concluir que la reacción es de 30 N en sentido opuesto al empuje."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_373_ex_011",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.3",
+    "enunciado": "Un objeto de masa 10 kg se encuentra en reposo sobre una mesa horizontal. ¿Cuál es el valor aproximado de la fuerza normal que la mesa ejerce sobre el objeto? (Considerar g = 9.8 m/s²)",
+    "opciones": [
+      "98 N",
+      "10 N",
+      "0 N",
+      "9.8 N"
+    ],
+    "respuesta_correcta": "98 N",
+    "explicacion_detallada": "En un plano horizontal sin fuerzas verticales extras, la fuerza normal equilibra al peso. Peso = m * g = 10 kg * 9.8 m/s² = 98 N. Por equilibrio (Primera Ley), la Normal = Peso = 98 N.",
+    "pasos_resolucion": [
+      "Plantear la sumatoria de fuerzas verticales: N - P = 0.",
+      "Calcular el peso del objeto P = m * g = 10 * 9.8 = 98 N.",
+      "Igualar N = P para obtener 98 N."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_373_ex_012",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.3",
+    "enunciado": "Un cuerpo de 8 kg es empujado sobre una superficie horizontal con una fuerza de 40 N. Si la fuerza de fricción cinética entre el cuerpo y la superficie es de 16 N, ¿cuál es la aceleración que adquiere el cuerpo?",
+    "opciones": [
+      "3 m/s²",
+      "5 m/s²",
+      "7 m/s²",
+      "2 m/s²"
+    ],
+    "respuesta_correcta": "3 m/s²",
+    "explicacion_detallada": "La fuerza neta es la fuerza aplicada menos la fricción: Fneta = 40 N - 16 N = 24 N. Aplicando la segunda ley (a = F/m), resulta en a = 24 / 8 = 3 m/s².",
+    "pasos_resolucion": [
+      "Restar la fricción a la fuerza aplicada para hallar Fneta: 40 - 16 = 24 N.",
+      "Aplicar Segunda ley de Newton: a = Fneta / m.",
+      "Calcular a = 24 N / 8 kg = 3 m/s²."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_373_ex_013",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.3",
+    "enunciado": "Una persona está en un ascensor que sube con una aceleración constante hacia arriba. ¿Cómo es el peso aparente de la persona comparado con su peso real?",
+    "opciones": [
+      "Mayor que su peso real",
+      "Igual a su peso real",
+      "Menor que su peso real",
+      "Cero, pues experimenta ingravidez"
+    ],
+    "respuesta_correcta": "Mayor que su peso real",
+    "explicacion_detallada": "Cuando el ascensor acelera hacia arriba, la fuerza normal (peso aparente) ejercida sobre la persona es mayor que su peso real porque debe vencer la gravedad y proporcionar la aceleración hacia arriba. N - mg = ma, por tanto N = m(g+a).",
+    "pasos_resolucion": [
+      "Establecer un diagrama de cuerpo libre para la persona: fuerzas verticales (N hacia arriba, mg hacia abajo).",
+      "Plantear ecuación: N - mg = m*a (donde a > 0 es hacia arriba).",
+      "Despejar N: N = mg + ma, concluyendo que N (peso aparente) es mayor que mg."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_373_ex_014",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.3",
+    "enunciado": "¿Qué magnitud es constante en todo el universo para un objeto dado, asumiendo que no pierde materia?",
+    "opciones": [
+      "La masa",
+      "El peso",
+      "La fuerza de fricción",
+      "El momento de inercia"
+    ],
+    "respuesta_correcta": "La masa",
+    "explicacion_detallada": "La masa mide la cantidad de materia de un objeto y es una constante en la física clásica, independientemente de la fuerza gravitacional del planeta donde se encuentre.",
+    "pasos_resolucion": [
+      "Diferenciar entre masa (propiedad intrínseca) y peso (fuerza dependiente del campo gravitatorio).",
+      "Analizar que la fricción y el momento de inercia dependen de otros factores o de la forma.",
+      "Elegir la masa como la magnitud invariante."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_373_ex_015",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.3",
+    "enunciado": "Se tira de una cuerda ideal conectada a un bloque de masa 6 kg, elevándolo verticalmente con velocidad constante. ¿Cuál es la tensión de la cuerda? (g = 10 m/s² para simplificar)",
+    "opciones": [
+      "60 N",
+      "6 N",
+      "0 N",
+      "120 N"
+    ],
+    "respuesta_correcta": "60 N",
+    "explicacion_detallada": "Si sube a velocidad constante, la aceleración es 0 (primera ley de Newton). La tensión debe ser igual al peso. T = m*g = 6 kg * 10 m/s² = 60 N.",
+    "pasos_resolucion": [
+      "Relacionar 'velocidad constante' con aceleración igual a cero (a = 0).",
+      "Plantear la sumatoria de fuerzas en eje y: T - P = m*a = 0.",
+      "Concluir que T = P = 6 * 10 = 60 N."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_373_ex_016",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.3",
+    "enunciado": "Si sobre un objeto la fuerza resultante es nula (cero), ¿qué podemos afirmar sobre el estado cinemático del objeto?",
+    "opciones": [
+      "Está en reposo o se mueve con velocidad constante (MRU)",
+      "Necesariamente está en reposo",
+      "Se encuentra en movimiento uniformemente acelerado (MRUV)",
+      "Su velocidad disminuye progresivamente"
+    ],
+    "respuesta_correcta": "Está en reposo o se mueve con velocidad constante (MRU)",
+    "explicacion_detallada": "Por la Primera Ley de Newton, un cuerpo sobre el que no actúan fuerzas netas mantendrá su estado de reposo o seguirá desplazándose en línea recta con rapidez constante (aceleración nula).",
+    "pasos_resolucion": [
+      "Recordar la Primera Ley de Newton: la inercia.",
+      "Verificar que aceleración nula implica velocidad constante, que incluye el caso de velocidad cero (reposo).",
+      "Seleccionar la opción que incluya ambas posibilidades."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_373_ex_017",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.3",
+    "enunciado": "Un tractor empuja una roca grande. De acuerdo con la tercera ley de Newton, la fuerza que el tractor aplica a la roca es:",
+    "opciones": [
+      "De igual magnitud y opuesta a la fuerza que la roca aplica al tractor",
+      "Mayor que la fuerza que la roca aplica al tractor para poder moverla",
+      "Menor, debido a la alta masa del tractor",
+      "La única fuerza real, pues la roca no genera fuerza al ser inerte"
+    ],
+    "respuesta_correcta": "De igual magnitud y opuesta a la fuerza que la roca aplica al tractor",
+    "explicacion_detallada": "Las fuerzas del par acción-reacción siempre son de la misma magnitud y sentidos contrarios, sin importar el tamaño o si están en movimiento o reposo.",
+    "pasos_resolucion": [
+      "Analizar el postulado de la tercera ley (pares acción-reacción).",
+      "Reconocer que F_{tractor-roca} = - F_{roca-tractor}.",
+      "Descartar los conceptos erróneos sobre masas grandes que harían 'reacciones menores'."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_373_ex_018",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.3",
+    "enunciado": "Una fuerza constante de 50 N actúa sobre un carrito de compras y le produce una aceleración de 2 m/s². Si se duplica la masa del carrito (agregando productos) manteniendo la misma fuerza, ¿qué sucede con la aceleración?",
+    "opciones": [
+      "Se reduce a la mitad (1 m/s²)",
+      "Se duplica (4 m/s²)",
+      "Se mantiene igual (2 m/s²)",
+      "Se cuadruplica (8 m/s²)"
+    ],
+    "respuesta_correcta": "Se reduce a la mitad (1 m/s²)",
+    "explicacion_detallada": "Según la Segunda Ley, la aceleración es inversamente proporcional a la masa (a = F/m). Si m se duplica, la aceleración se divide entre 2.",
+    "pasos_resolucion": [
+      "Escribir la relación a = F / m.",
+      "Sustituir m por 2m en la ecuación: a' = F / (2m) = (1/2) * (F/m).",
+      "Concluir que la nueva aceleración es la mitad de la original."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_373_ex_019",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.3",
+    "enunciado": "En un plano inclinado rugoso, ¿qué componente de la fuerza peso de un bloque ocasiona que este tienda a deslizar cuesta abajo?",
+    "opciones": [
+      "La componente paralela al plano (P * sen(θ))",
+      "La componente perpendicular al plano (P * cos(θ))",
+      "La magnitud total del peso (P)",
+      "La fuerza normal (N)"
+    ],
+    "respuesta_correcta": "La componente paralela al plano (P * sen(θ))",
+    "explicacion_detallada": "El peso se descompone en dos fuerzas. La perpendicular P_y (P*cos(θ)) se equilibra con la normal y la paralela P_x (P*sen(θ)) es la que impulsa el bloque hacia abajo en la rampa.",
+    "pasos_resolucion": [
+      "Dibujar el diagrama de cuerpo libre del bloque en el plano.",
+      "Descomponer el vector peso P en ejes X e Y (paralelo y normal al plano).",
+      "Identificar que P_x = P * sen(θ) es la fuerza motriz que favorece el deslizamiento."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_373_ex_020",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.3",
+    "enunciado": "Un patinador de 60 kg, de pie sobre el hielo (fricción nula), empuja a otro patinador de 40 kg con una fuerza de 120 N. ¿Cuál es la magnitud de la aceleración inicial que adquiere el patinador de 60 kg?",
+    "opciones": [
+      "2 m/s²",
+      "3 m/s²",
+      "0 m/s²",
+      "5 m/s²"
+    ],
+    "respuesta_correcta": "2 m/s²",
+    "explicacion_detallada": "Por la 3ra Ley, el patinador de 60 kg recibe una fuerza de 120 N (reacción). Por la 2da Ley, su aceleración es a = F/m = 120 / 60 = 2 m/s².",
+    "pasos_resolucion": [
+      "Determinar la fuerza que actúa sobre el patinador de 60 kg: F = 120 N debido a la acción y reacción.",
+      "Aplicar a = F / m al patinador que realiza el empuje.",
+      "Calcular a = 120 / 60 = 2 m/s²."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_373_ex_021",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.3",
+    "enunciado": "Al jalar horizontalmente un cajón de madera pesado, es común notar que cuesta más trabajo ponerlo en movimiento que mantenerlo deslizándose a rapidez constante. Esto evidencia que:",
+    "opciones": [
+      "La fricción estática máxima es mayor que la fricción cinética",
+      "El peso del objeto disminuye cuando está en movimiento",
+      "La inercia solo se manifiesta en objetos en reposo",
+      "La fricción cinética actúa en la misma dirección del movimiento"
+    ],
+    "respuesta_correcta": "La fricción estática máxima es mayor que la fricción cinética",
+    "explicacion_detallada": "El coeficiente de fricción estática, que debe superarse para iniciar el movimiento, es generalmente mayor al coeficiente de fricción cinética o dinámica (que actúa mientras hay deslizamiento).",
+    "pasos_resolucion": [
+      "Distinguir entre los dos tipos de fricción: estática y cinética.",
+      "Relacionar 'iniciar el movimiento' con romper la fricción estática máxima.",
+      "Concluir que el hecho de que sea más fácil mantener el movimiento implica que el rozamiento cinético es menor."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_373_ex_022",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.3",
+    "enunciado": "Un cuerpo de 5 kg cambia su velocidad de 2 m/s a 14 m/s en un tiempo de 3 segundos mediante la aplicación de una fuerza neta constante. ¿Cuál es la magnitud de esta fuerza?",
+    "opciones": [
+      "20 N",
+      "10 N",
+      "60 N",
+      "40 N"
+    ],
+    "respuesta_correcta": "20 N",
+    "explicacion_detallada": "Primero calculamos la aceleración a = (vf - vi) / t = (14 - 2) / 3 = 4 m/s². Luego aplicamos F = m*a = 5 kg * 4 m/s² = 20 N.",
+    "pasos_resolucion": [
+      "Calcular la aceleración usando MRUV: a = (vf - vi)/t.",
+      "Sustituir los valores: a = (14 - 2)/3 = 12/3 = 4 m/s².",
+      "Aplicar la Segunda Ley: F = 5 * 4 = 20 N."
+    ],
+    "video_explicativo_url": ""
+  }
+]

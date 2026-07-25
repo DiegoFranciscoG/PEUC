@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cs_452_ex_001",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.2",
+    "enunciado": "La conquista española del Imperio Inca, liderada por Francisco Pizarro en 1532, se vio facilitada por una serie de factores internos dentro del Tahuantinsuyo. ¿Cuál de los siguientes eventos fue determinante para debilitar la resistencia incaica antes de la llegada de los españoles?",
+    "opciones": [
+      "La guerra civil dinástica entre Huáscar y Atahualpa.",
+      "La alianza militar de los incas con los pueblos de Mesoamérica.",
+      "El rechazo de las élites incas al sistema de la mita.",
+      "La expansión del imperio hacia el norte, más allá del actual Colombia."
+    ],
+    "respuesta_correcta": "La guerra civil dinástica entre Huáscar y Atahualpa.",
+    "explicacion_detallada": "La guerra civil entre los hermanos Huáscar y Atahualpa, motivada por la sucesión al trono tras la muerte del Inca Huayna Cápac, dividió y debilitó enormemente al Imperio Inca. Esto permitió a Pizarro encontrar un imperio fragmentado, del cual sacó ventaja formando alianzas con los pueblos sometidos por los incas que deseaban liberarse del dominio cusqueño.",
+    "pasos_resolucion": [
+      "Identificar el contexto temporal (1532) y los actores principales (Pizarro y el Imperio Inca).",
+      "Analizar los factores de vulnerabilidad interna del Tahuantinsuyo en esa época.",
+      "Reconocer que la guerra civil entre Huáscar y Atahualpa fue el evento central que mermó la capacidad defensiva y la unidad política del imperio."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_452_ex_002",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.2",
+    "enunciado": "Durante la época colonial, la Corona española instauró instituciones para organizar la mano de obra indígena y asegurar el control territorial. Una de estas instituciones otorgaba a un español un grupo de indígenas para su protección y evangelización, a cambio de que estos le rindieran tributo y trabajo. ¿A qué institución hace referencia esta descripción?",
+    "opciones": [
+      "La encomienda",
+      "La mita",
+      "El obraje",
+      "La reducción"
+    ],
+    "respuesta_correcta": "La encomienda",
+    "explicacion_detallada": "La encomienda fue una institución socioeconómica colonial mediante la cual se encomendaba un grupo de indígenas a un súbdito español (encomendero). El encomendero debía evangelizarlos y protegerlos, y a cambio, los indígenas estaban obligados a pagarle tributo en productos o trabajo, lo que en la práctica derivó en explotación y abusos.",
+    "pasos_resolucion": [
+      "Analizar las características de la institución descrita: grupo de indígenas asignado a un español, protección/evangelización a cambio de tributo y trabajo.",
+      "Descartar la mita, que era un sistema de trabajo obligatorio rotativo (especialmente en minas y obras públicas).",
+      "Identificar la 'encomienda' como la figura jurídica y económica que coincide exactamente con la premisa."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_452_ex_003",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.2",
+    "enunciado": "La evangelización fue uno de los pilares de la conquista y colonización española en los Andes, buscando erradicar las creencias politeístas indígenas y establecer el catolicismo. En este proceso, ocurrió una fusión de elementos religiosos andinos y católicos. ¿Qué concepto define de manera precisa esta fusión cultural y religiosa?",
+    "opciones": [
+      "Sincretismo cultural",
+      "Asimilación forzada",
+      "Extirpación de idolatrías",
+      "Aculturación absoluta"
+    ],
+    "respuesta_correcta": "Sincretismo cultural",
+    "explicacion_detallada": "El sincretismo cultural (y religioso) es el proceso mediante el cual dos o más tradiciones culturales se mezclan para formar una nueva. En los Andes, las divinidades indígenas fueron asociadas a santos católicos y Vírgenes (como la Pachamama con la Virgen María), permitiendo a los indígenas mantener aspectos de su cosmovisión bajo un velo católico.",
+    "pasos_resolucion": [
+      "Definir qué significa la fusión de elementos religiosos andinos y católicos.",
+      "Diferenciar entre imposición y mezcla.",
+      "Identificar el 'sincretismo' como el término antropológico e histórico correcto para describir la mezcla de ambas tradiciones."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_452_ex_004",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.2",
+    "enunciado": "La administración del vasto territorio sudamericano requirió la creación de entidades jurisdiccionales. En 1563, el Rey Felipe II emitió una Cédula Real que creó un tribunal de justicia y gobierno en el actual territorio ecuatoriano, dándole cierta autonomía política y judicial. ¿Cuál fue esta institución?",
+    "opciones": [
+      "La Real Audiencia de Quito",
+      "El Virreinato de Nueva Granada",
+      "El Virreinato del Perú",
+      "La Capitanía General de Venezuela"
+    ],
+    "respuesta_correcta": "La Real Audiencia de Quito",
+    "explicacion_detallada": "La Real Audiencia de Quito fue creada en 1563 por Cédula Real de Felipe II. Como máximo tribunal de justicia, pero también con funciones de gobierno en su jurisdicción, delimitó territorialmente lo que más tarde sería la base del Estado ecuatoriano, aunque dependía administrativamente del Virreinato del Perú (y más tarde de Nueva Granada).",
+    "pasos_resolucion": [
+      "Vincular el año (1563) y el territorio (actual Ecuador) con las entidades coloniales.",
+      "Recordar que el Virreinato del Perú se creó en 1542 y Nueva Granada mucho después (1717).",
+      "Identificar a la Real Audiencia de Quito como la institución creada en 1563 para administrar justicia y gobierno local."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_452_ex_005",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.2",
+    "enunciado": "El sistema andino prehispánico de trabajo colectivo, utilizado para grandes obras públicas o agrícolas, fue adaptado por las autoridades virreinales españolas de forma coercitiva, especialmente para la explotación minera (como en Potosí). ¿Cuál es el nombre de este sistema?",
+    "opciones": [
+      "La mita",
+      "El yanaconazgo",
+      "El concertaje",
+      "El huasipungo"
+    ],
+    "respuesta_correcta": "La mita",
+    "explicacion_detallada": "La mita era un sistema incaico de trabajo obligatorio por turnos a favor del Estado. El Virrey Francisco de Toledo lo adaptó en el siglo XVI durante la colonia para forzar a los varones indígenas a trabajar en condiciones inhumanas, principalmente en las minas de plata de Potosí y en los obrajes, transformándolo en una de las instituciones más destructivas demográficamente.",
+    "pasos_resolucion": [
+      "Identificar el origen prehispánico del sistema de trabajo colectivo.",
+      "Reconocer su transformación colonial enfocada en minería (Potosí) y obrajes.",
+      "Diferenciar la mita de otras formas de servidumbre como el concertaje o yanaconazgo."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_452_ex_006",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.2",
+    "enunciado": "Tras el asesinato del último Sapa Inca rebelde en 1572, la resistencia armada en el reducto de Vilcabamba llegó a su fin, marcando la consolidación del poder español en los Andes. ¿Quién fue este líder indígena que encabezó la última fase de la resistencia incaica?",
+    "opciones": [
+      "Túpac Amaru I",
+      "Manco Inca",
+      "Rumiñahui",
+      "Túpac Katari"
+    ],
+    "respuesta_correcta": "Túpac Amaru I",
+    "explicacion_detallada": "Túpac Amaru I fue el cuarto y último de los incas de Vilcabamba, el foco de resistencia incaica frente a la conquista española. Fue capturado y ejecutado en Cusco en 1572 por órdenes del Virrey Francisco de Toledo, con lo que se puso fin formalmente a la resistencia del estado Neo-Inca.",
+    "pasos_resolucion": [
+      "Contextualizar la fecha (1572) y el evento (caída del reducto de Vilcabamba).",
+      "Diferenciar entre los distintos líderes de resistencia (Manco Inca la inició, Rumiñahui en Quito).",
+      "Identificar a Túpac Amaru I como el último Inca de Vilcabamba, ejecutado en 1572."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_452_ex_007",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.2",
+    "enunciado": "La estructura social en el Virreinato del Perú estuvo profundamente marcada por divisiones étnicas y legales, organizándose en las denominadas 'República de españoles' y 'República de indios'. Sin embargo, surgió un grupo biológicamente mixto que fue marginado institucionalmente al no pertenecer claramente a ninguna de las dos. ¿Qué proceso social dio origen a este grupo poblacional?",
+    "opciones": [
+      "El mestizaje",
+      "El cimarronaje",
+      "La castellanización",
+      "El criollismo"
+    ],
+    "respuesta_correcta": "El mestizaje",
+    "explicacion_detallada": "El mestizaje fue el proceso biológico y cultural resultante del cruce entre españoles e indígenas (y posteriormente también africanos). Los mestizos crecieron numéricamente pero ocupaban un lugar ambiguo en la sociedad estamental colonial, ya que no tenían los privilegios de los españoles ni la protección legal o tierras de las comunidades indígenas.",
+    "pasos_resolucion": [
+      "Analizar las 'Repúblicas' coloniales y el grupo intermedio que surgió.",
+      "Descartar conceptos como cimarronaje (afrodescendientes fugados) o criollismo (españoles nacidos en América).",
+      "Reconocer el 'mestizaje' como el origen del grupo mixto marginado de la dualidad legal española/indígena."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_452_ex_008",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.2",
+    "enunciado": "El choque cultural entre europeos y andinos no solo fue bélico y religioso, sino también biológico. Un factor crucial que causó una mortalidad sin precedentes entre la población indígena durante el primer siglo de la conquista fue:",
+    "opciones": [
+      "La introducción de enfermedades epidémicas frente a las cuales no tenían anticuerpos.",
+      "El envenenamiento de los ríos por las técnicas mineras españolas.",
+      "El cambio forzado hacia una dieta basada exclusivamente en trigo y carne de cerdo.",
+      "Los sacrificios humanos masivos exigidos por los colonizadores."
+    ],
+    "respuesta_correcta": "La introducción de enfermedades epidémicas frente a las cuales no tenían anticuerpos.",
+    "explicacion_detallada": "El factor de mayor impacto demográfico y causante del drástico colapso poblacional indígena (catástrofe demográfica) fue la introducción involuntaria de enfermedades infecciosas euroasiáticas (como la viruela, el sarampión y la gripe), contra las cuales los nativos americanos no poseían defensas inmunológicas.",
+    "pasos_resolucion": [
+      "Evaluar los factores del colapso demográfico indígena del siglo XVI.",
+      "Reconocer que aunque la guerra y la explotación (mita) cobraron muchas vidas, la epidemiología fue la causa principal.",
+      "Seleccionar la opción referente a las epidemias como el factor crucial."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_452_ex_009",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.2",
+    "enunciado": "En la actual Sierra centro y norte de Ecuador (territorio de la Audiencia de Quito), la principal actividad económica colonial del siglo XVII estuvo basada en la producción textil a través de trabajo forzado indígena. ¿Cómo se denominaron los talleres donde se desarrollaba esta actividad productiva?",
+    "opciones": [
+      "Los obrajes",
+      "Los batanes",
+      "Las encomiendas",
+      "Las mitas mineras"
+    ],
+    "respuesta_correcta": "Los obrajes",
+    "explicacion_detallada": "Los obrajes eran talleres textiles establecidos en la Colonia, especialmente en la zona de la Real Audiencia de Quito, que se convirtió en un importante centro de producción de paños y tejidos para proveer a regiones mineras como Potosí. Los indígenas trabajaban en ellos en condiciones extremadamente duras.",
+    "pasos_resolucion": [
+      "Relacionar la producción textil con la Audiencia de Quito durante la Colonia.",
+      "Descartar encomiendas (institución general) y mitas mineras (extracción de plata/oro).",
+      "Identificar a 'los obrajes' como las unidades productivas textiles por excelencia en la región andina norte."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_452_ex_010",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.2",
+    "enunciado": "Durante la conquista española del actual Ecuador, un destacado general inca organizó la resistencia en la región de Quito, utilizando tácticas de 'tierra arrasada' e incendiando la ciudad antes de la llegada del conquistador Sebastián de Benalcázar. ¿Cuál fue el nombre de este general?",
+    "opciones": [
+      "Rumiñahui",
+      "Calcuchimac",
+      "Quizquiz",
+      "Atahualpa"
+    ],
+    "respuesta_correcta": "Rumiñahui",
+    "explicacion_detallada": "Rumiñahui fue un general de Atahualpa que lideró la resistencia contra las tropas españolas de Sebastián de Benalcázar en la zona de Quito. Para evitar que los conquistadores se apoderaran de las riquezas y de la ciudad, ordenó su destrucción e incendio, y escondió el supuesto tesoro antes de ser capturado y ejecutado.",
+    "pasos_resolucion": [
+      "Identificar a los principales generales de Atahualpa: Rumiñahui, Calcuchimac, Quizquiz.",
+      "Relacionar el líder militar específico que defendió Quito y usó la táctica de tierra arrasada.",
+      "Confirmar que Rumiñahui es la figura histórica descrita en el enunciado."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_452_ex_011",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.2",
+    "enunciado": "La organización del Virreinato del Perú implicó la creación de centros urbanos bajo el diseño de 'damero' o cuadrícula. Esta disposición espacial de las ciudades coloniales (como Quito y Lima) reflejaba:",
+    "opciones": [
+      "El orden jerárquico del poder español, ubicando en la plaza central la Iglesia y el Cabildo.",
+      "La imitación exacta de la distribución de las ciudades y ciudadelas incaicas.",
+      "Un modelo defensivo exclusivo para resistir ataques piratas y corsarios.",
+      "Una estructura para facilitar la agricultura intraurbana de los conquistadores."
+    ],
+    "respuesta_correcta": "El orden jerárquico del poder español, ubicando en la plaza central la Iglesia y el Cabildo.",
+    "explicacion_detallada": "El plano en damero (ajedrez) fue la forma urbana impuesta por España en América, establecida mediante las Leyes de Indias. En la Plaza Mayor o central se situaban los edificios representativos del poder político (Cabildo, Gobernación) y religioso (Iglesia Catedral), reflejando visual y espacialmente la jerarquía colonial impuesta sobre los territorios conquistados.",
+    "pasos_resolucion": [
+      "Recordar cómo estaban diseñadas las ciudades coloniales españolas (Plaza Mayor al centro).",
+      "Analizar el propósito de ubicar las principales instituciones alrededor de la plaza.",
+      "Concluir que el diseño buscaba centralizar y evidenciar el poder religioso y civil."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_452_ex_012",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.2",
+    "enunciado": "La promulgación de las Leyes Nuevas de 1542 por la Corona Española, impulsadas por las denuncias de frailes como Bartolomé de las Casas, buscó limitar los abusos contra la población nativa. ¿Cuál fue una de las principales disposiciones de estas leyes en relación al orden colonial andino?",
+    "opciones": [
+      "La supresión paulatina de las encomiendas y la prohibición de esclavizar a los indígenas.",
+      "La obligación de los indígenas de trabajar exclusivamente en las minas de Potosí.",
+      "La expulsión de la orden de los Jesuitas de todos los territorios virreinales.",
+      "El permiso oficial para la libre importación de esclavos indígenas hacia Europa."
+    ],
+    "respuesta_correcta": "La supresión paulatina de las encomiendas y la prohibición de esclavizar a los indígenas.",
+    "explicacion_detallada": "Las Leyes Nuevas de 1542 fueron un cuerpo legal que intentó frenar el inmenso poder de los encomenderos y proteger a los indígenas americanos. Prohibieron la esclavitud indígena y establecieron que las encomiendas ya no serían hereditarias, revirtiendo a la Corona tras la muerte del encomendero, lo cual generó rebeliones de los conquistadores en el Perú.",
+    "pasos_resolucion": [
+      "Relacionar a Bartolomé de las Casas con la defensa de los derechos de los indígenas.",
+      "Entender que las encomiendas eran la principal causa de abuso en esa época.",
+      "Identificar que las Leyes Nuevas intentaron suprimir (paulatinamente) el sistema de encomiendas."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_452_ex_013",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.2",
+    "enunciado": "Para asegurar el control ideológico sobre los pueblos andinos, la Iglesia Católica implementó campañas destinadas a destruir ídolos, huacas y otros elementos de culto indígena, persiguiendo a los chamanes y sacerdotes locales. Este proceso histórico y represivo fue conocido como:",
+    "opciones": [
+      "La extirpación de idolatrías",
+      "La Santa Inquisición de Indias",
+      "El Patronato Real",
+      "La encomienda eclesiástica"
+    ],
+    "respuesta_correcta": "La extirpación de idolatrías",
+    "explicacion_detallada": "Las campañas de 'extirpación de idolatrías' fueron llevadas a cabo por eclesiásticos en los Andes (especialmente en el Virreinato del Perú en el siglo XVII) para erradicar las persistentes creencias y rituales indígenas, que sobrevivían bajo la fachada del cristianismo o de manera clandestina. Se destruían huacas y se castigaba a los curanderos o hechiceros.",
+    "pasos_resolucion": [
+      "Entender el objetivo: destruir objetos de culto andino (huacas, ídolos).",
+      "Diferenciar de la Inquisición, que en América rara vez juzgaba a indígenas por considerarlos neófitos en la fe.",
+      "Identificar el término historiográfico correcto: 'extirpación de idolatrías'."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_452_ex_014",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.2",
+    "enunciado": "La cultura andina prehispánica fundamentaba su organización económica y social en principios de reciprocidad y redistribución, gestionados a través del ayllu. Con la conquista y la imposición de la economía mercantil europea, ¿qué sucedió con el ayllu andino?",
+    "opciones": [
+      "Fue desarticulado parcialmente, pero sobrevivió adaptándose como comunidad indígena sujeta al tributo colonial.",
+      "Fue promovido por los españoles como la estructura política principal del Virreinato.",
+      "Desapareció por completo en el primer siglo de la conquista, siendo reemplazado por los gremios medievales.",
+      "Se convirtió en una institución exclusiva para la nobleza criolla limeña y quiteña."
+    ],
+    "respuesta_correcta": "Fue desarticulado parcialmente, pero sobrevivió adaptándose como comunidad indígena sujeta al tributo colonial.",
+    "explicacion_detallada": "El ayllu (unidad de parentesco y producción andina) sufrió fuertes golpes debido a la pérdida de tierras, relocalizaciones forzadas (reducciones toledanas) y mortandad. Sin embargo, no desapareció completamente; se transformó y adaptó, constituyéndose en las 'comunidades indígenas' o repúblicas de indios, las cuales sirvieron al orden colonial para organizar el pago de tributos y reclutamiento mitayo.",
+    "pasos_resolucion": [
+      "Definir el ayllu como base social andina.",
+      "Evaluar si desapareció o se adaptó durante la Colonia.",
+      "Comprender que las reducciones aprovecharon esta estructura comunitaria para el control fiscal y laboral (tributo)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_452_ex_015",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.5.2",
+    "enunciado": "Al llegar a Cajamarca en 1532, los españoles tendieron una emboscada al Inca Atahualpa. Durante este encuentro, el fraile Vicente de Valverde le presentó un requerimiento que exigía someterse al Rey de España y aceptar la fe católica. La incomprensión de este ritual y del objeto entregado (una Biblia o un breviario) desencadenó la captura. ¿Qué concepto refleja este hecho sobre la conquista?",
+    "opciones": [
+      "El choque y la incomunicación radical entre dos cosmovisiones totalmente distintas.",
+      "La rápida adopción del monoteísmo por parte de la élite imperial incaica.",
+      "El mutuo acuerdo pacífico de co-gobierno inicial entre Pizarro y Atahualpa.",
+      "El rechazo deliberado de Atahualpa por conocer previamente el contenido de la Biblia."
+    ],
+    "respuesta_correcta": "El choque y la incomunicación radical entre dos cosmovisiones totalmente distintas.",
+    "explicacion_detallada": "El incidente de Cajamarca ilustra el abismo cultural (choque cultural) entre el mundo europeo y el andino. Atahualpa esperaba que el libro 'le hablara', pues la cultura incaica era oral y desconocía la escritura alfabética y el formato libro europeo. Al arrojar el libro por no entenderlo, los españoles usaron esto como pretexto legal y religioso para iniciar la masacre y captura.",
+    "pasos_resolucion": [
+      "Analizar el encuentro en Cajamarca y la acción de entregar un libro a una cultura de tradición oral.",
+      "Descartar intenciones pacíficas, ya que fue una emboscada planificada.",
+      "Concluir que el malentendido del libro simboliza la incomunicación y el profundo choque cultural entre ambos mundos."
+    ],
+    "video_explicativo_url": ""
+  }
+]

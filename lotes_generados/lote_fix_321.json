@@ -1,0 +1,108 @@
+[
+  {
+    "id": "cn_321_ex_001",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.2.1",
+    "enunciado": "Un guepardo puede alcanzar una velocidad de 108 km/h. Exprese esta velocidad en el Sistema Internacional de Unidades (m/s).",
+    "opciones": ["30 m/s", "10.8 m/s", "300 m/s", "1080 m/s"],
+    "respuesta_correcta": "30 m/s",
+    "explicacion_detallada": "Para convertir de km/h a m/s, se multiplica por 1000 m (1 km) y se divide para 3600 s (1 hora). 108 * 1000 / 3600 = 30.",
+    "pasos_resolucion": [
+      "Multiplicar 108 por 1000 para convertir kilómetros a metros (108,000 m).",
+      "Dividir el resultado entre 3600, que es el número de segundos en una hora.",
+      "108000 / 3600 = 30 m/s."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_321_ex_002",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.2.1",
+    "enunciado": "La densidad del oro es de 19.3 g/cm³. ¿Cuál es su densidad en kg/m³ expresada en notación científica?",
+    "opciones": ["1.93 x 10^4 kg/m³", "1.93 x 10^3 kg/m³", "19.3 x 10^3 kg/m³", "1.93 x 10^5 kg/m³"],
+    "respuesta_correcta": "1.93 x 10^4 kg/m³",
+    "explicacion_detallada": "Para convertir 19.3 g/cm³ a kg/m³: 1 g = 10^-3 kg y 1 cm³ = 10^-6 m³. Entonces, 19.3 * (10^-3) / (10^-6) = 19.3 * 10^3 = 19300 kg/m³. En notación científica esto es 1.93 x 10^4 kg/m³.",
+    "pasos_resolucion": [
+      "Convertir gramos a kilogramos: 19.3 g = 19.3 x 10^-3 kg.",
+      "Convertir centímetros cúbicos a metros cúbicos: 1 cm³ = 10^-6 m³.",
+      "Dividir las masas entre los volúmenes: (19.3 x 10^-3) / 10^-6 = 19.3 x 10^3 kg/m³.",
+      "Ajustar a notación científica estándar: 1.93 x 10^4 kg/m³."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_321_ex_003",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.2.1",
+    "enunciado": "Una piscina tiene una capacidad de 25,000 litros de agua. ¿A cuántos metros cúbicos equivale este volumen en el Sistema Internacional?",
+    "opciones": ["25 m³", "2.5 m³", "250 m³", "0.25 m³"],
+    "respuesta_correcta": "25 m³",
+    "explicacion_detallada": "Sabiendo que 1 metro cúbico (m³) equivale a 1000 litros, se divide la cantidad de litros entre 1000.",
+    "pasos_resolucion": [
+      "Recordar la equivalencia fundamental: 1 m³ = 1000 L.",
+      "Dividir el volumen en litros por 1000: 25000 / 1000.",
+      "Obtener el resultado final: 25 m³."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_321_ex_004",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.2.1",
+    "enunciado": "Un objeto aplica una fuerza sobre un área de 50 cm². Para calcular la presión en Pascales (N/m²), se debe convertir esta área a m². ¿Cuál es el valor del área en metros cuadrados?",
+    "opciones": ["0.005 m²", "0.05 m²", "0.5 m²", "5 m²"],
+    "respuesta_correcta": "0.005 m²",
+    "explicacion_detallada": "Dado que 1 m = 100 cm, elevando al cuadrado ambos lados se tiene que 1 m² = 10,000 cm². Por lo tanto, dividimos 50 entre 10,000.",
+    "pasos_resolucion": [
+      "Establecer la relación de áreas: 1 m² = (100 cm)² = 10,000 cm².",
+      "Dividir el área dada por el factor de conversión: 50 / 10,000.",
+      "Obtener el resultado: 0.005 m²."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_321_ex_005",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.2.1",
+    "enunciado": "En un experimento de laboratorio, se requiere pesar 450 miligramos (mg) de una sustancia reactiva. ¿A cuántos kilogramos (kg) equivale esta masa?",
+    "opciones": ["4.5 x 10^-4 kg", "4.5 x 10^-3 kg", "0.045 kg", "4.5 x 10^-5 kg"],
+    "respuesta_correcta": "4.5 x 10^-4 kg",
+    "explicacion_detallada": "1 kg equivale a 1,000 g, y 1 g equivale a 1,000 mg. Por tanto, 1 kg = 1,000,000 mg (10^6 mg). 450 mg / 10^6 = 450 x 10^-6 kg = 4.5 x 10^-4 kg.",
+    "pasos_resolucion": [
+      "Convertir miligramos a gramos dividiendo para 1000: 450 mg = 0.45 g.",
+      "Convertir gramos a kilogramos dividiendo para 1000 nuevamente: 0.45 g / 1000 = 0.00045 kg.",
+      "Expresar el resultado en notación científica: 4.5 x 10^-4 kg."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_321_ex_006",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.2.1",
+    "enunciado": "El diámetro de un glóbulo rojo humano es aproximadamente de 8 micrómetros (μm). Exprese esta medida en metros usando notación científica.",
+    "opciones": ["8 x 10^-6 m", "8 x 10^-3 m", "8 x 10^-9 m", "8 x 10^-12 m"],
+    "respuesta_correcta": "8 x 10^-6 m",
+    "explicacion_detallada": "El prefijo micro (μ) equivale a una millonésima parte, es decir, 10^-6. Por lo tanto, 8 μm son directamente 8 x 10^-6 metros.",
+    "pasos_resolucion": [
+      "Identificar el valor del prefijo 'micro' en el Sistema Internacional, que corresponde al factor 10^-6.",
+      "Multiplicar el valor dado por 10^-6.",
+      "El resultado expresado en metros es 8 x 10^-6 m."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_321_ex_007",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.2.1",
+    "enunciado": "Una barra energética proporciona 200 kilocalorías (kcal). Si 1 caloría equivale aproximadamente a 4.18 Joules, ¿cuál es el equivalente energético de la barra en el Sistema Internacional (Joules)?",
+    "opciones": ["8.36 x 10^5 J", "8.36 x 10^2 J", "8.36 x 10^3 J", "8.36 x 10^4 J"],
+    "respuesta_correcta": "8.36 x 10^5 J",
+    "explicacion_detallada": "Primero se convierten kilocalorías a calorías: 200 kcal = 200,000 cal. Luego se multiplica 200,000 cal por 4.18 J/cal, resultando en 836,000 J o 8.36 x 10^5 J.",
+    "pasos_resolucion": [
+      "Convertir kilocalorías a calorías multiplicando por 1000: 200 kcal = 200,000 cal.",
+      "Multiplicar las calorías por el factor de conversión a Joules: 200,000 x 4.18.",
+      "Obtener 836,000 J y expresarlo en notación científica estándar: 8.36 x 10^5 J."
+    ],
+    "video_explicativo_url": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cs_412_ex_001",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.2",
+    "enunciado": "El paso del Paleolítico al Neolítico representó una transformación fundamental en la vida del ser humano, conocida como la Revolución Neolítica. ¿Cuál de las siguientes características corresponde a este cambio?",
+    "opciones": [
+      "La transición de una economía depredadora (caza y recolección) a una economía productora (agricultura y ganadería).",
+      "El abandono del sedentarismo para adoptar un estilo de vida completamente nómada basado en el comercio.",
+      "La aparición de las primeras manifestaciones artísticas rupestres exclusivamente con fines estéticos.",
+      "El descubrimiento y uso exclusivo de metales para la fabricación de herramientas complejas."
+    ],
+    "respuesta_correcta": "La transición de una economía depredadora (caza y recolección) a una economía productora (agricultura y ganadería).",
+    "explicacion_detallada": "La Revolución Neolítica se caracteriza principalmente por el cambio de un modo de vida nómada basado en la caza y recolección a uno sedentario, sustentado en el desarrollo de la agricultura y la domesticación de animales.",
+    "pasos_resolucion": [
+      "Identificar las características fundamentales del Paleolítico (nomadismo, caza, recolección).",
+      "Identificar las características del Neolítico (sedentarismo, agricultura, ganadería).",
+      "Evaluar las opciones para encontrar la que describa correctamente esta transición económica y social."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_412_ex_002",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.2",
+    "enunciado": "Las pinturas rupestres de Altamira y Lascaux son algunos de los ejemplos más destacados del arte del Paleolítico Superior. ¿Cuál se considera el propósito principal o significado atribuido por los prehistoriadores a estas representaciones?",
+    "opciones": [
+      "Tener un carácter mágico-religioso, probablemente asociado a rituales para propiciar una caza abundante.",
+      "Servir como un sistema de escritura temprana para registrar acontecimientos históricos de los clanes.",
+      "Decorar el interior de las cavernas para establecer jerarquías sociales entre las distintas familias.",
+      "Demarcar territorios de caza exclusivos para disuadir a tribus rivales de acercarse a sus asentamientos."
+    ],
+    "respuesta_correcta": "Tener un carácter mágico-religioso, probablemente asociado a rituales para propiciar una caza abundante.",
+    "explicacion_detallada": "La teoría más aceptada sobre el arte parietal paleolítico sugiere que tenía propósitos mágico-religiosos. Se cree que dibujar a los animales aseguraba el éxito en la caza o la fertilidad de las manadas (magia simpática).",
+    "pasos_resolucion": [
+      "Recordar qué son las pinturas rupestres y cuándo fueron creadas (Paleolítico).",
+      "Analizar las teorías antropológicas e históricas sobre su propósito (magia simpática, rituales).",
+      "Descartar funciones anacrónicas para la época, como escritura o simple decoración estética."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_412_ex_003",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.2",
+    "enunciado": "A finales del Neolítico y durante la Edad de los Metales, surgieron en Europa grandes construcciones monumentales formadas por enormes bloques de piedra, conocidas como megalitos. El monumento de Stonehenge es un ejemplo de:",
+    "opciones": [
+      "Un crómlech, compuesto por menhires dispuestos en forma circular, asociado a rituales solares o astronómicos.",
+      "Un dolmen, utilizado principalmente como cámara funeraria colectiva cubierta por túmulos de tierra.",
+      "Un zigurat, estructura escalonada destinada al culto de las divinidades agrarias y a la observación de los astros.",
+      "Una mastaba, tumba de base rectangular construida para albergar los restos de líderes tribales importantes."
+    ],
+    "respuesta_correcta": "Un crómlech, compuesto por menhires dispuestos en forma circular, asociado a rituales solares o astronómicos.",
+    "explicacion_detallada": "Stonehenge es un crómlech, un tipo de monumento megalítico formado por piedras introducidas en el suelo y que adoptan una forma circular. Se vincula frecuentemente con observaciones astronómicas, especialmente solsticios, y prácticas rituales.",
+    "pasos_resolucion": [
+      "Recordar los tipos de monumentos megalíticos: menhir, dolmen, crómlech.",
+      "Asociar el monumento de Stonehenge con su estructura física (circular) y su tipo específico (crómlech).",
+      "Diferenciar de zigurats y mastabas, que pertenecen a civilizaciones posteriores (Mesopotamia y Egipto, respectivamente)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_412_ex_004",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.2",
+    "enunciado": "La invención de la metalurgia marcó una etapa crucial en la evolución tecnológica humana, dividida tradicionalmente en las edades del Cobre, Bronce y Hierro. ¿Qué innovación productiva fue determinante gracias a la metalurgia del bronce?",
+    "opciones": [
+      "La creación de armas y herramientas más duraderas y eficientes que las de piedra o cobre puro, facilitando la especialización del trabajo.",
+      "El desarrollo exclusivo de la orfebrería decorativa, ya que el bronce era demasiado frágil para usos agrícolas o militares.",
+      "El descubrimiento de la fundición del hierro, que desplazó inmediatamente al bronce en todas las actividades humanas.",
+      "La invención del torno de alfarero, que dependía de ejes de bronce para la producción masiva de cerámica utilitaria."
+    ],
+    "respuesta_correcta": "La creación de armas y herramientas más duraderas y eficientes que las de piedra o cobre puro, facilitando la especialización del trabajo.",
+    "explicacion_detallada": "El bronce, una aleación de cobre y estaño, proporcionó un material mucho más duro y resistente que el cobre puro. Esto permitió fabricar mejores armas y herramientas agrícolas, impulsando el excedente productivo y la especialización laboral.",
+    "pasos_resolucion": [
+      "Identificar qué es el bronce (aleación de cobre y estaño) y sus propiedades físicas (mayor dureza).",
+      "Relacionar estas propiedades con sus aplicaciones prácticas en la época (herramientas, armas).",
+      "Analizar el impacto social y económico de estas mejores herramientas (eficiencia, especialización)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_412_ex_005",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.2",
+    "enunciado": "En Mesopotamia, el arte y la arquitectura estuvieron profundamente influenciados por su entorno geográfico y organización política. ¿Cuál de las siguientes afirmaciones describe mejor una característica de las producciones artísticas mesopotámicas?",
+    "opciones": [
+      "El uso extensivo de ladrillos de adobe y arcilla cocida para la construcción de palacios y zigurats debido a la escasez de piedra.",
+      "La construcción de enormes pirámides de piedra caliza utilizadas exclusivamente para sepultar a sus gobernantes.",
+      "El predominio de pinturas al fresco en las paredes de las viviendas comunes representando escenas de la vida cotidiana.",
+      "La talla de grandes bloques de mármol para crear esculturas naturalistas y proporcionadas del cuerpo humano desnudo."
+    ],
+    "respuesta_correcta": "El uso extensivo de ladrillos de adobe y arcilla cocida para la construcción de palacios y zigurats debido a la escasez de piedra.",
+    "explicacion_detallada": "A diferencia de Egipto, Mesopotamia carecía de grandes canteras de piedra. Por ello, su arquitectura se basó en los materiales abundantes de los valles fluviales del Tigris y el Éufrates: el barro, utilizado para hacer adobe y ladrillos cocidos.",
+    "pasos_resolucion": [
+      "Recordar la ubicación geográfica de Mesopotamia (entre los ríos Tigris y Éufrates) y los recursos naturales disponibles.",
+      "Identificar la arcilla y el barro como los materiales de construcción primarios de esta civilización.",
+      "Diferenciar su arquitectura (basada en el adobe/ladrillo, como los zigurats) de la egipcia (piedra, pirámides) y griega (mármol)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_412_ex_006",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.2",
+    "enunciado": "La escritura cuneiforme es considerada uno de los sistemas de escritura más antiguos de la humanidad. ¿En qué soporte físico se registraba principalmente y cuál civilización la desarrolló originariamente?",
+    "opciones": [
+      "Se registraba en tablillas de arcilla húmeda utilizando un punzón de caña, y fue desarrollada por los sumerios en Mesopotamia.",
+      "Se escribía sobre rollos de papiro utilizando tintas naturales, y fue inventada por los egipcios a lo largo del río Nilo.",
+      "Se tallaba en caparazones de tortuga y huesos de animales, y fue creada durante la dinastía Shang en la antigua China.",
+      "Se cincelaba en grandes estelas de piedra volcánica, y fue elaborada por los olmecas en Mesoamérica."
+    ],
+    "respuesta_correcta": "Se registraba en tablillas de arcilla húmeda utilizando un punzón de caña, y fue desarrollada por los sumerios en Mesopotamia.",
+    "explicacion_detallada": "La escritura cuneiforme fue creada por los sumerios a finales del IV milenio a.C. Su nombre proviene de la forma de cuña de sus caracteres, los cuales se imprimían con un estilete de caña sobre tablillas de arcilla que luego se secaban al sol o se horneaban.",
+    "pasos_resolucion": [
+      "Identificar el origen geográfico y cultural de la escritura cuneiforme (Sumeria, Mesopotamia).",
+      "Recordar el material de soporte característico de esta región (tablillas de arcilla).",
+      "Asociar el término 'cuneiforme' (forma de cuña) con el instrumento utilizado (punzón o estilete)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_412_ex_007",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.2",
+    "enunciado": "El arte del antiguo Egipto estaba fuertemente determinado por sus creencias religiosas, especialmente aquellas relacionadas con la vida después de la muerte. ¿Qué regla o canon pictórico era estricto en la representación humana egipcia?",
+    "opciones": [
+      "La 'Ley de la Frontalidad', donde el rostro, brazos y piernas se representan de perfil, mientras que el ojo y el torso se muestran de frente.",
+      "La técnica del 'claroscuro', utilizada para dar volumen y realismo extremo a los cuerpos de los faraones.",
+      "El uso exclusivo de la perspectiva lineal, con un punto de fuga central para crear profundidad en las escenas del más allá.",
+      "El 'contrapposto', que daba a las figuras una postura relajada y asimétrica apoyando el peso en una sola pierna."
+    ],
+    "respuesta_correcta": "La 'Ley de la Frontalidad', donde el rostro, brazos y piernas se representan de perfil, mientras que el ojo y el torso se muestran de frente.",
+    "explicacion_detallada": "En la pintura y los relieves egipcios, la figura humana se representaba siguiendo un convencionalismo llamado 'Ley de la Frontalidad' o visión aspectiva, combinando perfil (cabeza y extremidades) con vista frontal (ojo, hombros y tronco) para mostrar la parte más representativa de cada elemento anatómico.",
+    "pasos_resolucion": [
+      "Recordar las características visuales típicas del arte egipcio antiguo (figuras bidimensionales características).",
+      "Identificar el concepto de 'Ley de la Frontalidad'.",
+      "Descartar claroscuro, perspectiva lineal y contrapposto, que son técnicas desarrolladas o popularizadas en el Renacimiento o la Grecia clásica."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_412_ex_008",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.2",
+    "enunciado": "Las pirámides de Giza son la manifestación más impresionante de la arquitectura del Imperio Antiguo egipcio. ¿Cuál era la función principal y el simbolismo de estas estructuras colosales?",
+    "opciones": [
+      "Eran tumbas monumentales para los faraones, simbolizando la escalera hacia el cielo o los rayos del sol para asegurar su vida eterna.",
+      "Funcionaban como palacios de gobierno donde residía el faraón y toda su corte durante los periodos de inundación del Nilo.",
+      "Fueron construidas como enormes graneros públicos ordenados por los gobernantes para almacenar trigo ante la previsión de hambrunas.",
+      "Servían como fortalezas militares defensivas para proteger la capital del imperio de las invasiones de los pueblos nómadas del desierto."
+    ],
+    "respuesta_correcta": "Eran tumbas monumentales para los faraones, simbolizando la escalera hacia el cielo o los rayos del sol para asegurar su vida eterna.",
+    "explicacion_detallada": "Las pirámides egipcias fueron concebidas como moradas eternas para los faraones difuntos. Su forma piramidal está vinculada al culto solar, simbolizando tanto los rayos del sol descendiendo a la tierra como una rampa por la cual el alma del faraón ascendería hacia los dioses.",
+    "pasos_resolucion": [
+      "Identificar la función práctica de las pirámides (complejos funerarios, tumbas).",
+      "Reconocer las creencias escatológicas egipcias (vida después de la muerte, deificación del faraón).",
+      "Descartar usos seculares como palacios, graneros o fortalezas."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_412_ex_009",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.2",
+    "enunciado": "El sistema de escritura egipcio, conocido como jeroglíficos, estuvo indescifrable durante siglos. ¿Qué hallazgo arqueológico fue la clave definitiva que permitió a Jean-François Champollion descifrar este sistema en el siglo XIX?",
+    "opciones": [
+      "La Piedra de Rosetta, que contenía el mismo decreto escrito en tres escrituras diferentes: jeroglíficos, demótico y griego antiguo.",
+      "El Papiro de Ebers, un extenso tratado médico que tenía traducciones anexas en latín clásico.",
+      "El Código de Hammurabi, una estela bilingüe que comparaba las leyes babilónicas con los mandamientos egipcios.",
+      "La tumba de Tutankamón, donde se encontró un diccionario tallado en madera que traducía jeroglíficos al acadio."
+    ],
+    "respuesta_correcta": "La Piedra de Rosetta, que contenía el mismo decreto escrito en tres escrituras diferentes: jeroglíficos, demótico y griego antiguo.",
+    "explicacion_detallada": "La Piedra de Rosetta, descubierta en 1799, fue crucial para descifrar los jeroglíficos egipcios. Al presentar un mismo texto en jeroglífico, egipcio demótico y griego antiguo, permitió a eruditos como Thomas Young y Jean-François Champollion utilizar el texto griego conocido para descifrar el significado de los caracteres egipcios.",
+    "pasos_resolucion": [
+      "Recordar el objeto arqueológico vinculado al desciframiento de los jeroglíficos.",
+      "Identificar la Piedra de Rosetta y su característica trilingüe (jeroglífico, demótico, griego).",
+      "Asociar el trabajo de Champollion con este descubrimiento específico."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_412_ex_010",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.2",
+    "enunciado": "La sedentarización de los seres humanos durante el Neolítico llevó al desarrollo de nuevas herramientas e inventos fundamentales para la vida en poblados. ¿Qué innovación tecnológica permitió el almacenamiento a largo plazo de granos y líquidos?",
+    "opciones": [
+      "La invención de la cerámica, que permitió crear recipientes resistentes al fuego y al agua mediante el modelado y cocción de la arcilla.",
+      "El descubrimiento de la técnica del ahumado y secado, que se aplicaba exclusivamente a las semillas recolectadas.",
+      "El tallado de grandes vasijas a partir de bloques de piedra caliza, un proceso laborioso pero común en las primeras aldeas agrícolas.",
+      "La domesticación del gusano de seda, que permitió tejer sacos herméticos para conservar alimentos frescos."
+    ],
+    "respuesta_correcta": "La invención de la cerámica, que permitió crear recipientes resistentes al fuego y al agua mediante el modelado y cocción de la arcilla.",
+    "explicacion_detallada": "La invención de la cerámica fue un avance clave del Neolítico. El almacenamiento del excedente agrícola requería recipientes duraderos, que protegieran el alimento de la humedad y los roedores, y que permitieran cocinar. La cocción de la arcilla resolvió esta necesidad.",
+    "pasos_resolucion": [
+      "Identificar las necesidades surgidas por la agricultura (almacenamiento, preparación de alimentos).",
+      "Relacionar la necesidad de almacenamiento de líquidos y granos con el material idóneo disponible.",
+      "Reconocer la invención de la cerámica (barro cocido) como la solución tecnológica clave del Neolítico."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_412_ex_011",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.2",
+    "enunciado": "En el estudio de las primeras herramientas humanas, el término 'industria lítica' hace referencia a las técnicas empleadas por los homínidos. El paso de tallar la piedra mediante percusión directa a usar técnicas de retoque a presión indica:",
+    "opciones": [
+      "Un avance cognitivo y técnico significativo, permitiendo la creación de herramientas más especializadas y refinadas como puntas de flecha o lanzas.",
+      "Un retroceso en la evolución tecnológica, ya que la percusión directa producía herramientas más duraderas, aunque menos estéticas.",
+      "La transición exclusiva al uso de los metales, abandonando por completo el uso de rocas como el sílex en la prehistoria.",
+      "La adaptación humana a entornos marinos, ya que el retoque a presión solo podía realizarse utilizando conchas de moluscos bivalvos."
+    ],
+    "respuesta_correcta": "Un avance cognitivo y técnico significativo, permitiendo la creación de herramientas más especializadas y refinadas como puntas de flecha o lanzas.",
+    "explicacion_detallada": "La evolución en las técnicas de talla lítica (del Paleolítico Inferior al Superior) demuestra un mayor control y planificación mental. El retoque a presión permitía desbastar pequeñas escamas de la piedra, logrando filos más cortantes y formas especializadas como puntas de proyectil y buriles.",
+    "pasos_resolucion": [
+      "Comprender el concepto de industria lítica (fabricación de herramientas de piedra).",
+      "Diferenciar percusión directa (golpear piedra contra piedra, más tosco) de retoque a presión (mayor precisión).",
+      "Concluir que esto representa una mejora técnica y cognitiva para obtener herramientas especializadas."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_412_ex_012",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.2",
+    "enunciado": "El surgimiento de la escritura es el hito que tradicionalmente marca el fin de la Prehistoria y el inicio de la Historia. ¿Cuál fue el principal motivo o necesidad que impulsó la creación de los primeros sistemas de escritura en civilizaciones como Mesopotamia?",
+    "opciones": [
+      "La necesidad de llevar una contabilidad de los excedentes agrícolas, los impuestos y los intercambios comerciales en sociedades urbanas complejas.",
+      "El deseo de los primeros reyes de escribir poesía épica y literatura filosófica para educar a la nobleza local.",
+      "La ordenanza de los sacerdotes de transcribir inmediatamente sus textos sagrados y profecías para evitar la herejía.",
+      "La urgencia de documentar los avances astronómicos y matemáticos para asegurar que las generaciones futuras pudieran construir templos."
+    ],
+    "respuesta_correcta": "La necesidad de llevar una contabilidad de los excedentes agrícolas, los impuestos y los intercambios comerciales en sociedades urbanas complejas.",
+    "explicacion_detallada": "Los orígenes de la escritura, como la cuneiforme en Mesopotamia, están estrechamente ligados a la administración económica. A medida que las ciudades crecían, la necesidad de registrar cosechas, raciones, tributos e intercambios superó la capacidad de la memoria humana, haciendo surgir los primeros registros contables que luego evolucionarían hacia la escritura completa.",
+    "pasos_resolucion": [
+      "Contextualizar el surgimiento de las primeras ciudades-estado (crecimiento demográfico y económico).",
+      "Identificar el problema administrativo: controlar grandes cantidades de bienes y tributos.",
+      "Reconocer que la contabilidad y administración fueron las verdaderas causas prácticas que originaron la escritura, antes que la literatura o la religión."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_412_ex_013",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.2",
+    "enunciado": "Las figurillas conocidas como 'Venus paleolíticas' (por ejemplo, la Venus de Willendorf) comparten características formales muy particulares, como la exageración de los atributos femeninos. ¿Qué significado simbólico se les atribuye habitualmente en el contexto del Paleolítico?",
+    "opciones": [
+      "Se consideran símbolos de fertilidad y fecundidad, esenciales para asegurar la reproducción y supervivencia del grupo en condiciones hostiles.",
+      "Eran retratos realistas de las mujeres más ancianas de la tribu, veneradas como líderes políticas y espirituales.",
+      "Servían como deidades protectoras exclusivas del hogar sedentario durante las primeras fases de la agricultura incipiente.",
+      "Fueron creadas como representaciones de deidades destructivas que causaban desastres naturales durante las glaciaciones."
+    ],
+    "respuesta_correcta": "Se consideran símbolos de fertilidad y fecundidad, esenciales para asegurar la reproducción y supervivencia del grupo en condiciones hostiles.",
+    "explicacion_detallada": "Las 'Venus paleolíticas' se caracterizan por una marcada esteatopigia (acumulación de grasa) y la hipertrofia de los senos y caderas, omitiendo rasgos faciales. Los antropólogos las interpretan mayoritariamente como amuletos o ídolos relacionados con la fertilidad humana y, por extensión, con la abundancia de la naturaleza, claves para la supervivencia de las bandas cazadoras-recolectoras.",
+    "pasos_resolucion": [
+      "Recordar las características visuales de las Venus paleolíticas (atributos femeninos muy exagerados).",
+      "Conectar estas formas exageradas con conceptos de reproducción, gestación y nutrición.",
+      "Concluir que su propósito simbólico primordial estaba ligado al culto a la fertilidad y la continuidad de la especie."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_412_ex_014",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.2",
+    "enunciado": "En la evolución de las sociedades prehistóricas, ¿cómo alteró el inicio de la Edad de los Metales la estructura social de las comunidades que hasta entonces habían sido relativamente igualitarias?",
+    "opciones": [
+      "Provocó una mayor estratificación y desigualdad social, ya que el control de las minas, el comercio de metales y la posesión de armas de bronce o hierro concentraron poder y riqueza.",
+      "Fomentó el retorno a un igualitarismo estricto, ya que las nuevas herramientas de metal se distribuían equitativamente entre todos los miembros mediante un gobierno centralizado.",
+      "Eliminó por completo la esclavitud incipiente, pues la eficiencia de las herramientas metálicas hizo innecesaria la mano de obra para las tareas agrícolas.",
+      "Causó el abandono de las ciudades amuralladas, ya que las armas de metal garantizaban la paz perpetua entre los clanes vecinos."
+    ],
+    "respuesta_correcta": "Provocó una mayor estratificación y desigualdad social, ya que el control de las minas, el comercio de metales y la posesión de armas de bronce o hierro concentraron poder y riqueza.",
+    "explicacion_detallada": "La metalurgia requería conocimientos especializados (artesanos) y materias primas a menudo lejanas (comercio). Quienes controlaban estos recursos y poseían las mejores armas adquirieron un estatus superior, originando jefaturas militares, élites dominantes y, en definitiva, sociedades jerarquizadas o estratificadas.",
+    "pasos_resolucion": [
+      "Analizar las implicaciones económicas y militares del descubrimiento de los metales.",
+      "Identificar que el acceso a metales y armas no era igualitario.",
+      "Deducir que el control sobre estos bienes escasos y valiosos generó una jerarquización social profunda, acabando con el igualitarismo neolítico."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cs_412_ex_015",
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.2",
+    "enunciado": "La arquitectura mesopotámica desarrolló un elemento estructural innovador que permitía techar grandes espacios utilizando únicamente ladrillos de adobe, debido a la falta de grandes vigas de madera o dinteles de piedra. ¿Qué sistema arquitectónico perfeccionaron?",
+    "opciones": [
+      "El arco de medio punto y la bóveda de cañón, técnicas esenciales que luego fueron adoptadas y expandidas por otras culturas antiguas.",
+      "El tejado a dos aguas con estructuras de bambú reforzado, importado a través de las rutas comerciales con el Lejano Oriente.",
+      "La cúpula geodésica de arcilla secada al sol, que distribuía el peso equitativamente hacia los cimientos del zigurat.",
+      "El sistema arquitrabado clásico, utilizando gruesas columnas de adobe puro colocadas a muy poca distancia entre sí."
+    ],
+    "respuesta_correcta": "El arco de medio punto y la bóveda de cañón, técnicas esenciales que luego fueron adoptadas y expandidas por otras culturas antiguas.",
+    "explicacion_detallada": "Debido a la escasez de piedra y grandes árboles maderables, los constructores mesopotámicos no podían utilizar el sistema adintelado a gran escala. Para cubrir espacios, desarrollaron el arco y la bóveda utilizando ladrillos, un avance arquitectónico monumental que resolvía estructuralmente el problema del techo.",
+    "pasos_resolucion": [
+      "Identificar las limitaciones de recursos en Mesopotamia (poca madera de calidad, escasez de piedra).",
+      "Reconocer cómo se pueden cubrir espacios con piezas pequeñas como los ladrillos.",
+      "Identificar la invención y el uso del arco y la bóveda como soluciones técnicas genuinas de esta civilización frente al problema arquitectónico."
+    ],
+    "video_explicativo_url": ""
+  }
+]

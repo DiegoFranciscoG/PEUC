@@ -1,0 +1,422 @@
+﻿[
+    {
+        "id":  "cs_491_001",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "El levantamiento indÃ­gena de 1990 (el Inti Raymi) marcÃ³ un hito en la historia de los movimientos sociales en Ecuador. Â¿CuÃ¡l fue la principal organizaciÃ³n que liderÃ³ este levantamiento y cuÃ¡l era su demanda central en ese momento?",
+        "opciones":  [
+                         "La CONAIE (ConfederaciÃ³n de Nacionalidades IndÃ­genas del Ecuador), demandando la resoluciÃ³n de conflictos de tierras y el reconocimiento de la plurinacionalidad.",
+                         "La FENOCIN (ConfederaciÃ³n Nacional de Organizaciones Campesinas, IndÃ­genas y Negras), exigiendo la estatizaciÃ³n de las industrias petroleras.",
+                         "El FEI (FederaciÃ³n Ecuatoriana de Indios), reclamando la aboliciÃ³n inmediata del sistema de huasipungos en la Sierra.",
+                         "La ECUARUNARI (Ecuador Runacunapac Riccharimui), demandando exclusivamente la creaciÃ³n de un sistema de educaciÃ³n bilingÃ¼e."
+                     ],
+        "respuesta_correcta":  "La CONAIE (ConfederaciÃ³n de Nacionalidades IndÃ­genas del Ecuador), demandando la resoluciÃ³n de conflictos de tierras y el reconocimiento de la plurinacionalidad.",
+        "explicacion_detallada":  "La CONAIE, fundada en 1986, liderÃ³ el histÃ³rico levantamiento de 1990. Sus 16 puntos de demanda (Mandato de la CONAIE) se centraban en conflictos territoriales/agrarios y, polÃ­ticamente, en la reforma constitucional para declarar al Ecuador como Estado plurinacional (logrado en 2008).",
+        "pasos_resolucion":  [
+                                 "Identificar a la organizaciÃ³n lÃ­der en 1990: CONAIE.",
+                                 "Reconocer la demanda central histÃ³rica: territorios y Estado plurinacional.",
+                                 "Diferenciar de eventos pasados: el huasipungo fue abolido formalmente en 1964."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=levantamiento+indigena+1990+ecuador+conaie"
+    },
+    {
+        "id":  "cs_491_002",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "La ConstituciÃ³n del Ecuador de 1998 introdujo avances significativos respecto a la diversidad cultural del paÃ­s, pero difiere conceptualmente de la ConstituciÃ³n de 2008. Â¿CÃ³mo reconociÃ³ el Estado ecuatoriano a la diversidad indÃ­gena en 1998 frente al reconocimiento de 2008?",
+        "opciones":  [
+                         "En 1998 se reconociÃ³ al Ecuador como un Estado \u0027pluricultural y multiÃ©tnico\u0027; en 2008 se avanzÃ³ a la definiciÃ³n de un Estado \u0027plurinacional e intercultural\u0027.",
+                         "En 1998 se declarÃ³ al Ecuador como un Estado \u0027plurinacional\u0027; en 2008 se retrocediÃ³ a la categorÃ­a de \u0027multiÃ©tnico\u0027 por presiÃ³n internacional.",
+                         "En 1998 no hubo reconocimiento de la diversidad cultural; reciÃ©n en 2008 se introdujo el concepto de \u0027pluriculturalidad\u0027.",
+                         "En 1998 se crearon repÃºblicas indÃ­genas independientes; en 2008 se unificaron en un solo Estado unitario."
+                     ],
+        "respuesta_correcta":  "En 1998 se reconociÃ³ al Ecuador como un Estado \u0027pluricultural y multiÃ©tnico\u0027; en 2008 se avanzÃ³ a la definiciÃ³n de un Estado \u0027plurinacional e intercultural\u0027.",
+        "explicacion_detallada":  "La ConstituciÃ³n de 1998 (producto de la Asamblea en SangolquÃ­) dio el primer paso al reconocer el carÃ¡cter pluricultural y multiÃ©tnico (reconocimiento de culturas dentro de una naciÃ³n). En 2008, en Montecristi, se aceptÃ³ la demanda histÃ³rica de la CONAIE de definir al Estado como plurinacional (reconocimiento de mÃºltiples naciones/pueblos con derechos colectivos y territoriales dentro de un Estado unitario).",
+        "pasos_resolucion":  [
+                                 "ConstituciÃ³n 1998: pluricultural y multiÃ©tnico.",
+                                 "ConstituciÃ³n 2008: plurinacional e intercultural.",
+                                 "Comprender la diferencia: \u0027plurinacional\u0027 implica derechos polÃ­ticos y colectivos mÃ¡s profundos (reconocimiento de nacionalidades) que \u0027multiÃ©tnico\u0027."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=constitucion+1998+vs+2008+plurinacionalidad+ecuador"
+    },
+    {
+        "id":  "cs_491_003",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "La figura de Dolores Cacuango fue fundamental para las demandas sociales indÃ­genas en Ecuador en la primera mitad del siglo XX. Â¿CuÃ¡l fue una de sus principales obras e impulsos en materia de derechos sociales?",
+        "opciones":  [
+                         "La creaciÃ³n de las primeras escuelas bilingÃ¼es (kichwa-espaÃ±ol) en Cayambe y la fundaciÃ³n de la FederaciÃ³n Ecuatoriana de Indios (FEI).",
+                         "La redacciÃ³n del primer proyecto de ConstituciÃ³n plurinacional presentado ante el Congreso Nacional en 1928.",
+                         "El liderazgo militar del levantamiento armado que derrocÃ³ al presidente Carlos Arroyo del RÃ­o en 1944.",
+                         "La creaciÃ³n del seguro social campesino como parte del Instituto Ecuatoriano de Seguridad Social (IESS)."
+                     ],
+        "respuesta_correcta":  "La creaciÃ³n de las primeras escuelas bilingÃ¼es (kichwa-espaÃ±ol) en Cayambe y la fundaciÃ³n de la FederaciÃ³n Ecuatoriana de Indios (FEI).",
+        "explicacion_detallada":  "Dolores Cacuango (Mama Dulu), pionera de los derechos indÃ­genas junto a TrÃ¡nsito AmaguaÃ±a, fundÃ³ en 1944 la FederaciÃ³n Ecuatoriana de Indios (FEI) apoyada por el Partido Comunista. En 1946 estableciÃ³, en la zona de Cayambe, las primeras escuelas bilingÃ¼es clandestinas para evitar que los niÃ±os indÃ­genas olvidaran su idioma y cultura.",
+        "pasos_resolucion":  [
+                                 "Asociar Dolores Cacuango con Cayambe.",
+                                 "Logros clave: escuelas bilingÃ¼es autÃ³nomas (kichwa-espaÃ±ol) y fundaciÃ³n de la FEI (1944).",
+                                 "Descartar roles que no le corresponden histÃ³ricamente (no fue lÃ­der militar de un derrocamiento, no redactÃ³ la constituciÃ³n)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=dolores+cacuango+escuelas+bilingues+fei"
+    },
+    {
+        "id":  "cs_491_004",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "El concepto de \u0027Interculturalidad\u0027, presente en la ConstituciÃ³n de 2008, va mÃ¡s allÃ¡ de la simple tolerancia a la diversidad (multiculturalismo). Â¿QuÃ© implica polÃ­ticamente la interculturalidad en el contexto ecuatoriano?",
+        "opciones":  [
+                         "La construcciÃ³n de relaciones de equidad y diÃ¡logo simÃ©trico entre las distintas culturas, erradicando la dominaciÃ³n colonial y el racismo institucional.",
+                         "La asimilaciÃ³n obligatoria de las culturas minoritarias a la cultura nacional mestiza predominante para garantizar la unidad del Estado.",
+                         "La creaciÃ³n de sistemas legales completamente separados e independientes, donde el Estado nacional no tiene ninguna jurisdicciÃ³n.",
+                         "El aislamiento de las comunidades indÃ­genas en reservas cerradas para proteger su pureza cultural de la influencia occidental."
+                     ],
+        "respuesta_correcta":  "La construcciÃ³n de relaciones de equidad y diÃ¡logo simÃ©trico entre las distintas culturas, erradicando la dominaciÃ³n colonial y el racismo institucional.",
+        "explicacion_detallada":  "El multiculturalismo (modelo anglosajÃ³n) reconoce la existencia de culturas separadas pero a menudo tolera la desigualdad estructural (el \u0027mosaico\u0027). La interculturalidad (modelo latinoamericano/andino propuesto por Catherine Walsh y movimientos sociales) exige transformar las estructuras de poder colonial, promoviendo un diÃ¡logo horizontal, equidad y respeto mutuo activo, no solo coexistencia pasiva.",
+        "pasos_resolucion":  [
+                                 "Multiculturalidad = coexistencia.",
+                                 "Interculturalidad = interacciÃ³n equitativa, diÃ¡logo simÃ©trico, descolonizaciÃ³n.",
+                                 "Descartar opciones de asimilaciÃ³n (polÃ­ticas del siglo XIX/XX) o aislamiento."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=diferencia+interculturalidad+multiculturalidad+catherine+walsh"
+    },
+    {
+        "id":  "cs_491_005",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "La justicia indÃ­gena estÃ¡ reconocida en la ConstituciÃ³n del Ecuador de 2008 (Art. 171). Â¿CuÃ¡l es el lÃ­mite constitucional establecido para el ejercicio de la jurisdicciÃ³n y justicia indÃ­gena?",
+        "opciones":  [
+                         "No puede ser contraria a la ConstituciÃ³n ni a los derechos humanos reconocidos en instrumentos internacionales.",
+                         "Solo puede aplicarse en casos de delitos menores (hurtos o riÃ±as), quedando los delitos graves exclusivamente para la justicia ordinaria.",
+                         "Solo tiene validez si las resoluciones son previamente aprobadas por un juez de la Corte Nacional de Justicia.",
+                         "No puede imponer sanciones que involucren trabajo comunitario, estando restringida solo a multas econÃ³micas."
+                     ],
+        "respuesta_correcta":  "No puede ser contraria a la ConstituciÃ³n ni a los derechos humanos reconocidos en instrumentos internacionales.",
+        "explicacion_detallada":  "El Art. 171 establece que las autoridades de las comunidades indÃ­genas ejercerÃ¡n funciones jurisdiccionales con base en sus tradiciones, con participaciÃ³n de las mujeres. El Ãºnico lÃ­mite explÃ­cito que fija la ConstituciÃ³n es que sus decisiones \u0027no sean contrarias a la ConstituciÃ³n ni a los derechos humanos\u0027. No existe un lÃ­mite expreso sobre el tipo de delito (gravedad) en el texto constitucional, lo que ha generado debates jurisprudenciales, pero el lÃ­mite normativo superior son los DD.HH.",
+        "pasos_resolucion":  [
+                                 "Recordar el Art. 171 de la ConstituciÃ³n.",
+                                 "El lÃ­mite supremo: ConstituciÃ³n y Derechos Humanos.",
+                                 "Descartar lÃ­mites no constitucionales (como la restricciÃ³n solo a delitos menores o la aprobaciÃ³n previa de un juez ordinario)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=justicia+indigena+ecuador+constitucion+limites"
+    },
+    {
+        "id":  "cs_491_006",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "El Sistema de EducaciÃ³n Intercultural BilingÃ¼e (SEIB) fue una de las principales demandas del movimiento indÃ­gena. Institucionalizado formalmente a fines de los 80, Â¿cuÃ¡l fue su objetivo pedagÃ³gico y cultural central?",
+        "opciones":  [
+                         "Garantizar que la educaciÃ³n en las comunidades se imparta en la lengua materna (kichwa, shuar, etc.) como idioma principal y el castellano como lengua de relaciÃ³n intercultural, valorando saberes ancestrales.",
+                         "Sustituir completamente la enseÃ±anza del castellano en el sistema educativo nacional por lenguas originarias para revertir el proceso de colonizaciÃ³n.",
+                         "EnseÃ±ar exclusivamente el castellano a las poblaciones indÃ­genas, utilizando maestros bilingÃ¼es como traductores para acelerar su asimilaciÃ³n a la cultura urbana.",
+                         "Privatizar la educaciÃ³n en zonas rurales, entregando la administraciÃ³n de las escuelas a las ONGs internacionales que promovÃ­an el bilingÃ¼ismo."
+                     ],
+        "respuesta_correcta":  "Garantizar que la educaciÃ³n en las comunidades se imparta en la lengua materna (kichwa, shuar, etc.) como idioma principal y el castellano como lengua de relaciÃ³n intercultural, valorando saberes ancestrales.",
+        "explicacion_detallada":  "El SEIB (creado institucionalmente en 1988 tras un acuerdo entre el gobierno de Rodrigo Borja y la CONAIE mediante la DINEIB) buscaba que la educaciÃ³n partiera de la cultura y lengua materna del niÃ±o indÃ­gena, incorporando progresivamente el castellano, pero sin abandonar la cosmovisiÃ³n y saberes ancestrales. Se oponÃ­a a las polÃ­ticas \u0027integracionistas\u0027 previas que buscaban castellanizar para borrar la identidad indÃ­gena.",
+        "pasos_resolucion":  [
+                                 "EducaciÃ³n Intercultural BilingÃ¼e (EIB) = lengua materna + castellano.",
+                                 "Objetivo: fortalecer identidad y cosmovisiÃ³n originaria, no aislar ni asimilar.",
+                                 "Descartar opciones extremas (sustituir el castellano por completo) o asimilacionistas."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=educacion+intercultural+bilingue+ecuador+historia"
+    },
+    {
+        "id":  "cs_491_007",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "En la sociologÃ­a polÃ­tica contemporÃ¡nea, Â¿quÃ© se entiende por \u0027democratizaciÃ³n de la democracia\u0027 en el contexto de las demandas de los movimientos sociales plurinacionales?",
+        "opciones":  [
+                         "La transiciÃ³n de una democracia puramente procedimental y representativa hacia una democracia participativa, radical e incluyente que reconoce derechos colectivos y asimetrÃ­as histÃ³ricas.",
+                         "El proceso por el cual los militares ceden el poder a los civiles mediante elecciones generales supervisadas por organismos internacionales.",
+                         "La estandarizaciÃ³n de las leyes electorales de todos los paÃ­ses de una regiÃ³n para que tengan el mismo sistema de votaciÃ³n (ej. voto electrÃ³nico).",
+                         "La reducciÃ³n de los partidos polÃ­ticos a dos fuerzas mayoritarias para garantizar la gobernabilidad y evitar la fragmentaciÃ³n parlamentaria."
+                     ],
+        "respuesta_correcta":  "La transiciÃ³n de una democracia puramente procedimental y representativa hacia una democracia participativa, radical e incluyente que reconoce derechos colectivos y asimetrÃ­as histÃ³ricas.",
+        "explicacion_detallada":  "Autores como Boaventura de Sousa Santos argumentan que la democracia liberal clÃ¡sica (procedimental, un ciudadano = un voto, representaciÃ³n de Ã©lites) es insuficiente para sociedades diversas. \u0027Democratizar la democracia\u0027 significa profundizarla: incluir formas de democracia directa, justicia cognitiva, reconocimiento de derechos colectivos (plurinacionalidad) y participaciÃ³n activa de grupos histÃ³ricamente excluidos.",
+        "pasos_resolucion":  [
+                                 "\u0027Democratizar la democracia\u0027 = profundizarla, hacerla mÃ¡s inclusiva y participativa.",
+                                 "Relacionar con demandas de movimientos sociales: ir mÃ¡s allÃ¡ del voto cada 4 aÃ±os.",
+                                 "Diferenciar de \u0027transiciÃ³n democrÃ¡tica\u0027 (paso de dictadura a democracia)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=democratizar+la+democracia+boaventura+de+sousa+santos"
+    },
+    {
+        "id":  "cs_491_008",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "En 1964, el Ecuador expidiÃ³ la primera Ley de Reforma Agraria. Â¿CuÃ¡l fue el impacto de esta ley respecto a las demandas de las poblaciones indÃ­genas campesinas de la Sierra?",
+        "opciones":  [
+                         "AboliÃ³ legalmente el sistema precario de trabajo (huasipungo), obligando a entregar la propiedad de las parcelas a los indÃ­genas, aunque a menudo recibieron las tierras de peor calidad de las haciendas.",
+                         "ExpropiÃ³ la totalidad de las grandes haciendas de la Sierra y las entregÃ³ a comunas indÃ­genas administradas directamente por el Estado.",
+                         "FortaleciÃ³ el sistema de huasipungos, otorgando mayores subsidios a los terratenientes para mantener el control sobre la mano de obra indÃ­gena.",
+                         "IgnorÃ³ por completo a la Sierra y se aplicÃ³ exclusivamente en la Costa para modernizar las plantaciones bananeras."
+                     ],
+        "respuesta_correcta":  "AboliÃ³ legalmente el sistema precario de trabajo (huasipungo), obligando a entregar la propiedad de las parcelas a los indÃ­genas, aunque a menudo recibieron las tierras de peor calidad de las haciendas.",
+        "explicacion_detallada":  "La Ley de Reforma Agraria de 1964 (dictadura militar) tuvo como objetivo modernizar el campo (desarrollismo) y evitar una revoluciÃ³n campesina. Su principal efecto social fue la aboliciÃ³n del huasipungo (trabajo a cambio del usufructo de una parcela). Los huasipungueros recibieron sus parcelas (minifundios), pero los terratenientes conservaron las mejores tierras (pÃ¡ramos con agua y valles), marginando geogrÃ¡ficamente a las comunidades.",
+        "pasos_resolucion":  [
+                                 "Asociar 1964 con la Reforma Agraria (Junta Militar).",
+                                 "Principal medida: aboliciÃ³n del huasipungo.",
+                                 "Consecuencia real: entrega de minifundios pobres (tierras marginales) a los campesinos."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=reforma+agraria+1964+ecuador+huasipungo"
+    },
+    {
+        "id":  "cs_491_009",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "El Convenio 169 de la OrganizaciÃ³n Internacional del Trabajo (OIT), ratificado por Ecuador en 1998, es el instrumento internacional vinculante mÃ¡s importante sobre derechos indÃ­genas. Â¿CuÃ¡l es su disposiciÃ³n central respecto a los proyectos de desarrollo en territorios indÃ­genas?",
+        "opciones":  [
+                         "Establece el derecho a la Consulta Previa, Libre e Informada antes de autorizar proyectos (mineros, petroleros, etc.) que afecten sus territorios.",
+                         "ProhÃ­be absolutamente cualquier tipo de actividad extractiva en territorios indÃ­genas, declarÃ¡ndolos zonas intangibles a nivel global.",
+                         "Otorga a las comunidades indÃ­genas el derecho a cobrar impuestos directos a las empresas transnacionales que operen en el paÃ­s.",
+                         "Obliga al Estado a nacionalizar las empresas extranjeras que no contraten al menos un 50% de mano de obra indÃ­gena local."
+                     ],
+        "respuesta_correcta":  "Establece el derecho a la Consulta Previa, Libre e Informada antes de autorizar proyectos (mineros, petroleros, etc.) que afecten sus territorios.",
+        "explicacion_detallada":  "El Convenio 169 de la OIT (1989) consagra el derecho a la \u0027Consulta Previa, Libre e Informada\u0027 (Art. 15). Todo Estado firmante debe consultar a los pueblos interesados, mediante procedimientos apropiados, antes de emprender o autorizar cualquier programa de prospecciÃ³n o explotaciÃ³n de los recursos existentes en sus tierras. Esto ha sido el nÃºcleo de los conflictos socioambientales en Ecuador.",
+        "pasos_resolucion":  [
+                                 "Convenio 169 de la OIT = instrumento clave de derechos indÃ­genas.",
+                                 "Principio central para proyectos en territorio: Consulta Previa, Libre e Informada.",
+                                 "Descartar prohibiciÃ³n absoluta (el convenio permite explotaciÃ³n pero exige consulta)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=convenio+169+oit+consulta+previa+ecuador"
+    },
+    {
+        "id":  "cs_491_010",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "La lucha de los movimientos de mujeres y feministas en Ecuador ha logrado conquistas democrÃ¡ticas fundamentales. Â¿QuÃ© hito histÃ³rico convirtiÃ³ a Matilde Hidalgo de Procel en una figura clave de esta demanda de igualdad polÃ­tica?",
+        "opciones":  [
+                         "En 1924, apelando a un vacÃ­o legal en la ConstituciÃ³n de 1906, logrÃ³ empadronarse y votar, convirtiendo a Ecuador en el primer paÃ­s de AmÃ©rica Latina en reconocer el sufragio femenino.",
+                         "En 1978, redactÃ³ el capÃ­tulo sobre derechos de la familia en la ConstituciÃ³n que garantizaba el divorcio por mutuo consentimiento.",
+                         "En 1998, liderÃ³ la huelga nacional que logrÃ³ la aprobaciÃ³n de la Ley de Cuotas (participaciÃ³n paritaria de mujeres en listas electorales).",
+                         "En 1920, fundÃ³ el primer sindicato exclusivo de mujeres trabajadoras textiles en Guayaquil, logrando la jornada de 8 horas."
+                     ],
+        "respuesta_correcta":  "En 1924, apelando a un vacÃ­o legal en la ConstituciÃ³n de 1906, logrÃ³ empadronarse y votar, convirtiendo a Ecuador en el primer paÃ­s de AmÃ©rica Latina en reconocer el sufragio femenino.",
+        "explicacion_detallada":  "Matilde Hidalgo (mÃ©dica lojana) argumentÃ³ que la ConstituciÃ³n de 1906 exigÃ­a para votar: ser ecuatoriano, mayor de 21 aÃ±os y saber leer y escribir. Como la ConstituciÃ³n no especificaba \u0027hombre\u0027, el Consejo de Estado resolviÃ³ a su favor. VotÃ³ en 1924, sentando el precedente que se constitucionalizÃ³ formalmente en 1929.",
+        "pasos_resolucion":  [
+                                 "Identificar a Matilde Hidalgo: primera mujer en votar (1924) y graduarse de mÃ©dica.",
+                                 "Argumento legal: la constituciÃ³n no excluÃ­a explÃ­citamente a las mujeres.",
+                                 "Hito: Ecuador fue pionero en AmÃ©rica Latina en el voto femenino (1929 formalmente)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=matilde+hidalgo+voto+femenino+ecuador"
+    },
+    {
+        "id":  "cs_491_011",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "El concepto andino de \u0027Sumak Kawsay\u0027 (Buen Vivir) fue incorporado en la ConstituciÃ³n ecuatoriana de 2008. Â¿QuÃ© paradigma de desarrollo desafÃ­a principalmente este concepto originario?",
+        "opciones":  [
+                         "DesafÃ­a el modelo de desarrollo capitalista basado en el crecimiento econÃ³mico infinito, el consumismo y la explotaciÃ³n depredadora de la naturaleza, proponiendo la armonÃ­a entre seres humanos y la Pachamama.",
+                         "DesafÃ­a el modelo de economÃ­a planificada socialista, proponiendo en su lugar el libre mercado desregulado basado en las redes de trueque andino.",
+                         "DesafÃ­a el modelo de Estado laico, promoviendo el retorno a una teocracia regida por autoridades religiosas andinas que dirijan la polÃ­tica pÃºblica.",
+                         "DesafÃ­a la existencia de la tecnologÃ­a moderna, exigiendo un retorno al estilo de vida agrario precolombino sin acceso a electricidad ni medicina occidental."
+                     ],
+        "respuesta_correcta":  "DesafÃ­a el modelo de desarrollo capitalista basado en el crecimiento econÃ³mico infinito, el consumismo y la explotaciÃ³n depredadora de la naturaleza, proponiendo la armonÃ­a entre seres humanos y la Pachamama.",
+        "explicacion_detallada":  "El Sumak Kawsay es una alternativa al paradigma occidental de \u0027desarrollo\u0027 (visto como acumulaciÃ³n lineal y crecimiento infinito). Propone un equilibrio biopsicosocial y ecolÃ³gico: vida en comunidad, respeto a los ciclos de la naturaleza (Derechos de la Naturaleza, Art. 71) y satisfacciÃ³n de necesidades sin consumismo. No rechaza la tecnologÃ­a moderna per se, sino su uso destructivo y alienante.",
+        "pasos_resolucion":  [
+                                 "Sumak Kawsay = Buen Vivir (armonÃ­a, comunidad, naturaleza).",
+                                 "Se opone al \u0027desarrollismo\u0027 capitalista occidental (crecimiento infinito, extractivismo puro).",
+                                 "Descartar visiones romÃ¡nticas (rechazo total a la tecnologÃ­a) o equÃ­vocos (libre mercado o teocracia)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=sumak+kawsay+buen+vivir+constitucion+ecuador"
+    },
+    {
+        "id":  "cs_491_012",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "Las demandas por el reconocimiento de la diversidad sexual y de gÃ©nero (poblaciÃ³n LGBTIQ+) han transformado las democracias modernas. En Ecuador, Â¿quÃ© hito jurÃ­dico de 1997 marcÃ³ un punto de inflexiÃ³n fundamental para estas demandas?",
+        "opciones":  [
+                         "La despenalizaciÃ³n de la homosexualidad, gracias a una demanda de inconstitucionalidad contra el inciso 1 del artÃ­culo 516 del CÃ³digo Penal.",
+                         "La aprobaciÃ³n del matrimonio civil igualitario mediante una resoluciÃ³n de la Asamblea Nacional.",
+                         "El reconocimiento de la identidad de gÃ©nero en la cÃ©dula de ciudadanÃ­a (cambio de \u0027sexo\u0027 a \u0027gÃ©nero\u0027).",
+                         "La tipificaciÃ³n del delito de odio por orientaciÃ³n sexual en la primera ConstituciÃ³n del paÃ­s."
+                     ],
+        "respuesta_correcta":  "La despenalizaciÃ³n de la homosexualidad, gracias a una demanda de inconstitucionalidad contra el inciso 1 del artÃ­culo 516 del CÃ³digo Penal.",
+        "explicacion_detallada":  "En 1997, el Tribunal Constitucional del Ecuador despenalizÃ³ la homosexualidad (que era castigada con prisiÃ³n de 4 a 8 aÃ±os) gracias a la lucha de activistas agrupados en la AsociaciÃ³n Cocinieri, TriÃ¡ngulo Andino, etc., tras la redada en el bar \u0027Abanicos\u0027. En 1998, Ecuador se convirtiÃ³ en el primer paÃ­s de AmÃ©rica en prohibir constitucionalmente la discriminaciÃ³n por orientaciÃ³n sexual. El matrimonio igualitario llegarÃ­a mucho despuÃ©s, en 2019.",
+        "pasos_resolucion":  [
+                                 "Fecha clave: 1997.",
+                                 "Hito histÃ³rico: despenalizaciÃ³n de la homosexualidad (fin del Art. 516 del CÃ³digo Penal).",
+                                 "Descartar otros hitos posteriores: matrimonio igualitario (2019), identidad de gÃ©nero en cÃ©dula (2016)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=despenalizacion+homosexualidad+ecuador+1997"
+    },
+    {
+        "id":  "cs_491_013",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "En el marco de la plurinacionalidad, las nacionalidades indÃ­genas del Ecuador se agrupan geogrÃ¡ficamente. Â¿CuÃ¡les de las siguientes nacionalidades habitan tradicionalmente en la regiÃ³n AmazÃ³nica del Ecuador?",
+        "opciones":  [
+                         "Shuar, Achuar, Huaorani, Siona, Secoya y CofÃ¡n.",
+                         "Kichwa (Panzaleo, PuruhÃ¡, CaÃ±ari, Saraguro), Chachi y TsÃ¡chila.",
+                         "Awa, Ã‰pera, TsÃ¡chila y ManteÃ±o-Huancavilca.",
+                         "Salasaca, Otavalo, Natabuela y Cayambi."
+                     ],
+        "respuesta_correcta":  "Shuar, Achuar, Huaorani, Siona, Secoya y CofÃ¡n.",
+        "explicacion_detallada":  "Las nacionalidades amazÃ³nicas ecuatorianas son conocidas por su resistencia territorial frente al extractivismo petrolero (ej. el caso de los Huaorani o los CofÃ¡n en SucumbÃ­os). Los pueblos de la Sierra (Otavalo, Salasaca, Saraguro, PuruhÃ¡) pertenecen mayoritariamente a la nacionalidad Kichwa. Chachi y TsÃ¡chila son de la Costa.",
+        "pasos_resolucion":  [
+                                 "Identificar pueblos amazÃ³nicos: Shuar (Morona), Huaorani (Orellana/Pastaza), CofÃ¡n (SucumbÃ­os).",
+                                 "Diferenciar de Kichwas andinos (Saraguros, Otavalos).",
+                                 "Diferenciar de nacionalidades costeÃ±as (TsÃ¡chila en Santo Domingo)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=nacionalidades+indigenas+amazonia+ecuador"
+    },
+    {
+        "id":  "cs_491_014",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "La democracia participativa, impulsada por los movimientos sociales, busca complementar a la democracia representativa (elecciones). SegÃºn la ConstituciÃ³n ecuatoriana, Â¿cuÃ¡l de los siguientes es un mecanismo de democracia participativa directa?",
+        "opciones":  [
+                         "La Consulta Popular y el ReferÃ©ndum.",
+                         "La designaciÃ³n de Ministros de Estado por parte de la Asamblea Nacional.",
+                         "El control de constitucionalidad de las leyes por parte de la Corte Constitucional.",
+                         "La elecciÃ³n del Presidente de la RepÃºblica cada cuatro aÃ±os."
+                     ],
+        "respuesta_correcta":  "La Consulta Popular y el ReferÃ©ndum.",
+        "explicacion_detallada":  "La democracia participativa/directa permite al ciudadano tomar decisiones sin intermediarios. La Consulta Popular, el ReferÃ©ndum, la Revocatoria del Mandato y la Iniciativa Popular Normativa son mecanismos directos. La elecciÃ³n del Presidente es el ejemplo clÃ¡sico de democracia *representativa*, no directa.",
+        "pasos_resolucion":  [
+                                 "Democracia representativa = elegir representantes (Presidente, AsambleÃ­stas).",
+                                 "Democracia directa = el pueblo decide sobre un tema especÃ­fico (Consulta Popular, ReferÃ©ndum).",
+                                 "Seleccionar la opciÃ³n que implique decisiÃ³n directa del ciudadano sobre un tema."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=mecanismos+democracia+directa+participativa+ecuador"
+    },
+    {
+        "id":  "cs_491_015",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "En 1922 ocurriÃ³ en Guayaquil un suceso trÃ¡gico que consolidÃ³ el movimiento obrero ecuatoriano y demostrÃ³ la fuerza de las demandas sociales urbanas. Â¿A quÃ© evento histÃ³rico se refiere y quÃ© libro documentÃ³ literariamente esta masacre?",
+        "opciones":  [
+                         "La huelga general del 15 de noviembre de 1922 (bautismo de sangre de la clase obrera), inmortalizada en la novela \u0027Las cruces sobre el agua\u0027 de JoaquÃ­n Gallegos Lara.",
+                         "La huelga ferroviaria de 1922 en DurÃ¡n, retratada en la novela \u0027Huasipungo\u0027 de Jorge Icaza.",
+                         "El levantamiento de los trabajadores del cacao (Gran Cacao), documentado en el libro \u0027Los Sangurimas\u0027 de JosÃ© de la Cuadra.",
+                         "La revuelta de los astilleros del Guayas, descrita en \u0027El chulla Romero y Flores\u0027 de Jorge Icaza."
+                     ],
+        "respuesta_correcta":  "La huelga general del 15 de noviembre de 1922 (bautismo de sangre de la clase obrera), inmortalizada en la novela \u0027Las cruces sobre el agua\u0027 de JoaquÃ­n Gallegos Lara.",
+        "explicacion_detallada":  "El 15 de noviembre de 1922, durante el gobierno de JosÃ© Luis Tamayo, una huelga masiva de trabajadores (artesanos, obreros, cacoteros) en Guayaquil, motivada por la crisis econÃ³mica y la devaluaciÃ³n que favorecÃ­a a la bancocracia, terminÃ³ en una masacre perpetrada por el ejÃ©rcito. Es el hito fundacional del movimiento sindical ecuatoriano, magistralmente retratado en el realismo social de \u0027Las cruces sobre el agua\u0027 (1946).",
+        "pasos_resolucion":  [
+                                 "Identificar evento: 15 de noviembre 1922 (masacre obrera en Guayaquil).",
+                                 "Relacionar con la obra literaria: \u0027Las cruces sobre el agua\u0027 (cruces lanzadas al rÃ­o Guayas en memoria de los asesinados).",
+                                 "Descartar \u0027Huasipungo\u0027 (que trata sobre explotaciÃ³n indÃ­gena en la Sierra)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=15+de+noviembre+1922+guayaquil+masacre+obrera"
+    },
+    {
+        "id":  "cs_491_016",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "La conformaciÃ³n del movimiento afroeccuatoriano tambiÃ©n ha levantado demandas histÃ³ricas contra el racismo estructural. Â¿En quÃ© regiÃ³n se ubican los dos asentamientos histÃ³ricos ancestrales principales de la poblaciÃ³n afrodescendiente en Ecuador?",
+        "opciones":  [
+                         "La provincia de Esmeraldas (asentamiento de la Costa) y el Valle del Chota, cuenca del rÃ­o Mira en las provincias de Imbabura y Carchi (asentamiento de la Sierra).",
+                         "El Golfo de Guayaquil (provincia del Guayas) y el valle de los Chillos (provincia de Pichincha).",
+                         "La provincia de ManabÃ­ (asentamiento costero) y la AmazonÃ­a sur (provincia de Zamora Chinchipe).",
+                         "Las estribaciones de la cordillera en Santo Domingo de los TsÃ¡chilas y la provincia de BolÃ­var."
+                     ],
+        "respuesta_correcta":  "La provincia de Esmeraldas (asentamiento de la Costa) y el Valle del Chota, cuenca del rÃ­o Mira en las provincias de Imbabura y Carchi (asentamiento de la Sierra).",
+        "explicacion_detallada":  "La poblaciÃ³n afroecuatoriana tiene dos cunas ancestrales: 1) Esmeraldas, originada por africanos que escaparon de un barco esclavo en 1553 (liderados por Alonso de Illescas) estableciendo una repÃºblica zamba libre. 2) El Valle del Chota/rÃ­o Mira (Imbabura/Carchi), poblado por personas esclavizadas traÃ­das en el siglo XVII por los jesuitas para trabajar en plantaciones de caÃ±a de azÃºcar (y que mantuvieron su cultura, como la mÃºsica bomba).",
+        "pasos_resolucion":  [
+                                 "Identificar los dos polos de la cultura afroecuatoriana.",
+                                 "Costa: Esmeraldas (marimba, Alonso de Illescas).",
+                                 "Sierra norte: Valle del Chota (Carchi/Imbabura, caÃ±a de azÃºcar, bomba)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=afroecuatorianos+historia+esmeraldas+valle+del+chota"
+    },
+    {
+        "id":  "cs_491_017",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "Uno de los conceptos sociopolÃ­ticos que explica las demandas sociales en AmÃ©rica Latina es la \u0027colonialidad del poder\u0027, acuÃ±ado por AnÃ­bal Quijano. Â¿QuÃ© afirma este concepto respecto a la situaciÃ³n actual post-independencia?",
+        "opciones":  [
+                         "Sostiene que, aunque el colonialismo formal (polÃ­tico y militar) terminÃ³ con la independencia, las estructuras jerÃ¡rquicas de dominaciÃ³n (clasificaciÃ³n racial, control del trabajo, eurocentrismo) siguen vigentes en las sociedades actuales.",
+                         "Plantea que AmÃ©rica Latina sigue siendo gobernada polÃ­ticamente en secreto por las coronas europeas a travÃ©s de tratados de libre comercio, anulando la independencia de 1822.",
+                         "Argumenta que las democracias latinoamericanas han logrado erradicar por completo cualquier herencia colonial gracias a la industrializaciÃ³n del siglo XX.",
+                         "Propone que la Ãºnica forma de descolonizar el Estado es que los paÃ­ses europeos paguen indemnizaciones econÃ³micas a los gobiernos latinoamericanos actuales."
+                     ],
+        "respuesta_correcta":  "Sostiene que, aunque el colonialismo formal (polÃ­tico y militar) terminÃ³ con la independencia, las estructuras jerÃ¡rquicas de dominaciÃ³n (clasificaciÃ³n racial, control del trabajo, eurocentrismo) siguen vigentes en las sociedades actuales.",
+        "explicacion_detallada":  "AnÃ­bal Quijano (sociÃ³logo peruano) diferencia \u0027colonialismo\u0027 (dominaciÃ³n polÃ­tica/militar directa histÃ³rica) de \u0027colonialidad\u0027 (la matriz de poder estructural que sobrevive al colonialismo). La colonialidad clasifica a la poblaciÃ³n mundial en torno a la idea de \u0027raza\u0027 (eurocentrismo superior, lo indÃ­gena/negro inferior), lo que justifica asimetrÃ­as de clase y explotaciÃ³n del trabajo hasta hoy.",
+        "pasos_resolucion":  [
+                                 "Autor clave: AnÃ­bal Quijano.",
+                                 "DistinciÃ³n clave: colonialismo (ya terminÃ³) vs. colonialidad del poder (sigue vigente en estructuras sociales y mentales).",
+                                 "El concepto explica por quÃ© el racismo y la desigualdad estructural persisten en las repÃºblicas independientes."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=colonialidad+del+poder+anibal+quijano+explicacion"
+    },
+    {
+        "id":  "cs_491_018",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "El ecologismo popular o \u0027ecologismo de los pobres\u0027 (Joan MartÃ­nez Alier) se ha convertido en una demanda social clave en el sur global. A diferencia del ambientalismo clÃ¡sico occidental, Â¿en quÃ© se enfoca el ecologismo popular?",
+        "opciones":  [
+                         "En la defensa del territorio, los medios de subsistencia locales y la justicia ambiental contra el extractivismo (minerÃ­a, petrÃ³leo, agronegocios) que despoja a las comunidades de su sustento (agua, tierra).",
+                         "En la protecciÃ³n estÃ©tica de paisajes intocados y la creaciÃ³n de parques nacionales sin presencia humana, para el disfrute turÃ­stico y la conservaciÃ³n de especies carismÃ¡ticas (osos panda, ballenas).",
+                         "En el desarrollo de tecnologÃ­as verdes altamente sofisticadas (energÃ­a nuclear limpia, captura de carbono) para mantener el nivel de consumo capitalista sin afectar el clima global.",
+                         "En la prohibiciÃ³n total del uso de cualquier recurso natural, obligando a las comunidades a importar sus alimentos de paÃ­ses industrializados."
+                     ],
+        "respuesta_correcta":  "En la defensa del territorio, los medios de subsistencia locales y la justicia ambiental contra el extractivismo (minerÃ­a, petrÃ³leo, agronegocios) que despoja a las comunidades de su sustento (agua, tierra).",
+        "explicacion_detallada":  "MartÃ­nez Alier explica que el \u0027ecologismo de los pobres\u0027 no nace del amor romÃ¡ntico a la naturaleza prÃ­stina (ambientalismo de culto a lo silvestre) ni de la \u0027eco-eficiencia\u0027 corporativa. Nace de la necesidad de supervivencia: comunidades campesinas, indÃ­genas o afrodescendientes que defienden su rÃ­o o su tierra (ej. en Intag o YasunÃ­) porque de ellos dependen sus medios directos de vida (agua limpia, soberanÃ­a alimentaria) frente a la expropiaciÃ³n extractivista.",
+        "pasos_resolucion":  [
+                                 "Ecologismo clÃ¡sico (Norte): conservaciÃ³n, parques nacionales, eco-eficiencia.",
+                                 "Ecologismo de los pobres (Sur): conflictos ecolÃ³gico-distributivos, justicia ambiental, defensa del territorio y sustento.",
+                                 "Relacionar con movimientos anti-mineros o defensa del agua en Ecuador."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=ecologismo+de+los+pobres+joan+martinez+alier"
+    },
+    {
+        "id":  "cs_491_019",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "La demanda por la soberanÃ­a alimentaria es fundamental para los movimientos campesinos (como La VÃ­a Campesina y FENOCIN). Â¿QuÃ© diferencia a la \u0027soberanÃ­a alimentaria\u0027 de la simple \u0027seguridad alimentaria\u0027 promovida por organismos como la FAO?",
+        "opciones":  [
+                         "La soberanÃ­a alimentaria exige el derecho de los pueblos a definir sus propias polÃ­ticas agrÃ­colas, priorizando la producciÃ³n local, ecolÃ³gica y campesina; la seguridad alimentaria solo garantiza que haya comida suficiente, aunque sea importada o producida por corporaciones transnacionales.",
+                         "La soberanÃ­a alimentaria promueve que el Estado sea el Ãºnico dueÃ±o de las tierras agrÃ­colas; la seguridad alimentaria defiende el libre mercado de la tierra.",
+                         "La soberanÃ­a alimentaria se enfoca Ãºnicamente en prohibir el consumo de carne animal; la seguridad alimentaria promueve una dieta omnÃ­vora equilibrada.",
+                         "La soberanÃ­a alimentaria busca que el paÃ­s exporte el 100% de su producciÃ³n agrÃ­cola para generar divisas; la seguridad alimentaria busca retener esa producciÃ³n para consumo interno."
+                     ],
+        "respuesta_correcta":  "La soberanÃ­a alimentaria exige el derecho de los pueblos a definir sus propias polÃ­ticas agrÃ­colas, priorizando la producciÃ³n local, ecolÃ³gica y campesina; la seguridad alimentaria solo garantiza que haya comida suficiente, aunque sea importada o producida por corporaciones transnacionales.",
+        "explicacion_detallada":  "Seguridad alimentaria (concepto ONU/FAO): que la gente no pase hambre (tener disponibilidad y acceso a comida), sin importar quiÃ©n ni cÃ³mo la produce (puede ser alimento importado, transgÃ©nico o monopÃ³lico). SoberanÃ­a alimentaria (concepto de movimientos sociales/VÃ­a Campesina, recogido en la ConstituciÃ³n de Ecuador): es un concepto polÃ­tico que exige control sobre el sistema alimentario, apoyando al pequeÃ±o agricultor, la biodiversidad, saberes tradicionales y mercados locales.",
+        "pasos_resolucion":  [
+                                 "Seguridad alimentaria = cantidad y acceso (no pasar hambre).",
+                                 "SoberanÃ­a alimentaria = control polÃ­tico sobre la producciÃ³n, defensa del campesino local y la agroecologÃ­a.",
+                                 "Es una demanda clave de organizaciones como FENOCIN y CONAIE."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=diferencia+soberania+alimentaria+y+seguridad+alimentaria"
+    },
+    {
+        "id":  "cs_491_020",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.9.1",
+        "tituloSubtema":  "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades.",
+        "enunciado":  "En el contexto de la democracia representativa, la \u0027crisis de representaciÃ³n\u0027 que detonÃ³ en Ecuador a fines de los aÃ±os 90 (crisis bancaria, derrocamientos de Bucaram y Mahuad) generÃ³ una demanda social especÃ­fica. Â¿Hacia quÃ© apuntaba principalmente esta demanda respecto al sistema polÃ­tico?",
+        "opciones":  [
+                         "Hacia el rechazo a la partidocracia tradicional (partidos vistos como Ã©lites corruptas capturadas por el poder financiero) y la exigencia de una Asamblea Constituyente que refunde el Estado con mayor participaciÃ³n ciudadana.",
+                         "Hacia el retorno a un gobierno militar de mano dura que suspendiera las elecciones indefinidamente para garantizar la estabilidad macroeconÃ³mica, siguiendo el modelo chileno.",
+                         "Hacia la privatizaciÃ³n total del sistema electoral, entregando el conteo de votos y la organizaciÃ³n de elecciones a empresas transnacionales de auditorÃ­a.",
+                         "Hacia la adopciÃ³n del dÃ³lar estadounidense como Ãºnica forma de recuperar la confianza en las instituciones polÃ­ticas, abandonando la demanda de cambio constitucional."
+                     ],
+        "respuesta_correcta":  "Hacia el rechazo a la partidocracia tradicional (partidos vistos como Ã©lites corruptas capturadas por el poder financiero) y la exigencia de una Asamblea Constituyente que refunde el Estado con mayor participaciÃ³n ciudadana.",
+        "explicacion_detallada":  "El grito \u0027Que se vayan todos\u0027 (popularizado tras las crisis de los 90 y principios de 2000 en Ecuador y Argentina) reflejaba la crisis de representaciÃ³n: los ciudadanos sentÃ­an que los partidos polÃ­ticos tradicionales (\u0027partidocracia\u0027) no representaban el interÃ©s general, sino a poderes fÃ¡cticos (banqueros, Ã©lites). Esta demanda social confluyÃ³ en la exigencia de una Asamblea Constituyente (lograda en 1998 y luego, mÃ¡s radicalmente, en 2008 en Montecristi) para \u0027refundar\u0027 el paÃ­s.",
+        "pasos_resolucion":  [
+                                 "Contexto: crisis de los 90s, Feriado Bancario (1999), caÃ­da de presidentes.",
+                                 "DiagnÃ³stico popular: la \u0027partidocracia\u0027 no nos representa.",
+                                 "SoluciÃ³n demandada: Asamblea Constituyente y mÃ¡s democracia participativa (no dictadura militar)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=crisis+de+representacion+partidocracia+ecuador+1999"
+    }
+]

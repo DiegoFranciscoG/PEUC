@@ -1,0 +1,397 @@
+[
+  {
+    "id": "cn_346_ex_001",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "Identifique el nombre IUPAC del compuesto con la fórmula CH3-CH(CH3)-CH2-CH3.",
+    "opciones": [
+      "2-metilbutano",
+      "isopentano",
+      "3-metilbutano",
+      "pentano"
+    ],
+    "respuesta_correcta": "2-metilbutano",
+    "explicacion_detallada": "La cadena principal más larga tiene 4 átomos de carbono, correspondientes al butano. Al numerar la cadena desde el extremo más cercano al sustituyente (metil), este queda en la posición 2.",
+    "pasos_resolucion": [
+      "Determinar la cadena continua más larga (4 carbonos = butano).",
+      "Numerar desde el extremo más próximo al radical.",
+      "Nombrar el radical (metil) con su posición (2).",
+      "Combinar ambas partes para obtener 2-metilbutano."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_002",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "¿Qué grupo funcional se encuentra presente en la propanona, comúnmente conocida como acetona (CH3-CO-CH3)?",
+    "opciones": [
+      "Cetona",
+      "Aldehído",
+      "Éster",
+      "Ácido carboxílico"
+    ],
+    "respuesta_correcta": "Cetona",
+    "explicacion_detallada": "La propanona presenta un grupo carbonilo (C=O) en un carbono secundario, unido a otros dos átomos de carbono. Esto caracteriza al grupo funcional cetona.",
+    "pasos_resolucion": [
+      "Identificar el grupo carbonilo (C=O) en la molécula.",
+      "Verificar a qué átomos está unido el carbono del carbonilo.",
+      "Al estar unido a dos radicales alquilo (-CH3), se clasifica como cetona."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_003",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "¿Cuál de los siguientes pares de compuestos representan isómeros de función?",
+    "opciones": [
+      "Etanol y dimetiléter",
+      "Butano y metilpropano",
+      "1-propanol y 2-propanol",
+      "1-buteno y 2-buteno"
+    ],
+    "respuesta_correcta": "Etanol y dimetiléter",
+    "explicacion_detallada": "El etanol (CH3-CH2-OH) y el dimetiléter (CH3-O-CH3) tienen la misma fórmula molecular (C2H6O) pero pertenecen a distintos grupos funcionales (alcohol y éter, respectivamente).",
+    "pasos_resolucion": [
+      "Determinar la fórmula molecular de cada compuesto en las opciones.",
+      "Verificar que las fórmulas moleculares sean idénticas (C2H6O).",
+      "Comprobar que los grupos funcionales sean diferentes (alcohol vs éter)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_004",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "El proceso mediante el cual se rompen moléculas grandes de hidrocarburos en moléculas más pequeñas usando calor o catalizadores en la refinación del petróleo se conoce como:",
+    "opciones": [
+      "Craqueo",
+      "Polimerización",
+      "Destilación fraccionada",
+      "Alquilación"
+    ],
+    "respuesta_correcta": "Craqueo",
+    "explicacion_detallada": "El craqueo (o cracking) es el proceso químico en el cual las fracciones pesadas del petróleo se rompen (mediante altas temperaturas y catalizadores) para obtener compuestos más ligeros y valiosos como las gasolinas.",
+    "pasos_resolucion": [
+      "Recordar las definiciones de los procesos de refinación.",
+      "Asociar la 'ruptura de moléculas grandes' con el término craqueo."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_005",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "¿Qué hibridación presentan los átomos de carbono involucrados en el triple enlace del etino (acetileno)?",
+    "opciones": [
+      "sp",
+      "sp2",
+      "sp3",
+      "sp3d"
+    ],
+    "respuesta_correcta": "sp",
+    "explicacion_detallada": "Los átomos de carbono unidos por un triple enlace (un enlace sigma y dos pi) presentan hibridación sp y geometría lineal.",
+    "pasos_resolucion": [
+      "Identificar el tipo de enlace entre los carbonos del etino (triple enlace).",
+      "Relacionar el tipo de enlace con la hibridación (simple: sp3, doble: sp2, triple: sp)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_006",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "¿Cuál es la estructura monomérica principal a partir de la cual se obtiene el polímero Policloruro de vinilo (PVC)?",
+    "opciones": [
+      "Cloruro de vinilo",
+      "Etileno",
+      "Estireno",
+      "Propileno"
+    ],
+    "respuesta_correcta": "Cloruro de vinilo",
+    "explicacion_detallada": "El PVC es un polímero de adición formado por la polimerización de miles de monómeros de cloruro de vinilo (cloroeteno).",
+    "pasos_resolucion": [
+      "Analizar el nombre del polímero (Policloruro de vinilo).",
+      "Identificar que 'Poli' significa muchos, siendo la raíz restante (cloruro de vinilo) el nombre del monómero."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_007",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "La reacción de un ácido carboxílico con un alcohol, que produce agua como subproducto, da lugar a la formación de un:",
+    "opciones": [
+      "Éster",
+      "Éter",
+      "Amida",
+      "Anhídrido de ácido"
+    ],
+    "respuesta_correcta": "Éster",
+    "explicacion_detallada": "La reacción descrita se denomina esterificación de Fischer, donde reaccionan un ácido carboxílico y un alcohol, en medio ácido, para formar un éster y agua.",
+    "pasos_resolucion": [
+      "Recordar los reactivos: ácido carboxílico y alcohol.",
+      "Identificar que el grupo -OH del ácido y el -H del alcohol se combinan formando agua.",
+      "Determinar que el compuesto restante que une la cadena alquílica al grupo carbonilo a través del oxígeno forma el grupo éster (-COO-)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_008",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "La deslocalización de electrones pi en una estructura cíclica y plana de seis carbonos confiere gran estabilidad a una molécula. ¿A qué compuesto orgánico se refiere esta descripción?",
+    "opciones": [
+      "Benceno",
+      "Ciclohexano",
+      "Tolueno",
+      "Ciclohexeno"
+    ],
+    "respuesta_correcta": "Benceno",
+    "explicacion_detallada": "El benceno (C6H6) es un compuesto aromático caracterizado por una nube electrónica de seis electrones pi deslocalizados, lo que se conoce como resonancia aromática, otorgándole una estabilidad excepcional.",
+    "pasos_resolucion": [
+      "Identificar las palabras clave: cíclica, plana, seis carbonos, deslocalización de electrones pi (aromático).",
+      "Diferenciar de alcanos o alquenos cíclicos (ciclohexano, ciclohexeno) que no presentan esta deslocalización completa.",
+      "Seleccionar el benceno como el representante fundamental de esta descripción."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_009",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "En la destilación fraccionada del petróleo, ¿cuál de los siguientes derivados se condensa en la parte más alta de la torre, debido a su bajo punto de ebullición?",
+    "opciones": [
+      "Gases de petróleo (ej. butano, propano)",
+      "Gasolina",
+      "Diésel",
+      "Asfalto"
+    ],
+    "respuesta_correcta": "Gases de petróleo (ej. butano, propano)",
+    "explicacion_detallada": "En la torre de destilación, las fracciones con menor número de carbonos y menor peso molecular tienen los puntos de ebullición más bajos, por lo que ascienden hasta la parte superior antes de condensarse.",
+    "pasos_resolucion": [
+      "Recordar que la torre está más caliente abajo y más fría arriba.",
+      "Identificar que las sustancias con menor punto de ebullición llegan más alto.",
+      "Deducir que los gases de petróleo tienen cadenas carbonadas más cortas (C1-C4) y los puntos de ebullición más bajos."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_010",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "¿Qué tipo de isómeros representan los compuestos cis-2-buteno y trans-2-buteno?",
+    "opciones": [
+      "Isómeros geométricos (estereoisómeros)",
+      "Isómeros de posición",
+      "Isómeros de cadena",
+      "Isómeros de función"
+    ],
+    "respuesta_correcta": "Isómeros geométricos (estereoisómeros)",
+    "explicacion_detallada": "Los isómeros cis y trans difieren en la disposición espacial de sus átomos o grupos alrededor del doble enlace carbono-carbono, que no permite rotación libre, lo que los clasifica como isómeros geométricos o estereoisómeros.",
+    "pasos_resolucion": [
+      "Identificar que ambos compuestos tienen la misma estructura pero diferente orientación espacial (prefijos cis/trans).",
+      "Relacionar la isomería cis/trans en alquenos con el concepto de isomería geométrica."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_011",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "El compuesto CH3-CH2-NH2 pertenece al grupo de las:",
+    "opciones": [
+      "Aminas primarias",
+      "Aminas secundarias",
+      "Aminas terciarias",
+      "Amidas"
+    ],
+    "respuesta_correcta": "Aminas primarias",
+    "explicacion_detallada": "La molécula es etilamina. El átomo de nitrógeno está unido a un solo grupo alquilo y a dos átomos de hidrógeno, siendo esta la característica de las aminas primarias.",
+    "pasos_resolucion": [
+      "Identificar el grupo funcional nitrogenado (-NH2).",
+      "Observar a cuántos átomos de carbono está directamente unido el nitrógeno.",
+      "Al estar unido solo a 1 átomo de carbono, es una amina primaria."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_012",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "De acuerdo a las reglas IUPAC, ¿cuál es el nombre de la molécula CH3-CH(OH)-CH2-CH3?",
+    "opciones": [
+      "2-butanol",
+      "sec-butanol",
+      "1-metil-1-propanol",
+      "3-butanol"
+    ],
+    "respuesta_correcta": "2-butanol",
+    "explicacion_detallada": "Es un alcohol con una cadena principal de 4 carbonos (butano). El sufijo -ol indica el grupo hidroxilo (-OH), y su posición debe ser la más baja posible al numerar la cadena. Al empezar por la izquierda, está en el carbono 2.",
+    "pasos_resolucion": [
+      "Encontrar la cadena más larga que contenga al grupo -OH (4 carbonos: butan-).",
+      "Numerar la cadena para dar al -OH la posición más baja (carbono 2).",
+      "Añadir el sufijo -ol correspondiente a los alcoholes: 2-butanol."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_013",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "¿Cuál de los siguientes grupos funcionales tiene mayor prioridad para dar el nombre a la cadena principal según la IUPAC?",
+    "opciones": [
+      "Ácido carboxílico",
+      "Aldehído",
+      "Cetona",
+      "Alcohol"
+    ],
+    "respuesta_correcta": "Ácido carboxílico",
+    "explicacion_detallada": "Según las reglas de nomenclatura de la IUPAC, los ácidos carboxílicos tienen la prioridad más alta entre todos los grupos funcionales comunes, debiendo ser siempre el carbono 1 de la cadena principal.",
+    "pasos_resolucion": [
+      "Recordar el orden de prioridad de grupos funcionales.",
+      "Establecer que los ácidos (-COOH) son el extremo más oxidado y tienen prioridad sobre ésteres, amidas, aldehídos, cetonas, alcoholes, etc."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_014",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "La reacción característica de un alcano con halógenos (como cloro o bromo) en presencia de luz ultravioleta es de tipo:",
+    "opciones": [
+      "Sustitución (halogenación radicalaria)",
+      "Adición electrofílica",
+      "Eliminación",
+      "Oxidación fuerte"
+    ],
+    "respuesta_correcta": "Sustitución (halogenación radicalaria)",
+    "explicacion_detallada": "Los alcanos, por su falta de enlaces pi, no sufren adición. Su reacción más común es la sustitución por radicales libres, donde un halógeno reemplaza a un átomo de hidrógeno, catalizado por la luz (hv).",
+    "pasos_resolucion": [
+      "Identificar el tipo de hidrocarburo (alcano) y reactivo (halógeno).",
+      "Descartar adición (requiere enlaces dobles/triples).",
+      "Relacionar la necesidad de luz UV con el mecanismo de radicales libres para la sustitución de hidrógenos."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_015",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "El nombre sistemático IUPAC del ácido acético (CH3-COOH), componente principal del vinagre, es:",
+    "opciones": [
+      "Ácido etanoico",
+      "Ácido metanoico",
+      "Ácido propanoico",
+      "Ácido butanoico"
+    ],
+    "respuesta_correcta": "Ácido etanoico",
+    "explicacion_detallada": "La cadena carbonada tiene 2 átomos de carbono (raíz 'et-'). Al ser un ácido carboxílico, se usa la palabra 'ácido' y el sufijo '-oico', resultando en ácido etanoico.",
+    "pasos_resolucion": [
+      "Contar los carbonos de la molécula, incluyendo el del grupo carbonilo: 2 carbonos.",
+      "Asociar 2 carbonos con el prefijo 'et-'.",
+      "Aplicar la regla de ácidos carboxílicos: Ácido + prefijo + anoico = Ácido etanoico."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_016",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "Los polímeros sintéticos como el Nylon se clasifican químicamente como:",
+    "opciones": [
+      "Poliamidas",
+      "Poliésteres",
+      "Poliuretanos",
+      "Poliolefinas"
+    ],
+    "respuesta_correcta": "Poliamidas",
+    "explicacion_detallada": "El nylon es un polímero de condensación formado mediante la reacción de diaminas y ácidos dicarboxílicos, generando enlaces amida a lo largo de la cadena (por eso es una poliamida).",
+    "pasos_resolucion": [
+      "Identificar el nylon como un plástico/fibra común.",
+      "Recordar la estructura de sus enlaces (enlace peptídico o amida).",
+      "Clasificar según el enlace predominante: poliamida."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_017",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "¿Qué hidrocarburo aromático se caracteriza por tener un grupo metilo unido al anillo bencénico?",
+    "opciones": [
+      "Tolueno (Metilbenceno)",
+      "Fenol",
+      "Anilina",
+      "Estireno"
+    ],
+    "respuesta_correcta": "Tolueno (Metilbenceno)",
+    "explicacion_detallada": "El tolueno es el nombre común aceptado para el metilbenceno. El fenol tiene un grupo -OH, la anilina un grupo -NH2, y el estireno un grupo vinilo (-CH=CH2).",
+    "pasos_resolucion": [
+      "Relacionar 'anillo bencénico' con un grupo 'metilo' (-CH3).",
+      "Identificar el derivado aromático metilbenceno.",
+      "Recordar que el nombre común de este compuesto es tolueno."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_018",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "El polietileno, el plástico más común, es un polímero de adición obtenido a partir de la polimerización del:",
+    "opciones": [
+      "Eteno",
+      "Propeno",
+      "Cloroeteno",
+      "Tetrafluoroeteno"
+    ],
+    "respuesta_correcta": "Eteno",
+    "explicacion_detallada": "El etileno (nombre común del eteno) se polimeriza rompiendo su doble enlace para formar largas cadenas saturadas de polietileno.",
+    "pasos_resolucion": [
+      "Analizar el nombre del polímero: poli-etileno.",
+      "Quitar el prefijo poli- para identificar el monómero: etileno (nombre IUPAC: eteno)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_019",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "¿Cuál es la fórmula general de los alcanos de cadena abierta, donde 'n' representa el número de átomos de carbono?",
+    "opciones": [
+      "CnH2n+2",
+      "CnH2n",
+      "CnH2n-2",
+      "CnHn"
+    ],
+    "respuesta_correcta": "CnH2n+2",
+    "explicacion_detallada": "Los alcanos son hidrocarburos alifáticos saturados acíclicos. Cada carbono está unido al máximo número posible de hidrógenos, por lo que su fórmula general es CnH2n+2.",
+    "pasos_resolucion": [
+      "Recordar las fórmulas generales de los hidrocarburos alifáticos.",
+      "Identificar Alcanos (enlaces simples): CnH2n+2.",
+      "Diferenciar de Alquenos/Cicloalcanos (CnH2n) y Alquinos (CnH2n-2)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_346_ex_020",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.6",
+    "enunciado": "¿Cuál es el nombre IUPAC del compuesto CH3-CH2-CHO?",
+    "opciones": [
+      "Propanal",
+      "Propanona",
+      "1-propanol",
+      "Ácido propanoico"
+    ],
+    "respuesta_correcta": "Propanal",
+    "explicacion_detallada": "El grupo funcional -CHO corresponde a un aldehído ubicado en el extremo de la cadena. Una cadena de 3 carbonos con aldehído se nombra con el prefijo 'prop-' y terminación '-al', resultando en propanal.",
+    "pasos_resolucion": [
+      "Identificar el grupo funcional en el extremo: -CHO (aldehído).",
+      "Contar los carbonos totales de la cadena (incluyendo el del grupo funcional): 3 carbonos.",
+      "Aplicar nomenclatura de aldehídos: prefijo raíz (propano) + sufijo (al) = propanal."
+    ],
+    "video_explicativo_url": ""
+  }
+]

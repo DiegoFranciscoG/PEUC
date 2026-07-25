@@ -1,0 +1,422 @@
+﻿[
+    {
+        "id":  "cs_481_001",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "La democracia representativa se fundamenta en la elecciÃ³n de mandatarios que actÃºan en nombre de los ciudadanos. SegÃºn la teorÃ­a polÃ­tica de Bernard Manin, Â¿cuÃ¡l es uno de los principios constitutivos invariables del gobierno representativo desde el siglo XVIII?",
+        "opciones":  [
+                         "La independencia parcial de los representantes respecto a las preferencias de los electores, lo que les permite gobernar segÃºn su propio criterio una vez elegidos (mandato libre).",
+                         "La obligaciÃ³n legal de los representantes de consultar cada decisiÃ³n gubernamental con sus electores mediante plebiscitos semanales (mandato imperativo).",
+                         "La prohibiciÃ³n estricta de que los ciudadanos expresen opiniones polÃ­ticas fuera de los periodos electorales.",
+                         "La elecciÃ³n exclusiva de los representantes mediante sorteo entre todos los ciudadanos, descartando el uso de elecciones competitivas."
+                     ],
+        "respuesta_correcta":  "La independencia parcial de los representantes respecto a las preferencias de los electores, lo que les permite gobernar segÃºn su propio criterio una vez elegidos (mandato libre).",
+        "explicacion_detallada":  "Manin identifica cuatro principios del gobierno representativo: 1) Elecciones regulares, 2) Independencia parcial de los representantes (mandato libre, no imperativo, como argumentÃ³ Edmund Burke), 3) Libertad de opiniÃ³n pÃºblica, 4) Toma de decisiones tras el debate pÃºblico. El \u0027mandato libre\u0027 permite al representante usar su juicio, a diferencia del \u0027mandato imperativo\u0027 medieval donde solo era un emisario ciego.",
+        "pasos_resolucion":  [
+                                 "TeorÃ­a de la representaciÃ³n (Bernard Manin).",
+                                 "Diferencia entre mandato libre (representaciÃ³n moderna) y mandato imperativo (medieval).",
+                                 "Descartar opciones que anulan la representaciÃ³n (plebiscitos semanales, sorteo) o la libertad (prohibiciÃ³n de opiniÃ³n)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=bernard+manin+principios+gobierno+representativo"
+    },
+    {
+        "id":  "cs_481_002",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "JÃ¼rgen Habermas es el principal teÃ³rico de la democracia deliberativa. Â¿CuÃ¡l es la condiciÃ³n fundamental que exige Habermas para que la deliberaciÃ³n polÃ­tica sea democrÃ¡ticamente legÃ­tima?",
+        "opciones":  [
+                         "Que se desarrolle bajo la \u0027situaciÃ³n ideal de habla\u0027, donde todos los participantes tienen igualdad de oportunidades para argumentar libremente de coacciones, buscando el consenso racional.",
+                         "Que la deliberaciÃ³n se reserve Ãºnicamente para expertos tecnÃ³cratas con formaciÃ³n universitaria, alejando a los ciudadanos comunes que se dejan llevar por emociones.",
+                         "Que los debates se resuelvan rÃ¡pidamente mediante la imposiciÃ³n de la fuerza o el soborno si no se logra un acuerdo en la primera sesiÃ³n.",
+                         "Que los participantes defiendan sus intereses dogmÃ¡ticamente, negÃ¡ndose a cambiar de opiniÃ³n incluso frente a mejores argumentos contrarios."
+                     ],
+        "respuesta_correcta":  "Que se desarrolle bajo la \u0027situaciÃ³n ideal de habla\u0027, donde todos los participantes tienen igualdad de oportunidades para argumentar libremente de coacciones, buscando el consenso racional.",
+        "explicacion_detallada":  "Para Habermas (TeorÃ­a de la AcciÃ³n Comunicativa), la legitimidad democrÃ¡tica no nace del simple conteo de votos (agregaciÃ³n de preferencias preexistentes), sino del proceso de formaciÃ³n de la voluntad pÃºblica mediante el diÃ¡logo racional (deliberaciÃ³n). Esto requiere una \u0027situaciÃ³n ideal de habla\u0027: inclusiÃ³n universal, simetrÃ­a (igualdad), y ausencia de coerciÃ³n o engaÃ±o, donde solo prevalezca \u0027la fuerza del mejor argumento\u0027.",
+        "pasos_resolucion":  [
+                                 "Identificar a Habermas: democracia deliberativa, acciÃ³n comunicativa.",
+                                 "Concepto clave: \u0027situaciÃ³n ideal de habla\u0027 y \u0027fuerza del mejor argumento\u0027.",
+                                 "Descartar el elitismo (expertos) o la coerciÃ³n, que destruyen la deliberaciÃ³n."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=habermas+democracia+deliberativa+accion+comunicativa"
+    },
+    {
+        "id":  "cs_481_003",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "A diferencia de la democracia puramente agregativa (centrada en el voto y las mayorÃ­as), la democracia deliberativa busca transformar las preferencias de los ciudadanos. Â¿CÃ³mo se logra esta transformaciÃ³n segÃºn los teÃ³ricos deliberativos?",
+        "opciones":  [
+                         "Mediante el intercambio pÃºblico de argumentos racionales, lo que obliga a los participantes a justificar sus posiciones apelando al bien comÃºn, pudiendo asÃ­ modificar sus preferencias iniciales.",
+                         "Mediante campaÃ±as intensivas de propaganda estatal que utilizan tÃ©cnicas psicolÃ³gicas de sugestiÃ³n para alienar a la poblaciÃ³n y uniformar el pensamiento.",
+                         "Mediante la exclusiÃ³n del padrÃ³n electoral de aquellos ciudadanos que mantengan preferencias egoÃ­stas contrarias a la moral religiosa del Estado.",
+                         "Mediante la distribuciÃ³n de incentivos econÃ³micos directos a los votantes a cambio de que cambien su voto por el candidato oficialista."
+                     ],
+        "respuesta_correcta":  "Mediante el intercambio pÃºblico de argumentos racionales, lo que obliga a los participantes a justificar sus posiciones apelando al bien comÃºn, pudiendo asÃ­ modificar sus preferencias iniciales.",
+        "explicacion_detallada":  "La democracia agregativa (voto) toma las preferencias ciudadanas como dadas y fijas. La democracia deliberativa confÃ­a en que el debate pÃºblico racional puede transformar el egoÃ­smo en visiÃ³n ciudadana: al tener que justificar pÃºblicamente un argumento ante los demÃ¡s, el ciudadano se ve forzado a usar razones que otros puedan aceptar (razÃ³n pÃºblica), alejÃ¡ndose del puro interÃ©s privado.",
+        "pasos_resolucion":  [
+                                 "Democracia agregativa = sumar votos (preferencias fijas).",
+                                 "Democracia deliberativa = transformar preferencias mediante el intercambio de argumentos.",
+                                 "Descartar propaganda, clientelismo (incentivos econÃ³micos) o exclusiÃ³n, que son antidemocrÃ¡ticos."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=democracia+agregativa+vs+deliberativa"
+    },
+    {
+        "id":  "cs_481_004",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "En la ConstituciÃ³n ecuatoriana de 2008, Â¿quÃ© instituciÃ³n de la FunciÃ³n de Transparencia y Control Social fue diseÃ±ada para promover la democracia deliberativa y la participaciÃ³n ciudadana en el nombramiento de autoridades de control?",
+        "opciones":  [
+                         "El Consejo de ParticipaciÃ³n Ciudadana y Control Social (CPCCS).",
+                         "La Corte Constitucional del Ecuador.",
+                         "El Consejo Nacional Electoral (CNE).",
+                         "El Tribunal Contencioso Electoral (TCE)."
+                     ],
+        "respuesta_correcta":  "El Consejo de ParticipaciÃ³n Ciudadana y Control Social (CPCCS).",
+        "explicacion_detallada":  "El CPCCS es una innovaciÃ³n de la ConstituciÃ³n de 2008 que busca superar los lÃ­mites de la democracia puramente representativa. Su objetivo es promover la participaciÃ³n, establecer veedurÃ­as ciudadanas y designar a las autoridades de control (Contralor, Fiscal, Defensor del Pueblo) mediante concursos pÃºblicos de mÃ©ritos y escrutinio ciudadano, alejando estas designaciones del control directo de los partidos polÃ­ticos en la Asamblea (aunque en la prÃ¡ctica ha sido muy polÃ©mico).",
+        "pasos_resolucion":  [
+                                 "InstituciÃ³n que promueve participaciÃ³n y designa autoridades de control = CPCCS.",
+                                 "Diferenciar de la Corte Constitucional (control constitucional).",
+                                 "Diferenciar del CNE/TCE (funciÃ³n electoral)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=cpccs+funciones+ecuador+participacion+ciudadana"
+    },
+    {
+        "id":  "cs_481_005",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "Uno de los principales problemas de la democracia representativa moderna es la llamada \u0027crisis de representaciÃ³n\u0027. Â¿A quÃ© fenÃ³meno polÃ­tico y sociolÃ³gico alude este tÃ©rmino?",
+        "opciones":  [
+                         "A la desconfianza ciudadana hacia los partidos polÃ­ticos e instituciones representativas, percibidos como Ã©lites desconectadas de las necesidades sociales y capturadas por intereses particulares.",
+                         "Al exceso de participaciÃ³n ciudadana en asambleas barriales que paraliza la capacidad de decisiÃ³n rÃ¡pida del presidente de la repÃºblica.",
+                         "A la falta de candidatos para postularse a cargos pÃºblicos, lo que obliga al Estado a imponer el servicio civil obligatorio.",
+                         "Al fraude electoral sistemÃ¡tico en el conteo de votos durante las elecciones presidenciales que anula matemÃ¡ticamente los resultados."
+                     ],
+        "respuesta_correcta":  "A la desconfianza ciudadana hacia los partidos polÃ­ticos e instituciones representativas, percibidos como Ã©lites desconectadas de las necesidades sociales y capturadas por intereses particulares.",
+        "explicacion_detallada":  "La \u0027crisis de representaciÃ³n\u0027 (o dÃ©ficit democrÃ¡tico) describe la ruptura del vÃ­nculo de confianza entre representantes y representados. Se evidencia en alta abstenciÃ³n electoral, voto nulo/blanco, apatÃ­a polÃ­tica y el surgimiento de movimientos \u0027anti-sistema\u0027 u outsiders, impulsados por la percepciÃ³n de que la partidocracia gobierna para sÃ­ misma (oligarquizaciÃ³n de los partidos o \u0027ley de hierro de la oligarquÃ­a\u0027 de Michels).",
+        "pasos_resolucion":  [
+                                 "Identificar \u0027crisis de representaciÃ³n\u0027 = brecha entre representante y representado.",
+                                 "SÃ­ntoma principal: desconfianza en partidos polÃ­ticos y Ã©lites.",
+                                 "Descartar exceso de participaciÃ³n ciudadana (eso serÃ­a un sÃ­ntoma opuesto a la crisis representativa)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=crisis+de+representacion+partidocracia+causas"
+    },
+    {
+        "id":  "cs_481_006",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "El concepto de \u0027esfera pÃºblica\u0027 (Ã–ffentlichkeit), fundamental para la democracia deliberativa, fue analizado extensamente por Habermas. Â¿QuÃ© representa la \u0027esfera pÃºblica\u0027 en una sociedad democrÃ¡tica?",
+        "opciones":  [
+                         "Un espacio de intermediaciÃ³n entre la sociedad civil y el Estado, donde los ciudadanos debaten libremente sobre asuntos de interÃ©s general para formar una opiniÃ³n pÃºblica crÃ­tica.",
+                         "El conjunto de empresas pÃºblicas y propiedades estatales que administran los recursos estratÃ©gicos (petrÃ³leo, agua, electricidad) de una naciÃ³n.",
+                         "La plaza central de las ciudades capitales donde estÃ¡ prohibida cualquier manifestaciÃ³n polÃ­tica sin autorizaciÃ³n policial previa.",
+                         "El recinto cerrado donde sesiona el parlamento a puerta cerrada, reservado exclusivamente para los representantes electos."
+                     ],
+        "respuesta_correcta":  "Un espacio de intermediaciÃ³n entre la sociedad civil y el Estado, donde los ciudadanos debaten libremente sobre asuntos de interÃ©s general para formar una opiniÃ³n pÃºblica crÃ­tica.",
+        "explicacion_detallada":  "Para Habermas, la \u0027esfera pÃºblica\u0027 surgiÃ³ en los cafÃ©s y salones de la burguesÃ­a del siglo XVIII (y hoy en los medios de comunicaciÃ³n y redes sociales). Es un espacio discursivo no estatal y no estrictamente privado (mercado), donde individuos privados se reÃºnen como pÃºblico para debatir los problemas de la sociedad, generando la \u0027opiniÃ³n pÃºblica\u0027 que debe guiar y legitimar el poder polÃ­tico (Estado).",
+        "pasos_resolucion":  [
+                                 "Autor clave: Habermas.",
+                                 "Concepto: \u0027esfera pÃºblica\u0027 (espacio de debate ciudadano libre).",
+                                 "Descartar opciones que confundan \u0027pÃºblico\u0027 con \u0027propiedad del Estado\u0027 (empresas pÃºblicas) o con un espacio fÃ­sico restringido."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=esfera+publica+habermas+explicacion"
+    },
+    {
+        "id":  "cs_481_007",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "Para complementar la democracia representativa, la ConstituciÃ³n del Ecuador incluye la figura de la \u0027Silla VacÃ­a\u0027 en los gobiernos seccionales. Â¿CuÃ¡l es el propÃ³sito de este mecanismo de participaciÃ³n ciudadana local?",
+        "opciones":  [
+                         "Permitir que un representante ciudadano participe con voz y voto en las sesiones de los consejos provinciales, municipales o parroquiales para debatir temas de su interÃ©s.",
+                         "Garantizar un asiento permanentemente libre en memoria de los hÃ©roes nacionales caÃ­dos durante las guerras de independencia.",
+                         "Sancionar al alcalde o prefecto obligÃ¡ndolo a dejar su asiento vacÃ­o por un mes si es hallado culpable de actos de corrupciÃ³n menores.",
+                         "Asegurar que los observadores internacionales de la OEA tengan siempre un lugar reservado durante la aprobaciÃ³n del presupuesto local."
+                     ],
+        "respuesta_correcta":  "Permitir que un representante ciudadano participe con voz y voto en las sesiones de los consejos provinciales, municipales o parroquiales para debatir temas de su interÃ©s.",
+        "explicacion_detallada":  "La \u0027Silla VacÃ­a\u0027 (Art. 101 de la ConstituciÃ³n, desarrollado en el COOTAD) es un mecanismo de democracia participativa y deliberativa a nivel local (GADs). Permite que un ciudadano, acreditado previamente segÃºn el tema a tratarse, ocupe ese lugar en la sesiÃ³n del consejo respectivo, participando activamente en el debate y la toma de decisiones con voz y voto, rompiendo el monopolio de los concejales electos.",
+        "pasos_resolucion":  [
+                                 "InstituciÃ³n: Silla VacÃ­a (nivel local/GADs).",
+                                 "Objetivo: ParticipaciÃ³n ciudadana directa (voz y voto en temas especÃ­ficos).",
+                                 "Descartar simbolismos o sanciones (no es un asiento en memoria de nadie, ni un castigo al alcalde)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=silla+vacia+participacion+ciudadana+ecuador"
+    },
+    {
+        "id":  "cs_481_008",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "Los crÃ­ticos de la democracia deliberativa (como Chantal Mouffe) argumentan que la bÃºsqueda del consenso racional propuesta por Habermas es problemÃ¡tica. Â¿CuÃ¡l es la crÃ­tica principal que Mouffe realiza al modelo deliberativo desde su teorÃ­a de la \u0027democracia agonÃ­stica\u0027?",
+        "opciones":  [
+                         "Sostiene que el modelo deliberativo oculta las relaciones de poder y las pasiones polÃ­ticas; la democracia no debe buscar anular el conflicto mediante el consenso racional, sino canalizar el conflicto irreductible entre adversarios (agonismo).",
+                         "Critica que el modelo deliberativo requiere demasiadas elecciones, lo que genera un gasto pÃºblico excesivo y agota al electorado, prefiriendo una dictadura temporal de tecnÃ³cratas.",
+                         "Afirma que los ciudadanos son demasiado ignorantes biolÃ³gicamente para debatir racionalmente, por lo que las decisiones deben tomarse mediante algoritmos de inteligencia artificial.",
+                         "Argumenta que el consenso solo es posible si se elimina por completo la propiedad privada de los medios de producciÃ³n, acercÃ¡ndose a un modelo puramente marxista ortodoxo."
+                     ],
+        "respuesta_correcta":  "Sostiene que el modelo deliberativo oculta las relaciones de poder y las pasiones polÃ­ticas; la democracia no debe buscar anular el conflicto mediante el consenso racional, sino canalizar el conflicto irreductible entre adversarios (agonismo).",
+        "explicacion_detallada":  "Chantal Mouffe (post-marxista) propone el \u0027agonismo\u0027 frente al modelo deliberativo de Habermas y Rawls. Para Mouffe, lo polÃ­tico es constitutivamente conflictivo y pasional. Intentar reducir la polÃ­tica a un diÃ¡logo puramente racional en busca de consenso (ilusiÃ³n liberal) termina oprimiendo o excluyendo a los disidentes. La democracia sana requiere el reconocimiento de los adversarios polÃ­ticos legÃ­timos (agonismo), no de enemigos a destruir, pero sin la ilusiÃ³n de que el conflicto desaparecerÃ¡ por la argumentaciÃ³n.",
+        "pasos_resolucion":  [
+                                 "Identificar la crÃ­tica al consenso deliberativo: Chantal Mouffe (agonismo).",
+                                 "Concepto central del agonismo: el conflicto es inerradicable, lo importante es canalizarlo como adversarios (no como enemigos).",
+                                 "Descartar la tecnocracia o el determinismo biolÃ³gico (no son argumentos de Mouffe)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=chantal+mouffe+democracia+agonistica+vs+deliberativa"
+    },
+    {
+        "id":  "cs_481_009",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "En un sistema representativo, el sistema electoral determina cÃ³mo se traducen los votos en escaÃ±os legislativos. Â¿CuÃ¡l es la principal diferencia entre un sistema de representaciÃ³n proporcional (usado en Ecuador para asambleÃ­stas) y un sistema mayoritario uninominal (usado en EE.UU. o Reino Unido)?",
+        "opciones":  [
+                         "El sistema proporcional asigna escaÃ±os segÃºn el porcentaje de votos que obtiene cada lista, favoreciendo el multipartidismo; el sistema mayoritario otorga el escaÃ±o solo al candidato mÃ¡s votado del distrito (the winner takes all), tendiendo al bipartidismo.",
+                         "El sistema proporcional garantiza que todos los candidatos, sin importar los votos que saquen, tengan un asiento en el parlamento; el mayoritario solo permite que gobierne el partido del presidente.",
+                         "El sistema proporcional se utiliza exclusivamente para elegir presidentes en doble vuelta; el sistema mayoritario se usa para elegir alcaldes en una sola vuelta.",
+                         "El sistema proporcional obliga a los votantes a justificar su voto por escrito ante un juez; el sistema mayoritario garantiza el secreto absoluto del sufragio universal."
+                     ],
+        "respuesta_correcta":  "El sistema proporcional asigna escaÃ±os segÃºn el porcentaje de votos que obtiene cada lista, favoreciendo el multipartidismo; el sistema mayoritario otorga el escaÃ±o solo al candidato mÃ¡s votado del distrito (the winner takes all), tendiendo al bipartidismo.",
+        "explicacion_detallada":  "Esta es la Ley de Duverger de la ciencia polÃ­tica. El sistema proporcional (con fÃ³rmulas como D\u0027Hondt o Webster) busca que el parlamento sea un espejo fiel de las preferencias sociales (30% de votos = 30% de escaÃ±os aprox.), lo que genera fragmentaciÃ³n y obliga a la negociaciÃ³n (deliberaciÃ³n y alianzas). El sistema mayoritario (First-past-the-post) sacrifica la representatividad exacta en favor de la gobernabilidad y gobiernos de mayorÃ­a clara (el que gana el distrito, por un voto, se lleva todo), lo que empuja a sistemas bipartidistas (Conservadores vs Laboristas, Republicanos vs DemÃ³cratas).",
+        "pasos_resolucion":  [
+                                 "Sistema proporcional = escaÃ±os segÃºn porcentaje de votos (multipartidismo, inclusiÃ³n).",
+                                 "Sistema mayoritario (uninominal) = el ganador se lleva todo (bipartidismo, gobernabilidad).",
+                                 "Identificar la ley de Duverger o la mecÃ¡nica electoral bÃ¡sica."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=sistema+electoral+proporcional+vs+mayoritario+ley+de+duverger"
+    },
+    {
+        "id":  "cs_481_010",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "Un experimento institucional reciente en la democracia deliberativa son los \u0027MinipÃºblicos\u0027 o Asambleas Ciudadanas Sorteadas (ej. la ConvenciÃ³n Ciudadana por el Clima en Francia, 2019). Â¿CuÃ¡l es la principal justificaciÃ³n democrÃ¡tica para utilizar el sorteo cÃ­vico en lugar de elecciones en estos Ã³rganos?",
+        "opciones":  [
+                         "El sorteo, con correcciones demogrÃ¡ficas, garantiza una muestra estadÃ­stica representativa de toda la diversidad de la sociedad civil (gÃ©nero, clase, edad), evitando que el Ã³rgano sea capturado por polÃ­ticos profesionales y grupos de interÃ©s.",
+                         "El sorteo reduce a cero el presupuesto estatal, ya que los ciudadanos sorteados tienen prohibido por ley recibir cualquier tipo de compensaciÃ³n econÃ³mica o asesoramiento tÃ©cnico.",
+                         "El sorteo es el Ãºnico mÃ©todo aceptado por la Iglesia para garantizar que la voluntad divina guÃ­e las decisiones polÃ­ticas de la naciÃ³n moderna.",
+                         "El sorteo permite que las corporaciones privadas compren mÃ¡s fÃ¡cilmente los cupos ganadores, asegurando la eficiencia del mercado en la legislaciÃ³n climÃ¡tica."
+                     ],
+        "respuesta_correcta":  "El sorteo, con correcciones demogrÃ¡ficas, garantiza una muestra estadÃ­stica representativa de toda la diversidad de la sociedad civil (gÃ©nero, clase, edad), evitando que el Ã³rgano sea capturado por polÃ­ticos profesionales y grupos de interÃ©s.",
+        "explicacion_detallada":  "Inspirado en la antigua democracia ateniense (donde la mayorÃ­a de magistraturas eran por sorteo, la stochocracia), el uso moderno del sorteo estratificado para crear \u0027minipÃºblicos\u0027 asegura que el grupo deliberante sea un microcosmos real de la sociedad. Esto resuelve el sesgo elitista de la democracia electoral, donde solo aquellos con dinero, fama o respaldo partidista logran ser representantes. Al estar libres de reelecciÃ³n y presiones partidistas, los ciudadanos sorteados pueden deliberar buscando el bien comÃºn a largo plazo.",
+        "pasos_resolucion":  [
+                                 "Mecanismo: Sorteo cÃ­vico / MinipÃºblicos / Asambleas ciudadanas.",
+                                 "Ventaja: Representatividad descriptiva (microcosmos social) y ausencia de presiones electorales/partidistas.",
+                                 "Descartar opciones que involucren factores religiosos o captura corporativa (precisamente lo que el sorteo busca evitar)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=sorteo+civico+asambleas+ciudadanas+democracia+deliberativa"
+    },
+    {
+        "id":  "cs_481_011",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "John Rawls, otro pilar del pensamiento liberal y deliberativo, propuso el concepto de \u0027razÃ³n pÃºblica\u0027. SegÃºn este concepto, Â¿quÃ© tipo de argumentos deben usar los ciudadanos y funcionarios al debatir sobre cuestiones polÃ­ticas constitucionales fundamentales?",
+        "opciones":  [
+                         "Deben utilizar argumentos e ideas que cualquier ciudadano razonable, independientemente de sus convicciones religiosas o morales particulares, pueda comprender y aceptar como justificables.",
+                         "Deben utilizar exclusivamente argumentos tomados de los textos sagrados de la religiÃ³n mayoritaria del paÃ­s para garantizar la cohesiÃ³n moral de la naciÃ³n.",
+                         "Deben emplear argumentos basados puramente en el interÃ©s econÃ³mico egoÃ­sta de su clase social, ya que la polÃ­tica es un mercado de favores transaccionales.",
+                         "Deben utilizar un lenguaje tÃ©cnico incomprensible para la mayorÃ­a, con el fin de proteger las instituciones democrÃ¡ticas del populismo de las masas ignorantes."
+                     ],
+        "respuesta_correcta":  "Deben utilizar argumentos e ideas que cualquier ciudadano razonable, independientemente de sus convicciones religiosas o morales particulares, pueda comprender y aceptar como justificables.",
+        "explicacion_detallada":  "Para Rawls, en una sociedad pluralista (con mÃºltiples \u0027doctrinas comprehensivas\u0027 religiosas y filosÃ³ficas), no podemos obligar a otros a aceptar leyes basÃ¡ndonos en nuestra religiÃ³n privada. Al entrar a la \u0027esfera pÃºblica\u0027 para debatir derechos fundamentales o justicia bÃ¡sica, debemos traducir nuestros argumentos al lenguaje de la \u0027razÃ³n pÃºblica\u0027: valores polÃ­ticos compartidos (libertad, igualdad, equidad) que sean accesibles y justificables ante conciudadanos libres e iguales.",
+        "pasos_resolucion":  [
+                                 "TeÃ³rico: John Rawls (RazÃ³n pÃºblica).",
+                                 "Concepto: justificaciones polÃ­ticas accesibles a todos, libres de dogmas religiosos o filosÃ³ficos exclusivos.",
+                                 "Descartar argumentos dogmÃ¡tico-religiosos, egoÃ­stas-marxistas extremos o elitistas-tecnocrÃ¡ticos."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=john+rawls+razon+publica+liberalismo+politico"
+    },
+    {
+        "id":  "cs_481_012",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "El referÃ©ndum y el plebiscito son mecanismos clÃ¡sicos, pero a menudo se les critica desde la perspectiva de la democracia deliberativa. Â¿CuÃ¡l es la principal deficiencia deliberativa de estos mecanismos directos de votaciÃ³n (como el Brexit)?",
+        "opciones":  [
+                         "Reducen problemas complejos a una elecciÃ³n binaria (SÃ­/No) sin promover necesariamente un espacio de debate informado, permitiendo que la decisiÃ³n se base en campaÃ±as emocionales, desinformaciÃ³n o afiliaciÃ³n partidista sin reflexiÃ³n profunda.",
+                         "Otorgan demasiado poder a las asambleas locales de debate, impidiendo que el gobierno central ejecute sus planes econÃ³micos de manera acelerada y eficiente.",
+                         "Impiden que los ciudadanos comunes voten, reservando la papeleta de votaciÃ³n exclusivamente a los parlamentarios ya electos.",
+                         "Garantizan un nivel de debate racional tan alto y exhaustivo que la poblaciÃ³n se aburre y abandona el sistema democrÃ¡tico por completo."
+                     ],
+        "respuesta_correcta":  "Reducen problemas complejos a una elecciÃ³n binaria (SÃ­/No) sin promover necesariamente un espacio de debate informado, permitiendo que la decisiÃ³n se base en campaÃ±as emocionales, desinformaciÃ³n o afiliaciÃ³n partidista sin reflexiÃ³n profunda.",
+        "explicacion_detallada":  "Desde la teorÃ­a deliberativa (Fishkin, Habermas), la simple votaciÃ³n directa (democracia plebiscitaria) es peligrosa sin deliberaciÃ³n previa (ej. el Brexit o los plebiscitos colombianos). El votante a menudo no estÃ¡ informado y es presa fÃ¡cil del populismo, las \u0027fake news\u0027 o simplemente vota a favor o en contra del presidente de turno, en lugar de evaluar los mÃ©ritos de la propuesta misma. El voto agrega preferencias crudas, no reflexivas.",
+        "pasos_resolucion":  [
+                                 "Mecanismo: ReferÃ©ndum / Plebiscito.",
+                                 "Deficiencia desde la perspectiva deliberativa: polarizaciÃ³n binaria (SÃ­/No) sin calidad de debate (ausencia de deliberaciÃ³n informada).",
+                                 "Descartar opciones que afirmen que el referÃ©ndum impide votar a los ciudadanos (es exactamente lo contrario)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=criticas+al+referendum+democracia+deliberativa+brexit"
+    },
+    {
+        "id":  "cs_481_013",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "En la historia del pensamiento democrÃ¡tico, Jean-Jacques Rousseau es un duro crÃ­tico del sistema representativo adoptado por Inglaterra. SegÃºn Rousseau en \u0027El Contrato Social\u0027, Â¿por quÃ© el pueblo inglÃ©s cree errÃ³neamente ser libre?",
+        "opciones":  [
+                         "Porque el pueblo inglÃ©s es libre Ãºnicamente durante el momento en que deposita su voto para elegir miembros del Parlamento; tan pronto como son elegidos, el pueblo vuelve a ser esclavo.",
+                         "Porque el Parlamento inglÃ©s estÃ¡ dominado por la CÃ¡mara de los Lores, que representa a la nobleza feudal en lugar del capitalismo emergente burguÃ©s.",
+                         "Porque los ingleses confundieron la libertad econÃ³mica del libre comercio impulsado por Adam Smith con la verdadera libertad espiritual del catolicismo que habÃ­an abandonado.",
+                         "Porque la Carta Magna prohibiÃ³ las asambleas deliberativas locales, reemplazÃ¡ndolas con un sistema de dictadura militar encubierta liderada por Oliver Cromwell."
+                     ],
+        "respuesta_correcta":  "Porque el pueblo inglÃ©s es libre Ãºnicamente durante el momento en que deposita su voto para elegir miembros del Parlamento; tan pronto como son elegidos, el pueblo vuelve a ser esclavo.",
+        "explicacion_detallada":  "Rousseau fue el gran defensor de la democracia directa y rechazÃ³ rotundamente la representaciÃ³n de la soberanÃ­a. En \u0027El Contrato Social\u0027 lanza su famosa crÃ­tica a Inglaterra: \u0027El pueblo inglÃ©s piensa que es libre y se engaÃ±a: lo es solamente durante la elecciÃ³n de los miembros del Parlamento: tan pronto como Ã©stos son elegidos, vuelve a ser esclavo, no es nada\u0027. Para Rousseau, la soberanÃ­a es inalienable y no puede ser representada.",
+        "pasos_resolucion":  [
+                                 "TeÃ³rico: Rousseau (defensor de la democracia directa, no representativa).",
+                                 "Cita/Argumento: La representaciÃ³n enajena la soberanÃ­a. La libertad se limita al acto de votar, luego hay sumisiÃ³n.",
+                                 "Distinguir de crÃ­ticas de corte puramente econÃ³mico o religioso."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=rousseau+critica+democracia+representativa+inglaterra"
+    },
+    {
+        "id":  "cs_481_014",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "La Revocatoria del Mandato es una instituciÃ³n democrÃ¡tica reconocida en la ConstituciÃ³n ecuatoriana. Â¿QuÃ© principio de la democracia representativa tradicional altera profundamente este mecanismo?",
+        "opciones":  [
+                         "Altera el principio del \u0027mandato fijo o temporalidad garantizada\u0027, permitiendo a los electores destituir a su representante antes de que termine el perÃ­odo legal para el que fue elegido si consideran que ha incumplido sus promesas o deberes.",
+                         "Altera el principio de \u0027un ciudadano, un voto\u0027, permitiendo que los votos de los ciudadanos mÃ¡s ricos valgan el doble durante el proceso revocatorio.",
+                         "Altera el principio de \u0027separaciÃ³n de poderes\u0027, ya que permite al Poder Judicial disolver el Parlamento sin consultar al pueblo.",
+                         "Altera el principio de \u0027inmunidad diplomÃ¡tica\u0027, permitiendo que el presidente sea procesado por cortes internacionales mientras ejerce su cargo."
+                     ],
+        "respuesta_correcta":  "Altera el principio del \u0027mandato fijo o temporalidad garantizada\u0027, permitiendo a los electores destituir a su representante antes de que termine el perÃ­odo legal para el que fue elegido si consideran que ha incumplido sus promesas o deberes.",
+        "explicacion_detallada":  "En la representaciÃ³n clÃ¡sica, una vez electo, el representante ejerce un \u0027mandato libre\u0027 por un tiempo fijo e intocable (ej. 4 aÃ±os). El Ãºnico control era no reelegirlo en la siguiente elecciÃ³n (accountability vertical electoral). La revocatoria del mandato (recall) reintroduce un elemento de democracia directa que rompe ese monopolio temporal: el soberano (pueblo) puede recuperar el poder delegado a mitad de camino mediante firmas y un referÃ©ndum destitutorio.",
+        "pasos_resolucion":  [
+                                 "Mecanismo: Revocatoria del mandato (recall).",
+                                 "Efecto polÃ­tico: Termina el mandato antes de tiempo por voluntad popular.",
+                                 "Principio alterado: El perÃ­odo fijo e intocable de representaciÃ³n."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=revocatoria+del+mandato+mecanismos+participacion+ecuador"
+    },
+    {
+        "id":  "cs_481_015",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "El concepto de \u0027Accountability\u0027 (rendiciÃ³n de cuentas) es esencial en la democracia representativa. El politÃ³logo Guillermo O\u0027Donnell diferencia entre accountability vertical y horizontal. Â¿En quÃ© consiste el \u0027Accountability Horizontal\u0027?",
+        "opciones":  [
+                         "Es el control, supervisiÃ³n y sanciÃ³n cruzada que ejercen entre sÃ­ agencias del propio Estado con igual o similar jerarquÃ­a legal (ej. el Congreso fiscalizando al Ejecutivo, la ContralorÃ­a auditando a un Ministerio).",
+                         "Es el control que ejercen los ciudadanos directamente sobre el gobierno a travÃ©s del voto en las elecciones presidenciales periÃ³dicas y el castigo electoral.",
+                         "Es la presiÃ³n que ejercen los sindicatos y movimientos sociales en las calles a travÃ©s de huelgas para paralizar la economÃ­a nacional.",
+                         "Es la revisiÃ³n periÃ³dica que realizan organismos financieros internacionales (como el FMI) sobre el presupuesto del paÃ­s para garantizar el pago de la deuda."
+                     ],
+        "respuesta_correcta":  "Es el control, supervisiÃ³n y sanciÃ³n cruzada que ejercen entre sÃ­ agencias del propio Estado con igual o similar jerarquÃ­a legal (ej. el Congreso fiscalizando al Ejecutivo, la ContralorÃ­a auditando a un Ministerio).",
+        "explicacion_detallada":  "O\u0027Donnell establece: 1) Accountability vertical: de abajo hacia arriba (ciudadanos votando, castigando en las urnas a los polÃ­ticos, o protestando en medios y calles). 2) Accountability horizontal: entre poderes del Estado (checks and balances o frenos y contrapesos constitucionales), cuando agencias estatales legalmente facultadas controlan y sancionan a otras ramas (ej. juicio polÃ­tico del legislativo al presidente, fallos de la Corte Suprema, informes de ContralorÃ­a). O\u0027Donnell seÃ±alÃ³ que en AmÃ©rica Latina existÃ­a una grave debilidad de este control horizontal (democracias delegativas).",
+        "pasos_resolucion":  [
+                                 "TeÃ³rico: Guillermo O\u0027Donnell.",
+                                 "Vertical = Ciudadanos hacia PolÃ­ticos (voto, protestas).",
+                                 "Horizontal = Estado controlando al Estado (Congreso vs. Ejecutivo, ContralorÃ­a)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=guillermo+odonnell+accountability+horizontal+vertical"
+    },
+    {
+        "id":  "cs_481_016",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "En la teorÃ­a de la democracia, Joseph Schumpeter propuso una definiciÃ³n elitista y puramente procedimental que rompiÃ³ con los ideales clÃ¡sicos. Â¿CÃ³mo define Schumpeter a la democracia en su obra \u0027Capitalismo, Socialismo y Democracia\u0027 (1942)?",
+        "opciones":  [
+                         "Como un mÃ©todo institucional para llegar a decisiones polÃ­ticas, en el que los individuos (las Ã©lites) adquieren el poder de decidir mediante una lucha competitiva por los votos del pueblo, similar a empresas compitiendo por consumidores en un mercado.",
+                         "Como el sistema de gobierno que garantiza de manera infalible la realizaciÃ³n del \u0027Bien ComÃºn\u0027 mediante la infalibilidad de la voluntad popular mayoritaria reunida en asamblea.",
+                         "Como un sistema transitorio de dictadura del proletariado que debe culminar en la aboliciÃ³n del Estado, las clases sociales y el dinero.",
+                         "Como una forma de vida basada en la igualdad econÃ³mica absoluta, donde la deliberaciÃ³n filosÃ³fica sustituye por completo a las elecciones competitivas."
+                     ],
+        "respuesta_correcta":  "Como un mÃ©todo institucional para llegar a decisiones polÃ­ticas, en el que los individuos (las Ã©lites) adquieren el poder de decidir mediante una lucha competitiva por los votos del pueblo, similar a empresas compitiendo por consumidores en un mercado.",
+        "explicacion_detallada":  "Schumpeter demoliÃ³ la visiÃ³n clÃ¡sica (Rousseau) y deliberativa. ArgumentÃ³ que el \u0027Bien ComÃºn\u0027 no existe (es subjetivo) y el pueblo es irracional. Propuso una visiÃ³n elitista-competitiva de la democracia: la democracia no es el \u0027gobierno del pueblo\u0027, sino un mÃ©todo donde los polÃ­ticos profesionales (empresarios polÃ­ticos) compiten libremente por el voto (los consumidores). El papel del ciudadano se limita a elegir quiÃ©n lo va a gobernar, y luego retirarse hasta la prÃ³xima elecciÃ³n.",
+        "pasos_resolucion":  [
+                                 "TeÃ³rico: Joseph Schumpeter (elitismo competitivo).",
+                                 "VisiÃ³n de la democracia: puramente procedimental, competencia de Ã©lites (mercado electoral).",
+                                 "Rechazo explÃ­cito a conceptos idealistas como el \u0027Bien ComÃºn\u0027 o la racionalidad del votante (deliberaciÃ³n)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=schumpeter+teoria+elitista+competitiva+de+la+democracia"
+    },
+    {
+        "id":  "cs_481_017",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "La \u0027Democracia Delegativa\u0027 es un concepto acuÃ±ado para describir la realidad de muchos regÃ­menes en AmÃ©rica Latina tras las transiciones democrÃ¡ticas de los aÃ±os 80 y 90. SegÃºn Guillermo O\u0027Donnell, Â¿cuÃ¡l es la caracterÃ­stica principal de un presidente en una democracia delegativa?",
+        "opciones":  [
+                         "Considera que haber ganado las elecciones lo autoriza a gobernar como Ã©l crea conveniente, sin rendir cuentas a las demÃ¡s instituciones del Estado (desprecio por el accountability horizontal) y presentÃ¡ndose como la encarnaciÃ³n de la naciÃ³n.",
+                         "Considera que debe delegar todo el poder ejecutivo en un consejo de ministros tÃ©cnicos y no tomar ninguna decisiÃ³n sin la aprobaciÃ³n previa de las cÃ¡maras legislativas.",
+                         "Considera que la democracia debe limitarse a pequeÃ±os municipios locales, delegando la polÃ­tica exterior y macroeconÃ³mica a organismos supranacionales.",
+                         "Considera que su mandato es nulo hasta que el Tribunal Constitucional no ratifique cada una de sus propuestas de campaÃ±a de manera unÃ¡nime."
+                     ],
+        "respuesta_correcta":  "Considera que haber ganado las elecciones lo autoriza a gobernar como Ã©l crea conveniente, sin rendir cuentas a las demÃ¡s instituciones del Estado (desprecio por el accountability horizontal) y presentÃ¡ndose como la encarnaciÃ³n de la naciÃ³n.",
+        "explicacion_detallada":  "Guillermo O\u0027Donnell definiÃ³ a la Democracia Delegativa (ej. Fujimori, Menem, Collor de Mello) como aquella donde se cumple con la democracia representativa electoral (elecciones libres y limpias), pero el presidente victorioso asume que la elecciÃ³n le otorga un cheque en blanco (una \u0027delegaciÃ³n\u0027 absoluta) para gobernar. Ignora o ataca los controles y equilibrios (cortes, congreso, prensa), percibiendo a las otras instituciones no como controles legÃ­timos, sino como estorbos a la voluntad popular que Ã©l encarna (caudillismo moderno / hiperpresidencialismo).",
+        "pasos_resolucion":  [
+                                 "TeÃ³rico: Guillermo O\u0027Donnell (Democracia Delegativa).",
+                                 "CaracterÃ­stica: Presidente plebiscitario, elegido democrÃ¡ticamente pero que gobierna de forma autoritaria atacando los controles institucionales.",
+                                 "Palabras clave: Desprecio por el accountability horizontal, caudillismo, cheque en blanco."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=democracia+delegativa+guillermo+odonnell+latinoamerica"
+    },
+    {
+        "id":  "cs_481_018",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "Para medir la calidad de la democracia, Robert Dahl propuso el concepto de \u0027PoliarquÃ­a\u0027. Â¿CuÃ¡les son los dos ejes fundamentales que Dahl utiliza para determinar el grado de democratizaciÃ³n (poliarquÃ­a) de un paÃ­s?",
+        "opciones":  [
+                         "El eje del debate pÃºblico (oposiciÃ³n polÃ­tica permitida y competitividad) y el eje del derecho de participaciÃ³n (sufragio inclusivo, quiÃ©nes pueden participar).",
+                         "El eje del crecimiento del PIB per cÃ¡pita (desarrollo econÃ³mico) y el eje de la redistribuciÃ³n de la tierra (equidad social).",
+                         "El eje de la pureza Ã©tnica de la naciÃ³n (identidad cultural) y el eje de la fuerza militar disuasiva frente a amenazas externas (seguridad nacional).",
+                         "El eje de la sumisiÃ³n de la polÃ­tica a la jerarquÃ­a religiosa (estado confesional) y el eje del libre comercio sin aranceles (globalizaciÃ³n)."
+                     ],
+        "respuesta_correcta":  "El eje del debate pÃºblico (oposiciÃ³n polÃ­tica permitida y competitividad) y el eje del derecho de participaciÃ³n (sufragio inclusivo, quiÃ©nes pueden participar).",
+        "explicacion_detallada":  "Robert Dahl, en \u0027La PoliarquÃ­a\u0027 (1971), establece que la democracia ideal es inalcanzable, pero las \u0027poliarquÃ­as\u0027 del mundo real se acercan a ella avanzando en dos dimensiones: 1) LiberalizaciÃ³n/Debate pÃºblico (Libertad para organizarse, expresarse y competir por el poder formando partidos de oposiciÃ³n, sin ser asesinado o censurado). 2) InclusiÃ³n/ParticipaciÃ³n (ProporciÃ³n de la poblaciÃ³n con derecho a votar y participar; por ejemplo, avanzar hacia el sufragio universal femenino y de minorÃ­as).",
+        "pasos_resolucion":  [
+                                 "TeÃ³rico: Robert Dahl (PoliarquÃ­a).",
+                                 "Dos ejes de Dahl: 1) Competencia/OposiciÃ³n libre y 2) ParticipaciÃ³n/InclusiÃ³n del electorado.",
+                                 "Descartar criterios puramente econÃ³micos, militares o Ã©tnicos para definir el rÃ©gimen procedimental poliÃ¡rquico."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=robert+dahl+poliarquia+ejes+democracia"
+    },
+    {
+        "id":  "cs_481_019",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "Dentro del anÃ¡lisis de las deficiencias de la democracia representativa, Â¿quÃ© se conoce en sociologÃ­a polÃ­tica como la \u0027Ley de hierro de la oligarquÃ­a\u0027 formulada por Robert Michels?",
+        "opciones":  [
+                         "La tendencia ineludible de cualquier organizaciÃ³n polÃ­tica (partidos polÃ­ticos, sindicatos), por mÃ¡s democrÃ¡tica y radical que sea en su origen, a desarrollar una Ã©lite burocrÃ¡tica interna que termina monopolizando el poder y alejÃ¡ndose de las bases.",
+                         "La ley constitucional que establece que solo los terratenientes (la oligarquÃ­a terrateniente) pueden ocupar escaÃ±os en la cÃ¡mara alta del parlamento, garantizando el orden conservador.",
+                         "La teorÃ­a que demuestra que las democracias siempre terminan invirtiendo mÃ¡s en armamento bÃ©lico, generando una oligarquÃ­a de hierro militar-industrial.",
+                         "El principio econÃ³mico marxista que establece que el capital financiero terminarÃ¡ siempre concentrado en un oligopolio bancario que controla la emisiÃ³n de moneda sin regulaciÃ³n del Estado."
+                     ],
+        "respuesta_correcta":  "La tendencia ineludible de cualquier organizaciÃ³n polÃ­tica (partidos polÃ­ticos, sindicatos), por mÃ¡s democrÃ¡tica y radical que sea en su origen, a desarrollar una Ã©lite burocrÃ¡tica interna que termina monopolizando el poder y alejÃ¡ndose de las bases.",
+        "explicacion_detallada":  "El sociÃ³logo Robert Michels estudiÃ³ el Partido SocialdemÃ³crata AlemÃ¡n (SPD) a principios del siglo XX. ConcluyÃ³ que, para ser eficaz, toda organizaciÃ³n necesita una estructura tÃ©cnica burocrÃ¡tica y lÃ­deres especializados. Con el tiempo, estos lÃ­deres (la cÃºpula o directiva) adquieren intereses propios (mantener su sueldo y prestigio), monopolizan la informaciÃ³n y la toma de decisiones, marginando a los militantes de base. \u0027Quien dice organizaciÃ³n, dice oligarquÃ­a\u0027. Esto explica gran parte de la crisis de representaciÃ³n actual de los partidos.",
+        "pasos_resolucion":  [
+                                 "TeÃ³rico: Robert Michels.",
+                                 "Concepto: \u0027Ley de hierro de la oligarquÃ­a\u0027.",
+                                 "ExplicaciÃ³n: Toda organizaciÃ³n de masas genera inevitablemente una Ã©lite dirigencial que se distancia de las bases (oligarquizaciÃ³n de los partidos)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=robert+michels+ley+de+hierro+de+la+oligarquia"
+    },
+    {
+        "id":  "cs_481_020",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.8.1",
+        "tituloSubtema":  "Democracia representativa y deliberativa.",
+        "enunciado":  "La implementaciÃ³n de presupuestos participativos (originados en Porto Alegre, Brasil, en 1989 y extendidos por AmÃ©rica Latina) es un ejemplo prÃ¡ctico de democracia deliberativa a nivel local. Â¿En quÃ© consiste esencialmente esta herramienta?",
+        "opciones":  [
+                         "Es un proceso mediante el cual los ciudadanos de un municipio deliberan, debaten y deciden directamente el destino de una parte de los recursos de inversiÃ³n pÃºblica local, priorizando las obras y proyectos de sus barrios.",
+                         "Es una tÃ©cnica de recaudaciÃ³n fiscal donde el municipio obliga a los ciudadanos a participar pagando un impuesto extra para cubrir el dÃ©ficit generado por la corrupciÃ³n local.",
+                         "Es la privatizaciÃ³n del presupuesto estatal, entregando el manejo de los fondos pÃºblicos a asambleas de accionistas de las principales empresas transnacionales que operan en la ciudad.",
+                         "Es un referÃ©ndum anual donde los ciudadanos votan con un \u0027SÃ­\u0027 o \u0027No\u0027 al presupuesto macroeconÃ³mico nacional diseÃ±ado por el Ministerio de Finanzas y el FMI."
+                     ],
+        "respuesta_correcta":  "Es un proceso mediante el cual los ciudadanos de un municipio deliberan, debaten y deciden directamente el destino de una parte de los recursos de inversiÃ³n pÃºblica local, priorizando las obras y proyectos de sus barrios.",
+        "explicacion_detallada":  "El Presupuesto Participativo es el ejemplo mÃ¡s exitoso de innovaciÃ³n democrÃ¡tica deliberativa a nivel local. Los ciudadanos no se limitan a votar por un alcalde, sino que se reÃºnen en asambleas barriales y zonales para discutir sus problemas, negociar con otros barrios y asignar democrÃ¡ticamente un porcentaje del presupuesto municipal a obras concretas (alcantarillado, parques, escuelas). Esto empodera al ciudadano y educa en la \u0027razÃ³n pÃºblica\u0027 al forzar la negociaciÃ³n de recursos escasos.",
+        "pasos_resolucion":  [
+                                 "Mecanismo: Presupuesto Participativo (innovaciÃ³n brasileÃ±a, aplicada en Ecuador).",
+                                 "Naturaleza: CombinaciÃ³n de deliberaciÃ³n comunitaria y toma de decisiÃ³n directa sobre el dinero pÃºblico (inversiÃ³n local).",
+                                 "Descartar opciones que involucren privatizaciÃ³n, impuestos extra o macroeconomÃ­a nacional."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=presupuesto+participativo+porto+alegre+democracia+deliberativa"
+    }
+]

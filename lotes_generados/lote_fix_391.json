@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cn_391_ex_008",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.9.1",
+    "enunciado": "Según la primera ley de Kepler, ¿cuál es la forma de las órbitas que describen los planetas alrededor del Sol y dónde se ubica este último?",
+    "opciones": [
+      "Circulares, con el Sol en el centro exacto.",
+      "Elípticas, con el Sol en uno de sus focos.",
+      "Parabólicas, con el Sol en el vértice.",
+      "Elípticas, con el Sol en el centro geométrico."
+    ],
+    "respuesta_correcta": "Elípticas, con el Sol en uno de sus focos.",
+    "explicacion_detallada": "La primera ley de Kepler, o ley de las órbitas, establece que todos los planetas se mueven en órbitas elípticas, con el Sol situado en uno de los focos de la elipse, no en el centro.",
+    "pasos_resolucion": [
+      "Paso 1: Recordar las tres leyes de Kepler sobre el movimiento planetario.",
+      "Paso 2: Identificar que la primera ley describe la geometría de la órbita (elipse).",
+      "Paso 3: Localizar la posición del Sol según esta ley (en uno de los focos)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_ex_009",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.9.1",
+    "enunciado": "En el ciclo de vida de una estrella de masa muy elevada (mucho mayor que nuestro Sol), ¿cuál es el posible remanente estelar tras la explosión de una supernova?",
+    "opciones": [
+      "Enana blanca o nebulosa planetaria.",
+      "Agujero negro o estrella de neutrones.",
+      "Gigante roja o enana marrón.",
+      "Estrella de secuencia principal."
+    ],
+    "respuesta_correcta": "Agujero negro o estrella de neutrones.",
+    "explicacion_detallada": "Las estrellas masivas terminan su vida en una explosión de supernova. Dependiendo de la masa del núcleo remanente, este colapsará formando una estrella de neutrones o, si la masa es suficientemente grande, un agujero negro.",
+    "pasos_resolucion": [
+      "Paso 1: Analizar la masa de la estrella inicial mencionada (masa muy elevada).",
+      "Paso 2: Recordar las etapas finales del ciclo estelar para estrellas masivas.",
+      "Paso 3: Identificar los remanentes post-supernova: estrella de neutrones o agujero negro."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_ex_010",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.9.1",
+    "enunciado": "¿A qué tipo de galaxia pertenece la Vía Láctea según la clasificación morfológica de Hubble?",
+    "opciones": [
+      "Elíptica",
+      "Irregular",
+      "Lenticular",
+      "Espiral barrada"
+    ],
+    "respuesta_correcta": "Espiral barrada",
+    "explicacion_detallada": "Observaciones astronómicas han confirmado que la Vía Láctea es una galaxia espiral barrada, lo que significa que tiene una estructura central en forma de barra de la cual emergen los brazos espirales.",
+    "pasos_resolucion": [
+      "Paso 1: Recordar la clasificación de las galaxias (espirales, elípticas, irregulares).",
+      "Paso 2: Relacionar la Vía Láctea con su morfología específica conocida en astronomía.",
+      "Paso 3: Seleccionar 'Espiral barrada' como la descripción exacta."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_ex_011",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.9.1",
+    "enunciado": "¿Qué magnitud fundamental representa la unidad astronómica (UA)?",
+    "opciones": [
+      "La distancia promedio entre la Tierra y la Luna.",
+      "La distancia promedio entre la Tierra y el Sol.",
+      "La distancia recorrida por la luz en un año terrestre.",
+      "El diámetro promedio del Sistema Solar."
+    ],
+    "respuesta_correcta": "La distancia promedio entre la Tierra y el Sol.",
+    "explicacion_detallada": "Una unidad astronómica (UA) equivale aproximadamente a 150 millones de kilómetros, que es la distancia media entre la Tierra y el Sol, utilizada frecuentemente para medir distancias dentro del Sistema Solar.",
+    "pasos_resolucion": [
+      "Paso 1: Definir las unidades de medida en astronomía (año luz, parsec, UA).",
+      "Paso 2: Identificar la UA como una unidad de longitud usada a escala planetaria.",
+      "Paso 3: Relacionarla con la distancia Tierra-Sol."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_ex_012",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.9.1",
+    "enunciado": "La radiación de fondo de microondas cósmico es considerada una de las pruebas principales de:",
+    "opciones": [
+      "La teoría del estado estacionario.",
+      "La teoría geocéntrica.",
+      "La teoría del Big Bang.",
+      "La teoría de la relatividad especial."
+    ],
+    "respuesta_correcta": "La teoría del Big Bang.",
+    "explicacion_detallada": "La radiación de fondo de microondas es el eco térmico de la fase temprana y caliente del Universo, predicho por la teoría del Big Bang, y su descubrimiento en 1965 cimentó dicha teoría.",
+    "pasos_resolucion": [
+      "Paso 1: Comprender qué es la radiación de fondo de microondas cósmico.",
+      "Paso 2: Relacionar este fenómeno con las teorías del origen del universo.",
+      "Paso 3: Identificar que es la principal evidencia observacional del Big Bang."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_ex_013",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.9.1",
+    "enunciado": "¿Durante qué fase lunar es posible que se produzca un eclipse solar?",
+    "opciones": [
+      "Luna Llena",
+      "Cuarto Creciente",
+      "Luna Nueva",
+      "Cuarto Menguante"
+    ],
+    "respuesta_correcta": "Luna Nueva",
+    "explicacion_detallada": "Un eclipse solar ocurre cuando la Luna se interpone entre la Tierra y el Sol, proyectando su sombra sobre la Tierra. Esta alineación (Sol-Luna-Tierra) solo ocurre durante la fase de Luna Nueva.",
+    "pasos_resolucion": [
+      "Paso 1: Recordar la alineación necesaria para un eclipse solar (Sol - Luna - Tierra).",
+      "Paso 2: Determinar qué fase lunar corresponde a esa alineación geométrica.",
+      "Paso 3: Concluir que es la Luna Nueva."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_ex_014",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.9.1",
+    "enunciado": "¿Cuál es el orden correcto de los planetas interiores del Sistema Solar, desde el más cercano al más lejano del Sol?",
+    "opciones": [
+      "Venus, Mercurio, Tierra, Marte",
+      "Mercurio, Venus, Tierra, Marte",
+      "Mercurio, Tierra, Venus, Marte",
+      "Marte, Tierra, Venus, Mercurio"
+    ],
+    "respuesta_correcta": "Mercurio, Venus, Tierra, Marte",
+    "explicacion_detallada": "Los cuatro planetas rocosos o interiores del Sistema Solar, ordenados según su proximidad al Sol de menor a mayor distancia, son: Mercurio, Venus, Tierra y Marte.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar cuáles son los planetas interiores.",
+      "Paso 2: Recordar su posición relativa al Sol.",
+      "Paso 3: Ordenar la secuencia: Mercurio (1ro), Venus (2do), Tierra (3ro), Marte (4to)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_ex_015",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.9.1",
+    "enunciado": "A pesar de no ser el planeta más cercano al Sol, ¿por qué Venus registra las temperaturas superficiales más altas del Sistema Solar?",
+    "opciones": [
+      "Debido a su alta velocidad de rotación.",
+      "Porque su núcleo produce una gran cantidad de energía térmica.",
+      "Por un efecto invernadero descontrolado causado por su densa atmósfera rica en CO2.",
+      "Debido a la constante fricción de los meteoritos en su superficie."
+    ],
+    "respuesta_correcta": "Por un efecto invernadero descontrolado causado por su densa atmósfera rica en CO2.",
+    "explicacion_detallada": "Venus posee una atmósfera extremadamente densa compuesta principalmente por dióxido de carbono (CO2), lo que genera un intenso efecto invernadero que atrapa el calor solar, elevando sus temperaturas superficiales por encima de las de Mercurio.",
+    "pasos_resolucion": [
+      "Paso 1: Comparar Venus y Mercurio en términos de temperatura y composición atmosférica.",
+      "Paso 2: Identificar el papel del dióxido de carbono en la retención del calor.",
+      "Paso 3: Seleccionar la opción del efecto invernadero descontrolado."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_ex_016",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.9.1",
+    "enunciado": "La segunda ley de Kepler (ley de las áreas) implica que la velocidad orbital de un planeta:",
+    "opciones": [
+      "Es constante en toda la órbita.",
+      "Es mayor cuando está más lejos del Sol (afelio).",
+      "Es mayor cuando está más cerca del Sol (perihelio).",
+      "Depende únicamente de la masa del planeta."
+    ],
+    "respuesta_correcta": "Es mayor cuando está más cerca del Sol (perihelio).",
+    "explicacion_detallada": "La ley de las áreas establece que la línea que une un planeta con el Sol barre áreas iguales en tiempos iguales. Para que esto se cumpla, el planeta debe moverse más rápido cuando está cerca del Sol (perihelio) y más lento cuando está lejos (afelio).",
+    "pasos_resolucion": [
+      "Paso 1: Recordar el enunciado de la segunda ley de Kepler (áreas iguales en tiempos iguales).",
+      "Paso 2: Relacionar la geometría de la elipse con la longitud del arco recorrido.",
+      "Paso 3: Concluir que a menor distancia (perihelio), se requiere mayor velocidad para barrer la misma área."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_ex_017",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.9.1",
+    "enunciado": "¿Qué es exactamente un 'año luz'?",
+    "opciones": [
+      "El tiempo que tarda la luz del Sol en llegar a la Tierra.",
+      "Una medida de tiempo equivalente a 365 días terrestres.",
+      "La distancia que recorre la luz en el vacío durante un año terrestre.",
+      "La distancia promedio entre el Sol y la estrella más cercana."
+    ],
+    "respuesta_correcta": "La distancia que recorre la luz en el vacío durante un año terrestre.",
+    "explicacion_detallada": "Un año luz es una unidad de distancia (longitud), no de tiempo. Equivale a la distancia que la luz, viajando en el vacío a aproximadamente 300,000 km/s, recorre en el transcurso de un año terrestre (unos 9.46 billones de kilómetros).",
+    "pasos_resolucion": [
+      "Paso 1: Analizar el término 'año luz'.",
+      "Paso 2: Descartar las opciones que lo definen como una medida de tiempo.",
+      "Paso 3: Confirmar que es una medida de distancia relacionada con la velocidad de la luz y un año de duración."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_ex_018",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.9.1",
+    "enunciado": "¿Entre qué planetas del Sistema Solar se encuentra ubicado el principal cinturón de asteroides?",
+    "opciones": [
+      "Entre la Tierra y Marte",
+      "Entre Marte y Júpiter",
+      "Entre Júpiter y Saturno",
+      "Más allá de la órbita de Neptuno"
+    ],
+    "respuesta_correcta": "Entre Marte y Júpiter",
+    "explicacion_detallada": "El cinturón de asteroides es una región del Sistema Solar comprendida entre las órbitas de Marte (el último planeta interior) y Júpiter (el primer planeta exterior), albergando multitud de cuerpos rocosos de diversos tamaños.",
+    "pasos_resolucion": [
+      "Paso 1: Visualizar la estructura del Sistema Solar.",
+      "Paso 2: Separar mentalmente los planetas rocosos de los gaseosos.",
+      "Paso 3: Identificar la región fronteriza entre ambos grupos (Marte y Júpiter) como la ubicación del cinturón de asteroides."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_ex_019",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.9.1",
+    "enunciado": "La temperatura superficial de una estrella está estrechamente relacionada con el color de la luz que emite. Según esto, ¿cuáles son las estrellas más calientes?",
+    "opciones": [
+      "Las de color rojo.",
+      "Las de color amarillo.",
+      "Las de color azul.",
+      "Las de color naranja."
+    ],
+    "respuesta_correcta": "Las de color azul.",
+    "explicacion_detallada": "Según la ley de desplazamiento de Wien, a mayor temperatura, el pico de emisión de radiación se desplaza hacia longitudes de onda más cortas. En el espectro visible, esto corresponde al azul; por lo tanto, las estrellas azules son las más calientes y las rojas las más frías.",
+    "pasos_resolucion": [
+      "Paso 1: Relacionar el color de emisión térmica con la temperatura (Ley de Wien).",
+      "Paso 2: Recordar que en astronomía, el azul indica altísima temperatura y el rojo temperatura baja.",
+      "Paso 3: Seleccionar 'Las de color azul'."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_ex_020",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.9.1",
+    "enunciado": "¿Qué caracteriza principalmente a un agujero negro?",
+    "opciones": [
+      "Es un cuerpo celeste que refleja toda la luz que recibe.",
+      "Su campo gravitatorio es tan fuerte que ni siquiera la luz puede escapar de él.",
+      "Es una estrella en fase de gigante roja con alta emisión de rayos gamma.",
+      "Es un agujero en la capa de ozono de planetas gaseosos."
+    ],
+    "respuesta_correcta": "Su campo gravitatorio es tan fuerte que ni siquiera la luz puede escapar de él.",
+    "explicacion_detallada": "Un agujero negro es una región del espacio-tiempo con una concentración de masa tan elevada que genera una gravedad de la cual ninguna partícula, ni siquiera los fotones de luz, puede escapar una vez cruzado el horizonte de sucesos.",
+    "pasos_resolucion": [
+      "Paso 1: Definir el concepto astronómico de agujero negro.",
+      "Paso 2: Analizar su propiedad fundamental referida a la velocidad de escape.",
+      "Paso 3: Elegir la opción que describe la imposibilidad de la luz de escapar de su atracción gravitatoria."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_ex_021",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.9.1",
+    "enunciado": "¿Qué alineación espacial da lugar a un eclipse lunar?",
+    "opciones": [
+      "Tierra - Luna - Sol",
+      "Sol - Tierra - Luna",
+      "Sol - Marte - Tierra",
+      "Luna - Sol - Tierra"
+    ],
+    "respuesta_correcta": "Sol - Tierra - Luna",
+    "explicacion_detallada": "Un eclipse lunar ocurre cuando la Tierra se interpone entre el Sol y la Luna, bloqueando los rayos solares e impidiendo que lleguen a la Luna. Esto solo puede darse en la fase de Luna Llena.",
+    "pasos_resolucion": [
+      "Paso 1: Recordar el concepto de eclipse lunar (la Luna se oscurece).",
+      "Paso 2: Deducir qué cuerpo debe proyectar su sombra sobre la Luna.",
+      "Paso 3: Identificar que la Tierra debe estar en medio, resultando en la alineación Sol-Tierra-Luna."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_ex_022",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.9.1",
+    "enunciado": "¿Aproximadamente qué edad tiene el Universo desde el evento del Big Bang según las estimaciones cosmológicas más aceptadas?",
+    "opciones": [
+      "4.500 millones de años",
+      "13.800 millones de años",
+      "100.000 millones de años",
+      "6.000 años"
+    ],
+    "respuesta_correcta": "13.800 millones de años",
+    "explicacion_detallada": "A través de las mediciones del fondo cósmico de microondas por misiones como WMAP y Planck, y la tasa de expansión del Universo, los científicos estiman la edad del Universo en unos 13.800 millones de años.",
+    "pasos_resolucion": [
+      "Paso 1: Diferenciar la edad de la Tierra (aprox. 4.500 millones de años) de la edad del Universo.",
+      "Paso 2: Recordar los datos arrojados por observaciones cosmológicas sobre el Big Bang.",
+      "Paso 3: Identificar el valor correcto de 13.8 mil millones de años."
+    ],
+    "video_explicativo_url": ""
+  }
+]

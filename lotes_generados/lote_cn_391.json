@@ -1,0 +1,129 @@
+[
+  {
+    "id": "cn_391_001",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.9.1",
+    "tituloSubtema": "El sistema solar, las estrellas, las galaxias y el Universo",
+    "enunciado": "Según la teoría de la evolución estelar, ¿cuál es el destino final más probable de una estrella con una masa similar a la de nuestro Sol una vez que agote su combustible nuclear?",
+    "opciones": [
+      "Se convertirá en una enana blanca después de pasar por la fase de gigante roja y expulsar sus capas externas como una nebulosa planetaria.",
+      "Explotará como una supernova, dejando tras de sí un agujero negro supermasivo en el centro de su sistema.",
+      "Colapsará inmediatamente en una estrella de neutrones debido a la intensa atracción gravitatoria de su núcleo de hierro.",
+      "Se expandirá indefinidamente hasta convertirse en una nebulosa difusa, perdiendo toda su masa en el espacio interestelar sin dejar remanente."
+    ],
+    "respuesta_correcta": "Se convertirá en una enana blanca después de pasar por la fase de gigante roja y expulsar sus capas externas como una nebulosa planetaria.",
+    "explicacion_detallada": "Las estrellas con masa similar a la del Sol (hasta unas 8 masas solares) no tienen suficiente masa para terminar su vida como supernovas. En su lugar, tras agotar el hidrógeno en su núcleo, se expanden convirtiéndose en gigantes rojas. Posteriormente, expulsan sus capas externas formando una nebulosa planetaria, mientras que el núcleo colapsa para formar una enana blanca, que se enfriará lentamente con el tiempo.",
+    "pasos_resolucion": [
+      "1. Identificar la masa de la estrella en la pregunta (similar a la del Sol).",
+      "2. Recordar el ciclo de vida estelar: las estrellas de masa baja/media se convierten en gigantes rojas, luego nebulosas planetarias y finalmente enanas blancas.",
+      "3. Descartar opciones relacionadas con estrellas masivas (supernovas, agujeros negros, estrellas de neutrones)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_002",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.9.1",
+    "tituloSubtema": "El sistema solar, las estrellas, las galaxias y el Universo",
+    "enunciado": "Edwin Hubble descubrió que la luz proveniente de la mayoría de las galaxias presenta un 'corrimiento hacia el rojo' en su espectro. ¿Qué conclusión fundamental sobre el Universo se derivó directamente de esta observación?",
+    "opciones": [
+      "El Universo se encuentra en un estado de expansión acelerada o constante, lo que significa que las galaxias se alejan unas de otras.",
+      "Todas las galaxias del Universo orbitan alrededor de un agujero negro supermasivo central que distorsiona la luz por efectos gravitacionales.",
+      "El polvo interestelar absorbe las longitudes de onda más cortas (azules), permitiendo que solo las más largas (rojas) lleguen a la Tierra.",
+      "La temperatura promedio del Universo está aumentando constantemente debido a la radiación cósmica de fondo de microondas."
+    ],
+    "respuesta_correcta": "El Universo se encuentra en un estado de expansión acelerada o constante, lo que significa que las galaxias se alejan unas de otras.",
+    "explicacion_detallada": "El corrimiento hacia el rojo (redshift) es una manifestación del efecto Doppler en la luz. Cuando un objeto emisor de luz se aleja del observador, las ondas de luz se 'estiran', desplazándose hacia el extremo rojo del espectro. La observación de Hubble de que casi todas las galaxias presentan este corrimiento indica que se están alejando de nosotros, lo que llevó a la conclusión de que el Universo está en expansión.",
+    "pasos_resolucion": [
+      "1. Comprender el concepto de 'corrimiento hacia el rojo' en el espectro electromagnético.",
+      "2. Relacionar el corrimiento hacia el rojo con el efecto Doppler aplicado a la luz, que indica recesión (alejamiento).",
+      "3. Concluir que si las galaxias se alejan en todas las direcciones, el espacio mismo se está expandiendo."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_003",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.9.1",
+    "tituloSubtema": "El sistema solar, las estrellas, las galaxias y el Universo",
+    "enunciado": "Dentro del Sistema Solar, los planetas se dividen en dos grupos principales: interiores (terrestres) y exteriores (jovianos). ¿Cuál de las siguientes características diferencia correctamente a ambos grupos?",
+    "opciones": [
+      "Los planetas interiores tienen alta densidad, superficies sólidas rocosas y pocos o ningún satélite, mientras que los exteriores son gigantes gaseosos de baja densidad con múltiples lunas y anillos.",
+      "Los planetas interiores tienen atmósferas muy gruesas compuestas principalmente de hidrógeno y helio, mientras que los exteriores carecen de atmósfera debido a las bajas temperaturas.",
+      "Los planetas interiores tienen períodos de rotación muy cortos (días cortos) en comparación con los planetas exteriores, que tardan meses en dar una vuelta sobre su eje.",
+      "Los planetas exteriores están compuestos principalmente de metales pesados y rocas silicatadas, a diferencia de los interiores que son agregados de hielo y polvo cósmico."
+    ],
+    "respuesta_correcta": "Los planetas interiores tienen alta densidad, superficies sólidas rocosas y pocos o ningún satélite, mientras que los exteriores son gigantes gaseosos de baja densidad con múltiples lunas y anillos.",
+    "explicacion_detallada": "Los planetas interiores (Mercurio, Venus, Tierra y Marte) son pequeños, rocosos, densos y tienen pocos o ningún satélite natural (la Tierra tiene uno, Marte dos). Los planetas exteriores (Júpiter, Saturno, Urano y Neptuno) son mucho más grandes, están compuestos principalmente de gases (hidrógeno y helio) y hielos, tienen menor densidad general y poseen sistemas de anillos y múltiples satélites.",
+    "pasos_resolucion": [
+      "1. Recordar la clasificación de los planetas del Sistema Solar.",
+      "2. Identificar las propiedades físicas de los planetas rocosos (interiores): alta densidad, superficie sólida.",
+      "3. Identificar las propiedades de los gigantes gaseosos (exteriores): baja densidad, composición gaseosa/helada, sistemas de anillos y muchas lunas.",
+      "4. Contrastar estas características con las opciones dadas para encontrar la correcta."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_004",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.9.1",
+    "tituloSubtema": "El sistema solar, las estrellas, las galaxias y el Universo",
+    "enunciado": "La Vía Láctea, la galaxia en la que se encuentra nuestro Sistema Solar, se clasifica según su morfología o forma de acuerdo al diapasón de Hubble. ¿A qué tipo de galaxia pertenece?",
+    "opciones": [
+      "Galaxia espiral barrada.",
+      "Galaxia elíptica gigante.",
+      "Galaxia irregular.",
+      "Galaxia lenticular."
+    ],
+    "respuesta_correcta": "Galaxia espiral barrada.",
+    "explicacion_detallada": "Las observaciones astronómicas modernas, particularmente las realizadas por telescopios espaciales como el Spitzer, han confirmado que la Vía Láctea es una galaxia espiral barrada (tipo SBbc o SBc en la secuencia de Hubble). Esto significa que tiene un núcleo central atravesado por una estructura en forma de barra compuesta de estrellas, de cuyos extremos parten sus brazos espirales.",
+    "pasos_resolucion": [
+      "1. Recordar los tipos principales de galaxias: elípticas, espirales, espirales barradas, lenticulares e irregulares.",
+      "2. Identificar la estructura conocida de nuestra propia galaxia.",
+      "3. Seleccionar 'espiral barrada', ya que la Vía Láctea posee brazos espirales y una barra central."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_005",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.9.1",
+    "tituloSubtema": "El sistema solar, las estrellas, las galaxias y el Universo",
+    "enunciado": "De acuerdo con la Primera Ley de Kepler sobre el movimiento planetario, ¿cómo es la forma de la órbita que describen los planetas alrededor del Sol y qué posición ocupa la estrella en ella?",
+    "opciones": [
+      "La órbita es elíptica, con el Sol ocupando uno de los focos de la elipse.",
+      "La órbita es perfectamente circular, con el Sol ubicado exactamente en el centro geométrico.",
+      "La órbita es parabólica, y el Sol se encuentra en el vértice de la parábola.",
+      "La órbita es elíptica, con el Sol situado en el centro exacto de la elipse."
+    ],
+    "respuesta_correcta": "La órbita es elíptica, con el Sol ocupando uno de los focos de la elipse.",
+    "explicacion_detallada": "La Primera Ley de Kepler (Ley de las Órbitas) establece que todos los planetas se mueven en órbitas elípticas, con el Sol situado en uno de los focos de la elipse. Esta fue una ruptura revolucionaria con las teorías anteriores que asumían órbitas perfectamente circulares.",
+    "pasos_resolucion": [
+      "1. Recordar la formulación de la Primera Ley de Kepler.",
+      "2. Identificar la figura geométrica de la órbita (elipse).",
+      "3. Determinar la posición del cuerpo masivo (el Sol) dentro de esa figura geométrica (en un foco, no en el centro)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_391_006",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.9.1",
+    "tituloSubtema": "El sistema solar, las estrellas, las galaxias y el Universo",
+    "enunciado": "La radiación cósmica de fondo de microondas (CMB, por sus siglas en inglés) es una de las evidencias más fuertes a favor de la teoría del Big Bang. ¿Qué representa exactamente esta radiación en el contexto evolutivo del Universo?",
+    "opciones": [
+      "Es el resplandor térmico residual de cuando el Universo primitivo se enfrió lo suficiente como para que se formaran los primeros átomos de hidrógeno, permitiendo que la luz viajara libremente.",
+      "Es la energía liberada por las primeras reacciones de fusión nuclear que ocurrieron simultáneamente en todas las estrellas primigenias de las primeras galaxias.",
+      "Representa la radiación emitida continuamente por la desintegración de materia oscura en los halos galácticos desde los inicios del universo.",
+      "Es el eco sonoro originado en la explosión inicial del Big Bang, el cual fue transformado en microondas por la extrema dilatación del espacio-tiempo."
+    ],
+    "respuesta_correcta": "Es el resplandor térmico residual de cuando el Universo primitivo se enfrió lo suficiente como para que se formaran los primeros átomos de hidrógeno, permitiendo que la luz viajara libremente.",
+    "explicacion_detallada": "La radiación cósmica de fondo es el calor remanente del Big Bang. Aproximadamente 380,000 años después del Big Bang, el Universo se enfrió lo suficiente (a unos 3000 K) para que los electrones y protones se combinaran para formar átomos neutros (recombinación). Antes de esto, el Universo era un plasma opaco; al formarse los átomos, los fotones pudieron viajar libremente, haciendo el Universo transparente. Esta primera luz es lo que hoy detectamos como microondas debido a la expansión del Universo.",
+    "pasos_resolucion": [
+      "1. Entender qué es la Radiación Cósmica de Fondo de Microondas (CMB).",
+      "2. Relacionar la CMB con el evento cosmológico de la 'recombinación' o el momento del 'último esparcimiento'.",
+      "3. Descartar opciones erróneas (formación de estrellas, materia oscura, ecos sonoros)."
+    ],
+    "video_explicativo_url": ""
+  }
+]

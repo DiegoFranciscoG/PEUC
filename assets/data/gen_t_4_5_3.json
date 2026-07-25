@@ -1,0 +1,442 @@
+[
+  {
+    "enunciado": "La 'Querella de las Investiduras' constituyó uno de los conflictos políticos e ideológicos más determinantes de la Plena Edad Media. ¿Cuál fue el núcleo central de esta disputa entre el Papado y el Sacro Imperio Romano Germánico, y cómo se resolvió institucionalmente?",
+    "opciones": [
+      {
+        "texto": "El debate sobre la supremacía del poder espiritual sobre el temporal, materializado en el derecho a nombrar altos cargos eclesiásticos, resuelto parcialmente mediante el Concordato de Worms (1122).",
+        "correcta": true
+      },
+      {
+        "texto": "La disputa teológica sobre la doble naturaleza de Cristo, que enfrentó a los emperadores carolingios con la Iglesia de Roma, concluyendo en el Concilio de Letrán.",
+        "correcta": false
+      },
+      {
+        "texto": "El conflicto por el control de las rutas comerciales mediterráneas entre las repúblicas marineras italianas y el Papado, finalizado con la Paz de Venecia.",
+        "correcta": false
+      },
+      {
+        "texto": "La lucha armada por el cobro del diezmo en los territorios imperiales, que culminó con la excomunión definitiva de la dinastía Hohenstaufen.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "La Revolución Agrícola del siglo XI introdujo innovaciones tecnológicas que transformaron la economía europea. ¿Qué conjunto de innovaciones fue clave para el aumento sostenido de la productividad agraria en el norte y centro de Europa?",
+    "opciones": [
+      {
+        "texto": "El uso del arado de vertedera (carruca), la rotación trienal de cultivos, el uso de la collera rígida y el herraje de los caballos.",
+        "correcta": true
+      },
+      {
+        "texto": "La introducción del cultivo del maíz y la papa, junto con el sistema de terrazas escalonadas y el arado romano ligero.",
+        "correcta": false
+      },
+      {
+        "texto": "La invención de la desmotadora mecánica de algodón, la rotación bienal y el monopolio de las semillas de trigo importadas de Bizancio.",
+        "correcta": false
+      },
+      {
+        "texto": "La domesticación a gran escala del buey para tiro pesado, el uso exclusivo del arado de madera simétrico y el abandono del barbecho.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "Durante la Baja Edad Media, la Crisis del Siglo XIV provocó una profunda reestructuración demográfica y económica en Europa. ¿Cuál de las siguientes afirmaciones describe con precisión una consecuencia estructural de la conjunción de la Peste Negra y las hambrunas?",
+    "opciones": [
+      {
+        "texto": "La escasez de mano de obra provocó un aumento de los salarios reales de los campesinos y la aceleración de la desintegración del sistema de servidumbre en Europa Occidental.",
+        "correcta": true
+      },
+      {
+        "texto": "El exceso de población en zonas rurales llevó a la parcelación extrema de las tierras, fortaleciendo el control absoluto de los señores feudales sobre el campesinado.",
+        "correcta": false
+      },
+      {
+        "texto": "Se produjo un estancamiento total de las innovaciones tecnológicas y un cierre definitivo de las universidades como consecuencia del colapso institucional.",
+        "correcta": false
+      },
+      {
+        "texto": "La nobleza logró consolidar su poder militar sin oposición, aplastando definitivamente a las monarquías e instaurando repúblicas aristocráticas en toda Europa.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "En el contexto de la expansión del Islam durante la Alta Edad Media, la Dinastía Omeya estableció un vasto imperio tras derrotar a las fuerzas de Bizancio y Persia. ¿Qué característica político-administrativa definió la consolidación del poder omeya desde su capital en Damasco?",
+    "opciones": [
+      {
+        "texto": "La progresiva centralización del estado mediante la arabización de la administración, la acuñación de una moneda propia (dinar y dirham) y el desarrollo de un aparato fiscal estructurado.",
+        "correcta": true
+      },
+      {
+        "texto": "La instauración de un sistema de diarquías basado en el gobierno compartido con los emperadores bizantinos y el respeto incondicional de los feudos visigodos.",
+        "correcta": false
+      },
+      {
+        "texto": "La eliminación absoluta de toda burocracia estatal para retornar a las prácticas puramente tribales de los primeros califas ortodoxos.",
+        "correcta": false
+      },
+      {
+        "texto": "La creación de asambleas democráticas regionales donde los pueblos conquistados tenían igual poder de decisión política que la élite árabe.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "El Renacimiento Carolingio, impulsado por Carlomagno y eruditos como Alcuino de York, buscó revitalizar la cultura y la educación. ¿Qué impacto a largo plazo tuvo la estandarización de la escritura en este periodo?",
+    "opciones": [
+      {
+        "texto": "La creación y difusión de la minúscula carolingia permitió una mayor legibilidad, redujo errores de copia y facilitó la preservación y transmisión de los textos clásicos latinos.",
+        "correcta": true
+      },
+      {
+        "texto": "Condujo al abandono total del latín en los documentos oficiales a favor de las nacientes lenguas romances, acelerando la fragmentación lingüística del Imperio.",
+        "correcta": false
+      },
+      {
+        "texto": "Fomentó la traducción inmediata de las obras filosóficas de Aristóteles al alemán antiguo, creando la base de la escolástica germánica.",
+        "correcta": false
+      },
+      {
+        "texto": "Impuso un monopolio laico sobre la producción de libros, desplazando definitivamente a los monasterios como centros de copia de manuscritos.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "Las Cruzadas (siglos XI-XIII) tuvieron complejas motivaciones religiosas, políticas y económicas. Desde una perspectiva económica, ¿qué efecto colateral significativo generó este movimiento expansivo hacia el Mediterráneo oriental?",
+    "opciones": [
+      {
+        "texto": "El estímulo del comercio a larga distancia, beneficiando especialmente a las ciudades-estado italianas como Venecia y Génova al abrir nuevas rutas de importación de productos suntuarios asiáticos.",
+        "correcta": true
+      },
+      {
+        "texto": "La desmonetización de la economía europea debido al drenaje masivo de oro y plata para pagar los rescates exigidos por las autoridades selyúcidas.",
+        "correcta": false
+      },
+      {
+        "texto": "La ruina definitiva de la burguesía comercial de Flandes y el norte de Francia, al desviarse todas las rutas comerciales hacia los Balcanes.",
+        "correcta": false
+      },
+      {
+        "texto": "El colapso del sistema bancario naciente al prohibirse estrictamente el préstamo con interés para financiar expediciones militares hacia Tierra Santa.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "La arquitectura gótica, surgida en el siglo XII en la región de Île-de-France, refleja tanto innovaciones técnicas como nuevas concepciones teológicas de la luz. ¿Cuáles son los elementos arquitectónicos estructurales que definieron este estilo y permitieron la elevación de las catedrales?",
+    "opciones": [
+      {
+        "texto": "El arco apuntado (ojival), la bóveda de crucería y el sistema de arbotantes y contrafuertes que liberaban a los muros de la función de carga.",
+        "correcta": true
+      },
+      {
+        "texto": "El arco de medio punto sostenido por gruesas columnas, la bóveda de cañón continuo y la ausencia de grandes ventanales para mantener el recogimiento interior.",
+        "correcta": false
+      },
+      {
+        "texto": "El uso generalizado de la cúpula sobre pechinas como elemento central, flanqueada por minaretes y construida exclusivamente con ladrillo esmaltado.",
+        "correcta": false
+      },
+      {
+        "texto": "La adopción de columnas corintias con entablamento clásico completo, combinadas con plantas de cruz griega y cubiertas de casetones de madera.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "El feudalismo, como sistema de organización política y social predominante en Europa Occidental durante la Alta y Plena Edad Media, se estructuraba sobre la base de vínculos de dependencia personal. ¿Cuál de las siguientes afirmaciones describe correctamente el funcionamiento del contrato vasallático?",
+    "opciones": [
+      {
+        "texto": "Involucraba un pacto recíproco entre hombres libres de la nobleza mediante el cual el vasallo juraba fidelidad y apoyo militar (auxilium) a cambio de protección y la concesión de un beneficio o feudo.",
+        "correcta": true
+      },
+      {
+        "texto": "Era un contrato de servidumbre agrícola mediante el cual el campesino cedía la propiedad de sus tierras a la Iglesia a cambio de indulgencias plenarias y asilo.",
+        "correcta": false
+      },
+      {
+        "texto": "Consistía en la subordinación absoluta e incondicional de los gremios urbanos a la autoridad monárquica directa, anulando las jurisdicciones señoriales.",
+        "correcta": false
+      },
+      {
+        "texto": "Establecía una relación de esclavitud donde los prisioneros de guerra de las Cruzadas eran repartidos como propiedad mueble entre los caballeros de las órdenes militares.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "En la historia del Imperio Bizantino, el reinado de Justiniano I (527-565) representó un periodo de máximo esplendor. ¿Cuál fue el legado jurídico más trascendental de su mandato, que influyó profundamente en el desarrollo posterior del derecho occidental?",
+    "opciones": [
+      {
+        "texto": "La compilación sistemática del derecho romano en el Corpus Iuris Civilis, que preservó y ordenó la jurisprudencia clásica y las constituciones imperiales.",
+        "correcta": true
+      },
+      {
+        "texto": "La promulgación de la Carta Magna, que limitaba por primera vez el poder absoluto del emperador e introducía la figura del hábeas corpus.",
+        "correcta": false
+      },
+      {
+        "texto": "La elaboración de la Ley Sálica, que regulaba la sucesión al trono exclusivamente por línea paterna y penalizaba las ofensas mediante compensaciones económicas.",
+        "correcta": false
+      },
+      {
+        "texto": "La redacción del edicto de Milán, que oficializó el cristianismo ortodoxo como religión exclusiva del imperio e impuso el derecho canónico sobre las leyes civiles.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "Durante la Plena Edad Media, surgieron las universidades como corporaciones (universitas) de maestros y estudiantes que se independizaron de las escuelas catedralicias. ¿Cuál fue la metodología pedagógica e intelectual dominante en estos centros, enfocada en la conciliación de la fe cristiana con la filosofía clásica?",
+    "opciones": [
+      {
+        "texto": "La escolástica, que utilizaba el método dialéctico basado en la lógica aristotélica, estructurando las disputas a través de tesis, antítesis y síntesis (como en la Suma Teológica de Tomás de Aquino).",
+        "correcta": true
+      },
+      {
+        "texto": "El humanismo renacentista, centrado exclusivamente en la filología empírica, la imitación de la retórica ciceroniana y el rechazo a toda argumentación teológica.",
+        "correcta": false
+      },
+      {
+        "texto": "El empirismo baconiano, que basaba la enseñanza en la observación directa de la naturaleza y la experimentación sistemática rechazada por la Iglesia.",
+        "correcta": false
+      },
+      {
+        "texto": "El neoplatonismo místico, que priorizaba la intuición contemplativa extática y proscribía cualquier intento de racionalización de los dogmas cristianos.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "El resurgimiento urbano y comercial a partir del siglo XI transformó la estructura social feudal con el ascenso de una nueva clase: la burguesía. ¿Qué mecanismo institucional crearon los artesanos y comerciantes urbanos para proteger sus intereses, regular los precios y controlar la calidad y el volumen de producción?",
+    "opciones": [
+      {
+        "texto": "Los gremios o corporaciones de oficios, que establecían monopolios locales y una rígida jerarquía de aprendices, oficiales y maestros.",
+        "correcta": true
+      },
+      {
+        "texto": "Las órdenes militares de caballería, que monopolizaron las industrias metalúrgicas para asegurar el aprovisionamiento de armas durante las cruzadas.",
+        "correcta": false
+      },
+      {
+        "texto": "Las encomiendas reales, que consistían en tribunales eclesiásticos encargados de fijar el 'precio justo' mediante bulas papales inapelables.",
+        "correcta": false
+      },
+      {
+        "texto": "Las ligas de la nobleza baja, que obligaban a los monarcas a eximir de impuestos las manufacturas señoriales y liberalizar totalmente el mercado.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "La Guerra de los Cien Años (1337-1453) fue un conflicto de larga duración entre los reinos de Francia e Inglaterra. Más allá de la disputa por los derechos dinásticos al trono francés, ¿qué otro factor geopolítico y económico de importancia estratégica estuvo en el origen de este conflicto?",
+    "opciones": [
+      {
+        "texto": "El control sobre el rico territorio de Flandes, vital para la economía inglesa por ser el principal centro manufacturero y comprador de su lana.",
+        "correcta": true
+      },
+      {
+        "texto": "La competencia por el monopolio del comercio de especias provenientes de la Ruta de la Seda a través del mar Mediterráneo.",
+        "correcta": false
+      },
+      {
+        "texto": "El intento francés de anexar los territorios escandinavos para frenar las últimas incursiones vikingas en la región de Normandía.",
+        "correcta": false
+      },
+      {
+        "texto": "La disputa religiosa entre la monarquía francesa ortodoxa y los incipientes movimientos reformistas protestantes apoyados por la corona inglesa.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "El Cisma de Occidente (1378-1417) provocó una profunda crisis de legitimidad en la Iglesia Católica, llegando a coexistir dos y hasta tres papas simultáneamente. ¿Cómo se resolvió finalmente este grave conflicto institucional?",
+    "opciones": [
+      {
+        "texto": "A través del Concilio de Constanza (1414-1418), donde se depuso a los papas rivales y se eligió a Martín V como único pontífice legítimo.",
+        "correcta": true
+      },
+      {
+        "texto": "Mediante la intervención militar directa del emperador del Sacro Imperio, quien ocupó Roma y obligó a las facciones cardenalicias a aceptar a un candidato imperial bajo amenaza de asedio.",
+        "correcta": false
+      },
+      {
+        "texto": "Por la mediación pacífica del Imperio Bizantino, que logró la unificación temporal de las Iglesias de Oriente y Occidente en el Concilio de Florencia.",
+        "correcta": false
+      },
+      {
+        "texto": "A través del Tratado de Tordesillas, que dividió las zonas de influencia papal en Europa, asignando Aviñón a Francia y Roma a los reinos italianos.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "Las herejías durante la Plena y Baja Edad Media representaron desafíos significativos a la ortodoxia eclesiástica. El movimiento cátaro o albigense, que se extendió por el sur de Francia, fue particularmente perseguido. ¿Cuál era el fundamento teológico de los cátaros que resultaba tan disruptivo para la Iglesia oficial?",
+    "opciones": [
+      {
+        "texto": "Su visión dualista radical del universo, que oponía un Dios del bien (espíritu) a un Dios del mal (materia), rechazando los sacramentos, la jerarquía eclesiástica y el mundo material.",
+        "correcta": true
+      },
+      {
+        "texto": "Su insistencia en traducir la Biblia exclusivamente al árabe para facilitar la integración con los reinos taifas de la Península Ibérica.",
+        "correcta": false
+      },
+      {
+        "texto": "La adopción de prácticas de usura extrema, argumentando que la acumulación de riqueza material era el único signo visible de la predestinación divina.",
+        "correcta": false
+      },
+      {
+        "texto": "Su reclamo de un poder político absoluto sobre el emperador germánico, argumentando que solo los líderes cátaros poseían el linaje directo del Rey David.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "Durante la Alta Edad Media, tras la caída del Imperio Romano de Occidente, el monacato occidental desempeñó un papel fundamental en la configuración cultural de Europa. ¿Qué regla monástica, establecida en el siglo VI en Montecasino, se convirtió en el modelo dominante gracias a su equilibrio entre oración, estudio y trabajo manual (Ora et labora)?",
+    "opciones": [
+      {
+        "texto": "La Regla de San Benito (benedictina).",
+        "correcta": true
+      },
+      {
+        "texto": "La Regla de San Agustín.",
+        "correcta": false
+      },
+      {
+        "texto": "La Regla de los Hermanos Menores (franciscana).",
+        "correcta": false
+      },
+      {
+        "texto": "La Regla Carmelita.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "La Carta Magna, firmada por el rey Juan Sin Tierra en 1215 en Inglaterra, es considerada un hito en la historia constitucional. Aunque inicialmente fue un documento feudal, ¿cuál fue su principio jurídico subyacente de mayor trascendencia a largo plazo?",
+    "opciones": [
+      {
+        "texto": "El establecimiento de que el poder del monarca no es absoluto y está sujeto a la ley, garantizando derechos como la protección contra arrestos arbitrarios y la necesidad de consentimiento para nuevos impuestos.",
+        "correcta": true
+      },
+      {
+        "texto": "La proclamación del sufragio universal masculino para la elección directa de los miembros de la Cámara de los Comunes en el Parlamento inglés.",
+        "correcta": false
+      },
+      {
+        "texto": "La separación radical entre la Iglesia de Inglaterra y el Papado romano, sentando las bases inmediatas para la Reforma Anglicana.",
+        "correcta": false
+      },
+      {
+        "texto": "La abolición total de la servidumbre y el otorgamiento de títulos nobiliarios a la burguesía comercial londinense de manera automática.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "El final del Imperio Bizantino marcó un punto de inflexión en la historia europea que para muchos historiadores señala el fin de la Edad Media. ¿En qué año y a manos de qué imperio cayó definitivamente la ciudad de Constantinopla, precipitando cambios geopolíticos que impulsarían la era de los descubrimientos?",
+    "opciones": [
+      {
+        "texto": "En 1453, a manos del Imperio Otomano liderado por el sultán Mehmed II.",
+        "correcta": true
+      },
+      {
+        "texto": "En 1204, a manos de los cruzados occidentales durante la Cuarta Cruzada.",
+        "correcta": false
+      },
+      {
+        "texto": "En 1571, por las fuerzas navales combinadas de la Liga Santa tras el sitio del Cuerno de Oro.",
+        "correcta": false
+      },
+      {
+        "texto": "En 1348, debido a un asedio prolongado de las hordas mongolas del Janato de la Horda de Oro.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "A lo largo de los siglos IX y X, Europa Occidental sufrió una serie de agresivas incursiones conocidas como 'Segundas Invasiones', que contribuyeron a consolidar la fragmentación feudal frente a la ineficacia de los reyes carolingios para defender los territorios. ¿Cuáles fueron los tres principales grupos invasores de este período?",
+    "opciones": [
+      {
+        "texto": "Los vikingos (o normandos) desde el norte, los magiares (o húngaros) desde el este, y los sarracenos (musulmanes) desde el sur.",
+        "correcta": true
+      },
+      {
+        "texto": "Los ostrogodos, los vándalos y los hunos.",
+        "correcta": false
+      },
+      {
+        "texto": "Los alanos, los suevos y los búlgaros.",
+        "correcta": false
+      },
+      {
+        "texto": "Los celtas, los pictos y los jutos.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "Las redes comerciales europeas experimentaron un notable desarrollo en la Baja Edad Media. En el norte de Europa, una federación de ciudades comerciales llegó a monopolizar el tráfico en el Mar Báltico y el Mar del Norte. ¿Cómo se denominó esta poderosa alianza comercial y defensiva?",
+    "opciones": [
+      {
+        "texto": "La Liga Hanseática (o Hansa), liderada por ciudades como Lübeck y Hamburgo.",
+        "correcta": true
+      },
+      {
+        "texto": "La Liga de Cambrai, formada inicialmente por los puertos de Flandes y Zelanda.",
+        "correcta": false
+      },
+      {
+        "texto": "La Corona de Aragón, que controlaba los consulados de mar en toda Europa nórdica.",
+        "correcta": false
+      },
+      {
+        "texto": "La Liga Lombarda, que extendió su área de influencia desde el Mediterráneo hasta el Báltico mediante factorías genovesas.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  },
+  {
+    "enunciado": "La sociedad medieval se concebía teóricamente como un cuerpo orgánico dividido en tres órdenes o estamentos inamovibles, cada uno con una función divinamente asignada (la 'sociedad trinitaria'). ¿Cuáles eran estos tres estamentos clásicos según la teoría formulada por eclesiásticos como Adalberón de Laon en el siglo XI?",
+    "opciones": [
+      {
+        "texto": "Los oratores (los que rezan), los bellatores (los que combaten) y los laboratores (los que trabajan).",
+        "correcta": true
+      },
+      {
+        "texto": "Los patricios, los plebeyos y los libertos.",
+        "correcta": false
+      },
+      {
+        "texto": "La alta nobleza, el bajo clero y la incipiente burguesía mercantil.",
+        "correcta": false
+      },
+      {
+        "texto": "Los monarcas absolutos, los caballeros de las órdenes militares y los siervos de la gleba.",
+        "correcta": false
+      }
+    ],
+    "codigo_tema": "4.5.3"
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "id": "cn_377_001",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.7.7",
+    "tituloSubtema": "Ley de Ohm",
+    "enunciado": "Un resistor de 50 ohmios se conecta a una batería de 12 voltios. ¿Cuál es la intensidad de corriente que circula por el circuito?",
+    "opciones": [
+      "0.24 A",
+      "4.16 A",
+      "600 A",
+      "0.12 A"
+    ],
+    "respuesta_correcta": "0.24 A",
+    "explicacion_detallada": "La Ley de Ohm establece que la intensidad de corriente (I) es igual al voltaje (V) dividido por la resistencia (R), es decir, I = V / R. Sustituyendo los valores: I = 12 V / 50 Ω = 0.24 A.",
+    "pasos_resolucion": [
+      "Identificar los datos dados: V = 12 V, R = 50 Ω.",
+      "Recordar la fórmula de la Ley de Ohm: I = V / R.",
+      "Sustituir los valores en la fórmula: I = 12 / 50.",
+      "Realizar la división para obtener I = 0.24 A."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_002",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.7.7",
+    "tituloSubtema": "Circuitos en serie",
+    "enunciado": "Tres resistencias de 10 Ω, 20 Ω y 30 Ω se conectan en serie. ¿Cuál es la resistencia equivalente del circuito?",
+    "opciones": [
+      "60 Ω",
+      "5.45 Ω",
+      "10 Ω",
+      "30 Ω"
+    ],
+    "respuesta_correcta": "60 Ω",
+    "explicacion_detallada": "En un circuito con resistencias conectadas en serie, la resistencia equivalente se calcula sumando directamente los valores de cada una de las resistencias. Por lo tanto, Req = R1 + R2 + R3 = 10 + 20 + 30 = 60 ohmios.",
+    "pasos_resolucion": [
+      "Identificar que el circuito está en serie.",
+      "Aplicar la fórmula para resistencias en serie: Req = R1 + R2 + ... + Rn.",
+      "Sumar los valores: Req = 10 Ω + 20 Ω + 30 Ω.",
+      "Obtener el resultado: Req = 60 Ω."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_003",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.7.7",
+    "tituloSubtema": "Circuitos en paralelo",
+    "enunciado": "Dos resistencias, una de 4 Ω y otra de 12 Ω, se conectan en paralelo. ¿Cuál es la resistencia equivalente de esta combinación?",
+    "opciones": [
+      "3 Ω",
+      "16 Ω",
+      "8 Ω",
+      "4.8 Ω"
+    ],
+    "respuesta_correcta": "3 Ω",
+    "explicacion_detallada": "Para calcular la resistencia equivalente (Req) de dos resistencias en paralelo, se usa la fórmula: 1/Req = 1/R1 + 1/R2. Alternativamente, para dos resistencias: Req = (R1 * R2) / (R1 + R2). Entonces, Req = (4 * 12) / (4 + 12) = 48 / 16 = 3 Ω.",
+    "pasos_resolucion": [
+      "Identificar que las resistencias están en paralelo y sus valores: R1 = 4 Ω, R2 = 12 Ω.",
+      "Usar la fórmula rápida para dos resistencias en paralelo: Req = (R1 * R2) / (R1 + R2).",
+      "Sustituir los valores: Req = (4 * 12) / (4 + 12).",
+      "Resolver: Req = 48 / 16 = 3 Ω."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_004",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.7.7",
+    "tituloSubtema": "Potencia eléctrica",
+    "enunciado": "Una bombilla incandescente tiene una resistencia de 240 ohmios y está conectada a una fuente de 120 voltios. ¿Qué potencia eléctrica consume la bombilla?",
+    "opciones": [
+      "60 W",
+      "120 W",
+      "2 W",
+      "28800 W"
+    ],
+    "respuesta_correcta": "60 W",
+    "explicacion_detallada": "La potencia eléctrica (P) se puede calcular usando la relación P = V² / R. En este caso, el voltaje V es 120 V y la resistencia R es 240 Ω. Por lo tanto, P = (120)² / 240 = 14400 / 240 = 60 vatios (W).",
+    "pasos_resolucion": [
+      "Identificar los datos del problema: V = 120 V, R = 240 Ω.",
+      "Seleccionar la fórmula adecuada para la potencia: P = V² / R.",
+      "Elevar el voltaje al cuadrado: 120² = 14400.",
+      "Dividir el resultado entre la resistencia: 14400 / 240 = 60 W."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_005",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.7.7",
+    "tituloSubtema": "Leyes de Kirchhoff - Corrientes",
+    "enunciado": "En un nodo de un circuito eléctrico concurren tres cables. Por el primero entran 5 A y por el segundo salen 2 A. Según la ley de nodos de Kirchhoff, ¿cuál es la magnitud y dirección de la corriente en el tercer cable?",
+    "opciones": [
+      "Salen 3 A",
+      "Entran 3 A",
+      "Salen 7 A",
+      "Entran 7 A"
+    ],
+    "respuesta_correcta": "Salen 3 A",
+    "explicacion_detallada": "La primera ley de Kirchhoff (ley de nodos) establece que la suma de las corrientes que entran a un nodo es igual a la suma de las corrientes que salen. Si entran 5 A y salen 2 A, faltan 3 A para equilibrar la ecuación, por lo que deben salir 3 A por el tercer cable (Entrantes = Salientes -> 5 A = 2 A + I_3 -> I_3 = 3 A saliendo).",
+    "pasos_resolucion": [
+      "Recordar la ley de nodos de Kirchhoff: Corriente total que entra = Corriente total que sale.",
+      "Identificar la corriente que entra: 5 A.",
+      "Identificar la corriente que sale conocida: 2 A.",
+      "Plantear la ecuación: 5 = 2 + I3 (asumiendo que I3 sale).",
+      "Despejar I3: I3 = 5 - 2 = 3 A (salen)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_377_006",
+    "materia": "Ciencias Naturales",
+    "codigoTema": "3.7.7",
+    "tituloSubtema": "Circuitos mixtos",
+    "enunciado": "En un circuito mixto, una resistencia de 2 Ω está conectada en serie con una combinación en paralelo de dos resistencias de 6 Ω cada una. ¿Cuál es la resistencia total del circuito?",
+    "opciones": [
+      "5 Ω",
+      "14 Ω",
+      "8 Ω",
+      "3.2 Ω"
+    ],
+    "respuesta_correcta": "5 Ω",
+    "explicacion_detallada": "Primero se resuelve la parte en paralelo del circuito. Dos resistencias de 6 Ω en paralelo tienen una resistencia equivalente de Req_p = (6 * 6) / (6 + 6) = 36 / 12 = 3 Ω. Luego, esta resistencia equivalente se suma a la resistencia de 2 Ω que está en serie: Req_total = 3 Ω + 2 Ω = 5 Ω.",
+    "pasos_resolucion": [
+      "Identificar la sección en paralelo: dos resistencias de 6 Ω.",
+      "Calcular la resistencia equivalente de la sección en paralelo: (6 * 6) / (6 + 6) = 3 Ω.",
+      "Identificar que el resultado anterior está en serie con una resistencia de 2 Ω.",
+      "Sumar las resistencias en serie para hallar el total: 3 Ω + 2 Ω = 5 Ω."
+    ],
+    "video_explicativo_url": ""
+  }
+]

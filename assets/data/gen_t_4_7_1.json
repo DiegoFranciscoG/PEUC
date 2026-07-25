@@ -1,0 +1,222 @@
+[
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "Durante la Revolución Francesa, la Constitución Civil del Clero (1790) generó una profunda división en la sociedad. ¿Cuál fue la consecuencia política más significativa de esta medida para la consolidación de la Revolución?",
+    "opcion_a": "Transformó a una gran parte del campesinado y del clero provincial en fuerzas contrarrevolucionarias, alimentando levantamientos como el de La Vendée.",
+    "opcion_b": "Logró la unificación definitiva de la burguesía y la nobleza liberal bajo los ideales republicanos impulsados por los girondinos.",
+    "opcion_c": "Provocó la excomunión inmediata de Luis XVI, lo que aceleró la caída de la monarquía antes del intento de fuga a Varennes.",
+    "opcion_d": "Estableció la secularización total del Estado francés y la separación definitiva entre la Iglesia y el Estado, que perduraría sin cambios hasta el Concordato de 1801.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Alta",
+    "explicacion": "La Constitución Civil del Clero exigió a los sacerdotes jurar lealtad al Estado, lo que muchos (los 'refractarios') se negaron a hacer, provocando que católicos devotos, especialmente en áreas rurales, se volvieran contra la Revolución."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "La historiografía marxista tradicional, encabezada por figuras como Albert Soboul, interpreta la Revolución Francesa principalmente como:",
+    "opcion_a": "Una revolución burguesa que destruyó las estructuras feudales para dar paso al desarrollo del capitalismo.",
+    "opcion_b": "Un conflicto puramente político e ideológico impulsado por las élites intelectuales de la Ilustración sin bases socioeconómicas claras.",
+    "opcion_c": "Una revuelta campesina que fue cooptada accidentalmente por una incipiente clase proletaria urbana en París.",
+    "opcion_d": "El resultado de una crisis financiera estatal que culminó en un colapso institucional fortuito, rechazando la lucha de clases.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Alta",
+    "explicacion": "La interpretación marxista clásica postula que la Revolución fue el triunfo de la burguesía y el capitalismo sobre la aristocracia y el feudalismo."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "El período del Terror (1793-1794) estuvo marcado por el dominio del Comité de Salvación Pública. Desde una perspectiva política e institucional, ¿cuál fue la principal justificación ideológica de Maximilien Robespierre para el uso sistemático del terror?",
+    "opcion_a": "El terror era una emanación de la virtud y la justicia rápida y severa, necesaria para proteger a la República de sus enemigos internos y externos.",
+    "opcion_b": "El terror fue concebido como una medida temporal exclusivamente dirigida a expropiar los bienes de la Iglesia y la nobleza emigrada.",
+    "opcion_c": "Se justificó pragmáticamente como la única forma de mantener el apoyo de la burguesía financiera e industrial frente a las demandas de los sans-culottes.",
+    "opcion_d": "Fue fundamentado en la filosofía de Montesquieu sobre la necesidad de un poder ejecutivo absoluto en tiempos de guerra exterior.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Alta",
+    "explicacion": "Robespierre argumentó en su famoso discurso que 'el terror sin virtud es desastroso, y la virtud sin terror es impotente', viéndolo como una herramienta indispensable de un gobierno revolucionario."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "La reacción termidoriana (1794) supuso un giro en el curso de la Revolución Francesa. ¿Qué característica política principal definió al gobierno del Directorio instituido en 1795?",
+    "opcion_a": "La instauración de una república burguesa conservadora que buscó el equilibrio institucional limitando la participación política de las clases populares.",
+    "opcion_b": "El retorno a un sistema de monarquía constitucional moderada que reinstauró los privilegios fiscales de la nobleza sobreviviente.",
+    "opcion_c": "La implementación de un proto-socialismo de Estado, influenciado por la 'Conspiración de los Iguales' de Babeuf, para redistribuir la tierra.",
+    "opcion_d": "Una alianza incondicional con los jacobinos sobrevivientes para mantener a raya las constantes amenazas de invasión extranjera.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Alta",
+    "explicacion": "El Directorio (1795-1799) representó los intereses de la burguesía propietaria, estableciendo un sufragio censitario (Constitución del Año III) para evitar los radicalismos de la época jacobina y asegurar la estabilidad."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "El 4 de agosto de 1789, la Asamblea Nacional Constituyente decretó la abolición del régimen feudal. Sin embargo, un análisis riguroso de estos decretos revela que:",
+    "opcion_a": "Diferenciaban entre los derechos personales, que fueron abolidos sin compensación, y los derechos sobre la tierra, que debían ser redimidos o comprados por los campesinos.",
+    "opcion_b": "Expropiaron inmediatamente todas las tierras de la nobleza de espada para redistribuirlas de forma gratuita entre los jornaleros agrícolas.",
+    "opcion_c": "Fueron una concesión temporal que la Asamblea planeaba revocar una vez que la Gran Peligro (La Grande Peur) en el campo hubiera sido reprimida militarmente.",
+    "opcion_d": "Transfirieron intactas las obligaciones feudales de los campesinos hacia el Estado revolucionario en forma de nuevos impuestos directos.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Alta",
+    "explicacion": "Aunque se proclamó la abolición del feudalismo, los decretos de agosto exigían que los campesinos indemnizaran a los señores por los derechos reales (ligados a la tierra), una carga que solo se eliminaría radicalmente en 1793 durante la Convención Jacobina."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "La radicalización de la Revolución en 1792 estuvo fuertemente vinculada a las guerras revolucionarias. ¿Cuál fue el impacto político inmediato de las derrotas iniciales frente a las potencias coaligadas y el Manifiesto de Brunswick?",
+    "opcion_a": "Provocaron la insurrección del 10 de agosto de 1792, que culminó con el asalto a las Tullerías y la caída efectiva de la monarquía.",
+    "opcion_b": "Fortalecieron la posición política de los girondinos, quienes lograron negociar una paz separada con Austria para salvar la Constitución de 1791.",
+    "opcion_c": "Generaron un amplio movimiento de reconciliación nacional liderado por La Fayette para reinstaurar el absolutismo de forma temporal.",
+    "opcion_d": "Desencadenaron la inmediata disolución de la Asamblea Legislativa y la toma del poder por un triunvirato militar encabezado por Napoleón Bonaparte.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Media",
+    "explicacion": "El miedo a la invasión y la amenaza del Manifiesto de Brunswick (que prometía destruir París si se dañaba al rey) enfurecieron a las masas parisinas, llevando al asalto de las Tullerías y al derrocamiento de Luis XVI."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "Los 'sans-culottes' jugaron un papel decisivo en las jornadas revolucionarias. ¿Qué principio económico central defendía sistemáticamente este grupo socio-político durante la crisis de subsistencia?",
+    "opcion_a": "La imposición de un 'Máximum general' (control estricto de precios y salarios) y la represión de los acaparadores para asegurar el derecho a la existencia.",
+    "opcion_b": "La total desregulación del comercio de granos, alineándose con las tesis fisiocráticas de dejar hacer a las leyes del mercado.",
+    "opcion_c": "La nacionalización absoluta de todas las tierras agrícolas francesas para establecer granjas colectivas controladas por el Estado central.",
+    "opcion_d": "El proteccionismo comercial extremo, cerrando las fronteras a cualquier importación británica para fomentar la industrialización de París.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Alta",
+    "explicacion": "Los sans-culottes defendían una economía moral donde el derecho a la subsistencia primaba sobre el derecho a la propiedad y el libre mercado, exigiendo la fijación de precios máximos para productos de primera necesidad."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "La obra 'Reflexiones sobre la Revolución Francesa' (1790) de Edmund Burke es fundamental en el pensamiento político occidental porque:",
+    "opcion_a": "Articula la primera gran crítica conservadora moderna a la Revolución, argumentando que la destrucción de instituciones orgánicas basadas en la tradición llevaría al caos y la tiranía.",
+    "opcion_b": "Justifica teóricamente la violencia revolucionaria como un mal necesario para alcanzar el progreso histórico, anticipando el materialismo dialéctico.",
+    "opcion_c": "Constituye el principal tratado de los girondinos para defender la exportación de la Revolución Francesa mediante la guerra en Europa.",
+    "opcion_d": "Propone un modelo republicano federalista para Francia, inspirándose estrictamente en la Constitución de los Estados Unidos.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Alta",
+    "explicacion": "Edmund Burke advirtió tempranamente que el intento abstracto y racionalista de la Revolución por reconstruir la sociedad desde cero ignoraba la sabiduría acumulada en las instituciones tradicionales, pronosticando que derivaría en el terror y la dictadura militar."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "Durante la etapa de la Convención Nacional, el conflicto entre Girondinos y Montañeses (Jacobinos) dominó la escena política. ¿Cuál fue el punto de discordia más significativo que polarizó a ambas facciones antes del juicio al rey?",
+    "opcion_a": "La centralización del poder estatal en París frente al federalismo y el papel de la Comuna de París en la dirección de la Revolución.",
+    "opcion_b": "La necesidad de abolir inmediatamente la esclavitud en todas las colonias caribeñas francesas.",
+    "opcion_c": "El mantenimiento de la religión católica como culto oficial del Estado revolucionario frente a los intentos de descristianización radical.",
+    "opcion_d": "La decisión de adoptar un sistema económico puramente mercantilista frente al libre comercio con las potencias neutrales.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Alta",
+    "explicacion": "Los montañeses, apoyados por los sans-culottes, abogaban por una fuerte centralización desde París para salvar la Revolución, mientras que los girondinos temían la dictadura parisina y defendían una visión más descentralizada (federalismo), lo que generó un conflicto irreconciliable."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "¿Qué impacto tuvo el 'Juramento del Juego de Pelota' (Serment du Jeu de paume) de junio de 1789 en el desarrollo constitucional de Francia?",
+    "opcion_a": "Consolidó el principio de soberanía nacional al comprometer a los diputados del Tercer Estado a no separarse hasta redactar una Constitución, desafiando la autoridad absolutista del monarca.",
+    "opcion_b": "Marcó la sumisión definitiva del Tercer Estado a los dictados de los Estados Generales, aceptando el voto por estamento impuesto por la nobleza.",
+    "opcion_c": "Declaró la abolición inmediata e incondicional de la monarquía francesa, proclamando la Primera República en el mismo acto.",
+    "opcion_d": "Sirvió como el documento fundacional que estructuró formalmente la alianza militar entre Francia y las trece colonias americanas.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Media",
+    "explicacion": "Al jurar no disolverse hasta haber establecido una Constitución, el Tercer Estado, erigido en Asamblea Nacional, transfirió simbólica y políticamente la soberanía del rey a los representantes de la nación."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "La crisis financiera del Estado francés antes de 1789 fue un catalizador fundamental de la Revolución. ¿Por qué fracasaron los intentos de reforma fiscal de ministros como Turgot, Necker, Calonne y Brienne?",
+    "opcion_a": "Por la sistemática oposición institucional de los Parlamentos y las asambleas de notables, que defendían los privilegios fiscales de la nobleza y el clero frente a los impuestos universales.",
+    "opcion_b": "Debido a que el Tercer Estado se negó a pagar los nuevos impuestos indirectos propuestos, paralizando la recaudación fiscal en todo el reino.",
+    "opcion_c": "Porque la Iglesia católica excomulgó a los ministros reformistas, argumentando que cualquier impuesto sobre el diezmo violaba el derecho divino.",
+    "opcion_d": "A causa del colapso del sistema bancario suizo, que retiró unilateralmente los préstamos internacionales que sostenían la corte de Versalles.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Alta",
+    "explicacion": "Los ministros de finanzas de Luis XVI intentaron introducir impuestos territoriales que obligaran a los estamentos privilegiados a tributar. Sin embargo, los Parlamentos (tribunales de justicia dominados por la nobleza) bloquearon sistemáticamente estos edictos para proteger sus prerrogativas."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "En el contexto de las políticas de descristianización impulsadas por los sectores más radicales (hébertistas) durante el año II de la República, se instauró el Calendario Republicano. ¿Cuál era el propósito ideológico subyacente de este nuevo sistema de medición del tiempo?",
+    "opcion_a": "Romper definitivamente con la cosmovisión cristiana y el tiempo religioso, instituyendo un marco temporal racional, laico y basado en los ciclos de la naturaleza y la razón.",
+    "opcion_b": "Alinear el calendario agrícola francés con el calendario británico para facilitar el cálculo de las transacciones comerciales internacionales.",
+    "opcion_c": "Revivir las tradiciones cronológicas del Imperio Romano antiguo, en un intento de emular la grandeza militar de los césares bajo el gobierno republicano.",
+    "opcion_d": "Establecer un sistema criptográfico estatal que dificultara la coordinación de los ejércitos contrarrevolucionarios financiados por potencias extranjeras.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Media",
+    "explicacion": "El calendario republicano eliminó los domingos, las festividades de los santos y la referencia al nacimiento de Cristo (comenzando en el Año I de la República), con el fin de borrar la influencia de la Iglesia Católica y promover una cultura puramente secular y cívica."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "La 'Ley de los Sospechosos' promulgada en septiembre de 1793 fue un instrumento legal clave del Terror. ¿Qué novedad jurídica introdujo que facilitó la represión a gran escala?",
+    "opcion_a": "Definió la categoría de sospechoso de manera tan amplia y vaga (incluyendo a quienes 'por su conducta, relaciones o propósitos' se mostraran partidarios de la tiranía) que permitió el arresto arbitrario sin pruebas concretas de actos treasonables.",
+    "opcion_b": "Estableció el principio del hábeas corpus para todos los ciudadanos detenidos, obligando a los tribunales revolucionarios a presentar pruebas documentales en un plazo de 24 horas.",
+    "opcion_c": "Decretó que únicamente los miembros de la antigua nobleza de espada podían ser juzgados, otorgando inmunidad legal a los miembros de la burguesía comercial.",
+    "opcion_d": "Trasladó la jurisdicción de todos los delitos de traición desde los tribunales especiales en París a asambleas populares a nivel de aldea, descentralizando la justicia.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Alta",
+    "explicacion": "La vaguedad en la definición de quién era enemigo de la libertad en la Ley de los Sospechosos invirtió la carga de la prueba, facilitando el encarcelamiento masivo de nobles, emigrados retornados, acaparadores y opositores políticos moderados."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "El papel de las mujeres en la Revolución Francesa fue notable pero enfrentó marcadas limitaciones estructurales. ¿Cómo respondió el gobierno jacobino a la organización política de las mujeres en sociedades como la Sociedad de Mujeres Republicanas Revolucionarias?",
+    "opcion_a": "Clausuró todos los clubes y sociedades políticas femeninas en otoño de 1793, argumentando que el lugar natural de la mujer era el hogar y no la esfera pública.",
+    "opcion_b": "Otorgó el derecho al sufragio universal femenino en la Constitución de 1793 como recompensa por su participación en la marcha sobre Versalles.",
+    "opcion_c": "Integró formalmente a las líderes de las sociedades de mujeres en el Comité de Seguridad General para dirigir la represión contra los acaparadores.",
+    "opcion_d": "Promulgó leyes de igualdad salarial obligatoria para las mujeres que trabajaban en las manufacturas nacionales de armamento militar.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Alta",
+    "explicacion": "A pesar de la activa participación femenina en las jornadas revolucionarias, los líderes jacobinos (como Amar) consideraban, influenciados por la ideología rousseauniana, que las mujeres carecían de la capacidad moral y física para ejercer derechos políticos, disolviendo sus clubes en octubre de 1793."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "¿Qué figura historiográfica revisionista del siglo XX cuestionó frontalmente el paradigma marxista dominante, argumentando que la Revolución Francesa fue fundamentalmente política e ideológica más que un conflicto de clases socioeconómico?",
+    "opcion_a": "François Furet, quien propuso que la dinámica revolucionaria obedeció a la competencia de discursos políticos y al surgimiento de la sociabilidad democrática.",
+    "opcion_b": "Georges Lefebvre, quien demostró a través de archivos provinciales que la burguesía y la nobleza eran clases irreconciliablemente opuestas antes de 1789.",
+    "opcion_c": "Eric Hobsbawm, quien enfatizó el papel de la acumulación originaria de capital en la crisis final del Antiguo Régimen francés.",
+    "opcion_d": "Jules Michelet, quien interpretó la revolución puramente como la manifestación del espíritu místico del 'Pueblo' francés en busca de libertad.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Alta",
+    "explicacion": "François Furet lideró la escuela revisionista, argumentando en obras como 'Pensar la Revolución Francesa' que la revolución fue impulsada por la política, la ideología y la cultura, negando que fuera una revolución burguesa clásica impulsada por el desarrollo capitalista."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "La abolición de la esclavitud en las colonias francesas (decretada por la Convención en 1794) fue el resultado directo de:",
+    "opcion_a": "La victoriosa insurrección masiva de los esclavos en la colonia de Saint-Domingue (Haití) y la necesidad estratégica de alinear a los rebeldes con la República contra británicos y españoles.",
+    "opcion_b": "Una larga campaña filantrópica puramente pacifista liderada exclusivamente por la Sociedad de Amigos de los Negros en los salones parisinos.",
+    "opcion_c": "El colapso total de la industria azucarera, lo que hizo económicamente insostenible el mantenimiento de las estructuras esclavistas en las Antillas.",
+    "opcion_d": "Un tratado internacional de derechos humanos firmado entre la República Francesa y los emergentes Estados Unidos de América para erradicar la trata atlántica.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Alta",
+    "explicacion": "Si bien existía el pensamiento antiesclavista ilustrado, fue la revuelta de esclavos en Saint-Domingue en 1791 (liderada posteriormente por Toussaint Louverture) la que forzó pragmáticamente a los comisionados republicanos, y luego a la Convención Nacional, a abolir la esclavitud para no perder la colonia."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "La 'Conspiración de los Iguales' liderada por Gracchus Babeuf en 1796 durante el Directorio es considerada por la historiografía política como un hito porque:",
+    "opcion_a": "Formuló la primera teoría política y el intento práctico de instaurar un comunismo igualitario basado en la abolición de la propiedad privada y la colectivización de la tierra.",
+    "opcion_b": "Representó el último gran levantamiento realista coordinado por la nobleza exiliada para restaurar en el trono a Luis XVIII con apoyo del ejército.",
+    "opcion_c": "Logró derrocar pacíficamente al Directorio e instaurar una democracia directa que sirvió de modelo para la posterior Comuna de París de 1871.",
+    "opcion_d": "Fue el movimiento que consolidó la hegemonía de la alta burguesía financiera al eliminar los controles sobre la especulación con los asignados.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Alta",
+    "explicacion": "La conjura de Babeuf es vista como el eslabón histórico entre el jacobinismo radical de la Revolución Francesa y el comunismo y socialismo del siglo XIX, al proponer que la igualdad legal era insuficiente sin la igualdad socioeconómica total."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "El problema de los 'asignados' (assignats) generó una grave crisis económica durante la Revolución. Originalmente emitidos como bonos respaldados por los bienes nacionales confiscados al clero, su evolución derivó en:",
+    "opcion_a": "Una hiperinflación devastadora debido a su emisión excesiva y sin respaldo real, arruinando a asalariados y rentistas mientras beneficiaba a deudores y especuladores.",
+    "opcion_b": "La estabilización definitiva de las finanzas francesas, logrando amortizar por completo la deuda heredada de la monarquía absolutista para 1795.",
+    "opcion_c": "Su aceptación unánime en los mercados internacionales, convirtiendo a Francia en la principal potencia crediticia de Europa durante la década revolucionaria.",
+    "opcion_d": "La rápida transición hacia el uso exclusivo de monedas de oro y plata, ya que la población campesina confiscó los metales preciosos e impidió la circulación de papel.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Media",
+    "explicacion": "Los asignados pasaron de ser bonos del tesoro a papel moneda fiduciario. Su excesiva emisión por parte de los sucesivos gobiernos revolucionarios para financiar las guerras y el estado llevó a una depreciación drástica, causando hiperinflación y hambruna urbana."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "El golpe de Estado del 18 de Brumario del Año VIII (noviembre de 1799) liderado por Napoleón Bonaparte y Emmanuel Joseph Sieyès se justificó políticamente ante las élites bajo el argumento de:",
+    "opcion_a": "Proteger los logros fundamentales de la Revolución y la propiedad burguesa frente a la supuesta doble amenaza de un resurgimiento jacobino y una restauración monárquica.",
+    "opcion_b": "Entregar incondicionalmente el poder al Papa Pío VII para restaurar el catolicismo como religión de Estado y anular la venta de bienes nacionales.",
+    "opcion_c": "Instaurar una dictadura militar con el objetivo explícito y público de conquistar las colonias británicas en América del Norte.",
+    "opcion_d": "Aplicar de manera estricta la Constitución de 1793 y convocar elecciones mediante sufragio universal masculino para consolidar la democracia radical.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Alta",
+    "explicacion": "Sieyès y los conspiradores burgueses buscaron a un general exitoso (Bonaparte) para ejecutar un golpe que pusiera fin a la inestabilidad política del Directorio, asegurando una autoridad ejecutiva fuerte que mantuviera a raya tanto el radicalismo popular (jacobinos) como el reaccionarismo realista."
+  },
+  {
+    "codigo_tema": "4.7.1",
+    "enunciado": "La 'Declaración de los Derechos del Hombre y del Ciudadano' de 1789 refleja fuertemente la influencia del pensamiento ilustrado. Sin embargo, contiene una tensión inherente respecto al concepto de propiedad. ¿Cómo es definida la propiedad en este documento fundamental?",
+    "opcion_a": "Como un derecho natural e imprescriptible, calificado además de inviolable y sagrado, limitando fuertemente la capacidad del Estado para expropiar sin indemnización justa.",
+    "opcion_b": "Como una concesión temporal del Estado soberano que puede ser revocada en cualquier momento en beneficio de la utilidad común o el bienestar social general.",
+    "opcion_c": "Como la raíz de la desigualdad social, estableciendo la obligación constitucional de la nación de redistribuir periódicamente la riqueza para garantizar la igualdad sustancial.",
+    "opcion_d": "Como un derecho exclusivo y restringido únicamente a los ciudadanos activos que poseyeran un nivel de renta determinado, excluyendo legalmente a campesinos y obreros.",
+    "respuesta_correcta": "opcion_a",
+    "dificultad": "Alta",
+    "explicacion": "El Artículo 17 de la Declaración consagra la propiedad como 'un derecho inviolable y sagrado', lo que evidencia la orientación burguesa de la Constituyente: asegurar las libertades políticas y civiles al tiempo que se protegía férreamente la propiedad privada frente a las demandas redistributivas de las clases populares."
+  }
+]

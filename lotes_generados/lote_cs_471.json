@@ -1,0 +1,423 @@
+﻿[
+    {
+        "id":  "cs_471_001",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "En la antigua Grecia (Atenas), la ciudadanÃ­a era un estatus polÃ­tico altamente excluyente. Â¿QuiÃ©nes eran los Ãºnicos considerados ciudadanos con pleno derecho a participar en la Asamblea (EkklesÃ­a)?",
+        "opciones":  [
+                         "Solo los varones libres, nacidos de padre y madre atenienses, mayores de edad que hubieran completado su entrenamiento militar (efebÃ­a).",
+                         "Todos los habitantes de Atenas, incluyendo mujeres y metecos (extranjeros residentes), con excepciÃ³n de los esclavos.",
+                         "Ãšnicamente los aristÃ³cratas terratenientes (eupÃ¡tridas) y los altos mandos militares que hubieran participado en la guerra del Peloponeso.",
+                         "Cualquier persona libre de la HÃ©lade (Grecia continental) que demostrara solvencia econÃ³mica mediante el pago de un tributo especial."
+                     ],
+        "respuesta_correcta":  "Solo los varones libres, nacidos de padre y madre atenienses, mayores de edad que hubieran completado su entrenamiento militar (efebÃ­a).",
+        "explicacion_detallada":  "La democracia directa ateniense (s. V a.C.) era radical para sus ciudadanos, pero muy excluyente. La ciudadanÃ­a (y los derechos polÃ­ticos como participar en la Asamblea o tribunales) estaba restringida a los varones libres nacidos en Atenas de padres atenienses. Estaban excluidos: mujeres, niÃ±os, metecos (extranjeros) y esclavos, quienes conformaban la gran mayorÃ­a de la poblaciÃ³n.",
+        "pasos_resolucion":  [
+                                 "Contexto: Atenas clÃ¡sica.",
+                                 "Identificar la exclusiÃ³n: mujeres, extranjeros (metecos) y esclavos NO eran ciudadanos.",
+                                 "Solo varones libres de linaje ateniense poseÃ­an derechos polÃ­ticos plenos."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=ciudadania+en+atenas+antigua+grecia"
+    },
+    {
+        "id":  "cs_471_002",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "A diferencia del concepto griego, el Imperio Romano utilizÃ³ la concesiÃ³n de la ciudadanÃ­a como una herramienta de expansiÃ³n y pacificaciÃ³n. Â¿QuÃ© logrÃ³ el Edicto de Caracalla (Constitutio Antoniniana) en el aÃ±o 212 d.C. respecto a la ciudadanÃ­a romana?",
+        "opciones":  [
+                         "OtorgÃ³ la ciudadanÃ­a romana a todos los hombres libres habitantes del Imperio, independientemente de su origen Ã©tnico, unificando el estatus legal de sus sÃºbditos.",
+                         "RestringiÃ³ la ciudadanÃ­a exclusivamente a los habitantes nacidos dentro de los muros de la ciudad de Roma, quitando derechos a las provincias conquistadas.",
+                         "AboliÃ³ formalmente la esclavitud en el Imperio Romano, convirtiendo a todos los esclavos en ciudadanos romanos plenos.",
+                         "OtorgÃ³ la ciudadanÃ­a a las mujeres romanas, permitiÃ©ndoles por primera vez votar en las asambleas consulares y postularse al Senado."
+                     ],
+        "respuesta_correcta":  "OtorgÃ³ la ciudadanÃ­a romana a todos los hombres libres habitantes del Imperio, independientemente de su origen Ã©tnico, unificando el estatus legal de sus sÃºbditos.",
+        "explicacion_detallada":  "El emperador Caracalla emitiÃ³ este edicto (212 d.C.) otorgando la ciudadanÃ­a a todos los peregrini (extranjeros libres del imperio). El motivo principal fue fiscal (aumentar la base de contribuyentes para los impuestos de sucesiones y manumisiones, que solo pagaban los ciudadanos) y unificador. No aboliÃ³ la esclavitud ni otorgÃ³ derechos polÃ­ticos a las mujeres.",
+        "pasos_resolucion":  [
+                                 "Identificar el Edicto de Caracalla (212 d.C.).",
+                                 "Impacto principal: expansiÃ³n universal de la ciudadanÃ­a a los hombres libres del Imperio.",
+                                 "Descartar opciones que involucren aboliciÃ³n de esclavitud o derechos polÃ­ticos femeninos (imposible en esa Ã©poca)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=edicto+de+caracalla+ciudadania+romana"
+    },
+    {
+        "id":  "cs_471_003",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "La teorÃ­a generacional de los derechos humanos (clasificaciÃ³n de Karel Vasak) agrupa los derechos segÃºn su momento histÃ³rico de consolidaciÃ³n. Â¿QuÃ© caracteriza principalmente a los Derechos de Primera GeneraciÃ³n?",
+        "opciones":  [
+                         "Son los derechos civiles y polÃ­ticos (libertad de expresiÃ³n, voto, debido proceso, vida) surgidos en los siglos XVIII y XIX, que exigen del Estado principalmente una abstenciÃ³n (no interferencia) para garantizar libertades individuales.",
+                         "Son los derechos econÃ³micos, sociales y culturales (educaciÃ³n, salud, trabajo) consolidados en el siglo XX, que exigen una intervenciÃ³n activa del Estado (Estado de Bienestar).",
+                         "Son los derechos de solidaridad internacional (paz, medio ambiente sano, desarrollo), surgidos a finales del siglo XX ante amenazas globales.",
+                         "Son los derechos digitales surgidos en el siglo XXI, relacionados con la privacidad en internet y la desconexiÃ³n laboral en el teletrabajo."
+                     ],
+        "respuesta_correcta":  "Son los derechos civiles y polÃ­ticos (libertad de expresiÃ³n, voto, debido proceso, vida) surgidos en los siglos XVIII y XIX, que exigen del Estado principalmente una abstenciÃ³n (no interferencia) para garantizar libertades individuales.",
+        "explicacion_detallada":  "La Primera GeneraciÃ³n (RevoluciÃ³n Francesa/Americana, inspirada en Locke y el liberalismo clÃ¡sico) se enfoca en las libertades clÃ¡sicas: vida, libertad, propiedad, voto, expresiÃ³n. Se conocen como \u0027derechos de abstenciÃ³n\u0027 o \u0027libertades negativas\u0027, porque exigen que el Estado no arreste arbitrariamente, no censure, no mate (obligaciones de \u0027no hacer\u0027).",
+        "pasos_resolucion":  [
+                                 "Primera generaciÃ³n = Derechos Civiles y PolÃ­ticos (siglos XVIII-XIX, Revoluciones liberales).",
+                                 "CaracterÃ­stica = Libertades negativas (el Estado debe abstenerse de interferir abusivamente).",
+                                 "Distinguir de la Segunda GeneraciÃ³n (DESC - siglo XX) y Tercera (Solidaridad/Medio ambiente)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=derechos+de+primera+generacion+civiles+y+politicos"
+    },
+    {
+        "id":  "cs_471_004",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "Los Derechos EconÃ³micos, Sociales y Culturales (DESC) forman la \u0027Segunda GeneraciÃ³n\u0027 de derechos humanos. Â¿CuÃ¡l de los siguientes derechos pertenece a esta categorÃ­a, consolidada histÃ³ricamente por el movimiento obrero y el constitucionalismo social (ej. MÃ©xico 1917, Weimar 1919)?",
+        "opciones":  [
+                         "El derecho a la huelga, a la jornada laboral limitada, a la salud pÃºblica y a la educaciÃ³n gratuita, que exigen una intervenciÃ³n activa (obligaciÃ³n de \u0027hacer\u0027) por parte del Estado.",
+                         "El derecho a un medio ambiente libre de contaminaciÃ³n y el derecho a la autodeterminaciÃ³n econÃ³mica de los pueblos indÃ­genas frente al extractivismo transnacional.",
+                         "El derecho fundamental a la vida, a no ser sometido a torturas, y a la presunciÃ³n de inocencia en un juicio penal rÃ¡pido y pÃºblico.",
+                         "El derecho inviolable a la propiedad privada sobre los medios de producciÃ³n y a la libre acumulaciÃ³n de capital sin impuestos progresivos."
+                     ],
+        "respuesta_correcta":  "El derecho a la huelga, a la jornada laboral limitada, a la salud pÃºblica y a la educaciÃ³n gratuita, que exigen una intervenciÃ³n activa (obligaciÃ³n de \u0027hacer\u0027) por parte del Estado.",
+        "explicacion_detallada":  "La Segunda GeneraciÃ³n (DESC) surgiÃ³ en respuesta a la explotaciÃ³n del capitalismo industrial del siglo XIX. Fue impulsada por los movimientos obreros y socialistas. A diferencia de los civiles (abstenciÃ³n estatal), los DESC exigen recursos materiales y acciÃ³n estatal positiva: construir escuelas, hospitales, regular el trabajo. La ConstituciÃ³n de QuerÃ©taro (MÃ©xico, 1917) fue pionera en consagrarlos.",
+        "pasos_resolucion":  [
+                                 "Segunda generaciÃ³n = DESC (Derechos EconÃ³micos, Sociales y Culturales).",
+                                 "Ejemplos clÃ¡sicos: salud, educaciÃ³n, trabajo, huelga, seguridad social.",
+                                 "Requieren acciÃ³n positiva (\u0027obligaciones de hacer\u0027) del Estado (Estado de Bienestar)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=derechos+segunda+generacion+desc"
+    },
+    {
+        "id":  "cs_471_005",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "Los derechos de Tercera GeneraciÃ³n se conocen como \u0027derechos de los pueblos\u0027 o \u0027derechos de solidaridad\u0027, surgidos a finales del siglo XX. Â¿QuÃ© problemÃ¡tica global impulsÃ³ el reconocimiento de esta generaciÃ³n de derechos?",
+        "opciones":  [
+                         "La interdependencia global y los desafÃ­os transnacionales que no pueden ser resueltos por un solo Estado, como la degradaciÃ³n del medio ambiente, la amenaza de destrucciÃ³n nuclear y las brechas extremas de desarrollo entre el Norte y el Sur.",
+                         "La revoluciÃ³n industrial de finales del siglo XVIII y la necesidad de regular masivamente el trabajo infantil en las fÃ¡bricas textiles europeas.",
+                         "El surgimiento de la imprenta y la consiguiente necesidad de proteger el derecho a la libre expresiÃ³n contra la censura de la Iglesia CatÃ³lica y la InquisiciÃ³n.",
+                         "El desarrollo del internet en los aÃ±os 90 y la necesidad inmediata de proteger la privacidad de los datos frente al espionaje de las corporaciones tecnolÃ³gicas (Google, Facebook)."
+                     ],
+        "respuesta_correcta":  "La interdependencia global y los desafÃ­os transnacionales que no pueden ser resueltos por un solo Estado, como la degradaciÃ³n del medio ambiente, la amenaza de destrucciÃ³n nuclear y las brechas extremas de desarrollo entre el Norte y el Sur.",
+        "explicacion_detallada":  "La Tercera GeneraciÃ³n (Derechos de Solidaridad) responde a crisis que trascienden las fronteras nacionales (dÃ©cadas 1970-1980 en adelante): la amenaza de una guerra nuclear (Guerra FrÃ­a), el cambio climÃ¡tico y la destrucciÃ³n ecolÃ³gica, y la exigencia de un \u0027Nuevo Orden EconÃ³mico Internacional\u0027 (derecho al desarrollo de los pueblos del tercer mundo). Exigen cooperaciÃ³n y solidaridad internacional.",
+        "pasos_resolucion":  [
+                                 "Tercera generaciÃ³n = Derechos de Solidaridad o de los Pueblos (fines s. XX).",
+                                 "Temas clave: Paz, Medio Ambiente sano, Desarrollo, Patrimonio de la Humanidad.",
+                                 "Requieren cooperaciÃ³n transnacional, pues escapan a la soberanÃ­a de un solo paÃ­s."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=derechos+tercera+generacion+solidaridad+pueblos"
+    },
+    {
+        "id":  "cs_471_006",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "La DeclaraciÃ³n de los Derechos de la Mujer y de la Ciudadana (1791) fue escrita por Olympe de Gouges como crÃ­tica al universalismo excluyente de la RevoluciÃ³n Francesa. Â¿QuÃ© denunciaba De Gouges en este histÃ³rico documento?",
+        "opciones":  [
+                         "Denunciaba que la \u0027DeclaraciÃ³n de los Derechos del Hombre\u0027 de 1789 habÃ­a excluido a las mujeres de la ciudadanÃ­a polÃ­tica y los derechos civiles, exigiendo que si la mujer tenÃ­a el derecho de subir al cadalso, tambiÃ©n debÃ­a tener el de subir a la tribuna polÃ­tica.",
+                         "Denunciaba que la RevoluciÃ³n Francesa habÃ­a sido demasiado moderada con el Rey Luis XVI, exigiendo la instauraciÃ³n inmediata del Terror jacobino y la guillotina para toda la nobleza.",
+                         "Denunciaba la participaciÃ³n de mujeres campesinas en la marcha sobre Versalles, argumentando que la polÃ­tica debÃ­a quedar exclusivamente en manos de las mujeres burguesas e ilustradas.",
+                         "Denunciaba la intromisiÃ³n de las potencias extranjeras (Austria y Prusia) y exigÃ­a la creaciÃ³n de batallones militares compuestos exclusivamente por mujeres armadas para defender las fronteras. "
+                     ],
+        "respuesta_correcta":  "Denunciaba que la \u0027DeclaraciÃ³n de los Derechos del Hombre\u0027 de 1789 habÃ­a excluido a las mujeres de la ciudadanÃ­a polÃ­tica y los derechos civiles, exigiendo que si la mujer tenÃ­a el derecho de subir al cadalso, tambiÃ©n debÃ­a tener el de subir a la tribuna polÃ­tica.",
+        "explicacion_detallada":  "Olympe de Gouges parafraseÃ³ la DeclaraciÃ³n de 1789 para visibilizar su hipocresÃ­a: la RevoluciÃ³n proclamÃ³ derechos \u0027universales\u0027 pero relegÃ³ a la mujer a la esfera domÃ©stica (como dictaba Rousseau), negÃ¡ndole el voto y el debate pÃºblico. Su famosa frase resumÃ­a que si la mujer es igual para ser castigada (guillotina/cadalso), debe ser igual para legislar (tribuna). Fue guillotinada por los jacobinos en 1793.",
+        "pasos_resolucion":  [
+                                 "Personaje: Olympe de Gouges (1791).",
+                                 "Contexto: RevoluciÃ³n Francesa.",
+                                 "Obra: DeclaraciÃ³n de los Derechos de la Mujer (respuesta feminista a la exclusiÃ³n patriarcal de la DeclaraciÃ³n original de 1789)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=olympe+de+gouges+declaracion+derechos+mujer"
+    },
+    {
+        "id":  "cs_471_007",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "T.H. Marshall (1950) trazÃ³ la evoluciÃ³n histÃ³rica de la ciudadanÃ­a en tres etapas sucesivas. SegÃºn su esquema clÃ¡sico de desarrollo en Inglaterra, Â¿cuÃ¡l fue el orden cronolÃ³gico en la conquista de los componentes de la ciudadanÃ­a?",
+        "opciones":  [
+                         "CiudadanÃ­a civil (siglo XVIII), ciudadanÃ­a polÃ­tica (siglo XIX) y ciudadanÃ­a social (siglo XX).",
+                         "CiudadanÃ­a social (siglo XVIII), ciudadanÃ­a polÃ­tica (siglo XIX) y ciudadanÃ­a civil (siglo XX).",
+                         "CiudadanÃ­a polÃ­tica (siglo XVIII), ciudadanÃ­a social (siglo XIX) y ciudadanÃ­a civil (siglo XX).",
+                         "CiudadanÃ­a universal (siglo XVIII), ciudadanÃ­a nacional (siglo XIX) y ciudadanÃ­a post-nacional (siglo XX)."
+                     ],
+        "respuesta_correcta":  "CiudadanÃ­a civil (siglo XVIII), ciudadanÃ­a polÃ­tica (siglo XIX) y ciudadanÃ­a social (siglo XX).",
+        "explicacion_detallada":  "Marshall postulÃ³ que la ciudadanÃ­a evolucionÃ³ en fases: 1) Siglo XVIII: derechos civiles (libertad individual, propiedad, tribunales). 2) Siglo XIX: derechos polÃ­ticos (voto universal, participaciÃ³n en el parlamento). 3) Siglo XX: derechos sociales (estado de bienestar, educaciÃ³n, salud, seguridad econÃ³mica). Aunque basado en Inglaterra, este esquema es el modelo clÃ¡sico para estudiar la expansiÃ³n de los derechos.",
+        "pasos_resolucion":  [
+                                 "TeÃ³rico: T.H. Marshall.",
+                                 "Orden cronolÃ³gico de conquista de derechos.",
+                                 "1Âº Civiles (s. XVIII) -\u003e 2Âº PolÃ­ticos (s. XIX) -\u003e 3Âº Sociales (s. XX)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=t+h+marshall+ciudadania+evolucion+derechos"
+    },
+    {
+        "id":  "cs_471_008",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "En el Ecuador, la ConstituciÃ³n de 2008 ampliÃ³ radicalmente el concepto clÃ¡sico de ciudadanÃ­a y su relaciÃ³n con la nacionalidad (Art. 9). Â¿CuÃ¡l es la disposiciÃ³n mÃ¡s innovadora respecto a los extranjeros residentes en el paÃ­s?",
+        "opciones":  [
+                         "Las personas extranjeras que se encuentren en el territorio ecuatoriano tendrÃ¡n los mismos derechos y deberes que las ecuatorianas, de acuerdo con la ConstituciÃ³n, incluyendo la posibilidad de votar de forma facultativa si residen legalmente por 5 aÃ±os.",
+                         "Los extranjeros en Ecuador carecen de derechos polÃ­ticos y solo pueden acceder a la salud y educaciÃ³n si pagan impuestos especiales y no participan en sindicatos.",
+                         "Se otorgÃ³ ciudadanÃ­a ecuatoriana automÃ¡tica e irrenunciable a todos los refugiados colombianos y peruanos que crucen la frontera, obligÃ¡ndolos al servicio militar.",
+                         "Los extranjeros tienen prohibido ejercer acciones constitucionales de protecciÃ³n, reservÃ¡ndose la defensa de los derechos fundamentales exclusivamente para ecuatorianos por nacimiento."
+                     ],
+        "respuesta_correcta":  "Las personas extranjeras que se encuentren en el territorio ecuatoriano tendrÃ¡n los mismos derechos y deberes que las ecuatorianas, de acuerdo con la ConstituciÃ³n, incluyendo la posibilidad de votar de forma facultativa si residen legalmente por 5 aÃ±os.",
+        "explicacion_detallada":  "La ConstituciÃ³n de 2008 (influenciada por el concepto de \u0027CiudadanÃ­a Universal\u0027) equipara, como regla general, los derechos de extranjeros y ecuatorianos (Art. 9). Avanza fuertemente en derechos polÃ­ticos al conceder el voto facultativo a extranjeros con residencia legal de mÃ¡s de 5 aÃ±os (Art. 63), un hito de inclusiÃ³n post-nacional casi Ãºnico en la regiÃ³n a nivel constitucional.",
+        "pasos_resolucion":  [
+                                 "ConstituciÃ³n Ecuador 2008 (CiudadanÃ­a universal, Art. 9).",
+                                 "Avance: Equidad de derechos entre nacionales y extranjeros.",
+                                 "Detalle polÃ­tico (Art. 63): Voto facultativo para extranjeros residentes (5 aÃ±os)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=derechos+extranjeros+constitucion+ecuador+2008+voto"
+    },
+    {
+        "id":  "cs_471_009",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "El concepto de \u0027CiudadanÃ­a Universal\u0027, propugnado por la ConstituciÃ³n ecuatoriana de 2008, aborda directamente el fenÃ³meno de la migraciÃ³n global. Â¿QuÃ© principio fundamental establece este concepto frente al derecho internacional migratorio?",
+        "opciones":  [
+                         "Propugna el principio de libre movilidad de todos los habitantes del planeta y el progresivo fin de la condiciÃ³n de extranjero, desconociendo la existencia de \u0027personas ilegales\u0027 por su estatus migratorio.",
+                         "Propone la creaciÃ³n de un pasaporte Ãºnico expedido por la ONU que reemplace obligatoriamente a los pasaportes nacionales de todos los paÃ­ses del mundo.",
+                         "Establece que solo los ciudadanos de paÃ­ses pertenecientes a UNASUR y la CAN pueden transitar libremente, cerrando las fronteras ecuatorianas a migrantes de otros continentes.",
+                         "Exige que los paÃ­ses ricos receptores de migrantes (EE.UU., EspaÃ±a) paguen una renta mensual al Estado ecuatoriano por cada ciudadano ecuatoriano que trabaje allÃ­."
+                     ],
+        "respuesta_correcta":  "Propugna el principio de libre movilidad de todos los habitantes del planeta y el progresivo fin de la condiciÃ³n de extranjero, desconociendo la existencia de \u0027personas ilegales\u0027 por su estatus migratorio.",
+        "explicacion_detallada":  "El Art. 416, numeral 6 de la ConstituciÃ³n establece: \u0027Propugna el principio de ciudadanÃ­a universal, la libre movilidad de todos los habitantes del planeta y el progresivo fin de la condiciÃ³n de extranjero como elemento transformador de las relaciones desiguales entre los paÃ­ses, especialmente Norte-Sur\u0027. NingÃºn ser humano es considerado \u0027ilegal\u0027 en Ecuador por su estatus migratorio, sino en situaciÃ³n \u0027irregular\u0027.",
+        "pasos_resolucion":  [
+                                 "Concepto: CiudadanÃ­a Universal (ConstituciÃ³n 2008).",
+                                 "Implica: Libre movilidad humana y fin de la condiciÃ³n de extranjero.",
+                                 "Rechaza el concepto de \u0027migrante ilegal\u0027 (las personas no son ilegales)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=ciudadania+universal+libre+movilidad+ecuador+constitucion"
+    },
+    {
+        "id":  "cs_471_010",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "La DeclaraciÃ³n Universal de los Derechos Humanos fue aprobada por la Asamblea General de la ONU el 10 de diciembre de 1948. Â¿CuÃ¡l fue el contexto histÃ³rico inmediato que impulsÃ³ a la comunidad internacional a redactar y aprobar este documento?",
+        "opciones":  [
+                         "Las atrocidades y el genocidio sistemÃ¡tico (Holocausto) perpetrados durante la Segunda Guerra Mundial, que demostraron que la soberanÃ­a estatal absoluta no garantizaba la protecciÃ³n de la dignidad humana bÃ¡sica.",
+                         "La necesidad de estandarizar las leyes comerciales y los derechos aduaneros entre Europa y Estados Unidos para facilitar la reconstrucciÃ³n econÃ³mica a travÃ©s del Plan Marshall.",
+                         "El estallido de la RevoluciÃ³n Rusa y el miedo de las potencias capitalistas occidentales a que los derechos sociales inspiraran levantamientos obreros en sus propios paÃ­ses.",
+                         "La caÃ­da del Muro de BerlÃ­n y el colapso de la UniÃ³n SoviÃ©tica, que dejaron a Estados Unidos como Ãºnica superpotencia interesada en exportar su modelo de derechos civiles."
+                     ],
+        "respuesta_correcta":  "Las atrocidades y el genocidio sistemÃ¡tico (Holocausto) perpetrados durante la Segunda Guerra Mundial, que demostraron que la soberanÃ­a estatal absoluta no garantizaba la protecciÃ³n de la dignidad humana bÃ¡sica.",
+        "explicacion_detallada":  "La DUDH de 1948 (redactada bajo la presidencia de Eleanor Roosevelt) fue una reacciÃ³n directa a la barbarie del nazismo y la Segunda Guerra Mundial (donde el Estado alemÃ¡n asesinÃ³ legalmente a millones de personas). RompiÃ³ con el paradigma de Westfalia al establecer que los derechos humanos estÃ¡n por encima de la soberanÃ­a de cualquier Estado, sentando las bases del derecho internacional de los derechos humanos.",
+        "pasos_resolucion":  [
+                                 "Fecha: 10 de diciembre de 1948.",
+                                 "Contexto inmediato: Fin de la Segunda Guerra Mundial (1945) y el Holocausto.",
+                                 "LecciÃ³n histÃ³rica: El Estado soberano (como la Alemania nazi) puede violar derechos humanos masivamente; se necesitaba protecciÃ³n internacional superior."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=declaracion+universal+derechos+humanos+1948+contexto+historico"
+    },
+    {
+        "id":  "cs_471_011",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "En la ConstituciÃ³n del Ecuador de 2008, existe una categorÃ­a innovadora de derechos denominada \u0027Derechos del Buen Vivir\u0027. Â¿CuÃ¡les de los siguientes derechos se agrupan especÃ­ficamente bajo esta categorÃ­a constitucional?",
+        "opciones":  [
+                         "Agua y alimentaciÃ³n, ambiente sano, comunicaciÃ³n e informaciÃ³n, cultura y ciencia, educaciÃ³n, hÃ¡bitat y vivienda, salud, y trabajo y seguridad social.",
+                         "Derecho a la vida inviolable, prohibiciÃ³n de tortura, igualdad ante la ley, libertad de expresiÃ³n y libre asociaciÃ³n polÃ­tica.",
+                         "Derecho exclusivo al voto directo, iniciativa legislativa ciudadana, revocatoria del mandato y postulaciÃ³n a cargos de elecciÃ³n popular.",
+                         "Derecho de las nacionalidades indÃ­genas a administrar justicia, mantener sus lenguas ancestrales y ser consultados sobre proyectos extractivos."
+                     ],
+        "respuesta_correcta":  "Agua y alimentaciÃ³n, ambiente sano, comunicaciÃ³n e informaciÃ³n, cultura y ciencia, educaciÃ³n, hÃ¡bitat y vivienda, salud, y trabajo y seguridad social.",
+        "explicacion_detallada":  "La ConstituciÃ³n de 2008 abandona la tradicional divisiÃ³n por \u0027generaciones\u0027 (civiles vs sociales). Agrupa a los tradicionales DESC (agua, ambiente, educaciÃ³n, salud, trabajo, vivienda, comunicaciÃ³n) bajo el paraguas filosÃ³fico de los \u0027Derechos del Buen Vivir\u0027 (Sumak Kawsay) en el TÃ­tulo II, CapÃ­tulo Segundo (Arts. 12 al 34). Los derechos polÃ­ticos (participaciÃ³n) y los derechos civiles (libertad) tienen capÃ­tulos separados.",
+        "pasos_resolucion":  [
+                                 "ClasificaciÃ³n constitucional de 2008: \u0027Derechos del Buen Vivir\u0027.",
+                                 "Identificar los derechos incluidos: Agua, educaciÃ³n, salud, vivienda, trabajo, ambiente.",
+                                 "Descartar opciones que enumeran Derechos de ParticipaciÃ³n (voto) o de Libertad (vida, no tortura)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=derechos+del+buen+vivir+constitucion+ecuador+2008"
+    },
+    {
+        "id":  "cs_471_012",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "Los derechos humanos poseen varias caracterÃ­sticas fundamentales reconocidas por la doctrina internacional. Si afirmamos que los derechos humanos no pueden ser suspendidos temporalmente ni despojados de su titular por ninguna autoridad (salvo excepciones constitucionales como los Estados de ExcepciÃ³n), Â¿a quÃ© caracterÃ­stica nos referimos?",
+        "opciones":  [
+                         "Irrenunciabilidad e inalienabilidad.",
+                         "Universalidad e interdependencia.",
+                         "Imprescriptibilidad e indivisibilidad.",
+                         "Progresividad y no regresividad."
+                     ],
+        "respuesta_correcta":  "Irrenunciabilidad e inalienabilidad.",
+        "explicacion_detallada":  "Inalienabilidad significa que nadie (ni el Estado ni el mercado) puede despojarte vÃ¡lidamente de tus derechos humanos esenciales. Irrenunciabilidad significa que ni siquiera tÃº mismo puedes renunciar a ellos voluntariamente (no puedes venderte como esclavo o firmar un contrato renunciando a tu derecho a la vida o al salario mÃ­nimo). Otras caracterÃ­sticas son: universales (para todos), indivisibles e interdependientes (todos estÃ¡n conectados).",
+        "pasos_resolucion":  [
+                                 "Atributo: no se pueden perder, quitar ni ceder.",
+                                 "TÃ©rmino jurÃ­dico: inalienables (no se pueden enajenar/quitar) e irrenunciables (no puedes cederlos tÃº mismo).",
+                                 "Diferenciar de la \u0027imprescriptibilidad\u0027 (no caducan por el paso del tiempo)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=caracteristicas+derechos+humanos+inalienables+irrenunciables"
+    },
+    {
+        "id":  "cs_471_013",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "A diferencia de las declaraciones de derechos puramente occidentales (antropocÃ©ntricas), la ConstituciÃ³n del Ecuador de 2008 marcÃ³ un hito jurÃ­dico mundial al reconocer a un nuevo sujeto de derechos. Â¿CuÃ¡l es ese sujeto de derechos (Tercer CapÃ­tulo del TÃ­tulo II) y quÃ© derechos especÃ­ficos se le garantizan?",
+        "opciones":  [
+                         "La Naturaleza o Pachamama; se le reconoce el derecho al respeto integral de su existencia, al mantenimiento y regeneraciÃ³n de sus ciclos vitales, estructura, funciones y procesos evolutivos, asÃ­ como el derecho a la restauraciÃ³n.",
+                         "Las generaciones futuras; garantizÃ¡ndoles el derecho a heredar un patrimonio econÃ³mico estatal libre de deudas externas y la intangibilidad del territorio nacional amazÃ³nico.",
+                         "Los animales no humanos dotados de sintiencia (primates y cetÃ¡ceos); otorgÃ¡ndoles el estatus de personas jurÃ­dicas no humanas con derecho a la vida y prohibiciÃ³n de cautiverio.",
+                         "Las deidades y espÃ­ritus tutelares andinos; garantizÃ¡ndoles el derecho constitucional a recibir ofrendas obligatorias en todas las instituciones pÃºblicas durante los solsticios."
+                     ],
+        "respuesta_correcta":  "La Naturaleza o Pachamama; se le reconoce el derecho al respeto integral de su existencia, al mantenimiento y regeneraciÃ³n de sus ciclos vitales, estructura, funciones y procesos evolutivos, asÃ­ como el derecho a la restauraciÃ³n.",
+        "explicacion_detallada":  "Ecuador fue el primer paÃ­s del mundo en otorgar estatus de sujeto de derechos a la Naturaleza (Pachamama) a nivel constitucional (Art. 71-74). Esto implica un giro biocÃ©ntrico: la naturaleza no es solo un \u0027objeto\u0027 (recurso o medio ambiente) del que los humanos disfrutan (perspectiva antropocÃ©ntrica clÃ¡sica), sino que tiene valor intrÃ­nseco y derechos propios (existir, regenerarse, restaurarse), los cuales cualquier ciudadano puede exigir ante un juez.",
+        "pasos_resolucion":  [
+                                 "Hito mundial de Ecuador (2008): Derechos de la Naturaleza.",
+                                 "Sujeto de derechos: La Naturaleza o Pachamama.",
+                                 "Derechos: existencia, regeneraciÃ³n de ciclos vitales y restauraciÃ³n.",
+                                 "Descartar generaciones futuras o animales sintientes (que, aunque discutidos jurÃ­dicamente, no son el CapÃ­tulo 7 de la ConstituciÃ³n)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=derechos+de+la+naturaleza+constitucion+ecuador+2008"
+    },
+    {
+        "id":  "cs_471_014",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "Todo derecho conlleva responsabilidades o deberes. SegÃºn la ConstituciÃ³n del Ecuador (Art. 83), Â¿cuÃ¡l de los siguientes es considerado un deber y responsabilidad de las ecuatorianas y ecuatorianos?",
+        "opciones":  [
+                         "Ama killa, ama llulla, ama shwa (no ser ocioso, no mentir, no robar).",
+                         "Servir obligatoriamente en las Fuerzas Armadas durante un aÃ±o (conscripciÃ³n).",
+                         "Pertenecer a una religiÃ³n oficialmente reconocida por el Estado laico.",
+                         "Afiliarse a un partido o movimiento polÃ­tico legalmente inscrito en el CNE."
+                     ],
+        "respuesta_correcta":  "Ama killa, ama llulla, ama shwa (no ser ocioso, no mentir, no robar).",
+        "explicacion_detallada":  "El Art. 83 de la ConstituciÃ³n eleva la Ã©tica andina a deber constitucional: \u0027Acatar y cumplir la ConstituciÃ³n, la ley y las decisiones legÃ­timas de autoridad competente; ama killa, ama llulla, ama shwa. No ser ocioso, no mentir, no robar\u0027. El servicio militar obligatorio (conscripciÃ³n) fue eliminado en la ConstituciÃ³n de 2008.",
+        "pasos_resolucion":  [
+                                 "Deberes de los ecuatorianos (Art. 83).",
+                                 "IncorporaciÃ³n de la sabidurÃ­a andina: ama killa, ama llulla, ama shwa.",
+                                 "Descartar conscripciÃ³n (ya no es obligatoria), afiliaciÃ³n polÃ­tica u obligatoriedad religiosa (Estado laico)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=ama+killa+ama+llulla+ama+shwa+constitucion+ecuador"
+    },
+    {
+        "id":  "cs_471_015",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "El principio de \u0027No Regresividad\u0027 es fundamental en la doctrina contemporÃ¡nea de los derechos humanos y estÃ¡ plasmado en la ConstituciÃ³n ecuatoriana. Â¿QuÃ© significa jurÃ­dicamente este principio?",
+        "opciones":  [
+                         "Que el Estado no puede emitir leyes ni polÃ­ticas que disminuyan, menoscaben o anulen el nivel de protecciÃ³n de derechos humanos ya alcanzado por los ciudadanos.",
+                         "Que los derechos de las nuevas generaciones no pueden ser inferiores a los de sus antepasados, obligando a heredar la misma posiciÃ³n social de sus padres.",
+                         "Que en caso de crisis econÃ³mica, el Estado estÃ¡ obligado a recortar derechos sociales empezando por los de creaciÃ³n mÃ¡s reciente, para proteger los mÃ¡s antiguos.",
+                         "Que las personas que han cometido delitos pierden sus derechos de ciudadanÃ­a de manera irreversible y no pueden recuperarlos (no regresan a la vida civil)."
+                     ],
+        "respuesta_correcta":  "Que el Estado no puede emitir leyes ni polÃ­ticas que disminuyan, menoscaben o anulen el nivel de protecciÃ³n de derechos humanos ya alcanzado por los ciudadanos.",
+        "explicacion_detallada":  "El principio de progresividad y no regresividad (Art. 11, num. 8) establece que el Estado desarrollarÃ¡ los derechos progresivamente (avanzando) y prohÃ­be explÃ­citamente adoptar medidas (leyes, polÃ­ticas, sentencias) que retrocedan o reduzcan el alcance, protecciÃ³n o ejercicio de los derechos ya reconocidos. Un derecho ganado no puede ser legalmente arrebatado o disminuido posteriormente.",
+        "pasos_resolucion":  [
+                                 "Principio de No Regresividad.",
+                                 "Significado jurÃ­dico: ProhibiciÃ³n de retroceder (menoscabar o anular) en los niveles de protecciÃ³n de derechos ya alcanzados.",
+                                 "Aplica especialmente para impedir recortes bruscos en derechos sociales sin justificaciÃ³n estricta extrema."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=principio+no+regresividad+progresividad+derechos+humanos"
+    },
+    {
+        "id":  "cs_471_016",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "En el sistema internacional, un individuo cuyos derechos han sido violados por su Estado puede acudir a instancias supranacionales. En AmÃ©rica, Â¿quÃ© Ã³rgano tiene la competencia para dictar sentencias vinculantes (condenas) contra los Estados que violan la ConvenciÃ³n Americana de Derechos Humanos (Pacto de San JosÃ©)?",
+        "opciones":  [
+                         "La Corte Interamericana de Derechos Humanos (Corte IDH), con sede en San JosÃ©, Costa Rica.",
+                         "La ComisiÃ³n Interamericana de Derechos Humanos (CIDH), con sede en Washington D.C., EE.UU.",
+                         "La Corte Penal Internacional (CPI), con sede en La Haya, PaÃ­ses Bajos.",
+                         "El Consejo de Seguridad de la OrganizaciÃ³n de las Naciones Unidas (ONU), con sede en Nueva York."
+                     ],
+        "respuesta_correcta":  "La Corte Interamericana de Derechos Humanos (Corte IDH), con sede en San JosÃ©, Costa Rica.",
+        "explicacion_detallada":  "El Sistema Interamericano (OEA) tiene dos Ã³rganos principales: La CIDH (ComisiÃ³n en Washington), que investiga, recibe denuncias y emite recomendaciones o medidas cautelares; y la Corte IDH (Corte en Costa Rica), que es el tribunal jurisdiccional supremo que emite fallos definitivos, vinculantes y condenas de reparaciÃ³n integral contra los Estados que violan el Pacto de San JosÃ© (ej. caso Sarayaku vs. Ecuador, caso El Universo). La CPI de La Haya juzga individuos (genocidio, crÃ­menes de guerra), no condena a Estados por violaciones generales de DD.HH.",
+        "pasos_resolucion":  [
+                                 "JurisdicciÃ³n en AmÃ©rica: Sistema Interamericano (OEA).",
+                                 "Ã“rgano que dicta SENTENCIAS VINCULANTES contra Estados = Corte IDH (Costa Rica).",
+                                 "Diferenciar de la CIDH (ComisiÃ³n, que investiga pero no dicta sentencias)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=diferencia+cidh+y+corte+idh+sistema+interamericano"
+    },
+    {
+        "id":  "cs_471_017",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "El Habeas Corpus es una de las garantÃ­as jurisdiccionales mÃ¡s antiguas e importantes vinculadas a la ciudadanÃ­a. SegÃºn la ConstituciÃ³n del Ecuador, Â¿cuÃ¡l es el objeto principal de la acciÃ³n de Habeas Corpus?",
+        "opciones":  [
+                         "Recuperar la libertad de quien se encuentre privado de ella de forma ilegal, arbitraria o ilegÃ­tima, por orden de autoridad pÃºblica o de cualquier persona, asÃ­ como proteger la vida y la integridad fÃ­sica del privado de libertad.",
+                         "Garantizar que los ciudadanos puedan acceder a sus datos personales o documentos confidenciales en poder de instituciones pÃºblicas o privadas y exigir su rectificaciÃ³n.",
+                         "Suspender de manera inmediata la ejecuciÃ³n de cualquier obra de infraestructura estatal que amenace con causar daÃ±os ambientales graves e irreversibles a un ecosistema.",
+                         "Exigir el pago inmediato de indemnizaciones laborales o pensiones jubilares atrasadas que el Estado adeude al ciudadano."
+                     ],
+        "respuesta_correcta":  "Recuperar la libertad de quien se encuentre privado de ella de forma ilegal, arbitraria o ilegÃ­tima, por orden de autoridad pÃºblica o de cualquier persona, asÃ­ como proteger la vida y la integridad fÃ­sica del privado de libertad.",
+        "explicacion_detallada":  "El Habeas Corpus (Art. 89) protege exclusivamente la libertad fÃ­sica e integridad de las personas detenidas arbitrariamente. El acceso a datos personales es el Habeas Data (Art. 92); la reparaciÃ³n urgente de otros derechos constitucionales es la AcciÃ³n de ProtecciÃ³n (Art. 88); y el amparo ante daÃ±os al medio ambiente o patrimonio es una medida cautelar o una acciÃ³n de protecciÃ³n enfocada en la naturaleza.",
+        "pasos_resolucion":  [
+                                 "Identificar \u0027Habeas Corpus\u0027 (del latÃ­n: \u0027que tengas tu cuerpo\u0027, referido a la persona fÃ­sica detenida).",
+                                 "Objeto: Libertad frente a detenciones ilegales o arbitrarias, y protecciÃ³n de la integridad del detenido (evitar tortura/desapariciÃ³n).",
+                                 "Diferenciar de Habeas Data (datos personales)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=habeas+corpus+garantias+jurisdiccionales+ecuador"
+    },
+    {
+        "id":  "cs_471_018",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "En la evoluciÃ³n del concepto de ciudadanÃ­a, la teÃ³rica feminista Carole Pateman argumenta en su libro \u0027El Contrato Sexual\u0027 (1988) que la teorÃ­a del contrato social clÃ¡sico (Hobbes, Locke, Rousseau) excluyÃ³ deliberadamente a las mujeres. Â¿CuÃ¡l es su argumento central?",
+        "opciones":  [
+                         "Que el contrato social, que funda la esfera pÃºblica y la ciudadanÃ­a de hombres libres e iguales, se sustenta secretamente en un \u0027contrato sexual\u0027 previo, mediante el cual los hombres acordaron dominar a las mujeres y confinarlas a la esfera privada/domÃ©stica.",
+                         "Que las mujeres de la Ã©poca rechazaron voluntariamente participar en el contrato social porque consideraban que la polÃ­tica era un Ã¡mbito corrupto que amenazaba sus valores cristianos.",
+                         "Que los teÃ³ricos del contrato social simplemente olvidaron mencionar a las mujeres por un error de redacciÃ³n, pero sus sistemas institucionales sÃ­ preveÃ­an el voto femenino igualitario.",
+                         "Que el contrato social solo excluÃ­a a las mujeres pobres, mientras que las mujeres aristÃ³cratas siempre fueron consideradas ciudadanas plenas con derecho a firmar pactos estatales."
+                     ],
+        "respuesta_correcta":  "Que el contrato social, que funda la esfera pÃºblica y la ciudadanÃ­a de hombres libres e iguales, se sustenta secretamente en un \u0027contrato sexual\u0027 previo, mediante el cual los hombres acordaron dominar a las mujeres y confinarlas a la esfera privada/domÃ©stica.",
+        "explicacion_detallada":  "Carole Pateman desmitifica el liberalismo clÃ¡sico. SeÃ±ala que los hermanos/ciudadanos (fraternidad), al derrocar al padre/monarca absolutista y fundar el contrato social, establecieron la igualdad polÃ­tica *entre varones*, pero mantuvieron el dominio patriarcal sobre las mujeres en la esfera privada (el matrimonio, el hogar). Es decir, la ciudadanÃ­a moderna naciÃ³ estructurada sobre la base de la exclusiÃ³n (contrato sexual) de la mitad de la poblaciÃ³n de la esfera pÃºblica.",
+        "pasos_resolucion":  [
+                                 "TeÃ³rica: Carole Pateman (\u0027El Contrato Sexual\u0027).",
+                                 "Argumento: El pacto ciudadano entre hombres libres y racionales de la IlustraciÃ³n se fundÃ³ sobre la subordinaciÃ³n sistemÃ¡tica (contrato sexual) de las mujeres al Ã¡mbito privado.",
+                                 "Excluye la idea de \u0027error involuntario\u0027 o rechazo voluntario femenino."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=carole+pateman+el+contrato+sexual+feminismo"
+    },
+    {
+        "id":  "cs_471_019",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "La DeclaraciÃ³n de Virginia (1776) y la ConstituciÃ³n de los Estados Unidos (1787) fueron hitos pioneros en la consagraciÃ³n de los derechos ciudadanos. Sin embargo, mantuvieron una contradicciÃ³n estructural monumental que perdurÃ³ hasta el siglo XIX. Â¿CuÃ¡l fue esa contradicciÃ³n fundamental?",
+        "opciones":  [
+                         "Proclamaron que \u0027todos los hombres son creados iguales\u0027 y dotados de derechos inalienables a la libertad, pero mantuvieron e institucionalizaron legalmente el sistema de esclavitud de la poblaciÃ³n afrodescendiente.",
+                         "Establecieron la libertad absoluta de culto y religiÃ³n, pero obligaron por ley a todos los ciudadanos a diezmar obligatoriamente a la Iglesia Anglicana britÃ¡nica.",
+                         "Instauraron el sufragio universal masculino para toda la poblaciÃ³n, pero negaron a los ciudadanos el derecho a portar armas, contradiciendo el espÃ­ritu de la revoluciÃ³n.",
+                         "Declararon la absoluta soberanÃ­a popular, pero entregaron el poder ejecutivo de manera vitalicia a un monarca descendiente directo de George Washington."
+                     ],
+        "respuesta_correcta":  "Proclamaron que \u0027todos los hombres son creados iguales\u0027 y dotados de derechos inalienables a la libertad, pero mantuvieron e institucionalizaron legalmente el sistema de esclavitud de la poblaciÃ³n afrodescendiente.",
+        "explicacion_detallada":  "La gran paradoja (y pecado original) de la democracia estadounidense fue que los Padres Fundadores (muchos de ellos propietarios de esclavos, como Jefferson o Washington) redactaron los documentos mÃ¡s sublimes sobre libertad e igualdad de la IlustraciÃ³n, mientras mantenÃ­an un sistema de esclavitud chattel (personas como propiedad mercantil) que no serÃ­a abolido hasta la Guerra Civil y la Decimotercera Enmienda (1865). El concepto \u0027ciudadano\u0027 era blanco y propietario.",
+        "pasos_resolucion":  [
+                                 "Contexto: Independencia y ConstituciÃ³n de EE.UU. (1776-1787).",
+                                 "ContradicciÃ³n fundamental: Proclamar la libertad universal mientras se mantenÃ­a legalmente la esclavitud afrodescendiente.",
+                                 "Descartar opciones sobre monarquÃ­a, diezmos o prohibiciÃ³n de armas (la 2da Enmienda protege portar armas)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=contradicciones+constitucion+estados+unidos+esclavitud"
+    },
+    {
+        "id":  "cs_471_020",
+        "materia":  "Ciencias Sociales",
+        "codigoTema":  "4.7.1",
+        "tituloSubtema":  "Ciudadanía y derechos.",
+        "enunciado":  "El concepto de \u0027CiudadanÃ­a Diferenciada\u0027, teorizado por autoras como Iris Marion Young, responde a los problemas de discriminaciÃ³n estructural que sufren las minorÃ­as en las democracias contemporÃ¡neas. Â¿QuÃ© propone este modelo frente a la idea clÃ¡sica de \u0027ciudadanÃ­a universal ciega a las diferencias\u0027?",
+        "opciones":  [
+                         "Propone que el trato estrictamente idÃ©ntico o \u0027ciego\u0027 a menudo perpetÃºa la opresiÃ³n; por tanto, el Estado debe reconocer las diferencias identitarias (culturales, de gÃ©nero) y otorgar derechos especiales o cuotas a los grupos histÃ³ricamente marginados para lograr una igualdad real sustantiva.",
+                         "Propone que los ciudadanos se agrupen en gremios econÃ³micos separados y paguen impuestos diferentes segÃºn su nivel de ingresos, ignorando los factores culturales o raciales.",
+                         "Argumenta que las diferencias culturales deben ser eliminadas mediante la asimilaciÃ³n forzosa a travÃ©s del sistema educativo para lograr que todos los ciudadanos sean exactamente iguales.",
+                         "Sostiene que solo los ciudadanos nacidos en el territorio nacional tienen plenos derechos, diferenciÃ¡ndolos estrictamente de los inmigrantes naturalizados, a los que se les niega el voto."
+                     ],
+        "respuesta_correcta":  "Propone que el trato estrictamente idÃ©ntico o \u0027ciego\u0027 a menudo perpetÃºa la opresiÃ³n; por tanto, el Estado debe reconocer las diferencias identitarias (culturales, de gÃ©nero) y otorgar derechos especiales o cuotas a los grupos histÃ³ricamente marginados para lograr una igualdad real sustantiva.",
+        "explicacion_detallada":  "Iris Marion Young criticÃ³ la \u0027ciudadanÃ­a universal\u0027 del liberalismo clÃ¡sico (que dicta: tratemos a todos exactamente igual sin ver su raza, gÃ©nero o cultura) argumentando que, en sociedades con asimetrÃ­as histÃ³ricas, aplicar la misma regla a desiguales solo perpetÃºa la desigualdad. Propone polÃ­ticas de reconocimiento, discriminaciÃ³n positiva (cuotas) y derechos colectivos (ciudadanÃ­a diferenciada) para equilibrar la balanza (igualdad material vs. igualdad formal).",
+        "pasos_resolucion":  [
+                                 "TeÃ³rica: Iris Marion Young (CiudadanÃ­a Diferenciada).",
+                                 "Concepto: El trato \u0027ciego\u0027 (igualdad formal) no basta. Se requieren derechos especiales / polÃ­ticas afirmativas para grupos oprimidos para lograr igualdad real (sustantiva).",
+                                 "Descartar la asimilaciÃ³n forzosa (que es lo opuesto a la ciudadanÃ­a diferenciada)."
+                             ],
+        "video_explicativo_url":  "https://www.youtube.com/results?search_query=iris+marion+young+ciudadania+diferenciada+justicia"
+    }
+]

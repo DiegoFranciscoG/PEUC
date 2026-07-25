@@ -1,0 +1,406 @@
+[
+  {
+    "id": "cn_344_ex_001",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "La diferencia de electronegatividad entre el sodio (Na) y el cloro (Cl) es de 2.1. ¿Qué tipo de enlace se forma principalmente en el compuesto NaCl y cuál es su estado físico a temperatura ambiente?",
+    "opciones": [
+      "Enlace iónico, estado sólido",
+      "Enlace covalente polar, estado líquido",
+      "Enlace covalente apolar, estado gaseoso",
+      "Enlace metálico, estado sólido"
+    ],
+    "respuesta_correcta": "Enlace iónico, estado sólido",
+    "explicacion_detallada": "Cuando la diferencia de electronegatividad (ΔEN) es mayor a 1.7, el enlace se considera iónico. Los compuestos iónicos forman redes cristalinas que son sólidas a temperatura ambiente.",
+    "pasos_resolucion": [
+      "Paso 1: Analizar la diferencia de electronegatividad (2.1 > 1.7).",
+      "Paso 2: Concluir que el enlace es predominantemente iónico.",
+      "Paso 3: Recordar las propiedades físicas de compuestos iónicos, como formar sólidos cristalinos a temperatura ambiente."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_002",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "Considerando la teoría de Repulsión de Pares de Electrones de Valencia (TREPEV), ¿cuál es la geometría molecular de la molécula de agua (H2O)?",
+    "opciones": [
+      "Angular",
+      "Lineal",
+      "Tetraédrica",
+      "Trigonal plana"
+    ],
+    "respuesta_correcta": "Angular",
+    "explicacion_detallada": "El oxígeno en el agua tiene 4 dominios de electrones (2 pares enlazantes y 2 pares libres). La disposición espacial de los dominios es tetraédrica, pero la geometría molecular (forma geométrica de los átomos) es angular, con un ángulo cercano a 104.5°.",
+    "pasos_resolucion": [
+      "Paso 1: Escribir la estructura de Lewis para el H2O.",
+      "Paso 2: Contar los dominios de electrones alrededor del átomo central (oxígeno): 2 pares compartidos y 2 no compartidos.",
+      "Paso 3: Determinar que la repulsión de los pares libres comprime los enlaces, resultando en una geometría angular."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_003",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "La molécula de dióxido de carbono (CO2) presenta enlaces covalentes polares. Sin embargo, su momento dipolar neto es cero. ¿A qué se debe esta característica?",
+    "opciones": [
+      "Su geometría molecular lineal cancela los momentos dipolares de enlace.",
+      "La electronegatividad del carbono y del oxígeno son exactamente iguales.",
+      "Los electrones se transfieren completamente del carbono al oxígeno.",
+      "Presenta resonancia que anula las cargas parciales."
+    ],
+    "respuesta_correcta": "Su geometría molecular lineal cancela los momentos dipolares de enlace.",
+    "explicacion_detallada": "Aunque cada enlace C=O es polar debido a la diferencia de electronegatividad, la molécula de CO2 es lineal (ángulo de 180°). Esto causa que los dos dipolos de enlace tengan la misma magnitud pero dirección opuesta, cancelándose mutuamente.",
+    "pasos_resolucion": [
+      "Paso 1: Dibujar la estructura de Lewis del CO2 y determinar su geometría (lineal).",
+      "Paso 2: Dibujar los vectores de momento dipolar para cada enlace C=O.",
+      "Paso 3: Sumar los vectores; al ser colineales y opuestos, la suma es cero."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_004",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "¿Qué tipo de fuerzas intermoleculares son responsables del elevado punto de ebullición del agua (H2O) en comparación con el sulfuro de hidrógeno (H2S)?",
+    "opciones": [
+      "Puentes de hidrógeno",
+      "Fuerzas de dispersión de London",
+      "Interacciones ión-dipolo",
+      "Fuerzas metálicas"
+    ],
+    "respuesta_correcta": "Puentes de hidrógeno",
+    "explicacion_detallada": "El agua posee puentes de hidrógeno, un tipo excepcionalmente fuerte de interacción dipolo-dipolo que ocurre cuando el hidrógeno está unido a un átomo altamente electronegativo y pequeño (F, O, N). El H2S no forma puentes de hidrógeno significativos.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar las fuerzas intermoleculares en el H2O (puentes de hidrógeno, dipolo-dipolo, London).",
+      "Paso 2: Identificar las fuerzas intermoleculares en el H2S (dipolo-dipolo, London).",
+      "Paso 3: Reconocer que los puentes de hidrógeno requieren mayor energía térmica para romperse, elevando el punto de ebullición."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_005",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "¿En cuál de las siguientes especies químicas se espera encontrar un enlace covalente múltiple según su estructura de Lewis?",
+    "opciones": [
+      "N2",
+      "F2",
+      "CH4",
+      "H2O"
+    ],
+    "respuesta_correcta": "N2",
+    "explicacion_detallada": "El átomo de nitrógeno necesita compartir 3 electrones de valencia para completar el octeto. En la molécula diatómica N2, los dos átomos de nitrógeno forman un triple enlace covalente, que es un enlace múltiple.",
+    "pasos_resolucion": [
+      "Paso 1: Contar los electrones de valencia totales para cada molécula.",
+      "Paso 2: Dibujar las estructuras de Lewis buscando cumplir la regla del octeto.",
+      "Paso 3: Identificar que N2 presenta un enlace triple (:N≡N:), mientras que los demás presentan enlaces simples."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_006",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "Una sustancia es maleable, dúctil y excelente conductora del calor y la electricidad en estado sólido. ¿Qué modelo explica mejor estas propiedades?",
+    "opciones": [
+      "Modelo del mar de electrones (enlace metálico)",
+      "Red covalente (enlace covalente)",
+      "Red cristalina (enlace iónico)",
+      "Fuerzas de London (sustancias moleculares)"
+    ],
+    "respuesta_correcta": "Modelo del mar de electrones (enlace metálico)",
+    "explicacion_detallada": "Las propiedades descritas (maleabilidad, conductividad) son típicas de los metales. El enlace metálico se describe mediante el modelo del 'mar de electrones', donde los electrones de valencia están deslocalizados y pueden moverse libremente por la red de cationes.",
+    "pasos_resolucion": [
+      "Paso 1: Asociar las propiedades físicas con el tipo de material (metales).",
+      "Paso 2: Relacionar los metales con su tipo de enlace químico (metálico).",
+      "Paso 3: Identificar la teoría que describe el enlace metálico (mar de electrones)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_007",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "Al analizar la molécula de amoníaco (NH3), se determina que su hibridación en el átomo central es sp3. ¿Cuál es su geometría molecular?",
+    "opciones": [
+      "Pirámide trigonal",
+      "Tetraédrica",
+      "Trigonal plana",
+      "Cuadrada plana"
+    ],
+    "respuesta_correcta": "Pirámide trigonal",
+    "explicacion_detallada": "El nitrógeno en el amoníaco tiene hibridación sp3 debido a sus 4 dominios de electrones (3 enlaces, 1 par libre). La repulsión del par libre sobre los enlazantes da como resultado una geometría molecular piramidal trigonal.",
+    "pasos_resolucion": [
+      "Paso 1: Determinar el número estérico del átomo central N (3 pares enlazantes + 1 par libre = 4).",
+      "Paso 2: La disposición electrónica es tetraédrica.",
+      "Paso 3: Al ignorar la posición del par libre para la forma molecular, se obtiene una pirámide trigonal con el N en la cúspide."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_008",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "¿Qué molécula presenta una desviación significativa de la regla del octeto (octeto expandido)?",
+    "opciones": [
+      "SF6",
+      "CCl4",
+      "H2O",
+      "CO2"
+    ],
+    "respuesta_correcta": "SF6",
+    "explicacion_detallada": "El azufre en el hexafluoruro de azufre (SF6) tiene 12 electrones en su capa de valencia participando en enlaces con seis átomos de flúor. Esto es posible porque el azufre pertenece al tercer período y dispone de orbitales 'd' vacíos que le permiten expandir su octeto.",
+    "pasos_resolucion": [
+      "Paso 1: Analizar la valencia del átomo central en cada compuesto.",
+      "Paso 2: C, O y S son los átomos centrales. El S en el SF6 forma 6 enlaces simples.",
+      "Paso 3: 6 enlaces simples implican 12 electrones compartidos en torno al azufre, superando el límite de 8 electrones."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_009",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "Ordene los siguientes compuestos según su punto de ebullición ascendente: metano (CH4), cloruro de sodio (NaCl) y etanol (CH3CH2OH).",
+    "opciones": [
+      "CH4 < CH3CH2OH < NaCl",
+      "NaCl < CH3CH2OH < CH4",
+      "CH3CH2OH < CH4 < NaCl",
+      "CH4 < NaCl < CH3CH2OH"
+    ],
+    "respuesta_correcta": "CH4 < CH3CH2OH < NaCl",
+    "explicacion_detallada": "El CH4 es apolar y solo presenta fuerzas de London (p.e. bajo). El etanol forma puentes de hidrógeno, por lo que su p.e. es moderado. El NaCl es iónico, lo que requiere muchísima energía para romper su red cristalina, teniendo el p.e. más alto.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar las fuerzas intermoleculares o enlaces de cada sustancia: CH4 (London), CH3CH2OH (puentes de hidrógeno), NaCl (enlace iónico).",
+      "Paso 2: Ordenar según la fuerza de interacción: London < Puentes de H < Iónico.",
+      "Paso 3: Relacionar directamente la fuerza de interacción con el punto de ebullición."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_010",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "La molécula diatómica Cl2 es gaseosa a temperatura ambiente, mientras que la I2 es sólida. Ambos forman moléculas covalentes apolares. ¿Qué factor explica mejor esta diferencia de estado físico?",
+    "opciones": [
+      "El I2 tiene una nube electrónica más grande y polarizable, aumentando las fuerzas de London.",
+      "El I2 presenta enlaces covalentes polares debido a su tamaño.",
+      "El enlace Cl-Cl es mucho más fuerte que el enlace I-I.",
+      "Las moléculas de Cl2 se repelen mutuamente por su alta electronegatividad."
+    ],
+    "respuesta_correcta": "El I2 tiene una nube electrónica más grande y polarizable, aumentando las fuerzas de London.",
+    "explicacion_detallada": "Al descender en el grupo de los halógenos, aumenta la masa molecular y el tamaño de la nube electrónica, haciéndola más polarizable. Esto fortalece las fuerzas de dispersión de London intermoleculares, causando que el I2 sea sólido a diferencia del Cl2 gaseoso.",
+    "pasos_resolucion": [
+      "Paso 1: Reconocer que ambos son apolares y dependen exclusivamente de las fuerzas de dispersión de London.",
+      "Paso 2: Identificar que el yodo tiene mayor masa molar y más electrones que el cloro.",
+      "Paso 3: Relacionar el tamaño de la nube electrónica con mayor polarizabilidad y, por ende, fuerzas de London más fuertes, elevando el punto de fusión."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_011",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "¿Qué indica el término 'resonancia' al describir la estructura de Lewis del anión nitrato (NO3-)?",
+    "opciones": [
+      "Los electrones de los enlaces múltiples están deslocalizados entre varios átomos de oxígeno.",
+      "La molécula vibra entre tres geometrías espaciales distintas.",
+      "El nitrógeno puede expandir su octeto para formar tres enlaces dobles.",
+      "Existen moléculas isómeras estables con distintas conexiones atómicas."
+    ],
+    "respuesta_correcta": "Los electrones de los enlaces múltiples están deslocalizados entre varios átomos de oxígeno.",
+    "explicacion_detallada": "La resonancia se usa cuando una sola estructura de Lewis no puede representar adecuadamente una molécula. Para el NO3-, el doble enlace está deslocalizado por igual entre los tres oxígenos, dando como resultado enlaces híbridos idénticos y no estructuras que vibran.",
+    "pasos_resolucion": [
+      "Paso 1: Intentar dibujar la estructura del NO3- encontrando que se necesita un doble enlace para completar el octeto del N.",
+      "Paso 2: Notar que el doble enlace puede ubicarse en cualquiera de los tres átomos de oxígeno.",
+      "Paso 3: Concluir que la verdadera estructura es un promedio de las formas resonantes, con electrones deslocalizados."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_012",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "Se disuelven en agua dos compuestos: KCl y C12H22O11 (sacarosa). El agua es un disolvente polar. ¿Cómo interactúa el agua con el KCl?",
+    "opciones": [
+      "Mediante interacciones ión-dipolo, separando los cationes K+ y aniones Cl-.",
+      "Formando puentes de hidrógeno con el potasio y el cloro.",
+      "Creando enlaces covalentes dativos con el ion cloruro.",
+      "A través de fuerzas de London exclusivamente."
+    ],
+    "respuesta_correcta": "Mediante interacciones ión-dipolo, separando los cationes K+ y aniones Cl-.",
+    "explicacion_detallada": "El KCl es un compuesto iónico. Al disolverse en agua, las moléculas polares de H2O rodean a los iones (solvatación o hidratación), donde la parte parcialmente negativa del agua atrae al K+ y la parcialmente positiva atrae al Cl-, en una interacción ión-dipolo.",
+    "pasos_resolucion": [
+      "Paso 1: Identificar el KCl como una sal iónica (K+ y Cl-).",
+      "Paso 2: Reconocer al agua como una molécula con un dipolo permanente.",
+      "Paso 3: Establecer que la atracción entre un ion y una molécula polar se denomina interacción ión-dipolo."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_013",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "La molécula tricloruro de boro (BCl3) no cumple la regla del octeto en el átomo central y tiene una geometría trigonal plana. ¿A qué se debe esto?",
+    "opciones": [
+      "El boro pertenece al grupo IIIA y forma compuestos estables con un octeto incompleto (6 electrones de valencia).",
+      "El boro es muy electronegativo y repele a los electrones del cloro.",
+      "El BCl3 es un compuesto iónico que forma redes, no moléculas discretas.",
+      "Presenta enlaces múltiples que distorsionan su estructura electrónica."
+    ],
+    "respuesta_correcta": "El boro pertenece al grupo IIIA y forma compuestos estables con un octeto incompleto (6 electrones de valencia).",
+    "explicacion_detallada": "El boro tiene 3 electrones de valencia y los comparte con 3 cloros para formar 3 enlaces simples. Resulta en solo 6 electrones alrededor del átomo de boro central (octeto incompleto). Sus 3 dominios electrónicos se ubican lo más lejos posible resultando en una geometría trigonal plana.",
+    "pasos_resolucion": [
+      "Paso 1: Contar los electrones de valencia: B (3) + 3*Cl (7) = 24 e-.",
+      "Paso 2: Distribuir electrones. B en el centro con 3 enlaces al Cl. Quedan 18 electrones que completan octetos de los cloros.",
+      "Paso 3: Notar que el boro queda con 6 electrones. Constituye una excepción válida a la regla del octeto (octeto deficiente)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_014",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "Al comparar la solubilidad en agua del tetracloruro de carbono (CCl4) y del metanol (CH3OH), se observa que el metanol es soluble mientras que el CCl4 no lo es. ¿Cuál es el fundamento químico de este fenómeno?",
+    "opciones": [
+      "El metanol es polar y forma puentes de hidrógeno con el agua; el CCl4 es apolar.",
+      "El CCl4 es mucho más masivo que el agua, lo que le impide mezclarse.",
+      "El metanol experimenta disociación iónica completa en solución acuosa.",
+      "El CCl4 reacciona violentamente con el agua formando capas separadas."
+    ],
+    "respuesta_correcta": "El metanol es polar y forma puentes de hidrógeno con el agua; el CCl4 es apolar.",
+    "explicacion_detallada": "La regla 'lo semejante disuelve a lo semejante' aplica. El agua es polar y puede formar puentes de hidrógeno. El metanol también es polar y forma puentes de hidrógeno, permitiendo la miscibilidad. El CCl4 es simétrico (geometría tetraédrica) y apolar, por lo que no interacciona favorablemente con el agua polar.",
+    "pasos_resolucion": [
+      "Paso 1: Analizar la polaridad del disolvente (H2O, altamente polar).",
+      "Paso 2: Analizar el CH3OH (presenta un grupo -OH, es polar y forma puentes de hidrógeno).",
+      "Paso 3: Analizar el CCl4 (4 enlaces C-Cl polares pero geometría simétrica los cancela, es apolar).",
+      "Paso 4: Concluir que el solvente polar solo disolverá efectivamente al soluto polar."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_015",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "Considere los enlaces en la molécula de oxígeno (O2). Según la teoría del enlace de valencia, ¿cuál es la descripción más precisa de los enlaces formados?",
+    "opciones": [
+      "Un enlace sigma y un enlace pi.",
+      "Dos enlaces sigma.",
+      "Dos enlaces pi.",
+      "Un enlace sigma y dos enlaces pi."
+    ],
+    "respuesta_correcta": "Un enlace sigma y un enlace pi.",
+    "explicacion_detallada": "La molécula de O2 presenta un doble enlace O=O. En la teoría del enlace de valencia, un doble enlace se compone de un enlace frontal fuerte (sigma, σ) formado por el solapamiento de orbitales en el eje internuclear, y un enlace lateral más débil (pi, π) por el solapamiento de orbitales p paralelos.",
+    "pasos_resolucion": [
+      "Paso 1: Dibujar la estructura de Lewis del O2, notando la necesidad de un doble enlace para completar octetos.",
+      "Paso 2: Recordar que los enlaces múltiples constan siempre de un solo enlace sigma.",
+      "Paso 3: Asignar el enlace restante del doble enlace como un enlace pi."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_016",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "De acuerdo con la carga formal, ¿cuál es la estructura de Lewis más estable para la molécula de ácido cianhídrico (HCN)?",
+    "opciones": [
+      "H-C≡N con pares libres en el N (Cargas formales: H=0, C=0, N=0).",
+      "H-N≡C con pares libres en el C (Cargas formales: H=0, N=+1, C=-1).",
+      "H=C=N con un electrón impar en C y N.",
+      "H-C-N con pares libres en C y N, sin cumplir el octeto."
+    ],
+    "respuesta_correcta": "H-C≡N con pares libres en el N (Cargas formales: H=0, C=0, N=0).",
+    "explicacion_detallada": "La estructura de Lewis más estable es aquella en la que las cargas formales de los átomos son lo más cercanas a cero posible, y si deben existir, la carga negativa reside en el átomo más electronegativo. La estructura H-C≡N cumple la regla del octeto y tiene cargas formales nulas en todos los átomos.",
+    "pasos_resolucion": [
+      "Paso 1: Dibujar las posibles conectividades (H-C-N vs H-N-C).",
+      "Paso 2: Completar octetos con enlaces múltiples. Para H-C-N obtenemos H-C≡N:. Para H-N-C obtenemos H-N≡C:.",
+      "Paso 3: Calcular cargas formales. H-C≡N: C = 4-4=0, N = 5-5=0. H-N≡C: N = 5-4=+1, C = 4-5=-1.",
+      "Paso 4: Concluir que H-C≡N es más estable por tener cargas formales cero."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_017",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "Un compuesto gaseoso presenta un enlace simple C-C, mientras que otro presenta un enlace triple C≡C. ¿Cómo se relacionan las longitudes de enlace y las energías de enlace en ambos casos?",
+    "opciones": [
+      "El enlace C≡C es más corto y tiene mayor energía de enlace que el C-C.",
+      "El enlace C≡C es más largo y tiene menor energía de enlace que el C-C.",
+      "Ambos enlaces tienen la misma longitud, pero distinta energía.",
+      "El enlace C≡C es más corto pero más débil que el enlace C-C."
+    ],
+    "respuesta_correcta": "El enlace C≡C es más corto y tiene mayor energía de enlace que el C-C.",
+    "explicacion_detallada": "A medida que aumenta el orden de enlace (de simple a doble y a triple), los átomos son atraídos más fuertemente entre sí. Como consecuencia, la longitud del enlace disminuye y la energía requerida para romperlo (energía de enlace) aumenta de manera considerable.",
+    "pasos_resolucion": [
+      "Paso 1: Recordar la relación entre el orden de enlace (número de enlaces entre átomos) y la atracción atómica.",
+      "Paso 2: Mayor orden de enlace significa mayor tracción, acercando los núcleos atómicos (menor longitud de enlace).",
+      "Paso 3: Mayor número de electrones compartidos requiere mayor energía para separarlos (mayor energía de enlace)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_018",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "¿Cuál de los siguientes iones es poliatómico y presenta enlaces covalentes internamente, pero forma compuestos predominantemente iónicos con otros elementos?",
+    "opciones": [
+      "SO4(2-)",
+      "Cl-",
+      "Na+",
+      "S(2-)"
+    ],
+    "respuesta_correcta": "SO4(2-)",
+    "explicacion_detallada": "El ion sulfato (SO4(2-)) es un ion poliatómico compuesto por azufre y oxígeno unidos mediante enlaces covalentes polares. Sin embargo, al poseer una carga neta de -2, interactúa electrostáticamente con cationes (ej. Na+, Ca2+) para formar sales iónicas.",
+    "pasos_resolucion": [
+      "Paso 1: Diferenciar entre iones monoatómicos (como Cl-, Na+, S(2-)) y poliatómicos.",
+      "Paso 2: Identificar al SO4(2-) como el único ion poliatómico en la lista.",
+      "Paso 3: Reconocer que internamente S y O están unidos covalentemente, pero que en conjunto actúan como un solo cuerpo cargado."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_019",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "Si analizamos la molécula de trifluoruro de cloro (ClF3), se observa que el cloro central presenta 5 dominios de electrones. ¿Qué geometría molecular presenta el ClF3 según el modelo TREPEV?",
+    "opciones": [
+      "Forma de T",
+      "Trigonal bipiramidal",
+      "Cuadrada plana",
+      "Tetraédrica"
+    ],
+    "respuesta_correcta": "Forma de T",
+    "explicacion_detallada": "El Cl central en ClF3 tiene 3 pares enlazantes y 2 pares libres (total 5 dominios), resultando en una geometría electrónica bipiramidal trigonal. Para minimizar repulsiones, los pares libres ocupan las posiciones ecuatoriales, dando como resultado una geometría molecular en forma de T.",
+    "pasos_resolucion": [
+      "Paso 1: Contar los electrones de valencia: Cl (7) + 3*F (21) = 28 electrones.",
+      "Paso 2: Dibujar enlaces: Cl en el centro unido a 3 F. Sobran 4 electrones en el cloro (2 pares libres).",
+      "Paso 3: Analizar 5 dominios (3 enlaces, 2 libres). La disposición de menor energía ubica a los pares libres en las posiciones ecuatoriales de una bipirámide trigonal.",
+      "Paso 4: Concluir que la forma de los átomos es una 'T' distorsionada."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_344_ex_020",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.4.4",
+    "enunciado": "¿Qué propiedad es una evidencia directa de la existencia de fuertes fuerzas intermoleculares, como los puentes de hidrógeno, en una sustancia líquida?",
+    "opciones": [
+      "Alta tensión superficial.",
+      "Baja viscosidad.",
+      "Bajo calor de vaporización.",
+      "Alta presión de vapor."
+    ],
+    "respuesta_correcta": "Alta tensión superficial.",
+    "explicacion_detallada": "Sustancias con fuertes fuerzas intermoleculares (como el agua con sus puentes de hidrógeno) muestran alta tensión superficial porque las moléculas en la superficie son fuertemente atraídas hacia el interior del líquido. También tendrían alta viscosidad, alto calor de vaporización y baja presión de vapor.",
+    "pasos_resolucion": [
+      "Paso 1: Analizar qué efectos tienen las fuerzas intermoleculares fuertes sobre el comportamiento macroscópico de un líquido.",
+      "Paso 2: Fuerzas fuertes impiden que las moléculas escapen fácilmente (baja presión de vapor, alto calor de vaporización).",
+      "Paso 3: Fuerzas fuertes mantienen unidas a las moléculas (alta viscosidad, alta tensión superficial).",
+      "Paso 4: Relacionar la opción correcta con este análisis."
+    ],
+    "video_explicativo_url": ""
+  }
+]

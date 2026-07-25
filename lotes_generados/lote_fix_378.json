@@ -1,0 +1,303 @@
+[
+  {
+    "id": "cn_378_ex_001",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.8",
+    "enunciado": "¿Cuál de las siguientes afirmaciones sobre las líneas de campo magnético es correcta?",
+    "opciones": [
+      "Siempre salen del polo norte y entran por el polo sur del imán.",
+      "Pueden cruzarse entre sí en regiones de alta intensidad magnética.",
+      "Salen del polo sur y entran por el polo norte del imán.",
+      "Son líneas abiertas que terminan en cargas magnéticas aisladas."
+    ],
+    "respuesta_correcta": "Siempre salen del polo norte y entran por el polo sur del imán.",
+    "explicacion_detallada": "Por convención, las líneas de campo magnético en el exterior de un imán salen del polo norte y entran por el polo sur. Además, nunca se cruzan y forman lazos cerrados, ya que no existen monopolos magnéticos.",
+    "pasos_resolucion": [
+      "Recordar la convención de la dirección de las líneas de campo magnético.",
+      "Identificar que en el exterior del imán las líneas van de norte a sur.",
+      "Descartar las opciones que afirmen cruces o líneas abiertas."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_ex_002",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.8",
+    "enunciado": "La aguja de una brújula apunta aproximadamente hacia el Polo Norte geográfico de la Tierra. Esto se debe a que:",
+    "opciones": [
+      "Cerca del Polo Norte geográfico se encuentra el polo sur magnético de la Tierra.",
+      "Cerca del Polo Norte geográfico se encuentra el polo norte magnético de la Tierra.",
+      "El campo eléctrico de la Tierra atrae la aguja en esa dirección.",
+      "La rotación de la Tierra genera un efecto Coriolis sobre la aguja."
+    ],
+    "respuesta_correcta": "Cerca del Polo Norte geográfico se encuentra el polo sur magnético de la Tierra.",
+    "explicacion_detallada": "El polo norte de la aguja de la brújula es atraído por un polo magnético opuesto. Por lo tanto, el polo que se encuentra cerca del Polo Norte geográfico terrestre es, en realidad, un polo sur magnético.",
+    "pasos_resolucion": [
+      "Recordar que los polos magnéticos opuestos se atraen.",
+      "Saber que el extremo de la brújula que apunta al norte es su polo norte magnético.",
+      "Deducir que el polo terrestre situado al norte debe ser un polo sur magnético."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_ex_003",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.8",
+    "enunciado": "La fuerza magnética que experimenta un conductor rectilíneo de 2 metros de longitud por el que circula una corriente de 5 A, cuando se encuentra perpendicular a un campo magnético uniforme de 0.4 T, es:",
+    "opciones": [
+      "4 N",
+      "2 N",
+      "10 N",
+      "0.4 N"
+    ],
+    "respuesta_correcta": "4 N",
+    "explicacion_detallada": "La fuerza magnética sobre un conductor rectilíneo se calcula con la fórmula F = B * I * L * sen(θ). Como es perpendicular, θ = 90° y sen(90°) = 1. Sustituyendo: F = 0.4 T * 5 A * 2 m = 4 N.",
+    "pasos_resolucion": [
+      "Identificar los datos: L = 2 m, I = 5 A, B = 0.4 T, ángulo = 90°.",
+      "Aplicar la fórmula de la fuerza magnética: F = B * I * L.",
+      "Calcular el resultado: F = 0.4 * 5 * 2 = 4 N."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_ex_004",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.8",
+    "enunciado": "¿Qué fenómeno describe la Ley de Faraday?",
+    "opciones": [
+      "La generación de una corriente eléctrica a partir de un campo magnético variable en el tiempo.",
+      "La fuerza que ejerce un campo magnético estático sobre una carga en reposo.",
+      "La atracción entre dos imanes con polos opuestos.",
+      "La producción de calor en un conductor debido a la resistencia eléctrica."
+    ],
+    "respuesta_correcta": "La generación de una corriente eléctrica a partir de un campo magnético variable en el tiempo.",
+    "explicacion_detallada": "La Ley de Faraday de la inducción electromagnética establece que un cambio en el flujo magnético a través de un circuito induce una fuerza electromotriz (FEM), lo que a su vez genera una corriente eléctrica si el circuito está cerrado.",
+    "pasos_resolucion": [
+      "Recordar los principios del electromagnetismo.",
+      "Relacionar la Ley de Faraday con la inducción electromagnética.",
+      "Identificar que se requiere un campo magnético variable para inducir voltaje/corriente."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_ex_005",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.8",
+    "enunciado": "En un motor eléctrico simple, ¿cuál es la principal transformación de energía que ocurre?",
+    "opciones": [
+      "Energía eléctrica en energía mecánica.",
+      "Energía mecánica en energía eléctrica.",
+      "Energía térmica en energía mecánica.",
+      "Energía química en energía eléctrica."
+    ],
+    "respuesta_correcta": "Energía eléctrica en energía mecánica.",
+    "explicacion_detallada": "Un motor eléctrico utiliza corriente eléctrica y campos magnéticos para producir movimiento (rotación), transformando así la energía eléctrica en energía mecánica.",
+    "pasos_resolucion": [
+      "Analizar la función de un motor eléctrico.",
+      "Identificar qué energía entra al sistema (eléctrica).",
+      "Identificar qué energía sale del sistema (movimiento/mecánica)."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_ex_006",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.8",
+    "enunciado": "Un electrón se mueve con una velocidad 'v' paralelamente a las líneas de un campo magnético uniforme 'B'. La fuerza magnética que actúa sobre el electrón es:",
+    "opciones": [
+      "Cero, porque el ángulo entre la velocidad y el campo magnético es 0°.",
+      "Máxima, porque el electrón es una carga negativa.",
+      "Igual a qvB, dirigida perpendicularmente a la velocidad.",
+      "Constante y dirigida en sentido opuesto al campo magnético."
+    ],
+    "respuesta_correcta": "Cero, porque el ángulo entre la velocidad y el campo magnético es 0°.",
+    "explicacion_detallada": "La fuerza magnética sobre una carga en movimiento está dada por F = qvB * sen(θ). Si el movimiento es paralelo al campo, θ = 0° (o 180°), y sen(0°) = 0, por lo que la fuerza es nula.",
+    "pasos_resolucion": [
+      "Recordar la fórmula de la fuerza magnética sobre una carga: F = q * v * B * sen(θ).",
+      "Identificar que la palabra 'paralelamente' implica un ángulo de 0° o 180°.",
+      "Sustituir el valor en la fórmula: sen(0°) = 0, por tanto F = 0."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_ex_007",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.8",
+    "enunciado": "Para aumentar la intensidad del campo magnético generado por un electroimán, se puede:",
+    "opciones": [
+      "Aumentar el número de espiras de la bobina y la corriente eléctrica.",
+      "Disminuir el voltaje aplicado a la bobina.",
+      "Retirar el núcleo de hierro del interior de la bobina.",
+      "Utilizar alambre de mayor resistencia sin cambiar el voltaje."
+    ],
+    "respuesta_correcta": "Aumentar el número de espiras de la bobina y la corriente eléctrica.",
+    "explicacion_detallada": "La intensidad del campo magnético de un electroimán (solenoide) depende directamente del número de espiras por unidad de longitud y de la intensidad de la corriente que circula por ellas. Un núcleo ferromagnético también lo aumenta.",
+    "pasos_resolucion": [
+      "Recordar los factores que afectan el campo magnético de un solenoide: corriente, número de espiras y núcleo.",
+      "Identificar que a mayor corriente y más espiras, mayor será el campo magnético.",
+      "Descartar las opciones que reducen la corriente o eliminan el núcleo."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_ex_008",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.8",
+    "enunciado": "Según la Ley de Lenz, la corriente inducida en un circuito cerrado producirá un campo magnético que:",
+    "opciones": [
+      "Se opone al cambio del flujo magnético que la produjo.",
+      "Tiene siempre la misma dirección que el campo magnético externo.",
+      "Refuerza el aumento del flujo magnético original.",
+      "Es completamente independiente del flujo magnético original."
+    ],
+    "respuesta_correcta": "Se opone al cambio del flujo magnético que la produjo.",
+    "explicacion_detallada": "La Ley de Lenz es una consecuencia del principio de conservación de la energía. Establece que el sentido de la corriente inducida es tal que su campo magnético se opone a la variación del flujo magnético que la originó (representado por el signo negativo en la Ley de Faraday).",
+    "pasos_resolucion": [
+      "Recordar la definición de la Ley de Lenz.",
+      "Relacionarla con la 'oposición al cambio'.",
+      "Seleccionar la opción que describe esta oposición al cambio del flujo."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_ex_009",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.8",
+    "enunciado": "Si se parte un imán de barra por la mitad, el resultado será:",
+    "opciones": [
+      "Dos imanes más pequeños, cada uno con su propio polo norte y polo sur.",
+      "Dos piezas: una será solo polo norte y la otra solo polo sur.",
+      "Dos trozos de metal sin propiedades magnéticas.",
+      "Un imán con un solo polo y otro sin campo magnético."
+    ],
+    "respuesta_correcta": "Dos imanes más pequeños, cada uno con su propio polo norte y polo sur.",
+    "explicacion_detallada": "Los monopolos magnéticos no se han observado en la naturaleza. Al romper un imán, los dominios magnéticos internos aseguran que cada nueva pieza tenga un polo norte y un polo sur.",
+    "pasos_resolucion": [
+      "Recordar el principio de la inexistencia de los monopolos magnéticos.",
+      "Deducir que cualquier fragmento de un imán conservará su naturaleza bipolar.",
+      "Concluir que se formarán dos nuevos imanes completos."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_ex_010",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.8",
+    "enunciado": "Un generador eléctrico es un dispositivo que se basa en el principio de inducción electromagnética para:",
+    "opciones": [
+      "Transformar energía mecánica en energía eléctrica.",
+      "Transformar energía eléctrica en energía mecánica.",
+      "Aumentar o disminuir el voltaje en un circuito de corriente continua.",
+      "Almacenar energía magnética en forma de campo estático."
+    ],
+    "respuesta_correcta": "Transformar energía mecánica en energía eléctrica.",
+    "explicacion_detallada": "El generador eléctrico rota una espira dentro de un campo magnético (energía mecánica), lo que induce una corriente eléctrica debido al cambio de flujo magnético (energía eléctrica).",
+    "pasos_resolucion": [
+      "Analizar el propósito de un generador.",
+      "Recordar que requiere una fuente de movimiento (turbina, manivela) para funcionar.",
+      "Concluir que convierte esa energía de movimiento (mecánica) en electricidad."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_ex_011",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.8",
+    "enunciado": "El flujo magnético que atraviesa una superficie plana de área 'A' colocada perpendicularmente a un campo magnético uniforme 'B' es:",
+    "opciones": [
+      "El producto del campo magnético por el área (B * A).",
+      "Cero, porque la superficie es perpendicular al campo.",
+      "El cociente entre el campo magnético y el área (B / A).",
+      "Independiente del valor del campo magnético."
+    ],
+    "respuesta_correcta": "El producto del campo magnético por el área (B * A).",
+    "explicacion_detallada": "El flujo magnético se define como Φ = B * A * cos(θ). Si la superficie es perpendicular al campo, el vector área (que es normal a la superficie) es paralelo al campo magnético, por lo que θ = 0° y cos(0°) = 1. Así, Φ = B * A.",
+    "pasos_resolucion": [
+      "Recordar la fórmula del flujo magnético: Φ = B * A * cos(θ).",
+      "Identificar el ángulo θ entre el campo B y el vector normal al área A.",
+      "Dado que la superficie es perpendicular a B, el vector normal es paralelo a B, θ = 0°.",
+      "Calcular el resultado final: Φ = B * A * 1 = B * A."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_ex_012",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.8",
+    "enunciado": "¿Qué regla práctica se utiliza comúnmente para determinar la dirección del campo magnético generado por un conductor rectilíneo largo por el que circula una corriente?",
+    "opciones": [
+      "La regla de la mano derecha.",
+      "La regla de la mano izquierda de Fleming.",
+      "La ley de Ohm.",
+      "El teorema de Gauss."
+    ],
+    "respuesta_correcta": "La regla de la mano derecha.",
+    "explicacion_detallada": "La regla de la mano derecha establece que si se agarra el conductor con la mano derecha, con el pulgar apuntando en el sentido de la corriente, los dedos curvos indican la dirección de las líneas circulares del campo magnético.",
+    "pasos_resolucion": [
+      "Recordar las reglas nemotécnicas del electromagnetismo.",
+      "Identificar que la mano izquierda se usa comúnmente para fuerzas en motores.",
+      "Reconocer que la regla de la mano derecha relaciona corriente en un hilo con el campo magnético alrededor."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_ex_013",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.8",
+    "enunciado": "Un transformador ideal tiene 100 espiras en el devanado primario y 500 espiras en el secundario. Si se le aplica un voltaje de 10 V alternos al primario, el voltaje en el secundario será:",
+    "opciones": [
+      "50 V",
+      "2 V",
+      "10 V",
+      "5000 V"
+    ],
+    "respuesta_correcta": "50 V",
+    "explicacion_detallada": "En un transformador ideal, la relación de voltajes es proporcional a la relación de espiras: V_s / V_p = N_s / N_p. Por tanto, V_s = V_p * (N_s / N_p) = 10 V * (500 / 100) = 50 V.",
+    "pasos_resolucion": [
+      "Identificar la ecuación del transformador: V_s / V_p = N_s / N_p.",
+      "Sustituir los valores conocidos: V_p = 10 V, N_p = 100, N_s = 500.",
+      "Despejar y calcular V_s: V_s = 10 * (500 / 100) = 10 * 5 = 50 V."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_ex_014",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.8",
+    "enunciado": "¿Qué característica de los materiales ferromagnéticos los hace útiles para la fabricación de imanes permanentes y núcleos de transformadores?",
+    "opciones": [
+      "Tienen una alta permeabilidad magnética y sus dominios magnéticos pueden alinearse fácilmente.",
+      "Son excelentes aislantes eléctricos y no permiten el paso de la corriente.",
+      "Repelen fuertemente los campos magnéticos aplicados externamente.",
+      "No interactúan con campos magnéticos a temperatura ambiente."
+    ],
+    "respuesta_correcta": "Tienen una alta permeabilidad magnética y sus dominios magnéticos pueden alinearse fácilmente.",
+    "explicacion_detallada": "Los materiales ferromagnéticos, como el hierro, níquel y cobalto, poseen dominios magnéticos que pueden alinearse en presencia de un campo magnético externo, aumentando significativamente la intensidad del campo debido a su alta permeabilidad magnética.",
+    "pasos_resolucion": [
+      "Recordar la clasificación de los materiales magnéticos (dia, para, ferromagnéticos).",
+      "Identificar que el ferromagnetismo implica una fuerte atracción y alineación de dominios.",
+      "Relacionar esta propiedad con la permeabilidad magnética."
+    ],
+    "video_explicativo_url": ""
+  },
+  {
+    "id": "cn_378_ex_015",
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.7.8",
+    "enunciado": "La fuerza magnética que experimenta una partícula cargada que se mueve en un campo magnético uniforme depende de todas las siguientes magnitudes, EXCEPTO:",
+    "opciones": [
+      "La masa de la partícula.",
+      "La carga de la partícula.",
+      "La velocidad de la partícula.",
+      "La intensidad del campo magnético."
+    ],
+    "respuesta_correcta": "La masa de la partícula.",
+    "explicacion_detallada": "La fuerza magnética sobre una carga en movimiento viene dada por F = qvB * sen(θ). En esta expresión no interviene la masa de la partícula (aunque la masa sí afecta su aceleración posterior según la Segunda Ley de Newton).",
+    "pasos_resolucion": [
+      "Recordar la ecuación de la fuerza de Lorentz para el campo magnético: F = q * v * B * sen(θ).",
+      "Analizar las variables involucradas: carga (q), velocidad (v), campo magnético (B) y ángulo (θ).",
+      "Observar que la masa (m) no es una variable en la ecuación de la fuerza magnética."
+    ],
+    "video_explicativo_url": ""
+  }
+]

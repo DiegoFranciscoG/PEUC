@@ -1,0 +1,222 @@
+[
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "La estructura sociopolítica del Imperio Incaico (Tawantinsuyu) se fundamentaba en un sistema de reciprocidad y redistribución que estructuraba las relaciones entre el Estado y las comunidades locales. ¿Cuál de las siguientes instituciones representaba la unidad básica de parentesco y producción agraria sobre la cual recaía la obligación del tributo en forma de trabajo (mita)?",
+    "opciones": [
+      "El ayllu, conjunto de familias unidas por lazos de parentesco y un ancestro común",
+      "El calpulli, unidad territorial y social que agrupaba familias en los barrios",
+      "La panaca, familia real encargada de mantener el culto al inca fallecido",
+      "El curacazgo, institución administrativa de los líderes locales subordinados al Sapa Inca"
+    ],
+    "respuesta_correcta": "El ayllu, conjunto de familias unidas por lazos de parentesco y un ancestro común"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "Durante el periodo Clásico mesoamericano, la ciudad de Teotihuacán ejerció una profunda influencia sobre diversas regiones. Su hegemonía no se basó exclusivamente en el poder militar, sino también en el control de rutas comerciales y monopolios estratégicos. ¿Qué recurso natural, extraído principalmente de la región de Pachuca, fue fundamental para la dominación teotihuacana en Mesoamérica?",
+    "opciones": [
+      "La obsidiana, utilizada para herramientas cortantes, armas y objetos ceremoniales",
+      "El jade, considerado una piedra preciosa sagrada asociada a la vida y la fertilidad",
+      "El cinabrio, empleado como pigmento rojo en ritos funerarios y decoración",
+      "El cacao, que funcionaba como moneda de cambio y bebida de la élite"
+    ],
+    "respuesta_correcta": "La obsidiana, utilizada para herramientas cortantes, armas y objetos ceremoniales"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "La cultura Maya desarrolló uno de los sistemas de escritura más complejos y completos de la América precolombina. Esta escritura combinaba diferentes tipos de signos para registrar eventos históricos, astronómicos y rituales. ¿Cómo se clasifica predominantemente el sistema de escritura maya desde el punto de vista epigráfico?",
+    "opciones": [
+      "Logosilábico, combinando logogramas que representan palabras completas y signos silábicos",
+      "Alfabético, utilizando un conjunto reducido de signos que representan sonidos consonánticos y vocálicos",
+      "Exclusivamente pictográfico, donde cada símbolo es una representación visual directa del objeto o concepto",
+      "Quipu-fonético, empleando una adaptación gráfica de sistemas mnemotécnicos andinos de cuerdas anudadas"
+    ],
+    "respuesta_correcta": "Logosilábico, combinando logogramas que representan palabras completas y signos silábicos"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "El desarrollo de la agricultura intensiva fue un pilar para el sustento de las grandes poblaciones en las civilizaciones mesoamericanas, especialmente en la cuenca del Valle de México. ¿Qué sistema agrícola, caracterizado por la construcción de islas artificiales en zonas lacustres, permitió a los mexicas (aztecas) obtener hasta tres o cuatro cosechas anuales?",
+    "opciones": [
+      "Las chinampas, construidas con capas de vegetación, lodo y cañas ancladas con árboles de ahuejote",
+      "Las terrazas de cultivo o andenes, edificadas en las laderas de las montañas para evitar la erosión",
+      "Los waru waru o camellones, campos elevados rodeados de canales para proteger los cultivos de las heladas",
+      "El sistema de roza, tumba y quema, utilizado principalmente en las regiones selváticas tropicales"
+    ],
+    "respuesta_correcta": "Las chinampas, construidas con capas de vegetación, lodo y cañas ancladas con árboles de ahuejote"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "En la cosmovisión andina preincaica e incaica, el concepto de dualidad complementaria (yanantin) es central para entender la organización del espacio, la sociedad y el universo. ¿Cómo se manifestaba este principio en la división político-espacial de la ciudad del Cusco y otras capitales provinciales andinas?",
+    "opciones": [
+      "La división en Hanan (arriba) y Hurin (abajo), reflejando una estructura jerárquica y complementaria del poder",
+      "La fragmentación en cuatro suyos que confluían en un centro ceremonial unificado pero sin divisiones internas",
+      "La separación estricta entre recintos puramente sacerdotales y distritos exclusivamente mercantiles",
+      "La organización en centros concéntricos donde el poder disminueve desde el centro hacia la periferia simétrica"
+    ],
+    "respuesta_correcta": "La división en Hanan (arriba) y Hurin (abajo), reflejando una estructura jerárquica y complementaria del poder"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "La civilización Olmec, considerada frecuentemente como la 'cultura madre' de Mesoamérica, floreció durante el periodo Preclásico (Formativo) en la costa del Golfo de México. Uno de los elementos más distintivos de su iconografía, que evidencia su complejidad ritual y política, es:",
+    "opciones": [
+      "Las cabezas colosales esculpidas en basalto que probablemente representaban gobernantes con rasgos individualizados",
+      "Los códices pictográficos detallados que narraban las genealogías de sus sacerdotes principales",
+      "Los altares monolíticos que representaban sacrificios humanos masivos mediante extracción de corazones",
+      "Las estelas cilíndricas talladas con calendarios de Cuenta Larga completas y fechas fundacionales"
+    ],
+    "respuesta_correcta": "Las cabezas colosales esculpidas en basalto que probablemente representaban gobernantes con rasgos individualizados"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "La economía del Imperio Azteca dependía en gran medida de un elaborado sistema de tributación impuesto a las provincias conquistadas, registrado meticulosamente en documentos como la Matrícula de Tributos. ¿Qué grupo social, además de sus funciones diplomáticas y de espionaje, era fundamental en la circulación de bienes exóticos no producidos localmente?",
+    "opciones": [
+      "Los pochtecas, mercaderes de larga distancia que formaban un gremio especializado con alta estima social",
+      "Los macehualtin, campesinos y artesanos comunes que pagaban tributo en especie y trabajo",
+      "Los pipiltin, la nobleza hereditaria encargada de la redistribución y el gobierno directo",
+      "Los mayeques, siervos adscritos a las tierras de la nobleza que trabajaban sin derechos de propiedad"
+    ],
+    "respuesta_correcta": "Los pochtecas, mercaderes de larga distancia que formaban un gremio especializado con alta estima social"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "En la región de la Costa Norte de los Andes centrales, la cultura Moche (Mochica) destacó durante el Intermedio Temprano por su ingeniería hidráulica, su arquitectura de adobe y su elaborada cerámica. En términos de organización política, ¿cuál es el consenso arqueológico actual sobre la estructura del estado Moche?",
+    "opciones": [
+      "Se conformaba por múltiples señoríos independientes o reinos que compartían una misma identidad cultural e ideología, más que un imperio centralizado",
+      "Estaba gobernado por un imperio centralizado unificado bajo el mando absoluto de un solo gobernante residente en Chan Chan",
+      "Era una confederación laica de comerciantes pacíficos sin líderes militares ni estratificación social pronunciada",
+      "Constituía una red de ciudades-estado democráticas gobernadas por consejos de ancianos campesinos"
+    ],
+    "respuesta_correcta": "Se conformaba por múltiples señoríos independientes o reinos que compartían una misma identidad cultural e ideología, más que un imperio centralizado"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "El calendario mesoamericano, utilizado con variaciones por mayas, zapotecas y nahuas, se componía principalmente de dos ciclos paralelos que al combinarse formaban la 'Rueda Calendárica'. Estos ciclos eran:",
+    "opciones": [
+      "Un calendario ritual de 260 días y un calendario solar-agrícola de 365 días, cuyos nombres y números coincidían cada 52 años",
+      "Un calendario lunar de 354 días y un ciclo venusiano de 584 días que se sincronizaban cada 104 años",
+      "Un ciclo histórico de 400 años (Baktun) y un calendario adivinatorio de 130 días usado exclusivamente por sacerdotes",
+      "Un calendario civil de 360 días sin días intercalares y un calendario estacional de 400 días para ceremonias de cosecha"
+    ],
+    "respuesta_correcta": "Un calendario ritual de 260 días y un calendario solar-agrícola de 365 días, cuyos nombres y números coincidían cada 52 años"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "El colapso de las ciudades mayas del periodo Clásico en las Tierras Bajas del sur (siglos VIII al X d.C.) ha sido objeto de prolongados debates académicos. Actualmente, la explicación más aceptada rechaza teorías monocausales y propone una crisis sistémica multifactorial. ¿Qué combinación de factores se considera más probable como desencadenante de este colapso sociopolítico?",
+    "opciones": [
+      "Sobrepoblación, degradación ambiental extrema, sequías prolongadas y aumento de la guerra endémica entre entidades políticas",
+      "Invasiones masivas de grupos nahuas procedentes del centro de México que destruyeron sistemáticamente los centros urbanos",
+      "Una epidemia devastadora de origen desconocido que diezmó a la población combinada con la erupción simultánea de múltiples volcanes",
+      "El abandono pacífico y planificado de las ciudades impulsado exclusivamente por profecías religiosas del fin de una era calendárica"
+    ],
+    "respuesta_correcta": "Sobrepoblación, degradación ambiental extrema, sequías prolongadas y aumento de la guerra endémica entre entidades políticas"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "En el Área Andina Central, el Imperio Wari (Horizonte Medio) es a menudo considerado por los arqueólogos como el primer estado verdaderamente imperial de Sudamérica. ¿Qué innovación arqueológicamente documentada fue clave para la expansión y mantenimiento del control administrativo Wari sobre un territorio vasto y accidentado?",
+    "opciones": [
+      "La construcción de centros administrativos provinciales planificados y una extensa red de caminos formales (precursora del Qhapaq Ñan)",
+      "La invención y uso exclusivo del quipu para el registro demográfico, una tecnología que no existía antes ni continuó después",
+      "La imposición de un monopolio sobre la producción de bronce arsenical para armar a un ejército permanente de mercenarios",
+      "La domesticación de la llama como animal de carga, lo cual permitió por primera vez el comercio interregional en los Andes"
+    ],
+    "respuesta_correcta": "La construcción de centros administrativos provinciales planificados y una extensa red de caminos formales (precursora del Qhapaq Ñan)"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "La Triple Alianza mesoamericana (Excan Tlahtoloyan), formada en el siglo XV, fue el motor militar y político de la expansión azteca. Esta confederación estaba compuesta por tres grandes urbes (altepetl) del Valle de México. ¿Cuáles eran estas tres ciudades?",
+    "opciones": [
+      "Tenochtitlan, Texcoco y Tlacopan (Tacuba)",
+      "Tenochtitlan, Tlatelolco y Azcapotzalco",
+      "Teotihuacan, Cholula y Tlaxcala",
+      "Tenochtitlan, Xochimilco y Culhuacan"
+    ],
+    "respuesta_correcta": "Tenochtitlan, Texcoco y Tlacopan (Tacuba)"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "En la cultura Nazca (Costa Sur de los Andes centrales), conocida por sus gigantescos geoglifos y policromía cerámica, las investigaciones modernas, como las realizadas por Maria Reiche y posteriormente por proyectos multidisciplinarios, sugieren que las llamadas 'Líneas de Nazca' tenían como función principal:",
+    "opciones": [
+      "Servir como espacios y caminos rituales vinculados al culto del agua y la fertilidad, caminando sobre ellas durante ceremonias",
+      "Actuar como un zodiaco gigantesco y calendario astronómico destinado a registrar eclipses y el paso de cometas",
+      "Demarcar fronteras estrictas entre diferentes ayllus territoriales para evitar conflictos por tierras de cultivo",
+      "Ser pistas de carreras utilizadas en juegos rituales competitivos que culminaban en sacrificios humanos masivos"
+    ],
+    "respuesta_correcta": "Servir como espacios y caminos rituales vinculados al culto del agua y la fertilidad, caminando sobre ellas durante ceremonias"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "Las sociedades de la Amazonía precolombina fueron históricamente consideradas por los investigadores occidentales como pequeños grupos nómadas o seminómadas con poca complejidad social debido a las limitaciones ecológicas del bosque tropical. Sin embargo, estudios recientes en arqueología del paisaje (ej. región del Xingú o los Llanos de Mojos) han refutado esta visión, demostrando:",
+    "opciones": [
+      "La existencia de cacicazgos complejos con poblaciones densas, urbanismo temprano interconectado por redes de caminos y modificación masiva del paisaje",
+      "La creación de imperios fuertemente centralizados que conquistaron militarmente los Andes orientales para extraer minerales",
+      "Que el abandono total de la región ocurrió miles de años antes de la llegada de los europeos debido a cambios climáticos glaciales",
+      "La construcción de pirámides de piedra caliza comparables a las de Tikal o Palenque ocultas bajo la densa vegetación selvática"
+    ],
+    "respuesta_correcta": "La existencia de cacicazgos complejos con poblaciones densas, urbanismo temprano interconectado por redes de caminos y modificación masiva del paisaje"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "El sistema andino de la 'Mita', aunque reconfigurado y explotado de forma devastadora durante la colonización española, tenía un origen precolombino incaico. En el contexto original del Tawantinsuyu, ¿cuál era la naturaleza esencial de la mita?",
+    "opciones": [
+      "Un sistema de tributo laboral rotativo y temporal obligatorio exigido por el Estado para obras públicas, minería o agricultura, basado en la reciprocidad",
+      "Un mercado de esclavos donde los prisioneros de guerra eran vendidos a los curacas locales para el trabajo vitalicio en las plantaciones de coca",
+      "Un diezmo agrícola anual donde las comunidades entregaban una décima parte de sus cosechas directamente a los sacerdotes del Sol",
+      "Un ritual religioso donde los jóvenes nobles demostraban su valentía mediante pruebas físicas extremas antes de asumir cargos de gobierno"
+    ],
+    "respuesta_correcta": "Un sistema de tributo laboral rotativo y temporal obligatorio exigido por el Estado para obras públicas, minería o agricultura, basado en la reciprocidad"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "La ciudad de Cahokia, ubicada cerca del actual San Luis (Misuri, EE. UU.), fue el mayor centro urbano precolombino al norte de México, floreciendo alrededor de los siglos XI y XII d.C. ¿A qué gran tradición cultural y sistema sociopolítico pertenecía esta monumental urbe caracterizada por sus montículos de tierra?",
+    "opciones": [
+      "A la Cultura Misisipiana, caracterizada por cacicazgos complejos, agricultura intensiva de maíz y la construcción de grandes túmulos de plataforma",
+      "A los Anasazi (Pueblo Ancestral), famosos por construir grandes aldeas de mampostería en acantilados y complejas redes de irrigación",
+      "A la Cultura Hopewell, destacada por sus redes de intercambio de materiales exóticos pero carente de grandes centros urbanos permanentes",
+      "A la civilización Tolteca, que estableció enclaves comerciales lejanos para la extracción de turquesa y pieles de bisonte"
+    ],
+    "respuesta_correcta": "A la Cultura Misisipiana, caracterizada por cacicazgos complejos, agricultura intensiva de maíz y la construcción de grandes túmulos de plataforma"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "En la región circumcaribe y el norte de Sudamérica, los cacicazgos Muiscas y Taironas (pertenecientes a la familia lingüística chibcha) destacaron por su notable desarrollo metalúrgico. ¿Qué técnica orfebre dominaron estas culturas de manera sobresaliente para la elaboración de objetos votivos y de prestigio (tunjos)?",
+    "opciones": [
+      "La técnica de la cera perdida y la aleación de oro y cobre conocida como tumbaga, que permitía bajar el punto de fusión y facilitar el vaciado",
+      "El forjado de hierro meteórico en frío para la creación de armaduras ligeras utilizadas por la élite guerrera",
+      "La fundición exclusiva de plata pura mediante hornos de reverbero alimentados con carbón mineral de alta montaña",
+      "El granulado y filigrana de platino, un metal cuyo punto de fusión no fue dominado en Europa hasta el siglo XVIII"
+    ],
+    "respuesta_correcta": "La técnica de la cera perdida y la aleación de oro y cobre conocida como tumbaga, que permitía bajar el punto de fusión y facilitar el vaciado"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "Entre las culturas del extremo sur de América (Patagonia y Tierra del Fuego), grupos como los Selk'nam (Onas) y Yámanas (Yaganes) desarrollaron estrategias de supervivencia altamente especializadas. Mientras los Selk'nam eran cazadores pedestres, los Yámanas se caracterizaban fundamentalmente por:",
+    "opciones": [
+      "Ser cazadores recolectores marinos (canoeros) adaptados a la navegación por los canales fueguinos para la caza de lobos marinos y recolección de mariscos",
+      "Ser agricultores sedentarios que desarrollaron variedades de tubérculos resistentes a las heladas extremas del clima subantártico",
+      "Ser pastores nómadas dedicados exclusivamente a la domesticación y cría a gran escala del guanaco patagónico",
+      "Ser una sociedad mercantil marítima que controlaba el comercio de obsidiana entre la Antártida y la Araucanía"
+    ],
+    "respuesta_correcta": "Ser cazadores recolectores marinos (canoeros) adaptados a la navegación por los canales fueguinos para la caza de lobos marinos y recolección de mariscos"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "El periodo Formativo en los Andes Centrales (aprox. 1500 - 200 a.C.) está fuertemente marcado por la influencia de la cultura Chavín. Aunque no constituyó un imperio político o militar unificado, Chavín logró una vasta hegemonía panandina. ¿Cuál fue el mecanismo principal de la expansión y consolidación de la influencia Chavín?",
+    "opciones": [
+      "La difusión de un poderoso culto religioso e iconografía estandarizada (felinos, rapaces, serpientes) irradiado desde el oráculo de Chavín de Huántar",
+      "La dominación militar directa mediante ejércitos permanentes que establecieron guarniciones en toda la costa y sierra peruanas",
+      "El control monopolístico exclusivo de los yacimientos de cinabrio de Huancavelica, esencial para los rituales funerarios de élite",
+      "La imposición forzada de una lengua única y un sistema tributario centralizado sobre las poblaciones aldeanas dispersas"
+    ],
+    "respuesta_correcta": "La difusión de un poderoso culto religioso e iconografía estandarizada (felinos, rapaces, serpientes) irradiado desde el oráculo de Chavín de Huántar"
+  },
+  {
+    "codigo_tema": "4.9.1",
+    "enunciado": "La noción de sacrificio humano en las sociedades mesoamericanas, particularmente entre los mexicas, era una práctica profundamente arraigada en su cosmovisión y obligaciones ontológicas. De acuerdo con la teología nahuatl precolombina, ¿cuál era el propósito cosmológico fundamental de ofrecer sangre y corazones (chalchihuatl) a las deidades?",
+    "opciones": [
+      "Sostener la vitalidad de los dioses (especialmente el sol) y retrasar la destrucción del universo, pagando la deuda de vida original asumida en la creación",
+      "Únicamente aterrorizar a las provincias tributarias para evitar rebeliones políticas contra el imperio",
+      "Purgar los pecados individuales de la nobleza garantizando su acceso a un paraíso reservado exclusivamente para los gobernantes",
+      "Satisfacer la sed de venganza de los espíritus de los ancestros fundadores que exigían la muerte de los extranjeros"
+    ],
+    "respuesta_correcta": "Sostener la vitalidad de los dioses (especialmente el sol) y retrasar la destrucción del universo, pagando la deuda de vida original asumida en la creación"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "ll_001", "materia": "Lengua y Literatura", "codigoTema": "2.1.1",
+    "enunciado": "Lee el siguiente fragmento: \"Sus palabras cayeron sobre el silencio como piedras en un estanque.\" ¿Qué figura retórica se utiliza?",
+    "opciones": ["Símil", "Metáfora", "Hipérbole", "Personificación"],
+    "respuestaCorrecta": "Símil",
+    "explicacionDetallada": "El símil (o comparación) establece una relación explícita de semejanza entre dos elementos usando conectores comparativos ('como', 'cual', 'parecido a'). En este caso, 'sus palabras cayeron... como piedras' compara palabras con piedras de forma explícita. La metáfora haría esa comparación sin el 'como'.",
+    "pasosResolucion": ["**Paso 1:** Identificar la figura: ¿hay comparación explícita con 'como'? Sí → Símil.", "**Paso 2:** Metáfora = comparación implícita (sin 'como'). Ej: 'Sus palabras son piedras.'", "**Paso 3:** Hipérbole = exageración; Personificación = dar cualidades humanas a objetos."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=simil+comparacion+figura+retorica+lengua"
+  },
+  {
+    "id": "ll_002", "materia": "Lengua y Literatura", "codigoTema": "2.1.1",
+    "enunciado": "\"La luna, enorme y plateada, nos miraba desde el cielo.\" La figura retórica presente es:",
+    "opciones": ["Personificación", "Metáfora", "Hipérbole", "Anáfora"],
+    "respuestaCorrecta": "Personificación",
+    "explicacionDetallada": "La personificación (o prosopopeya) atribuye cualidades o acciones humanas a seres inanimados, animales o conceptos abstractos. 'La luna... nos miraba' le atribuye la acción humana de mirar a un astro. Es una de las figuras más frecuentes en poesía y literatura.",
+    "pasosResolucion": ["**Paso 1:** La luna (inanimada) realiza la acción humana de 'mirar'.", "**Paso 2:** Atribuir acciones/cualidades humanas a objetos = personificación.", "**Paso 3:** Anáfora = repetición al inicio de versos; hipérbole = exageración desmedida."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=personificacion+prosopopeya+figura+literaria"
+  },
+  {
+    "id": "ll_003", "materia": "Lengua y Literatura", "codigoTema": "2.1.2",
+    "enunciado": "¿Cuál es la función principal de los conectores adversativos como 'pero', 'sin embargo', 'no obstante'?",
+    "opciones": ["Expresar contraste u oposición entre dos ideas", "Indicar consecuencia de una acción anterior", "Añadir información complementaria a lo dicho", "Expresar condición para que algo suceda"],
+    "respuestaCorrecta": "Expresar contraste u oposición entre dos ideas",
+    "explicacionDetallada": "Los conectores adversativos (pero, sin embargo, no obstante, aunque, a pesar de que, mas) expresan oposición o contraste entre oraciones. Ej: 'Estudió mucho, sin embargo reprobó.' Los causales (porque, ya que) expresan causa; los consecutivos (por tanto, así que) expresan consecuencia.",
+    "pasosResolucion": ["**Paso 1:** Clasificación de conectores: causales, consecutivos, adversativos, concesivos, aditivos.", "**Paso 2:** Adversativos = oposición/contraste: pero, sin embargo, no obstante, aunque.", "**Paso 3:** Aditivos (y, además, también); Consecutivos (por tanto, en consecuencia)."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=conectores+adversativos+discursivos+lengua"
+  },
+  {
+    "id": "ll_004", "materia": "Lengua y Literatura", "codigoTema": "2.1.2",
+    "enunciado": "En la oración: 'El estudiante, quien ganó el concurso, viajará a Quito.' La proposición subrayada 'quien ganó el concurso' es:",
+    "opciones": ["Oración subordinada adjetiva explicativa", "Oración coordinada copulativa", "Oración subordinada adverbial de tiempo", "Oración subordinada sustantiva sujeto"],
+    "respuestaCorrecta": "Oración subordinada adjetiva explicativa",
+    "explicacionDetallada": "Las oraciones subordinadas adjetivas modifican a un sustantivo (antecedente). Las explicativas van entre comas y añaden información adicional no esencial (como un paréntesis). Las especificativas no llevan comas y restringen el significado del antecedente. 'Quien ganó el concurso' explica al 'estudiante' sin restringirlo.",
+    "pasosResolucion": ["**Paso 1:** ¿Qué modifica la proposición? Al sustantivo 'estudiante' → es adjetiva.", "**Paso 2:** ¿Va entre comas? Sí → es explicativa (información adicional, no esencial).", "**Paso 3:** Sin comas sería especificativa: 'El estudiante que ganó el concurso viajará a Quito.'"],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=oracion+subordinada+adjetiva+explicativa+especificativa"
+  },
+  {
+    "id": "ll_005", "materia": "Lengua y Literatura", "codigoTema": "2.2.1",
+    "enunciado": "¿Cuál de los siguientes textos corresponde al género narrativo?",
+    "opciones": ["Un cuento que narra las aventuras de un personaje en la selva amazónica", "Un poema que expresa el dolor de la pérdida de un ser querido", "Un ensayo que argumenta sobre el cambio climático", "Una obra de teatro con diálogos entre personajes"],
+    "respuestaCorrecta": "Un cuento que narra las aventuras de un personaje en la selva amazónica",
+    "explicacionDetallada": "Los géneros literarios son: narrativo (cuento, novela, epopeya), lírico/poético (expresa sentimientos del yo lírico), dramático (teatro, diálogo para ser representado) y ensayístico (opinión argumentada). El cuento es un texto narrativo breve con narrador, personajes, espacio, tiempo y argumento.",
+    "pasosResolucion": ["**Paso 1:** Narrativo: narrador cuenta una historia (cuento, novela, crónica).", "**Paso 2:** Lírico: expresión de sentimientos en primera persona (poema, oda, elegía).", "**Paso 3:** Dramático: diálogos para representación (tragedia, comedia, drama)."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=generos+literarios+narrativo+lirico+dramatico"
+  },
+  {
+    "id": "ll_006", "materia": "Lengua y Literatura", "codigoTema": "2.2.1",
+    "enunciado": "En la estructura narrativa clásica, el momento de mayor tensión o conflicto en la trama se denomina:",
+    "opciones": ["Clímax", "Planteamiento", "Desenlace", "Nudo"],
+    "respuestaCorrecta": "Clímax",
+    "explicacionDetallada": "La estructura narrativa clásica: Planteamiento (presentación de personajes y situación) → Nudo (desarrollo del conflicto) → Clímax (punto de máxima tensión o punto de giro) → Desenlace (resolución del conflicto). El clímax es el momento culminante que determina el final.",
+    "pasosResolucion": ["**Paso 1:** Estructura: Planteamiento → Nudo → Clímax → Desenlace.", "**Paso 2:** Clímax = momento de mayor tensión, punto de no retorno.", "**Paso 3:** El desenlace es la resolución DESPUÉS del clímax."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=estructura+narrativa+climax+nudo+desenlace"
+  },
+  {
+    "id": "ll_007", "materia": "Lengua y Literatura", "codigoTema": "2.1.3",
+    "enunciado": "¿En cuál de las siguientes oraciones se usa correctamente la tilde diacrítica?",
+    "opciones": ["No sé si vendrás hoy", "El libro es de el", "Te doy este regalo para que", "Mas tarde vendrá"],
+    "respuestaCorrecta": "No sé si vendrás hoy",
+    "explicacionDetallada": "La tilde diacrítica distingue palabras que se escriben igual pero tienen diferente función. 'Sé' (verbo saber o verbo ser) lleva tilde, mientras 'se' (pronombre) no. 'él' (pronombre personal) vs 'el' (artículo); 'más' (adverbio cantidad) vs 'mas' (conjunción adversativa = pero).",
+    "pasosResolucion": ["**Paso 1:** 'sé' = verbo saber/ser → lleva tilde diacrítica.", "**Paso 2:** 'de él' → 'él' = pronombre personal → lleva tilde (vs 'el' artículo).", "**Paso 3:** 'más tarde' → 'más' = adverbio de cantidad → lleva tilde (vs 'mas' = pero)."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=tilde+diacritica+se+el+mas+espanol"
+  },
+  {
+    "id": "ll_008", "materia": "Lengua y Literatura", "codigoTema": "2.1.3",
+    "enunciado": "Las palabras agudas (oxítonas) llevan tilde cuando terminan en:",
+    "opciones": ["N, S o vocal", "Consonante distinta de N y S", "Cualquier consonante", "Solo cuando terminan en vocal"],
+    "respuestaCorrecta": "N, S o vocal",
+    "explicacionDetallada": "Reglas de acentuación: Agudas (acento en última sílaba) llevan tilde si terminan en N, S o vocal. Ej: camión, compás, café. Llanas (acento en penúltima) llevan tilde si NO terminan en N, S o vocal. Ej: árbol, lápiz. Esdrújulas y sobresdrújulas SIEMPRE llevan tilde.",
+    "pasosResolucion": ["**Paso 1:** Aguda = acento en última sílaba. Tilde si termina en N, S o vocal.", "**Paso 2:** Llana = acento en penúltima. Tilde si termina en consonante distinta de N/S.", "**Paso 3:** Esdrújula = acento en antepenúltima. SIEMPRE lleva tilde."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=reglas+acentuacion+agudas+llanas+esdrujulas+espanol"
+  },
+  {
+    "id": "ll_009", "materia": "Lengua y Literatura", "codigoTema": "2.2.2",
+    "enunciado": "Gabriel García Márquez es el principal representante del Realismo Mágico latinoamericano. ¿Cuál de sus obras es considerada su obra maestra?",
+    "opciones": ["Cien años de soledad", "El coronel no tiene quien le escriba", "El amor en los tiempos del cólera", "La hojarasca"],
+    "respuestaCorrecta": "Cien años de soledad",
+    "explicacionDetallada": "Cien años de soledad (1967) narra la historia de la familia Buendía en el pueblo ficticio de Macondo durante cien años. Considerada obra cumbre del realismo mágico y del Boom latinoamericano. Le valió a García Márquez el Premio Nobel de Literatura en 1982. El Realismo Mágico mezcla lo cotidiano con elementos fantásticos.",
+    "pasosResolucion": ["**Paso 1:** Realismo Mágico = mezcla de realidad cotidiana con elementos fantásticos naturalizados.", "**Paso 2:** García Márquez = Nobel 1982; obra cumbre = Cien años de soledad (1967).", "**Paso 3:** Boom latinoamericano: Cortázar (Rayuela), Vargas Llosa (La ciudad y los perros), Fuentes."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=cien+anos+soledad+garcia+marquez+realismo+magico"
+  },
+  {
+    "id": "ll_010", "materia": "Lengua y Literatura", "codigoTema": "2.2.2",
+    "enunciado": "Juan Montalvo fue un destacado escritor ecuatoriano del siglo XIX, conocido por sus escritos en defensa de la libertad y en contra de la tiranía. Su obra más representativa es:",
+    "opciones": ["Las Catilinarias", "Huasipungo", "Baldomera", "La emancipada"],
+    "respuestaCorrecta": "Las Catilinarias",
+    "explicacionDetallada": "Juan Montalvo (Ambato, 1832-1889) fue un ensayista y polemista ecuatoriano. Las Catilinarias (1880-1882) son una serie de ensayos políticos atacando la dictadura de Ignacio de Veintemilla. Montalvo también escribió Siete Tratados. Huasipungo es de Jorge Icaza (indigenismo); La emancipada es de Miguel Riofrío.",
+    "pasosResolucion": ["**Paso 1:** Juan Montalvo = ensayista, liberal, siglo XIX Ecuador.", "**Paso 2:** Las Catilinarias = ensayos políticos contra Veintemilla (dictador).", "**Paso 3:** Huasipungo (Icaza) = indigenismo; La emancipada (Riofrío) = primera novela ecuatoriana."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=Juan+Montalvo+Catilinarias+literatura+ecuatoriana"
+  },
+  {
+    "id": "ll_011", "materia": "Lengua y Literatura", "codigoTema": "2.1.1",
+    "enunciado": "La hipérbole es una figura literaria que consiste en:",
+    "opciones": ["Exagerar una realidad para enfatizarla, sin pretender ser tomada literalmente", "Describir una cosa con términos propios de otra por semejanza oculta", "Repetir una estructura al inicio de versos o frases", "Sustituir una palabra por otra de significado relacionado"],
+    "respuestaCorrecta": "Exagerar una realidad para enfatizarla, sin pretender ser tomada literalmente",
+    "explicacionDetallada": "La hipérbole magnifica o minimiza exageradamente la realidad con fines expresivos. Ej: 'Te lo he dicho un millón de veces.' La metáfora es comparación implícita; la anáfora es repetición inicial; la metonimia sustituye por contigüidad (ej. 'bebió una copa' en lugar de 'bebió vino').",
+    "pasosResolucion": ["**Paso 1:** Hipérbole = exageración intencional ('Tengo mil tareas').", "**Paso 2:** No pretende ser literal → función expresiva o humorística.", "**Paso 3:** Metáfora = comparación sin 'como'; Metonimia = relación de contigüidad."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=hiperbole+figura+retorica+exageracion+ejemplos"
+  },
+  {
+    "id": "ll_012", "materia": "Lengua y Literatura", "codigoTema": "2.2.3",
+    "enunciado": "¿Cuál es la característica principal que distingue al texto expositivo del texto argumentativo?",
+    "opciones": ["El expositivo informa objetivamente; el argumentativo defiende una tesis con razonamientos", "El expositivo utiliza lenguaje poético; el argumentativo usa lenguaje técnico", "El expositivo es siempre más largo que el argumentativo", "El argumentativo nunca incluye datos o estadísticas"],
+    "respuestaCorrecta": "El expositivo informa objetivamente; el argumentativo defiende una tesis con razonamientos",
+    "explicacionDetallada": "El texto expositivo presenta información de manera objetiva y clara (enciclopedias, artículos científicos). El texto argumentativo tiene como fin persuadir o convencer al receptor mediante una tesis, argumentos y conclusión (ensayos, editoriales, debates). Ambos pueden usar datos, pero el argumentativo tiene intención persuasiva.",
+    "pasosResolucion": ["**Paso 1:** Expositivo = informa, explica objetivamente (Wikipedia, manual de instrucciones).", "**Paso 2:** Argumentativo = defiende una postura (tesis + argumentos + conclusión).", "**Paso 3:** Estructura argumentativa: Introducción (tesis) → Desarrollo (argumentos) → Conclusión."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=texto+expositivo+vs+argumentativo+diferencias"
+  },
+  {
+    "id": "ll_013", "materia": "Lengua y Literatura", "codigoTema": "2.1.4",
+    "enunciado": "¿Cuál es la diferencia entre un sustantivo concreto y un sustantivo abstracto?",
+    "opciones": ["El concreto designa realidades perceptibles por los sentidos; el abstracto designa ideas o conceptos", "El concreto siempre es masculino; el abstracto siempre es femenino", "El concreto no puede pluralizarse; el abstracto sí", "El concreto es siempre contable; el abstracto nunca se pluraliza"],
+    "respuestaCorrecta": "El concreto designa realidades perceptibles por los sentidos; el abstracto designa ideas o conceptos",
+    "explicacionDetallada": "Sustantivos concretos: designan seres o cosas perceptibles (mesa, perro, agua). Sustantivos abstractos: designan ideas, sentimientos o cualidades sin existencia material (amor, justicia, belleza, libertad). Otros tipos: propio/común, individual/colectivo, contable/no contable.",
+    "pasosResolucion": ["**Paso 1:** Concreto = se puede ver, tocar, oler (libro, árbol, lluvia).", "**Paso 2:** Abstracto = existe solo como concepto (esperanza, tristeza, democracia).", "**Paso 3:** Colectivo = un solo sustantivo refiere a un grupo (bandada, rebaño, jauría)."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=sustantivo+concreto+abstracto+diferencia+espanol"
+  },
+  {
+    "id": "ll_014", "materia": "Lengua y Literatura", "codigoTema": "2.1.4",
+    "enunciado": "En la oración: 'María habla rápidamente', la palabra 'rápidamente' cumple la función de:",
+    "opciones": ["Adverbio de modo que modifica al verbo 'habla'", "Adjetivo que modifica al sustantivo 'María'", "Sustantivo en función de complemento directo", "Preposición que introduce un complemento circunstancial"],
+    "respuestaCorrecta": "Adverbio de modo que modifica al verbo 'habla'",
+    "explicacionDetallada": "Los adverbios modifican a verbos, adjetivos u otros adverbios. 'Rápidamente' responde a '¿cómo habla?', por lo que es adverbio de modo. Los adverbios terminados en '-mente' siempre son de modo. Los adjetivos modifican sustantivos; los sustantivos pueden ser sujeto, CD, CI, etc.",
+    "pasosResolucion": ["**Paso 1:** ¿Qué modifica 'rápidamente'? Al verbo 'habla'.", "**Paso 2:** ¿Qué pregunta responde? ¿Cómo? = adverbio de modo.", "**Paso 3:** Terminación '-mente' es característica de los adverbios de modo en español."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=adverbio+modo+mente+funcion+gramatica+espanol"
+  },
+  {
+    "id": "ll_015", "materia": "Lengua y Literatura", "codigoTema": "2.2.4",
+    "enunciado": "El movimiento literario del Romanticismo se caracteriza por:",
+    "opciones": ["Exaltación de los sentimientos, la naturaleza, la libertad individual y lo sobrenatural", "Búsqueda de la razón, el orden clásico y las normas formales estrictas", "Denuncia social de la injusticia económica desde una perspectiva objetiva", "Experimentación con el lenguaje y ruptura de la sintaxis convencional"],
+    "respuestaCorrecta": "Exaltación de los sentimientos, la naturaleza, la libertad individual y lo sobrenatural",
+    "explicacionDetallada": "El Romanticismo (siglos XVIII-XIX) se opone al racionalismo del Neoclasicismo. Sus rasgos: subjetivismo, exaltación de emociones, amor a la naturaleza, idealismo, gusto por lo sobrenatural y medievalismo. El Realismo/Naturalismo posterior buscará objetividad social. El Vanguardismo rompe las formas.",
+    "pasosResolucion": ["**Paso 1:** Romanticismo = sentimientos + naturaleza + libertad (oposición al racionalismo).", "**Paso 2:** Neoclasicismo = razón + orden + normas clásicas (anterior al Romanticismo).", "**Paso 3:** Línea temporal: Barroco → Neoclasicismo → Romanticismo → Realismo → Modernismo → Vanguardia."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=romanticismo+caracteristicas+literatura+siglo+XIX"
+  },
+  {
+    "id": "cs_001", "materia": "Ciencias Sociales", "codigoTema": "4.1.1",
+    "enunciado": "¿En qué año y con qué tratado se establecieron definitivamente las fronteras entre Ecuador y Perú, poniendo fin a las disputas territoriales del siglo XX?",
+    "opciones": ["1998, Acuerdo de Paz de Brasilia", "1941, Protocolo de Río de Janeiro", "1960, Tratado de Límites de Lima", "1979, Acuerdo de Itamaraty"],
+    "respuestaCorrecta": "1998, Acuerdo de Paz de Brasilia",
+    "explicacionDetallada": "El Acuerdo de Paz de Brasilia (26 de octubre de 1998) puso fin definitivo al conflicto territorial entre Ecuador y Perú. Fue mediado por Argentina, Brasil, Chile y EE.UU. (garantes del Protocolo de Río de Janeiro de 1942). El tratado estableció la frontera definitiva y creó zonas de integración binacional.",
+    "pasosResolucion": ["**Paso 1:** Conflicto Ecuador-Perú tiene raíces coloniales (Real Audiencia de Quito).", "**Paso 2:** Protocolo de Río (1942) fue rechazado por Ecuador → tensiones persistentes.", "**Paso 3:** Guerra del Cenepa (1995) → Acuerdo de Paz de Brasilia (1998) → solución definitiva."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=Acuerdo+Paz+Brasilia+1998+Ecuador+Peru+frontera"
+  },
+  {
+    "id": "cs_002", "materia": "Ciencias Sociales", "codigoTema": "4.1.1",
+    "enunciado": "La Revolución Juliana de 1925 en Ecuador fue liderada por:",
+    "opciones": ["Un grupo de jóvenes militares que depuso al gobierno plutocráticode la banca guayaquileña", "Eloy Alfaro, quien inició la Revolución Liberal desde Manabí", "El Partido Conservador para restaurar la influencia de la Iglesia Católica", "Los obreros y campesinos organizados en sindicatos nacionales"],
+    "respuestaCorrecta": "Un grupo de jóvenes militares que depuso al gobierno plutocráticode la banca guayaquileña",
+    "explicacionDetallada": "La Revolución Juliana (9 de julio de 1925) fue un golpe de Estado de jóvenes oficiales militares (Liga Militar) contra la plutocracia bancaria de Guayaquil, especialmente el Banco Comercial y Agrícola y su influencia sobre el gobierno. Estableció instituciones como el Banco Central del Ecuador y la Contraloría General.",
+    "pasosResolucion": ["**Paso 1:** Plutocracia = gobierno de los ricos; en Ecuador = banca guayaquileña dominaba política.", "**Paso 2:** Juliana (1925) = Liga Militar depone al gobierno → reformas modernizadoras del Estado.", "**Paso 3:** Consecuencias: Banco Central del Ecuador, Contraloría General, inicio del Estado moderno."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=Revolucion+Juliana+1925+Ecuador+historia"
+  },
+  {
+    "id": "cs_003", "materia": "Ciencias Sociales", "codigoTema": "4.1.2",
+    "enunciado": "¿Cuál fue el principal aporte de la Revolución Francesa (1789) a la política moderna?",
+    "opciones": ["La formulación de los principios de Libertad, Igualdad y Fraternidad y la Declaración de los Derechos del Hombre y del Ciudadano", "El establecimiento del sistema capitalista como modelo económico global", "La unificación de Europa bajo un solo gobierno republicano", "La abolición definitiva de la monarquía en todos los países europeos"],
+    "respuestaCorrecta": "La formulación de los principios de Libertad, Igualdad y Fraternidad y la Declaración de los Derechos del Hombre y del Ciudadano",
+    "explicacionDetallada": "La Revolución Francesa (1789) derrocó el Antiguo Régimen (monarquía absoluta + aristocracia + clero privilegiado). Sus aportes: Declaración de los Derechos del Hombre y del Ciudadano (26 ago. 1789), soberanía nacional, separación de poderes, ciudadanía moderna. Sus ideas inspiraron las independencias americanas.",
+    "pasosResolucion": ["**Paso 1:** Causas: desigualdad social (Estamentos), crisis económica, ilustración.", "**Paso 2:** Aportes: soberanía popular, derechos humanos, laicismo, separación Iglesia-Estado.", "**Paso 3:** Influencia: independencias latinoamericanas (Bolívar, San Martín leyeron a los ilustrados)."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=Revolucion+Francesa+1789+aportes+derechos+hombre"
+  },
+  {
+    "id": "cs_004", "materia": "Ciencias Sociales", "codigoTema": "4.1.2",
+    "enunciado": "¿En qué año proclamó Ecuador su Independencia definitiva de España y cuál fue la batalla que la selló?",
+    "opciones": ["1822, Batalla de Pichincha", "1809, Primer Grito de Independencia de Quito", "1830, Separación de la Gran Colombia", "1820, Independencia de Guayaquil"],
+    "respuestaCorrecta": "1822, Batalla de Pichincha",
+    "explicacionDetallada": "El 24 de mayo de 1822, la Batalla de Pichincha (en las faldas del volcán Pichincha) selló la Independencia de Quito del dominio español. El mariscal Antonio José de Sucre lideró las tropas patriotas. El 10 de agosto de 1809 fue el Primer Grito de Independencia (no consumado). Ecuador como república nació en 1830 al separarse de la Gran Colombia.",
+    "pasosResolucion": ["**Paso 1:** 10 agosto 1809 = Primer Grito de Independencia de Quito (no consolidado).", "**Paso 2:** 24 mayo 1822 = Batalla de Pichincha → Independencia del dominio español.", "**Paso 3:** 13 mayo 1830 = Ecuador nace como república al separarse de la Gran Colombia."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=Batalla+Pichincha+1822+independencia+Ecuador+Sucre"
+  },
+  {
+    "id": "cs_005", "materia": "Ciencias Sociales", "codigoTema": "4.2.1",
+    "enunciado": "Según la Constitución de Ecuador de 2008, ¿cómo se denomina el modelo de desarrollo que propone el 'Buen Vivir' o Sumak Kawsay?",
+    "opciones": ["Un sistema de vida en armonía con la naturaleza y la comunidad, basado en cosmovisiones ancestrales", "Un modelo de crecimiento económico ilimitado basado en el PIB per cápita", "Un sistema de gobierno tecnocrático basado en la eficiencia burocrática", "Un modelo de desarrollo humano basado exclusivamente en el progreso tecnológico"],
+    "respuestaCorrecta": "Un sistema de vida en armonía con la naturaleza y la comunidad, basado en cosmovisiones ancestrales",
+    "explicacionDetallada": "El Sumak Kawsay (Buen Vivir en kichwa) fue incorporado en la Constitución de Ecuador de 2008. Propone una alternativa al desarrollo capitalista clásico: armonía con la Pachamama (naturaleza), comunidad, reciprocidad e identidad cultural. Ecuador fue pionero al incluir derechos de la naturaleza en su constitución.",
+    "pasosResolucion": ["**Paso 1:** Constitución 2008 (aprobada por referéndum) = Sumak Kawsay como principio rector.", "**Paso 2:** Ecuador = primer país en dar derechos constitucionales a la naturaleza (Pachamama).", "**Paso 3:** Críticas: tensión entre Buen Vivir y extractivismo (petróleo, minería) en la práctica."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=Sumak+Kawsay+Buen+Vivir+Constitucion+Ecuador+2008"
+  },
+  {
+    "id": "cs_006", "materia": "Ciencias Sociales", "codigoTema": "4.2.1",
+    "enunciado": "¿Cuántas regiones naturales tiene el Ecuador continental y cuáles son?",
+    "opciones": ["4 regiones: Costa, Sierra, Amazonía (Oriente) y Galápagos", "3 regiones: Costa, Sierra y Amazonía solamente", "5 regiones: Norte, Centro, Sur, Costa y Sierra", "2 regiones: Litoral e Interior andino"],
+    "respuestaCorrecta": "4 regiones: Costa, Sierra, Amazonía (Oriente) y Galápagos",
+    "explicacionDetallada": "Ecuador tiene 4 regiones: Costa (Litoral), Sierra (Andina), Amazonía (Oriente) y la región Insular (Archipiélago de Galápagos). Cada una tiene características geográficas, climáticas, culturales y productivas distintas. La Sierra tiene los Andes con cumbres como el Chimborazo (6.268 m) y el Cotopaxi.",
+    "pasosResolucion": ["**Paso 1:** Costa = cordillera costera, clima tropical-húmedo, principal puerto (Guayaquil).", "**Paso 2:** Sierra = Andes, clima templado, capital (Quito), nevados y volcanes.", "**Paso 3:** Amazonía = Oriente, bosque tropical húmedo; Galápagos = islas volcánicas (Patrimonio UNESCO)."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=regiones+naturales+Ecuador+Costa+Sierra+Amazonia+Galapagos"
+  },
+  {
+    "id": "cs_007", "materia": "Ciencias Sociales", "codigoTema": "4.2.2",
+    "enunciado": "¿Cuál es la función principal del Banco Central del Ecuador en la economía nacional?",
+    "opciones": ["Regular la política monetaria y financiera, y emitir estadísticas económicas del país", "Otorgar créditos directamente a los ciudadanos", "Controlar el precio de los productos de la canasta básica", "Administrar los ingresos por exportaciones petroleras"],
+    "respuestaCorrecta": "Regular la política monetaria y financiera, y emitir estadísticas económicas del país",
+    "explicacionDetallada": "El Banco Central del Ecuador (BCE), creado en 1927 tras la Revolución Juliana, es la autoridad monetaria del país. Con la dolarización (2000), perdió la capacidad de emitir moneda, pero mantiene funciones de estadísticas económicas, regulación financiera, sistema de pagos y reservas internacionales.",
+    "pasosResolucion": ["**Paso 1:** BCE fundado en 1927 → antes: banca privada emitía billetes (caos monetario).", "**Paso 2:** Dolarización (2000): Ecuador adopta el USD → BCE ya no emite moneda propia.", "**Paso 3:** Funciones actuales: estadísticas, sistema de pagos, custodia de reservas."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=Banco+Central+Ecuador+funciones+dolarizacion"
+  },
+  {
+    "id": "cs_008", "materia": "Ciencias Sociales", "codigoTema": "4.1.3",
+    "enunciado": "¿Cuál de las siguientes obras describe la situación de explotación de los indígenas en las haciendas de Ecuador a principios del siglo XX?",
+    "opciones": ["Huasipungo (Jorge Icaza, 1934)", "El éxodo de Yangana (Ángel Felicísimo Rojas)", "A la Costa (Luis A. Martínez)", "Cumandá (Juan León Mera)"],
+    "respuestaCorrecta": "Huasipungo (Jorge Icaza, 1934)",
+    "explicacionDetallada": "Huasipungo (1934) de Jorge Icaza es la novela más representativa del Indigenismo ecuatoriano. Narra la brutal explotación de los indígenas en las haciendas serranas. El protagonista Andrés Chiliquinga y su familia son víctimas del hacendado Alfonso Pereira y la expropiación de su huasipungo (terreno de la hacienda). Fue traducida a 30 idiomas.",
+    "pasosResolucion": ["**Paso 1:** Indigenismo = movimiento artístico-literario que denuncia la explotación indígena.", "**Paso 2:** Jorge Icaza (1906-1978) = principal indigenista ecuatoriano → Huasipungo (1934).", "**Paso 3:** Cumandá (Mera) = romanticismo; A la Costa (Martínez) = realismo; Grupo de Guayaquil = realismo social."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=Huasipungo+Jorge+Icaza+indigenismo+ecuatoriano"
+  },
+  {
+    "id": "cs_009", "materia": "Ciencias Sociales", "codigoTema": "4.3.1",
+    "enunciado": "La Segunda Guerra Mundial (1939-1945) terminó en Europa con:",
+    "opciones": ["La rendición incondicional de Alemania el 8 de mayo de 1945 (Día V-E)", "La firma del Tratado de Versalles en 1945", "La rendición de Japón tras las bombas atómicas", "El desembarco aliado en Normandía en 1944"],
+    "respuestaCorrecta": "La rendición incondicional de Alemania el 8 de mayo de 1945 (Día V-E)",
+    "explicacionDetallada": "La Segunda Guerra Mundial en Europa terminó el 8 de mayo de 1945 (Día V-E, Victory in Europe) con la rendición incondicional de Alemania Nazi tras la caída de Berlín y el suicidio de Hitler (30 abril). En el Pacífico, Japón se rindió el 15 agosto 1945 tras las bombas atómicas en Hiroshima (6 ago) y Nagasaki (9 ago).",
+    "pasosResolucion": ["**Paso 1:** Teatro europeo: Alemania rinde 8 mayo 1945 → Día V-E (Victory in Europe).", "**Paso 2:** Teatro Pacífico: Hiroshima 6 ago + Nagasaki 9 ago → Japón rinde 15 ago 1945 → V-J Day.", "**Paso 3:** Tratado de Versalles = 1919 (fin de la 1ª Guerra Mundial, no la 2ª)."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=segunda+guerra+mundial+rendicion+Alemania+1945"
+  },
+  {
+    "id": "cs_010", "materia": "Ciencias Sociales", "codigoTema": "4.3.1",
+    "enunciado": "La Revolución Industrial del siglo XVIII se inició en:",
+    "opciones": ["Gran Bretaña, con la invención de la máquina de vapor y la mecanización textil", "Francia, con el movimiento enciclopedista y la Revolución Francesa", "Estados Unidos, con el desarrollo del ferrocarril transcontinental", "Alemania, con el desarrollo de la industria siderúrgica"],
+    "respuestaCorrecta": "Gran Bretaña, con la invención de la máquina de vapor y la mecanización textil",
+    "explicacionDetallada": "La Primera Revolución Industrial (1760-1840) se inició en Gran Bretaña. Factores clave: abundancia de carbón y hierro, estabilidad política, colonias como mercados y fuentes de materias primas, y la invención de la máquina de vapor (James Watt, 1769). La industria textil fue la primera en mecanizarse.",
+    "pasosResolucion": ["**Paso 1:** Rev. Industrial I (1760-1840): Gran Bretaña → carbón + vapor + textiles.", "**Paso 2:** James Watt (1769) perfeccionó la máquina de vapor → aplicación industrial.", "**Paso 3:** Rev. Industrial II (1870-1914): electricidad + petróleo + acero → EEUU y Alemania."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=revolucion+industrial+Gran+Bretana+maquina+vapor"
+  },
+  {
+    "id": "cs_011", "materia": "Ciencias Sociales", "codigoTema": "4.2.3",
+    "enunciado": "¿Cuál es la diferencia fundamental entre un sistema democrático y uno autoritario?",
+    "opciones": ["En la democracia, el poder emana del pueblo y existe separación de poderes; en el autoritarismo, el poder se concentra en una persona o grupo sin controles", "En la democracia, las decisiones las toman los expertos técnicos; en el autoritarismo, las toma el pueblo", "La democracia es siempre más eficiente económicamente que el autoritarismo", "El autoritarismo permite mayor participación ciudadana en las decisiones gubernamentales"],
+    "respuestaCorrecta": "En la democracia, el poder emana del pueblo y existe separación de poderes; en el autoritarismo, el poder se concentra en una persona o grupo sin controles",
+    "explicacionDetallada": "La democracia se basa en: soberanía popular, elecciones libres, separación de poderes, derechos fundamentales garantizados y Estado de Derecho. El autoritarismo concentra el poder, limita libertades, suprime la oposición y carece de controles independientes. Variantes: totalitarismo (control total de la vida) y autoritarismo clásico.",
+    "pasosResolucion": ["**Paso 1:** Democracia = poder del pueblo (demos=pueblo, kratos=poder en griego).", "**Paso 2:** Separación de poderes (Montesquieu): Ejecutivo, Legislativo, Judicial → controles mutuos.", "**Paso 3:** Autoritarismo = concentración de poder → supresión de oposición y libertades."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=democracia+autoritarismo+diferencias+sistemas+politicos"
+  },
+  {
+    "id": "cs_012", "materia": "Ciencias Sociales", "codigoTema": "4.1.1",
+    "enunciado": "La Revolución Liberal en Ecuador fue liderada por Eloy Alfaro y triunfó en 1895. ¿Cuál fue uno de sus principales logros?",
+    "opciones": ["La separación de la Iglesia del Estado, la educación laica y el matrimonio civil", "La creación del Banco Central del Ecuador y la reforma agraria", "La independencia de Ecuador de la Gran Colombia", "La firma del tratado de paz definitivo con Perú"],
+    "respuestaCorrecta": "La separación de la Iglesia del Estado, la educación laica y el matrimonio civil",
+    "explicacionDetallada": "La Revolución Liberal (1895) de Eloy Alfaro transformó Ecuador: separó la Iglesia del Estado, estableció la educación laica y gratuita, instituyó el matrimonio civil y el divorcio, expropió bienes de la Iglesia, liberó a los huasipungueros del concertaje y construyó el Ferrocarril Transandino (Guayaquil-Quito).",
+    "pasosResolucion": ["**Paso 1:** Eloy Alfaro = Viejo Luchador; Revolución Liberal de 1895 desde Manabí.", "**Paso 2:** Logros: Estado laico, educación pública laica, matrimonio civil, divorcio.", "**Paso 3:** Ferrocarril Transandino (1908) = integración nacional; Alfaro asesinado en 1912."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=Eloy+Alfaro+Revolucion+Liberal+Ecuador+1895"
+  },
+  {
+    "id": "cs_013", "materia": "Ciencias Sociales", "codigoTema": "4.3.2",
+    "enunciado": "¿Qué es la globalización y cuál es uno de sus efectos negativos más reconocidos?",
+    "opciones": ["Proceso de interconexión mundial; efecto negativo: aumento de desigualdades entre países ricos y pobres", "Proceso de industrialización local; efecto: aumento del empleo en países en vías de desarrollo", "Sistema político que favorece los derechos de las minorías en el ámbito internacional", "Modelo educativo que homogeniza el conocimiento científico a nivel global"],
+    "respuestaCorrecta": "Proceso de interconexión mundial; efecto negativo: aumento de desigualdades entre países ricos y pobres",
+    "explicacionDetallada": "La globalización es el proceso de integración y interdependencia mundial en economía, política, cultura y tecnología. Efectos positivos: acceso a información, comercio, innovación tecnológica. Efectos negativos: aumento de desigualdades Norte-Sur, pérdida de culturas locales, dependencia de mercados globales, desindustrialización en países en desarrollo.",
+    "pasosResolucion": ["**Paso 1:** Globalización = interconexión económica, cultural y política a escala mundial.", "**Paso 2:** Impulsada por: TICs, desregulación financiera, liberalización comercial (OMC).", "**Paso 3:** Crítica: beneficia a países desarrollados; países periféricos = dependencia + desigualdad."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=globalizacion+efectos+positivos+negativos+desigualdad"
+  },
+  {
+    "id": "cs_014", "materia": "Ciencias Sociales", "codigoTema": "4.2.4",
+    "enunciado": "La UNASUR (Unión de Naciones Suramericanas) fue creada principalmente para:",
+    "opciones": ["Fomentar la integración política, económica, social y cultural de los países de América del Sur", "Establecer un área de libre comercio con los Estados Unidos", "Coordinar las fuerzas militares de América del Sur bajo mando único", "Reemplazar a la OEA como organismo internacional de DDHH"],
+    "respuestaCorrecta": "Fomentar la integración política, económica, social y cultural de los países de América del Sur",
+    "explicacionDetallada": "La UNASUR fue fundada en 2008 con sede en Quito. Agrupa a 12 países suramericanos y busca la integración en múltiples dimensiones. Ecuador jugó un rol destacado en su creación. Desde 2019 varios países se retiraron o suspendieron participación. Su sede permanente fue la Ciudad de la Mitad del Mundo en Quito.",
+    "pasosResolucion": ["**Paso 1:** UNASUR = 12 países suramericanos → integración política y económica.", "**Paso 2:** Sede: Quito, Ecuador; secretaría rotativa entre países.", "**Paso 3:** Organismos regionales: CELAC, CAN (Comunidad Andina), MERCOSUR, ALBA."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=UNASUR+integracion+suramericana+organismos+regionales"
+  },
+  {
+    "id": "cs_015", "materia": "Ciencias Sociales", "codigoTema": "4.1.4",
+    "enunciado": "¿Cuál es el nombre del héroe ecuatoriano que fue el primero en gritar la Independencia el 10 de agosto de 1809 en Quito?",
+    "opciones": ["Juan Pío Montúfar (Marqués de Selva Alegre) encabezó la Junta Soberana", "Simón Bolívar lideró el movimiento independentista quiteño", "Antonio José de Sucre organizó la revolución de 1809", "Vicente Rocafuerte fue el primer presidente de esa junta patriota"],
+    "respuestaCorrecta": "Juan Pío Montúfar (Marqués de Selva Alegre) encabezó la Junta Soberana",
+    "explicacionDetallada": "El 10 de agosto de 1809, la Junta Soberana de Quito depuso al presidente de la Real Audiencia de Quito. Juan Pío Montúfar, Marqués de Selva Alegre, presidió esa junta. También participaron Manuel Quiroga, Juan de Dios Morales y otros. La junta duró solo 74 días antes de ser reprimida por tropas realistas.",
+    "pasosResolucion": ["**Paso 1:** 10 agosto 1809 = Primer Grito de Independencia de Quito (no consolidado).", "**Paso 2:** Junta Soberana presidida por Juan Pío Montúfar (Marqués de Selva Alegre).", "**Paso 3:** Reprimida en 74 días; mártires de agosto 2 de 1810 en el Cuartel Real de Lima."],
+    "videoExplicativoUrl": "https://www.youtube.com/results?search_query=10+agosto+1809+primer+grito+independencia+Quito"
+  }
+]
