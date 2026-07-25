@@ -15,19 +15,7 @@ Puedes descargar la última versión compilada (APK) directamente desde la secci
 
 *(Nota: Deberás habilitar "Instalar aplicaciones de fuentes desconocidas" en tu dispositivo Android).*
 
----
 
-## 📸 Capturas de Pantalla
-
-| Dashboard y Progreso | Simulacro Específico |
-|:---:|:---:|
-| <img src="docs/screenshots/media__1784983421940.png" width="250"> | <img src="docs/screenshots/media__1784983428032.png" width="250"> |
-
-| Preguntas y Opciones | Teoría con LaTeX |
-|:---:|:---:|
-| <img src="docs/screenshots/media__1784983435847.png" width="250"> | <img src="docs/screenshots/media__1784949514835.png" width="250"> |
-
-*(Las capturas muestran un ejemplo de navegación, preguntas y soporte de fórmulas matemáticas complejas).*
 
 ---
 
