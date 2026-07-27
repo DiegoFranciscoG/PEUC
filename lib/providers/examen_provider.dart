@@ -155,13 +155,13 @@ class ExamenNotifier extends StateNotifier<ExamenState> {
     _cancelAllTimers();
 
     final db = DBHelper();
-    // Examen de 60 preguntas: Matemáticas(15), Lengua(15), Naturales(10), Sociales(10), Abstracto(10)
+    // Examen de 60 preguntas: Matemáticas(12), Lengua(12), Naturales(12), Sociales(12), Abstracto(12)
     List<Pregunta> lista = [];
-    lista.addAll(await db.getSimulacroPorMateria('Matemáticas', 15));
-    lista.addAll(await db.getSimulacroPorMateria('Lengua y Literatura', 15));
-    lista.addAll(await db.getSimulacroPorMateria('Ciencias Naturales', 10)); // DB will have theoretical ones
-    lista.addAll(await db.getSimulacroPorMateria('Ciencias Sociales', 10));
-    lista.addAll(await db.getSimulacroPorMateria('Razonamiento Abstracto', 10));
+    lista.addAll(await db.getSimulacroPorMateria('Matemáticas', 12));
+    lista.addAll(await db.getSimulacroPorMateria('Lengua y Literatura', 12));
+    lista.addAll(await db.getSimulacroPorMateria('Ciencias Naturales', 12)); // DB will have theoretical ones
+    lista.addAll(await db.getSimulacroPorMateria('Ciencias Sociales', 12));
+    lista.addAll(await db.getSimulacroPorMateria('Razonamiento Abstracto', 12));
 
     lista.shuffle();
     
