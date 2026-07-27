@@ -10,11 +10,35 @@ void main() {
   int count = 0;
   final List<dynamic> newList = [];
 
+  // Track unique enunciados to avoid repetition within Math
+  final Set<String> enunciadosUnicos = {};
+  
+  // First, add all non-Math questions to the list
   for (var i = 0; i < list.length; i++) {
     final item = list[i] as Map<String, dynamic>;
-    if (item['materia'] == 'Matemáticas') {
-      final codigo = item['codigo_tema'];
+    if (item['materia'] != 'Matemáticas') {
+      newList.add(item);
+    }
+  }
+
+  // Define Math topics
+  final mathTopics = [
+    '1.1.1', '1.1.2', '1.1.3', '1.1.4', '1.1.5',
+    '1.1.6', '1.1.7', '1.2.1', '1.3.1'
+  ];
+
+  // Generate 20 absolutely unique questions per math topic
+  for (final codigo in mathTopics) {
+    int generadasParaTema = 0;
+    while (generadasParaTema < 20) {
       final p = GeneradorAlgoritmico.obtenerPreguntaParaSubtema(codigo);
+      
+      // If the enunciado is already generated, skip and retry
+      if (enunciadosUnicos.contains(p.enunciado)) {
+        continue;
+      }
+      
+      enunciadosUnicos.add(p.enunciado);
       
       final Map<String, dynamic> pMap = {
         'id': p.id,
@@ -39,12 +63,11 @@ void main() {
       }
       
       newList.add(pMap);
+      generadasParaTema++;
       count++;
-    } else {
-      newList.add(item);
     }
   }
 
   file.writeAsStringSync(jsonEncode(newList));
-  print('✅ Corregidas $count preguntas de Matemáticas usando el generador algorítmico.');
+  print('✅ Generadas $count preguntas de Matemáticas TOTALMENTE ÚNICAS.');
 }

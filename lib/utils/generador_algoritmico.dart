@@ -15,9 +15,9 @@ class GeneradorAlgoritmico {
   // ── 1.1.1 Polinomios ────────────────────────────────────────────────────
 
   static Pregunta generarPolinomio() {
-    final a = _ri(1, 5);
-    final b = _ri(1, 5);
-    final c = _ri(1, 5);
+    final a = _ri(1, 12);
+    final b = _ri(1, 12);
+    final c = _ri(1, 12);
     final suma = a + b + c;
     final prod = a * b + a * c + b * c;
     final prodTotal = a * b * c;
@@ -47,8 +47,8 @@ class GeneradorAlgoritmico {
   // ── 1.1.2 Factorización ─────────────────────────────────────────────────
 
   static Pregunta generarFactorizacion() {
-    final a = _ri(2, 7);
-    final b = _ri(2, 7);
+    final a = _ri(2, 15);
+    final b = _ri(2, 15);
     // (x+a)(x+b) = x² + (a+b)x + ab
     final suma = a + b;
     final prod = a * b;
@@ -81,8 +81,8 @@ class GeneradorAlgoritmico {
 
   static Pregunta generarEcuacionCuadratica() {
     // Construir raíces enteras simples: (x - r1)(x - r2) = x² - (r1+r2)x + r1*r2
-    final r1 = _ri(1, 8);
-    final r2 = _ri(1, 8);
+    final r1 = _ri(1, 15);
+    final r2 = _ri(1, 15);
     final b = -(r1 + r2);
     final c = r1 * r2;
     final bAbs = b.abs();
@@ -115,9 +115,9 @@ class GeneradorAlgoritmico {
   // ── 1.2.1 Funciones Lineales ─────────────────────────────────────────────
 
   static Pregunta generarFuncionLineal() {
-    final m = _ri(1, 8);
-    final b2 = _ri(-5, 10);
-    final x = _ri(1, 10);
+    final m = _ri(-8, 12);
+    final b2 = _ri(-15, 15);
+    final x = _ri(-10, 15);
     final y = m * x + b2;
     final signo = b2 >= 0 ? '+' : '-';
     final bAbs = b2.abs();
@@ -270,10 +270,10 @@ class GeneradorAlgoritmico {
   // ── 1.2.x Evaluación de Funciones ──────────────────────────────────────────
   
   static Pregunta generarEvaluacionFuncion() {
-    final a = _ri(1, 5);
-    final b = _ri(1, 10);
-    final c = _ri(1, 10);
-    final x = _ri(2, 6);
+    final a = _ri(1, 12);
+    final b = _ri(-10, 15);
+    final c = _ri(-10, 15);
+    final x = _ri(-5, 10);
     final resultado = a * (x * x) - b * x + c;
     
     return Pregunta(
@@ -371,9 +371,9 @@ class GeneradorAlgoritmico {
   // ── Sucesiones ─────────────────────────────────────────────────────────
   
   static Pregunta generarSucesionAritmetica() {
-    final a1 = _ri(2, 10);
-    final d = _ri(2, 6);
-    final n = _ri(5, 8); // Preguntar por el término n
+    final a1 = _ri(-10, 20);
+    final d = _ri(2, 12);
+    final n = _ri(5, 20); // Preguntar por el término n
     
     final an = a1 + (n - 1) * d;
     
@@ -418,8 +418,8 @@ class GeneradorAlgoritmico {
     final dy = t[1];
     final dist = t[2];
     
-    final x1 = _ri(1, 5);
-    final y1 = _ri(1, 5);
+    final x1 = _ri(-10, 10);
+    final y1 = _ri(-10, 10);
     final x2 = x1 + dx;
     final y2 = y1 + dy;
 
@@ -447,8 +447,8 @@ class GeneradorAlgoritmico {
 
   // ── 1.1.3 Función exponencial y logarítmica ──────────────────────────────
   static Pregunta generarExponencialLogaritmica() {
-    final base = _ri(2, 5);
-    final exp = _ri(2, 4);
+    final base = _ri(2, 9);
+    final exp = _ri(2, 5);
     final val = pow(base, exp).toInt();
     
     return Pregunta(
@@ -475,8 +475,8 @@ class GeneradorAlgoritmico {
 
   // ── 1.1.4 Función cuadrática (Vértice) ──────────────────────────────────
   static Pregunta generarFuncionCuadratica() {
-    final vx = _ri(-4, 4);
-    final vy = _ri(-5, 5);
+    final vx = _ri(-12, 12);
+    final vy = _ri(-15, 15);
     final a = _rand.nextBool() ? 1 : -1;
     // Forma canónica: a(x-vx)^2 + vy = a(x^2 - 2vx + vx^2) + vy
     final b = -2 * a * vx;
@@ -515,10 +515,10 @@ class GeneradorAlgoritmico {
 
   // ── 1.1.6 Intervalos e inecuaciones ──────────────────────────────────────
   static Pregunta generarInecuacion() {
-    final a = _ri(2, 5);
-    final b = _ri(2, 10);
-    final c = _ri(2, 5);
-    final x = _ri(1, 5);
+    final a = _ri(2, 12);
+    final b = _ri(-10, 15);
+    final c = _ri(-10, 15);
+    final x = _ri(-10, 15);
     // Para que salga entero: a*x - b > c --> a*x > c + b --> ax = c+b --> a = a, c+b = a*x
     final valDer = a * x - b;
     final simbolo = _rand.nextBool() ? '>' : '<';
@@ -551,10 +551,10 @@ class GeneradorAlgoritmico {
 
   // ── 1.1.7 Matrices reales ────────────────────────────────────────────────
   static Pregunta generarMatriz() {
-    final m11 = _ri(1, 5);
-    final m12 = _ri(1, 5);
-    final m21 = _ri(1, 5);
-    final m22 = _ri(1, 5);
+    final m11 = _ri(-8, 10);
+    final m12 = _ri(-8, 10);
+    final m21 = _ri(-8, 10);
+    final m22 = _ri(-8, 10);
     final det = m11 * m22 - m12 * m21;
     
     return Pregunta(

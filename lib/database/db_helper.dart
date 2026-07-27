@@ -29,7 +29,7 @@ class DBHelper {
       return await databaseFactory.openDatabase(
         'peuc_v6.db',
         options: OpenDatabaseOptions(
-          version: 20,
+          version: 21,
           onCreate: _onCreate,
           onUpgrade: _onUpgrade,
         ),
@@ -38,7 +38,7 @@ class DBHelper {
     String path = join(await getDatabasesPath(), 'peuc_v6.db');
     return await openDatabase(
       path,
-      version: 20,
+      version: 21,
       onCreate: _onCreate,
       onUpgrade: _onUpgrade,
     );
@@ -241,6 +241,11 @@ class DBHelper {
     }
     if (oldVersion < 20) {
       // Version 20: Fix Math unique ID collisions
+      await db.execute('DELETE FROM preguntas');
+      await _cargarJSON(db);
+    }
+    if (oldVersion < 21) {
+      // Version 21: Fix Math generated duplicate text collisions
       await db.execute('DELETE FROM preguntas');
       await _cargarJSON(db);
     }
