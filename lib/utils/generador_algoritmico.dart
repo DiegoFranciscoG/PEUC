@@ -445,13 +445,151 @@ class GeneradorAlgoritmico {
     );
   }
 
+  // ── 1.1.3 Función exponencial y logarítmica ──────────────────────────────
+  static Pregunta generarExponencialLogaritmica() {
+    final base = _ri(2, 5);
+    final exp = _ri(2, 4);
+    final val = pow(base, exp).toInt();
+    
+    return Pregunta(
+      id: 'gen_113_${DateTime.now().millisecondsSinceEpoch}',
+      materia: 'Matemáticas',
+      codigoTema: '1.1.3',
+      enunciado: 'Resuelve la ecuación logarítmica: log_($base)($val) = x',
+      opciones: [
+        exp.toString(),
+        (exp + 1).toString(),
+        (exp - 1).toString(),
+        (exp * 2).toString(),
+      ]..shuffle(_rand),
+      respuestaCorrecta: exp.toString(),
+      explicacionDetallada: 'Por definición de logaritmo, log_a(b) = c implica que a^c = b. En este caso, $base^x = $val. Sabemos que $base^$exp = $val, por lo tanto x = $exp.',
+      pasosResolucion: [
+        '**Paso 1:** Convertir a forma exponencial: $base^x = $val',
+        '**Paso 2:** Expresar $val como potencia de $base: $base^x = $base^$exp',
+        '**Paso 3:** Igualar exponentes: x = **$exp**'
+      ],
+      videoExplicativoUrl: _ytUrl('ecuaciones logaritmicas bachillerato'),
+    );
+  }
+
+  // ── 1.1.4 Función cuadrática (Vértice) ──────────────────────────────────
+  static Pregunta generarFuncionCuadratica() {
+    final vx = _ri(-4, 4);
+    final vy = _ri(-5, 5);
+    final a = _rand.nextBool() ? 1 : -1;
+    // Forma canónica: a(x-vx)^2 + vy = a(x^2 - 2vx + vx^2) + vy
+    final b = -2 * a * vx;
+    final c = a * vx * vx + vy;
+    
+    final signoB = b < 0 ? '-' : '+';
+    final bAbs = b.abs();
+    final signoC = c < 0 ? '-' : '+';
+    final cAbs = c.abs();
+    final aStr = a == 1 ? '' : '-';
+    
+    final verticeCorrecto = '($vx, $vy)';
+    
+    return Pregunta(
+      id: 'gen_114_${DateTime.now().millisecondsSinceEpoch}',
+      materia: 'Matemáticas',
+      codigoTema: '1.1.4',
+      enunciado: 'Encuentra las coordenadas del vértice de la parábola dada por f(x) = ${aStr}x² $signoB ${bAbs}x $signoC $cAbs.',
+      opciones: [
+        verticeCorrecto,
+        '(${-vx}, $vy)',
+        '($vx, ${-vy})',
+        '(${-vx}, ${-vy})',
+      ]..shuffle(_rand),
+      respuestaCorrecta: verticeCorrecto,
+      explicacionDetallada: 'La coordenada x del vértice es x_v = -b/(2a). Aquí a=$a, b=$b. x_v = -($b)/(2*$a) = $vx. Evaluando en la función, y_v = f($vx) = $vy. El vértice es $verticeCorrecto.',
+      pasosResolucion: [
+        '**Paso 1:** Identificar a=$a, b=$b',
+        '**Paso 2:** Calcular x_v = -b/(2a) = -($b)/(${2*a}) = $vx',
+        '**Paso 3:** Calcular y_v = f($vx) = $vy',
+        '**Paso 4:** Resultado: **$verticeCorrecto**'
+      ],
+      videoExplicativoUrl: _ytUrl('vertice parabola funcion cuadratica'),
+    );
+  }
+
+  // ── 1.1.6 Intervalos e inecuaciones ──────────────────────────────────────
+  static Pregunta generarInecuacion() {
+    final a = _ri(2, 5);
+    final b = _ri(2, 10);
+    final c = _ri(2, 5);
+    final x = _ri(1, 5);
+    // Para que salga entero: a*x - b > c --> a*x > c + b --> ax = c+b --> a = a, c+b = a*x
+    final valDer = a * x - b;
+    final simbolo = _rand.nextBool() ? '>' : '<';
+    final xSol = (valDer + b) / a;
+    
+    final correcta = simbolo == '>' ? 'x > $x' : 'x < $x';
+    
+    return Pregunta(
+      id: 'gen_116_${DateTime.now().millisecondsSinceEpoch}',
+      materia: 'Matemáticas',
+      codigoTema: '1.1.6',
+      enunciado: 'Resuelve la inecuación lineal: ${a}x - $b $simbolo $valDer',
+      opciones: [
+        correcta,
+        simbolo == '>' ? 'x < $x' : 'x > $x',
+        simbolo == '>' ? 'x > ${x+1}' : 'x < ${x+1}',
+        'x = $x',
+      ]..shuffle(_rand),
+      respuestaCorrecta: correcta,
+      explicacionDetallada: 'Sumamos $b a ambos lados: ${a}x $simbolo ${valDer + b}. Luego dividimos entre $a: x $simbolo $x.',
+      pasosResolucion: [
+        '**Paso 1:** ${a}x - $b $simbolo $valDer',
+        '**Paso 2:** ${a}x $simbolo $valDer + $b',
+        '**Paso 3:** ${a}x $simbolo ${valDer + b}',
+        '**Paso 4:** x $simbolo ${valDer + b} / $a = **$x**'
+      ],
+      videoExplicativoUrl: _ytUrl('inecuaciones lineales primer grado'),
+    );
+  }
+
+  // ── 1.1.7 Matrices reales ────────────────────────────────────────────────
+  static Pregunta generarMatriz() {
+    final m11 = _ri(1, 5);
+    final m12 = _ri(1, 5);
+    final m21 = _ri(1, 5);
+    final m22 = _ri(1, 5);
+    final det = m11 * m22 - m12 * m21;
+    
+    return Pregunta(
+      id: 'gen_117_${DateTime.now().millisecondsSinceEpoch}',
+      materia: 'Matemáticas',
+      codigoTema: '1.1.7',
+      enunciado: 'Calcula el determinante de la matriz A = [[$m11, $m12], [$m21, $m22]]',
+      opciones: [
+        det.toString(),
+        (det + 2).toString(),
+        (det - 3).toString(),
+        (m11 * m21 - m12 * m22).toString(), // error común
+      ]..shuffle(_rand),
+      respuestaCorrecta: det.toString(),
+      explicacionDetallada: 'El determinante de una matriz 2x2 [[a, b], [c, d]] es (a*d - b*c). En este caso: ($m11 * $m22) - ($m12 * $m21) = ${m11*m22} - ${m12*m21} = $det.',
+      pasosResolucion: [
+        '**Paso 1:** Fórmula: det(A) = ad - bc',
+        '**Paso 2:** Sustituir: det(A) = ($m11)($m22) - ($m12)($m21)',
+        '**Paso 3:** Resultado: ${m11*m22} - ${m12*m21} = **$det**'
+      ],
+      videoExplicativoUrl: _ytUrl('determinante matriz 2x2 algebra lineal'),
+    );
+  }
+
   // ── Dispatcher de Subtemas ───────────────────────────────────────────────
 
   static Pregunta obtenerPreguntaParaSubtema(String codigo) {
     switch (codigo) {
       case '1.1.1': return _rand.nextBool() ? generarPolinomio() : generarSucesionAritmetica();
       case '1.1.2': return generarFactorizacion();
+      case '1.1.3': return generarExponencialLogaritmica();
+      case '1.1.4': return generarFuncionCuadratica();
       case '1.1.5': return generarEcuacionCuadratica();
+      case '1.1.6': return generarInecuacion();
+      case '1.1.7': return generarMatriz();
       case '1.2.1': return _rand.nextBool() ? generarFuncionLineal() : generarEvaluacionFuncion();
       case '1.3.1': return _rand.nextBool() ? generarTrigonometria() : generarGeometriaAnalitica();
       case '1.4.1': return generarEstadisticaBase();
@@ -466,7 +604,11 @@ class GeneradorAlgoritmico {
     final generadores = [
       generarPolinomio,
       generarFactorizacion,
+      generarExponencialLogaritmica,
+      generarFuncionCuadratica,
       generarEcuacionCuadratica,
+      generarInecuacion,
+      generarMatriz,
       generarFuncionLineal,
       generarEvaluacionFuncion,
       generarTrigonometria,

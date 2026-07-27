@@ -3,6 +3,8 @@ import 'package:flutter/services.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:flutter/foundation.dart';
+import 'package:sqflite_common_ffi_web/sqflite_ffi_web.dart';
 import 'dart:io';
 import '../models/pregunta.dart';
 import '../models/teoria.dart';
@@ -22,6 +24,17 @@ class DBHelper {
   }
 
   Future<Database> _initDB() async {
+    if (kIsWeb) {
+      databaseFactory = databaseFactoryFfiWeb;
+      return await databaseFactory.openDatabase(
+        'peuc_v6.db',
+        options: OpenDatabaseOptions(
+          version: 18,
+          onCreate: _onCreate,
+          onUpgrade: _onUpgrade,
+        ),
+      );
+    }
     String path = join(await getDatabasesPath(), 'peuc_v6.db');
     return await openDatabase(
       path,
