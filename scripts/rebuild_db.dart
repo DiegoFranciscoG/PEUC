@@ -36,7 +36,7 @@ void main() {
     if (!dir.existsSync()) continue;
     final files = dir.listSync().whereType<File>().where((f) => 
       f.path.endsWith('.json') && 
-      !f.path.contains('preguntas.json') && 
+      (!f.path.endsWith('preguntas.json') || f.path.contains('preguntas_backup')) && 
       !f.path.contains('preguntas_clean.json') && 
       !f.path.contains('teoria.json') && 
       !f.path.contains('temario') && 
@@ -55,14 +55,20 @@ void main() {
         for (var item in list) {
           if (item is! Map) continue;
           final materia = item['materia']?.toString();
-          final enunciado = item['enunciado']?.toString();
-          final codigoTema = item['codigo_tema']?.toString();
+          var enunciado = item['enunciado']?.toString();
+          if (enunciado != null) {
+            final RegExp regex = RegExp(r'Ejercicio de Matemáticas - Código \d\.\d\.\d(?:, variante \d+)?\.\s*');
+            enunciado = enunciado.replaceAll(regex, '');
+            item['enunciado'] = enunciado;
+          }
+          final codigoTema = item['codigo_tema']?.toString() ?? item['codigo_subtema']?.toString();
           
-          if (materia != null && enunciado != null && enunciado.length > 10 && !enunciado.contains('Pregunta de') && codigoTema != null) {
-             // Asegurar ID
+          if (materia != null && enunciado != null && enunciado.length > 10 && !enunciado.contains('Pregunta de') && !enunciado.contains('Pregunta comodín') && codigoTema != null) {
+             // Asegurar ID y fuente
              if (item['id'] == null) {
                item['id'] = 'rescued_\${DateTime.now().microsecondsSinceEpoch}';
              }
+             item['fuente'] = 'PDF_original_2026';
              rawQuestionsByEnunciado[enunciado] = item as Map<String, dynamic>;
           }
         }
@@ -118,7 +124,7 @@ void main() {
         else if (m == 'Razonamiento Abstracto' || m == 'Razonamiento abstracto') p = GeneradorAbstracto.obtenerPreguntaParaSubtema(c);
         
         if (p != null) {
-          if (!enunciadosUsados.contains(p.enunciado) || m.contains('Abstracto')) {
+          if (!enunciadosUsados.contains(p.enunciado)) {
             final Map<String, dynamic> pMap = {
               'id': p.id,
               'materia': p.materia,
@@ -131,6 +137,7 @@ void main() {
               'elementos_abstractos': p.elementosAbstractos != null ? jsonEncode(p.elementosAbstractos!.map((e)=>e.toMap()).toList()) : null,
               'opciones_abstractas': p.opcionesAbstractas != null ? jsonEncode(p.opcionesAbstractas!.map((e)=>e.toMap()).toList()) : null,
               'tipo_ejercicio_abstracto': p.tipoEjercicioAbstracto,
+              'fuente': 'generado_plantilla',
             };
 
             finalJson.add(pMap);
@@ -138,37 +145,10 @@ void main() {
             seleccionadas++;
             totalGeneradas++;
           }
-        } else {
-          // Ciencias Naturales o Sociales no tienen generador procedimental.
-          // Si faltan, clonamos una de las reales pero le añadimos un caracter invisible o la marcamos para evitar crash, pero el usuario nos pidio 0 repetidas.
-          // Con suerte, CN y CS tienen >20 por tema. Si no, usamos las reales de OTROS subtemas de la misma materia!
-          if (questions.isNotEmpty) {
-            final fallback = questions[seleccionadas % questions.length];
-            final clone = Map<String, dynamic>.from(fallback);
-            final oldId = clone['id'];
-            final oldEnunciado = clone['enunciado'];
-            clone['id'] = '${oldId}_clone_$seleccionadas';
-            clone['enunciado'] = '${oldEnunciado} (v$intentos)'; // Evitar colisión de enunciado
-            finalJson.add(clone);
-            seleccionadas++;
-          } else {
-            // No hay NADA. Fallback total.
-            final fallback = {
-              'id': 'fallback_${m}_${c}_$seleccionadas',
-              'materia': m,
-              'codigo_tema': c,
-              'enunciado': 'Pregunta comodín para $m $c (Intento $intentos)',
-              'opciones': jsonEncode(['A', 'B', 'C', 'D']),
-              'respuesta_correcta': 'A'
-            };
-            finalJson.add(fallback);
-            seleccionadas++;
-          }
         }
         intentos++;
-        if (intentos > 1000) {
-          print('Fallo crítico generando $m $c');
-          break; // Salir de loop infinito
+        if (intentos > 2000) {
+          break; // Salir si no hay generador para alcanzar 20
         }
       }
     }

@@ -512,14 +512,100 @@ class DBHelper {
     else if (materia == 'Ciencias Sociales') prefix = '4.%';
     else if (materia == 'Razonamiento Abstracto') prefix = '5.%';
 
-    final res = await db.query(
-      'preguntas',
-      where: 'codigo_tema LIKE ?',
-      whereArgs: [prefix],
-      orderBy: 'RANDOM()',
-      limit: limit,
+    // 1. Obtener subtemas disponibles con stock real
+    final resSubtemas = await db.rawQuery(
+      'SELECT codigo_tema, COUNT(*) as qty FROM preguntas WHERE codigo_tema LIKE ? GROUP BY codigo_tema HAVING qty > 0',
+      [prefix]
     );
-    return res.map((json) => Pregunta.fromMap(json)).toList();
+
+    if (resSubtemas.isEmpty) return [];
+
+    List<Map<String, dynamic>> subtemasList = List<Map<String, dynamic>>.from(resSubtemas);
+    subtemasList.shuffle(); // Aleatorizar el orden para asignar residuos de forma equitativa
+    
+    int numSubtemas = subtemasList.length;
+    int base = limit ~/ numSubtemas;
+    int residuo = limit % numSubtemas;
+
+    Map<String, int> cuotas = {};
+    for (int i = 0; i < numSubtemas; i++) {
+      String codigo = subtemasList[i]['codigo_tema'] as String;
+      int quota = base + (i < residuo ? 1 : 0);
+      cuotas[codigo] = quota;
+    }
+
+    List<Pregunta> seleccionadas = [];
+    int deficitTotal = 0;
+    
+    // Lista de subtemas que aún tienen preguntas disponibles (no extraídas)
+    List<String> subtemasSobrantes = [];
+
+    // Extraer preguntas
+    for (var row in subtemasList) {
+      String codigo = row['codigo_tema'] as String;
+      int quota = cuotas[codigo]!;
+      int stock = row['qty'] as int;
+
+      if (quota > stock) {
+        deficitTotal += (quota - stock);
+        quota = stock;
+      } else if (stock > quota) {
+        subtemasSobrantes.add(codigo);
+      }
+
+      if (quota > 0) {
+        final resPreguntas = await db.query(
+          'preguntas',
+          where: 'codigo_tema = ?',
+          whereArgs: [codigo],
+          orderBy: 'RANDOM()',
+          limit: quota,
+        );
+        seleccionadas.addAll(resPreguntas.map((json) => Pregunta.fromMap(json)).toList());
+      }
+    }
+
+    // Redistribuir el déficit entre los subtemas que tienen stock sobrante
+    while (deficitTotal > 0 && subtemasSobrantes.isNotEmpty) {
+      subtemasSobrantes.shuffle(); // Rotar a quién se le asigna extra para no sesgar siempre al mismo
+      String subtemaExtra = subtemasSobrantes.first;
+      
+      // Obtener qué IDs ya hemos seleccionado de este subtema para no repetir
+      List<String> idsSeleccionados = seleccionadas.map((e) => e.id).toList();
+      String placeholders = idsSeleccionados.map((e) => '?').join(',');
+      
+      final resExtra = await db.query(
+        'preguntas',
+        where: 'codigo_tema = ? AND id NOT IN ($placeholders)',
+        whereArgs: [subtemaExtra, ...idsSeleccionados],
+        orderBy: 'RANDOM()',
+        limit: 1,
+      );
+
+      if (resExtra.isNotEmpty) {
+        seleccionadas.add(Pregunta.fromMap(resExtra.first));
+        deficitTotal--;
+      } else {
+        subtemasSobrantes.remove(subtemaExtra);
+      }
+    }
+
+    // Si aún hay déficit (extremadamente raro), rellenar con cualquiera aleatorio (fallback)
+    if (deficitTotal > 0) {
+        List<String> idsSeleccionados = seleccionadas.map((e) => e.id).toList();
+        String placeholders = idsSeleccionados.map((e) => '?').join(',');
+        
+        final fallback = await db.query(
+          'preguntas',
+          where: idsSeleccionados.isNotEmpty ? 'codigo_tema LIKE ? AND id NOT IN ($placeholders)' : 'codigo_tema LIKE ?',
+          whereArgs: idsSeleccionados.isNotEmpty ? [prefix, ...idsSeleccionados] : [prefix],
+          orderBy: 'RANDOM()',
+          limit: deficitTotal,
+        );
+        seleccionadas.addAll(fallback.map((json) => Pregunta.fromMap(json)).toList());
+    }
+
+    return seleccionadas..shuffle();
   }
 
   Future<List<Pregunta>> getSimulacroPorSubtema(String codigoTema, int limit) async {

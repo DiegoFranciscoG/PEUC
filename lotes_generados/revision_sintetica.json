@@ -1,0 +1,50 @@
+[
+  {
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.1.1",
+    "enunciado": "¿Qué postula la teoría del Big Bang sobre el origen del universo?",
+    "opciones": "[\"Que el universo es estático y siempre ha existido en su forma actual.\", \"Que el universo se expande continuamente desde un estado inicial de altísima densidad y temperatura.\", \"Que la vida en la Tierra fue sembrada por civilizaciones extraterrestres.\", \"Que el universo sufre ciclos eternos de expansión y contracción sin un origen definido.\"]",
+    "respuesta_correcta": "Que el universo se expande continuamente desde un estado inicial de altísima densidad y temperatura.",
+    "fuente": "generado_plantilla"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.1.1",
+    "enunciado": "En el contexto de las teorías sobre el origen de la vida, ¿cuál fue la principal conclusión del experimento de Miller-Urey?",
+    "opciones": "[\"Demostró que las primeras células procariotas provienen del espacio exterior.\", \"Comprobó que la fotosíntesis fue el primer proceso metabólico en la Tierra primitiva.\", \"Demostró la síntesis abiótica de compuestos orgánicos (aminoácidos) a partir de gases simples bajo condiciones prebióticas.\", \"Estableció que el ADN fue la primera macromolécula biológica en formarse.\"]",
+    "respuesta_correcta": "Demostró la síntesis abiótica de compuestos orgánicos (aminoácidos) a partir de gases simples bajo condiciones prebióticas.",
+    "fuente": "generado_plantilla"
+  },
+  {
+    "materia": "Ciencias Naturales",
+    "codigo_tema": "3.1.1",
+    "enunciado": "Según la teoría endosimbiótica propuesta por Lynn Margulis, ¿cómo se originaron las mitocondrias y los cloroplastos en las células eucariotas?",
+    "opciones": "[\"Por mutaciones aleatorias en el núcleo de las células procariotas primitivas.\", \"A partir de la invaginación sucesiva de la membrana plasmática.\", \"Por la incorporación simbiótica de bacterias aeróbicas y fotosintéticas ancestrales dentro de una célula huésped de mayor tamaño.\", \"Por la síntesis espontánea de organelos a partir del ARN ribosómico.\"]",
+    "respuesta_correcta": "Por la incorporación simbiótica de bacterias aeróbicas y fotosintéticas ancestrales dentro de una célula huésped de mayor tamaño.",
+    "fuente": "generado_plantilla"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.1",
+    "enunciado": "¿Qué característica principal diferenció la Revolución Neolítica de las sociedades paleolíticas?",
+    "opciones": "[\"La domesticación del fuego y el desarrollo del lenguaje articulado.\", \"La transición de un estilo de vida nómada basado en la caza y recolección a uno sedentario fundamentado en la agricultura y la ganadería.\", \"La invención de la rueda y el inicio de la metalurgia del hierro.\", \"El surgimiento de los primeros imperios teocráticos organizados mediante la escritura cuneiforme.\"]",
+    "respuesta_correcta": "La transición de un estilo de vida nómada basado en la caza y recolección a uno sedentario fundamentado en la agricultura y la ganadería.",
+    "fuente": "generado_plantilla"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.1",
+    "enunciado": "En el contexto del desarrollo de los primeros asentamientos humanos, ¿por qué los grandes valles fluviales (como los del Tigris, Éufrates y Nilo) fueron cunas de las primeras civilizaciones?",
+    "opciones": "[\"Porque ofrecían protección natural e infranqueable contra las invasiones de pueblos nómadas.\", \"Porque los desbordamientos periódicos depositaban limo, proporcionando suelos fértiles que sostuvieron excedentes agrícolas cruciales para la sedentarización.\", \"Porque fueron los únicos lugares donde se encontraban minas de cobre y estaño en la antigüedad.\", \"Porque el clima frío de estas regiones impedía la proliferación de plagas tropicales.\"]",
+    "respuesta_correcta": "Porque los desbordamientos periódicos depositaban limo, proporcionando suelos fértiles que sostuvieron excedentes agrícolas cruciales para la sedentarización.",
+    "fuente": "generado_plantilla"
+  },
+  {
+    "materia": "Ciencias Sociales",
+    "codigo_tema": "4.1.1",
+    "enunciado": "¿Cuál fue una consecuencia social directa de la generación de excedentes de producción en las primeras sociedades agrícolas del Neolítico?",
+    "opciones": "[\"El retorno generalizado a un modelo igualitario de cazadores-recolectores.\", \"La división y especialización del trabajo, lo que condujo a la formación de jerarquías y clases sociales.\", \"El abandono definitivo de cualquier práctica religiosa en favor del materialismo comercial.\", \"La extinción de la megafauna prehistórica debido a la caza intensiva.\"]",
+    "respuesta_correcta": "La división y especialización del trabajo, lo que condujo a la formación de jerarquías y clases sociales.",
+    "fuente": "generado_plantilla"
+  }
+]
