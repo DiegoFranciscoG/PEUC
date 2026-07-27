@@ -2,7 +2,7 @@
 
 Una aplicación móvil 100% offline para la preparación integral del Examen de Admisión de la Universidad de Cuenca, con contenido oficial, simulacros y progreso adaptativo.
 
-![Version](https://img.shields.io/badge/Versión-v6.1.0-blue)
+![Version](https://img.shields.io/badge/Versión-v6.1.1-blue)
 ![Platform](https://img.shields.io/badge/Plataforma-Android-green)
 ![License](https://img.shields.io/badge/Licencia-MIT-purple)
 ![Size](https://img.shields.io/badge/Tamaño-~55MB-orange)
@@ -21,8 +21,8 @@ Puedes descargar la última versión compilada (APK) directamente desde la secci
 
 ## ✨ Características Principales
 
-*   **Cobertura Oficial:** 50 de los 51 subtemas correspondientes al temario oficial de la UCuenca (Matemáticas, Ciencias Sociales, Ciencias Naturales, Lengua y Literatura, Razonamiento Abstracto). El subtema 5.3.2 (Transformación 2D-3D) se excluye de los simulacros por falta de contenido validado.
-*   **Banco de Preguntas Exhaustivo (v22 / v6.1.0):** 1201 preguntas en total (817 preguntas reales recuperadas de PDFs y 384 preguntas generadas algorítmicamente), categorizadas y con validación forense anti-duplicados.
+*   **Cobertura Oficial:** 46 de los 51 subtemas correspondientes al temario oficial de la UCuenca. El subtema 5.3.2 (Transformación 2D-3D) en Razonamiento Abstracto, y los subtemas 4.5.3, 4.6.1, 4.7.1 y 4.9.1 en Ciencias Sociales, se excluyen de los simulacros por falta de contenido validado fiel al temario original (preguntas mal etiquetadas).
+*   **Banco de Preguntas Exhaustivo (v22 / v6.1.1):** 1121 preguntas en total (737 preguntas reales recuperadas de PDFs y 384 preguntas generadas algorítmicamente), categorizadas y con validación forense anti-duplicados.
 *   **Simulacro Proporcional Equitativo:** El simulacro evalúa exactamente 12 preguntas por área, con una lógica matemática de distribución de "Base + Residuo + Redistribución de Déficit" que garantiza que los subtemas se repartan uniformemente, evitando el sesgo.
 *   **Modos de Práctica:**
     *   *Feedback inmediato*: Responde preguntas por subtema y conoce al instante si acertaste, con explicaciones detalladas.

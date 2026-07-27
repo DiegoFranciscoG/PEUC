@@ -54,17 +54,8 @@ void main() {
 
         for (var item in list) {
           if (item is! Map) continue;
-          var materia = item['materia']?.toString();
+          final materia = item['materia']?.toString();
           final codigoTema = item['codigo_tema']?.toString() ?? item['codigo_subtema']?.toString();
-          
-          if (materia == null && codigoTema != null) {
-            if (codigoTema.startsWith('1.')) materia = 'Matemáticas';
-            else if (codigoTema.startsWith('2.')) materia = 'Lengua y Literatura';
-            else if (codigoTema.startsWith('3.')) materia = 'Ciencias Naturales';
-            else if (codigoTema.startsWith('4.')) materia = 'Ciencias Sociales';
-            else if (codigoTema.startsWith('5.')) materia = 'Razonamiento Abstracto';
-            item['materia'] = materia;
-          }
           
           var enunciado = item['enunciado']?.toString();
           if (enunciado != null) {
