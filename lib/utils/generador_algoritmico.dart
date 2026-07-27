@@ -26,7 +26,7 @@ class GeneradorAlgoritmico {
     final opciones = [suma.toString(), ...distractores.map((e) => e.toString())]..shuffle(_rand);
 
     return Pregunta(
-      id: 'gen_111_${DateTime.now().millisecondsSinceEpoch}',
+      id: 'gen_111_${DateTime.now().microsecondsSinceEpoch}_${_rand.nextInt(1000000)}}',
       materia: 'Matemáticas',
       codigoTema: '1.1.1',
       enunciado:
@@ -60,7 +60,7 @@ class GeneradorAlgoritmico {
     final opciones = [factores, dist1, dist2, dist3]..shuffle(_rand);
 
     return Pregunta(
-      id: 'gen_112_${DateTime.now().millisecondsSinceEpoch}',
+      id: 'gen_112_${DateTime.now().microsecondsSinceEpoch}_${_rand.nextInt(1000000)}}',
       materia: 'Matemáticas',
       codigoTema: '1.1.2',
       enunciado: 'Factoriza el trinomio: x² + ${suma}x + $prod',
@@ -89,7 +89,7 @@ class GeneradorAlgoritmico {
     final signoB = b < 0 ? '-' : '+';
 
     return Pregunta(
-      id: 'gen_115_${DateTime.now().millisecondsSinceEpoch}',
+      id: 'gen_115_${DateTime.now().microsecondsSinceEpoch}_${_rand.nextInt(1000000)}}',
       materia: 'Matemáticas',
       codigoTema: '1.1.5',
       enunciado: 'Resuelve la ecuación cuadrática: x² $signoB ${bAbs}x + $c = 0',
@@ -123,7 +123,7 @@ class GeneradorAlgoritmico {
     final bAbs = b2.abs();
 
     return Pregunta(
-      id: 'gen_121_${DateTime.now().millisecondsSinceEpoch}',
+      id: 'gen_121_${DateTime.now().microsecondsSinceEpoch}_${_rand.nextInt(1000000)}}',
       materia: 'Matemáticas',
       codigoTema: '1.2.1',
       enunciado: 'Dada la función f(x) = ${m}x $signo $bAbs, ¿cuál es el valor de f($x)?',
@@ -154,7 +154,7 @@ class GeneradorAlgoritmico {
     final correcta = ang[func] as String;
 
     return Pregunta(
-      id: 'gen_131_${DateTime.now().millisecondsSinceEpoch}',
+      id: 'gen_131_${DateTime.now().microsecondsSinceEpoch}_${_rand.nextInt(1000000)}}',
       materia: 'Matemáticas',
       codigoTema: '1.3.1',
       enunciado: '¿Cuál es el valor del $func de ${ang['grados']}°?',
@@ -181,7 +181,7 @@ class GeneradorAlgoritmico {
     final v = a * tiempo;
 
     return Pregunta(
-      id: 'gen_373_${DateTime.now().millisecondsSinceEpoch}',
+      id: 'gen_373_${DateTime.now().microsecondsSinceEpoch}_${_rand.nextInt(1000000)}}',
       materia: 'Ciencias Naturales',
       codigoTema: '3.7.3',
       enunciado:
@@ -212,7 +212,7 @@ class GeneradorAlgoritmico {
     final d = v * t;
 
     return Pregunta(
-      id: 'gen_371_${DateTime.now().millisecondsSinceEpoch}',
+      id: 'gen_371_${DateTime.now().microsecondsSinceEpoch}_${_rand.nextInt(1000000)}}',
       materia: 'Ciencias Naturales',
       codigoTema: '3.7.1',
       enunciado:
@@ -244,7 +244,7 @@ class GeneradorAlgoritmico {
     final ep = m * g * h;
 
     return Pregunta(
-      id: 'gen_374_${DateTime.now().millisecondsSinceEpoch}',
+      id: 'gen_374_${DateTime.now().microsecondsSinceEpoch}_${_rand.nextInt(1000000)}}',
       materia: 'Ciencias Naturales',
       codigoTema: '3.7.4',
       enunciado:
@@ -277,7 +277,7 @@ class GeneradorAlgoritmico {
     final resultado = a * (x * x) - b * x + c;
     
     return Pregunta(
-      id: 'gen_121_${DateTime.now().millisecondsSinceEpoch}',
+      id: 'gen_121_${DateTime.now().microsecondsSinceEpoch}_${_rand.nextInt(1000000)}}',
       materia: 'Matemáticas',
       codigoTema: '1.2.1',
       enunciado: 'Dada la función f(x) = ${a}x² - ${b}x + $c, encuentra el valor de f($x).',
@@ -347,7 +347,7 @@ class GeneradorAlgoritmico {
     }
 
     return Pregunta(
-      id: 'gen_141_${DateTime.now().millisecondsSinceEpoch}',
+      id: 'gen_141_${DateTime.now().microsecondsSinceEpoch}_${_rand.nextInt(1000000)}}',
       materia: 'Matemáticas',
       codigoTema: '1.4.1',
       enunciado: 'Dados los siguientes datos: ${datos.join(", ")}. Calcula $medidaStr.',
@@ -383,7 +383,7 @@ class GeneradorAlgoritmico {
     }
     
     return Pregunta(
-      id: 'gen_suc_${DateTime.now().millisecondsSinceEpoch}',
+      id: 'gen_suc_${DateTime.now().microsecondsSinceEpoch}_${_rand.nextInt(1000000)}}',
       materia: 'Matemáticas',
       codigoTema: '1.1.1',
       enunciado: 'Dada la sucesión aritmética: ${terminos.join(", ")}, ... ¿Cuál es el término en la posición $n?',
@@ -424,7 +424,7 @@ class GeneradorAlgoritmico {
     final y2 = y1 + dy;
 
     return Pregunta(
-      id: 'gen_131_${DateTime.now().millisecondsSinceEpoch}',
+      id: 'gen_131_${DateTime.now().microsecondsSinceEpoch}_${_rand.nextInt(1000000)}}',
       materia: 'Matemáticas',
       codigoTema: '1.3.1',
       enunciado: 'En el plano cartesiano, calcula la distancia entre los puntos A($x1, $y1) y B($x2, $y2).',
@@ -452,7 +452,7 @@ class GeneradorAlgoritmico {
     final val = pow(base, exp).toInt();
     
     return Pregunta(
-      id: 'gen_113_${DateTime.now().millisecondsSinceEpoch}',
+      id: 'gen_113_${DateTime.now().microsecondsSinceEpoch}_${_rand.nextInt(1000000)}}',
       materia: 'Matemáticas',
       codigoTema: '1.1.3',
       enunciado: 'Resuelve la ecuación logarítmica: log_($base)($val) = x',
@@ -491,7 +491,7 @@ class GeneradorAlgoritmico {
     final verticeCorrecto = '($vx, $vy)';
     
     return Pregunta(
-      id: 'gen_114_${DateTime.now().millisecondsSinceEpoch}',
+      id: 'gen_114_${DateTime.now().microsecondsSinceEpoch}_${_rand.nextInt(1000000)}}',
       materia: 'Matemáticas',
       codigoTema: '1.1.4',
       enunciado: 'Encuentra las coordenadas del vértice de la parábola dada por f(x) = ${aStr}x² $signoB ${bAbs}x $signoC $cAbs.',
@@ -527,7 +527,7 @@ class GeneradorAlgoritmico {
     final correcta = simbolo == '>' ? 'x > $x' : 'x < $x';
     
     return Pregunta(
-      id: 'gen_116_${DateTime.now().millisecondsSinceEpoch}',
+      id: 'gen_116_${DateTime.now().microsecondsSinceEpoch}_${_rand.nextInt(1000000)}}',
       materia: 'Matemáticas',
       codigoTema: '1.1.6',
       enunciado: 'Resuelve la inecuación lineal: ${a}x - $b $simbolo $valDer',
@@ -558,7 +558,7 @@ class GeneradorAlgoritmico {
     final det = m11 * m22 - m12 * m21;
     
     return Pregunta(
-      id: 'gen_117_${DateTime.now().millisecondsSinceEpoch}',
+      id: 'gen_117_${DateTime.now().microsecondsSinceEpoch}_${_rand.nextInt(1000000)}}',
       materia: 'Matemáticas',
       codigoTema: '1.1.7',
       enunciado: 'Calcula el determinante de la matriz A = [[$m11, $m12], [$m21, $m22]]',
