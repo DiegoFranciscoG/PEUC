@@ -54,14 +54,24 @@ void main() {
 
         for (var item in list) {
           if (item is! Map) continue;
-          final materia = item['materia']?.toString();
+          var materia = item['materia']?.toString();
+          final codigoTema = item['codigo_tema']?.toString() ?? item['codigo_subtema']?.toString();
+          
+          if (materia == null && codigoTema != null) {
+            if (codigoTema.startsWith('1.')) materia = 'Matemáticas';
+            else if (codigoTema.startsWith('2.')) materia = 'Lengua y Literatura';
+            else if (codigoTema.startsWith('3.')) materia = 'Ciencias Naturales';
+            else if (codigoTema.startsWith('4.')) materia = 'Ciencias Sociales';
+            else if (codigoTema.startsWith('5.')) materia = 'Razonamiento Abstracto';
+            item['materia'] = materia;
+          }
+          
           var enunciado = item['enunciado']?.toString();
           if (enunciado != null) {
             final RegExp regex = RegExp(r'Ejercicio de Matemáticas - Código \d\.\d\.\d(?:, variante \d+)?\.\s*');
             enunciado = enunciado.replaceAll(regex, '');
             item['enunciado'] = enunciado;
           }
-          final codigoTema = item['codigo_tema']?.toString() ?? item['codigo_subtema']?.toString();
           
           if (materia != null && enunciado != null && enunciado.length > 10 && !enunciado.contains('Pregunta de') && !enunciado.contains('Pregunta comodín') && codigoTema != null) {
              // Asegurar ID y fuente
