@@ -4,11 +4,18 @@ import 'package:flutter/foundation.dart';
 /// from the official PDF (rendered inline, in the original order).
 @immutable
 class ContentBlock {
-  const ContentBlock.text(String this.text) : image = null;
-  const ContentBlock.image(String this.image) : text = null;
+  const ContentBlock.text(String this.text)
+      : image = null,
+        width = null,
+        height = null;
+  const ContentBlock.image(String this.image, {this.width, this.height}) : text = null;
 
   final String? text;
   final String? image;
+
+  /// Size (PDF points) of the picture in the official document, when known.
+  final double? width;
+  final double? height;
 
   bool get isImage => image != null;
 }

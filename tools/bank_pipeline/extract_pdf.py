@@ -36,9 +36,17 @@ class Block:
 
     text: str | None = None
     image: str | None = None
+    # Size (PDF points) at which the picture is shown in the official document.
+    width: float | None = None
+    height: float | None = None
 
     def to_dict(self) -> dict:
-        return {"t": self.text} if self.text is not None else {"img": self.image}
+        if self.text is not None:
+            return {"t": self.text}
+        data = {"img": self.image}
+        if self.width and self.height:
+            data.update(w=round(self.width, 1), h=round(self.height, 1))
+        return data
 
 
 @dataclass
@@ -79,8 +87,8 @@ class _TextAccumulator:
             self._blocks.append(Block(text=text))
         self._last_x1 = x1
 
-    def add_image(self, name: str) -> None:
-        self._blocks.append(Block(image=name))
+    def add_image(self, name: str, width: float | None = None, height: float | None = None) -> None:
+        self._blocks.append(Block(image=name, width=width, height=height))
         self._last_x1 = None
 
 
@@ -207,7 +215,8 @@ def extract(pdf_path: Path, image_dir: Path | None = None) -> tuple[list[Questio
             if current is None:
                 continue  # cover page artwork
             name = store.save(obj["image"], obj.get("ext", "png"))
-            acc.add_image(name)
+            x0, y0, x1, y1 = obj["bbox"]
+            acc.add_image(name, x1 - x0, y1 - y0)
             continue
 
         text = _line_text(obj).strip()

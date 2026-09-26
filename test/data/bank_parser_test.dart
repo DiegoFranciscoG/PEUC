@@ -22,7 +22,7 @@ Map<String, dynamic> _minimalBank({String topic = '1.1.1', String answer = 'a'})
           'topic': topic,
           'stem': [
             {'t': 'El resultado de'},
-            {'img': 'abc.webp'},
+            {'img': 'abc.webp', 'w': 55.5, 'h': 42},
           ],
           'options': [
             {'l': 'a', 'b': [{'t': 'x²'}]},
@@ -46,6 +46,8 @@ void main() {
     expect(q.areaCode, 'MAT');
     expect(q.stem[1].isImage, isTrue);
     expect(q.stem[1].image, 'abc.webp');
+    expect(q.stem[1].width, 55.5);
+    expect(q.options[1].blocks.single.width, isNull);
     expect(q.options[1].hasImage, isTrue);
     expect(q.correctOption.plainText, 'x²');
     expect(q.check, AnswerCheck.image);

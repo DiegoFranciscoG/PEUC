@@ -51,6 +51,14 @@ def test_images_split_text_blocks():
     blocks = []
     acc = _TextAccumulator(blocks)
     acc.add_line("El resultado de racionalizar", 300)
-    acc.add_image("abc.webp")
+    acc.add_image("abc.webp", 56.04, 41.9)
     acc.add_line("es", 100)
-    assert [b.to_dict() for b in blocks] == [{"t": "El resultado de racionalizar"}, {"img": "abc.webp"}, {"t": "es"}]
+    assert [b.to_dict() for b in blocks] == [
+        {"t": "El resultado de racionalizar"},
+        {"img": "abc.webp", "w": 56.0, "h": 41.9},
+        {"t": "es"},
+    ]
+
+
+def test_pictures_without_size_omit_it():
+    assert Block(image="x.webp").to_dict() == {"img": "x.webp"}

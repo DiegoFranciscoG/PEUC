@@ -69,7 +69,11 @@ QuestionBank parseBank(String source) {
 List<ContentBlock> _blocks(List raw) => [
       for (final b in raw)
         if ((b as Map).containsKey('img'))
-          ContentBlock.image(b['img'] as String)
+          ContentBlock.image(
+            b['img'] as String,
+            width: (b['w'] as num?)?.toDouble(),
+            height: (b['h'] as num?)?.toDouble(),
+          )
         else
           ContentBlock.text(b['t'] as String),
     ];
