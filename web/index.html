@@ -34,17 +34,7 @@
     <span>Cargando el banco oficial…</span>
   </div>
   <noscript>P.E.U.C. necesita JavaScript para funcionar.</noscript>
-  <script>
-    window.addEventListener('flutter-first-frame', function () {
-      var el = document.getElementById('cargando');
-      if (el) el.remove();
-    });
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', function () {
-        navigator.serviceWorker.register('sw.js').catch(function () {});
-      });
-    }
-  </script>
+  <script src="boot.js"></script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>
