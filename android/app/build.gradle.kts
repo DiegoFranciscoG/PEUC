@@ -4,8 +4,17 @@ plugins {
     id("dev.flutter.flutter-gradle-plugin")
 }
 
+// Release signing comes only from environment variables (CI secrets or a local
+// shell). Without ANDROID_KEYSTORE_PATH the release build falls back to the
+// debug key so `flutter build apk` still works for contributors; when the path
+// is set, every other variable is mandatory and there are no default values.
+val releaseKeystore: String? = System.getenv("ANDROID_KEYSTORE_PATH")
+
+fun requiredEnv(name: String): String =
+    System.getenv(name) ?: throw GradleException("Define $name para firmar la versión release")
+
 android {
-    namespace = "com.example.app_ucuenca"
+    namespace = "io.github.diegofranciscog.peuc"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -15,21 +24,27 @@ android {
     }
 
     defaultConfig {
-        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.example.app_ucuenca"
-        // You can update the following values to match your application needs.
-        // For more information, see: https://flutter.dev/to/review-gradle-config.
+        applicationId = "io.github.diegofranciscog.peuc"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
         versionName = flutter.versionName
     }
 
+    signingConfigs {
+        if (releaseKeystore != null) {
+            create("release") {
+                storeFile = file(releaseKeystore)
+                storePassword = requiredEnv("ANDROID_KEYSTORE_PASSWORD")
+                keyAlias = requiredEnv("ANDROID_KEY_ALIAS")
+                keyPassword = requiredEnv("ANDROID_KEY_PASSWORD")
+            }
+        }
+    }
+
     buildTypes {
         release {
-            // TODO: Add your own signing config for the release build.
-            // Signing with the debug keys for now, so `flutter run --release` works.
-            signingConfig = signingConfigs.getByName("debug")
+            signingConfig = signingConfigs.getByName(if (releaseKeystore != null) "release" else "debug")
         }
     }
 }
