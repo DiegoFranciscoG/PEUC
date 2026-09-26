@@ -103,7 +103,7 @@ erDiagram
 ```bash
 docker compose up --build
 ```
-Abre http://localhost:8080.
+Abre http://localhost:8080 (si el puerto está ocupado: `PEUC_PORT=8090 docker compose up --build`). La imagen sirve la web con nginx sin root, *healthcheck* en `/healthz`, CSP estricta y sistema de archivos de solo lectura.
 
 **Sin Docker:**
 ```bash
