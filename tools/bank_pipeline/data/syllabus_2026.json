@@ -1,0 +1,467 @@
+{
+ "source": "Universidad de Cuenca — Temarios UCuenca 2026 (PDF, 26-may-2026)",
+ "url": "https://www.ucuenca.edu.ec/wp-content/uploads/2026/07/Temarios_UCuenca-2026.pdf",
+ "areas": [
+  {
+   "code": "MAT",
+   "prefix": "1",
+   "name": "Matemáticas"
+  },
+  {
+   "code": "LEN",
+   "prefix": "2",
+   "name": "Lengua y Literatura"
+  },
+  {
+   "code": "CNA",
+   "prefix": "3",
+   "name": "Ciencias Naturales"
+  },
+  {
+   "code": "CSO",
+   "prefix": "4",
+   "name": "Ciencias Sociales"
+  },
+  {
+   "code": "RAB",
+   "prefix": "5",
+   "name": "Razonamiento Abstracto"
+  }
+ ],
+ "topics": [
+  {
+   "code": "1.1.1",
+   "area": "MAT",
+   "unit_code": "1.1",
+   "unit": "Álgebra y Funciones",
+   "title": "Números reales. Polinomios reales con coeficientes en R. Factorización."
+  },
+  {
+   "code": "1.1.2",
+   "area": "MAT",
+   "unit_code": "1.1",
+   "unit": "Álgebra y Funciones",
+   "title": "Funciones reales."
+  },
+  {
+   "code": "1.1.3",
+   "area": "MAT",
+   "unit_code": "1.1",
+   "unit": "Álgebra y Funciones",
+   "title": "Función exponencial y logarítmica."
+  },
+  {
+   "code": "1.1.4",
+   "area": "MAT",
+   "unit_code": "1.1",
+   "unit": "Álgebra y Funciones",
+   "title": "Función cuadrática."
+  },
+  {
+   "code": "1.1.5",
+   "area": "MAT",
+   "unit_code": "1.1",
+   "unit": "Álgebra y Funciones",
+   "title": "Ecuaciones."
+  },
+  {
+   "code": "1.1.6",
+   "area": "MAT",
+   "unit_code": "1.1",
+   "unit": "Álgebra y Funciones",
+   "title": "Intervalos e inecuaciones."
+  },
+  {
+   "code": "1.1.7",
+   "area": "MAT",
+   "unit_code": "1.1",
+   "unit": "Álgebra y Funciones",
+   "title": "Matrices reales de m x n."
+  },
+  {
+   "code": "1.2.1",
+   "area": "MAT",
+   "unit_code": "1.2",
+   "unit": "Geometría y medida",
+   "title": "Vectores geométricos en el plano. El espacio vectorial R2."
+  },
+  {
+   "code": "1.3.1",
+   "area": "MAT",
+   "unit_code": "1.3",
+   "unit": "Estadística y Probabilidad",
+   "title": "Estadística descriptiva."
+  },
+  {
+   "code": "2.1.1",
+   "area": "LEN",
+   "unit_code": "2.1",
+   "unit": "Lengua y Cultura",
+   "title": "Variedades lingüísticas y cultura escrita."
+  },
+  {
+   "code": "2.2.1",
+   "area": "LEN",
+   "unit_code": "2.2",
+   "unit": "Comunicación Oral",
+   "title": "Comunicación oral e interacción social."
+  },
+  {
+   "code": "2.3.1",
+   "area": "LEN",
+   "unit_code": "2.3",
+   "unit": "Lectura",
+   "title": "Comprensión de textos."
+  },
+  {
+   "code": "2.4.1",
+   "area": "LEN",
+   "unit_code": "2.4",
+   "unit": "Escritura",
+   "title": "Producción de textos."
+  },
+  {
+   "code": "2.5.1",
+   "area": "LEN",
+   "unit_code": "2.5",
+   "unit": "Literatura",
+   "title": "Literatura y contexto."
+  },
+  {
+   "code": "3.1.1",
+   "area": "CNA",
+   "unit_code": "3.1",
+   "unit": "Evolución de los seres vivos",
+   "title": "Origen y evolución de la vida."
+  },
+  {
+   "code": "3.1.2",
+   "area": "CNA",
+   "unit_code": "3.1",
+   "unit": "Evolución de los seres vivos",
+   "title": "Herencia y genética."
+  },
+  {
+   "code": "3.1.3",
+   "area": "CNA",
+   "unit_code": "3.1",
+   "unit": "Evolución de los seres vivos",
+   "title": "Diversidad biológica y conservación."
+  },
+  {
+   "code": "3.2.1",
+   "area": "CNA",
+   "unit_code": "3.2",
+   "unit": "Unidades de Medida",
+   "title": "Unidades de medida."
+  },
+  {
+   "code": "3.3.1",
+   "area": "CNA",
+   "unit_code": "3.3",
+   "unit": "Cuerpo humano y salud",
+   "title": "Sistemas digestivo, excretor, circulatorio y respiratorio, nervioso, endócrino, osteoartromuscular, inmunológico."
+  },
+  {
+   "code": "3.3.2",
+   "area": "CNA",
+   "unit_code": "3.3",
+   "unit": "Cuerpo humano y salud",
+   "title": "Reproducción humana."
+  },
+  {
+   "code": "3.4.1",
+   "area": "CNA",
+   "unit_code": "3.4",
+   "unit": "El mundo de la química",
+   "title": "Los gases."
+  },
+  {
+   "code": "3.4.2",
+   "area": "CNA",
+   "unit_code": "3.4",
+   "unit": "El mundo de la química",
+   "title": "Modelo atómico."
+  },
+  {
+   "code": "3.4.3",
+   "area": "CNA",
+   "unit_code": "3.4",
+   "unit": "El mundo de la química",
+   "title": "Los átomos y la tabla periódica."
+  },
+  {
+   "code": "3.4.4",
+   "area": "CNA",
+   "unit_code": "3.4",
+   "unit": "El mundo de la química",
+   "title": "El enlace químico."
+  },
+  {
+   "code": "3.4.5",
+   "area": "CNA",
+   "unit_code": "3.4",
+   "unit": "El mundo de la química",
+   "title": "Formación de compuestos químicos."
+  },
+  {
+   "code": "3.4.6",
+   "area": "CNA",
+   "unit_code": "3.4",
+   "unit": "El mundo de la química",
+   "title": "Compuestos orgánicos."
+  },
+  {
+   "code": "3.5.1",
+   "area": "CNA",
+   "unit_code": "3.5",
+   "unit": "La química y su lenguaje",
+   "title": "Las reacciones químicas y sus ecuaciones."
+  },
+  {
+   "code": "3.6.1",
+   "area": "CNA",
+   "unit_code": "3.6",
+   "unit": "Química en acción",
+   "title": "Química de disoluciones y sistemas dispersos."
+  },
+  {
+   "code": "3.7.1",
+   "area": "CNA",
+   "unit_code": "3.7",
+   "unit": "Movimiento y fuerza",
+   "title": "Posición y movimiento y movimiento rectilíneo."
+  },
+  {
+   "code": "3.7.2",
+   "area": "CNA",
+   "unit_code": "3.7",
+   "unit": "Movimiento y fuerza",
+   "title": "Movimiento en dos dimensiones."
+  },
+  {
+   "code": "3.7.3",
+   "area": "CNA",
+   "unit_code": "3.7",
+   "unit": "Movimiento y fuerza",
+   "title": "Leyes de Newton."
+  },
+  {
+   "code": "3.7.4",
+   "area": "CNA",
+   "unit_code": "3.7",
+   "unit": "Movimiento y fuerza",
+   "title": "Dinámica en dos dimensiones."
+  },
+  {
+   "code": "3.7.5",
+   "area": "CNA",
+   "unit_code": "3.7",
+   "unit": "Movimiento y fuerza",
+   "title": "Movimiento de proyectiles."
+  },
+  {
+   "code": "3.7.6",
+   "area": "CNA",
+   "unit_code": "3.7",
+   "unit": "Movimiento y fuerza",
+   "title": "Carga eléctrica."
+  },
+  {
+   "code": "3.7.7",
+   "area": "CNA",
+   "unit_code": "3.7",
+   "unit": "Movimiento y fuerza",
+   "title": "Circuitos eléctricos."
+  },
+  {
+   "code": "3.7.8",
+   "area": "CNA",
+   "unit_code": "3.7",
+   "unit": "Movimiento y fuerza",
+   "title": "El campo magnético."
+  },
+  {
+   "code": "3.8.1",
+   "area": "CNA",
+   "unit_code": "3.8",
+   "unit": "Energía, conservación y transferencia",
+   "title": "Calor y la primera y segunda ley de la termodinámica."
+  },
+  {
+   "code": "3.9.1",
+   "area": "CNA",
+   "unit_code": "3.9",
+   "unit": "La tierra y el universo",
+   "title": "El sistema solar, las estrellas, las galaxias y el Universo."
+  },
+  {
+   "code": "3.10.1",
+   "area": "CNA",
+   "unit_code": "3.10",
+   "unit": "Movimiento en dos dimensiones",
+   "title": "Vectores."
+  },
+  {
+   "code": "4.1.1",
+   "area": "CSO",
+   "unit_code": "4.1",
+   "unit": "Los orígenes y las primeras culturas de la humanidad",
+   "title": "Historia, trabajo y cultura."
+  },
+  {
+   "code": "4.1.2",
+   "area": "CSO",
+   "unit_code": "4.1",
+   "unit": "Los orígenes y las primeras culturas de la humanidad",
+   "title": "Primeras producciones del ser humano."
+  },
+  {
+   "code": "4.1.3",
+   "area": "CSO",
+   "unit_code": "4.1",
+   "unit": "Los orígenes y las primeras culturas de la humanidad",
+   "title": "Civilizaciones clásicas del mediterráneo."
+  },
+  {
+   "code": "4.2.1",
+   "area": "CSO",
+   "unit_code": "4.2",
+   "unit": "La argumentación y la construcción del discurso lógico, oral y escrito",
+   "title": "Silogística aristotélica y lógica moderna de clases."
+  },
+  {
+   "code": "4.3.1",
+   "area": "CSO",
+   "unit_code": "4.3",
+   "unit": "Los seres humanos en el espacio",
+   "title": "La Tierra; África, Europa, Asia, Oceanía."
+  },
+  {
+   "code": "4.4.1",
+   "area": "CSO",
+   "unit_code": "4.4",
+   "unit": "De la Edad Media a la modernidad",
+   "title": "Capitalismo y modernidad."
+  },
+  {
+   "code": "4.5.1",
+   "area": "CSO",
+   "unit_code": "4.5",
+   "unit": "América Latina: mestizaje y liberación",
+   "title": "Culturas nativas de América."
+  },
+  {
+   "code": "4.5.2",
+   "area": "CSO",
+   "unit_code": "4.5",
+   "unit": "América Latina: mestizaje y liberación",
+   "title": "Culturas andinas, conquista española y el choque cultural."
+  },
+  {
+   "code": "4.5.3",
+   "area": "CSO",
+   "unit_code": "4.5",
+   "unit": "América Latina: mestizaje y liberación",
+   "title": "Identidad latinoamericana (siglos XIX y XX)."
+  },
+  {
+   "code": "4.6.1",
+   "area": "CSO",
+   "unit_code": "4.6",
+   "unit": "Economía: trabajo y sociedad",
+   "title": "Teorías y sistemas económicos contemporáneos."
+  },
+  {
+   "code": "4.7.1",
+   "area": "CSO",
+   "unit_code": "4.7",
+   "unit": "Ciudadanía y derechos",
+   "title": "Ciudadanía y derechos."
+  },
+  {
+   "code": "4.8.1",
+   "area": "CSO",
+   "unit_code": "4.8",
+   "unit": "La democracia moderna",
+   "title": "Democracia representativa y deliberativa."
+  },
+  {
+   "code": "4.9.1",
+   "area": "CSO",
+   "unit_code": "4.9",
+   "unit": "La democracia y la construcción de un Estado plurinacional",
+   "title": "Democracia, plurinacionalidad y las demandas sociales de pueblos y nacionalidades."
+  },
+  {
+   "code": "4.10.1",
+   "area": "CSO",
+   "unit_code": "4.10",
+   "unit": "El Estado y su organización",
+   "title": "Origen, evolución histórica y componentes del Estado."
+  },
+  {
+   "code": "4.11.1",
+   "area": "CSO",
+   "unit_code": "4.11",
+   "unit": "Orígenes del pensamiento filosófico y su relación con la ciudadanía",
+   "title": "Nacimiento de la filosofía (naturaleza y armonía, matemática, geometría y música)."
+  },
+  {
+   "code": "5.1.1",
+   "area": "RAB",
+   "unit_code": "5.1",
+   "unit": "Conjuntos gráficos",
+   "title": "Semejanzas y diferencias gráficas."
+  },
+  {
+   "code": "5.1.2",
+   "area": "RAB",
+   "unit_code": "5.1",
+   "unit": "Conjuntos gráficos",
+   "title": "Analogías gráficas."
+  },
+  {
+   "code": "5.2.1",
+   "area": "RAB",
+   "unit_code": "5.2",
+   "unit": "Series gráficas",
+   "title": "Deformación de objetos."
+  },
+  {
+   "code": "5.2.2",
+   "area": "RAB",
+   "unit_code": "5.2",
+   "unit": "Series gráficas",
+   "title": "Cambio posicional de figuras."
+  },
+  {
+   "code": "5.2.3",
+   "area": "RAB",
+   "unit_code": "5.2",
+   "unit": "Series gráficas",
+   "title": "Complicación y simplificación de las formas."
+  },
+  {
+   "code": "5.3.1",
+   "area": "RAB",
+   "unit_code": "5.3",
+   "unit": "Imaginación espacial",
+   "title": "Figura rotativa."
+  },
+  {
+   "code": "5.3.2",
+   "area": "RAB",
+   "unit_code": "5.3",
+   "unit": "Imaginación espacial",
+   "title": "Transformación entre gráficos 2D y 3D."
+  },
+  {
+   "code": "5.3.3",
+   "area": "RAB",
+   "unit_code": "5.3",
+   "unit": "Imaginación espacial",
+   "title": "Perspectivas de objetos."
+  }
+ ]
+}
