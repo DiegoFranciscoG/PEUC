@@ -57,7 +57,7 @@ class ExamResultScreen extends ConsumerWidget {
                           const SizedBox(height: 12),
                           Text(
                             '${decimal(score.points, digits: 2)} de ${questions.length} puntos · '
-                            '${score.correct} correctas · ${score.wrong} incorrectas · ${score.blank} en blanco · '
+                            '${count(score.correct, 'correcta', 'correctas')} · ${count(score.wrong, 'incorrecta', 'incorrectas')} · ${score.blank} en blanco · '
                             '${clock(elapsed)} min',
                           ),
                           Align(
@@ -82,8 +82,8 @@ class ExamResultScreen extends ConsumerWidget {
                           if (score.components[code] case final c?)
                             ListTile(
                               leading: Icon(AreaStyle.icon(code), color: AreaStyle.color(code)),
-                              title: Text(bank.area(code).name),
-                              subtitle: Text('${c.correct} ✓   ${c.wrong} ✗   ${c.blank} sin responder · pesa ${field.weights[code]} %'),
+                              title: Text('${bank.area(code).name} · ${field.weights[code]} %'),
+                              subtitle: Text('${count(c.correct, 'correcta', 'correctas')} · ${count(c.wrong, 'incorrecta', 'incorrectas')} · ${c.blank} en blanco'),
                               trailing: Text('${decimal(c.points, digits: 2)} / ${c.total}', style: theme.textTheme.titleSmall),
                             ),
                       ],

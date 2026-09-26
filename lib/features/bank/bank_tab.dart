@@ -90,7 +90,7 @@ class _BankTabState extends ConsumerState<BankTab> {
                     const SizedBox(height: 4),
                     Align(
                       alignment: Alignment.centerLeft,
-                      child: Text('${thousands(results.length)} preguntas', style: Theme.of(context).textTheme.labelMedium),
+                      child: Text('${thousands(results.length)} ${results.length == 1 ? 'pregunta' : 'preguntas'}', style: Theme.of(context).textTheme.labelMedium),
                     ),
                   ],
                 ),

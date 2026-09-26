@@ -164,7 +164,10 @@ class _TopicTile extends ConsumerWidget {
     final questions = bank.byTopic(topic.code);
     final accuracy = progress.byTopic[topic.code];
     return ListTile(
-      leading: CircleAvatar(radius: 18, child: Text(topic.code.split('.').last)),
+      leading: CircleAvatar(
+        radius: 20,
+        child: Text(topic.code.split('.').skip(1).join('.'), style: Theme.of(context).textTheme.labelMedium),
+      ),
       title: Text(topic.title),
       subtitle: Text(
         '${topic.code} · ${questions.length} preguntas'
