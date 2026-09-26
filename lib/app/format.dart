@@ -23,3 +23,6 @@ String clock(Duration duration) {
   final seconds = duration.inSeconds % 60;
   return '${minutes.toString().padLeft(2, '0')}:${seconds.toString().padLeft(2, '0')}';
 }
+
+/// "1 correcta", "2 correctas"...
+String count(int n, String singular, String plural) => '$n ${n == 1 ? singular : plural}';

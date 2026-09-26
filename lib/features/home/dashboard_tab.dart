@@ -27,6 +27,10 @@ class DashboardTab extends ConsumerWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
+                if (!ref.watch(persistentStorageProvider)) ...[
+                  const _StorageWarning(),
+                  const SizedBox(height: 12),
+                ],
                 _BankCard(bank: bank),
                 const SizedBox(height: 12),
                 const _ExamCard(),
@@ -49,6 +53,27 @@ class DashboardTab extends ConsumerWidget {
             ),
           ),
         ],
+      ),
+    );
+  }
+}
+
+class _StorageWarning extends StatelessWidget {
+  const _StorageWarning();
+
+  @override
+  Widget build(BuildContext context) {
+    final scheme = Theme.of(context).colorScheme;
+    return Card(
+      color: scheme.errorContainer,
+      child: ListTile(
+        leading: Icon(Icons.cloud_off, color: scheme.onErrorContainer),
+        title: Text('Tu progreso no se guardará', style: TextStyle(color: scheme.onErrorContainer)),
+        subtitle: Text(
+          'Este navegador no permite guardar datos (modo privado o almacenamiento bloqueado). '
+          'Puedes practicar igual, pero el avance se perderá al cerrar.',
+          style: TextStyle(color: scheme.onErrorContainer),
+        ),
       ),
     );
   }
@@ -194,7 +219,7 @@ class _QuickActions extends ConsumerWidget {
           child: _ActionTile(
             icon: Icons.bookmark_border,
             title: 'Guardadas',
-            subtitle: '${saved.length} preguntas',
+            subtitle: count(saved.length, 'pregunta', 'preguntas'),
             onTap: () => openPractice(context, ref, title: 'Guardadas', pool: saved, count: saved.length),
           ),
         ),
@@ -305,7 +330,8 @@ class _LastExamCard extends StatelessWidget {
         leading: const Icon(Icons.insights),
         title: Text('Último simulacro: ${percent(session.weightedPercent, digits: 1)}', style: theme.textTheme.titleMedium),
         subtitle: Text(
-          '${session.correct} correctas · ${session.wrong} incorrectas · ${session.blank} en blanco\n'
+          '${count(session.correct, 'correcta', 'correctas')} · ${count(session.wrong, 'incorrecta', 'incorrectas')} · '
+          '${session.blank} en blanco\n'
           '${shortDate(session.startedAt)} · ${fieldByCode(session.fieldCode).name}',
         ),
         isThreeLine: true,
