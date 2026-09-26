@@ -109,6 +109,20 @@ void main() {
     expect((await db.query('exam_sessions')).single['blank'], 59);
   });
 
+  testWidgets('when storage is blocked the app falls back to memory and warns', (tester) async {
+    await tester.pumpWidget(ProviderScope(
+      overrides: [
+        bankProvider.overrideWith((ref) async => testBank()),
+        databaseProvider.overrideWith((ref) => Future<Database>.error(StateError('IndexedDB bloqueado'))),
+      ],
+      child: const PeucApp(),
+    ));
+    await settle(tester);
+
+    expect(find.text('Tu progreso no se guardará'), findsOneWidget);
+    expect(find.text('Banco oficial 2026'), findsOneWidget);
+  });
+
   test('routes map web links to screens', () {
     expect(generateRoute(const RouteSettings(name: '/pregunta/15')), isNotNull);
     expect(generateRoute(const RouteSettings(name: '/pregunta/abc')), isNull);

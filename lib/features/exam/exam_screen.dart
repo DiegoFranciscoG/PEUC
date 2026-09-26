@@ -64,7 +64,7 @@ class _ExamScreenState extends ConsumerState<ExamScreen> {
     final questions = _questions!;
     final elapsed = DateTime.now().difference(_startedAt);
     final settings = await ref.read(settingsProvider.future);
-    final repository = await ref.read(progressRepositoryProvider.future);
+    final repository = await ref.read(progressStoreProvider.future);
     await repository.saveExam(
       questions: questions,
       answers: _answers,

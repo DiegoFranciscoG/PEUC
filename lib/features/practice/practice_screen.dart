@@ -52,7 +52,7 @@ class _PracticeScreenState extends ConsumerState<PracticeScreen> {
 
   Future<void> _answer(String label) async {
     setState(() => _answers[_current.number] = label);
-    final repository = await ref.read(progressRepositoryProvider.future);
+    final repository = await ref.read(progressStoreProvider.future);
     await repository.recordPracticeAnswer(_current, label);
     ref.invalidate(progressProvider);
   }

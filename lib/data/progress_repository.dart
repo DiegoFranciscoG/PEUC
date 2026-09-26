@@ -3,87 +3,22 @@ import 'package:sqflite/sqflite.dart';
 import '../domain/admission_rules.dart';
 import '../domain/models.dart';
 import '../domain/scoring.dart';
+import 'progress_store.dart';
 
-class Accuracy {
-  const Accuracy({required this.attempts, required this.correct});
-
-  final int attempts;
-  final int correct;
-
-  double get ratio => attempts == 0 ? 0 : correct / attempts;
-}
-
-class ExamSessionSummary {
-  const ExamSessionSummary({
-    required this.id,
-    required this.startedAt,
-    required this.duration,
-    required this.fieldCode,
-    required this.correct,
-    required this.wrong,
-    required this.blank,
-    required this.points,
-    required this.weightedPercent,
-  });
-
-  final int id;
-  final DateTime startedAt;
-  final Duration duration;
-  final String fieldCode;
-  final int correct;
-  final int wrong;
-  final int blank;
-  final double points;
-  final double weightedPercent;
-}
-
-/// Everything the dashboards need, read in one go.
-class ProgressSnapshot {
-  const ProgressSnapshot({
-    required this.byTopic,
-    required this.byArea,
-    required this.seen,
-    required this.lastWrong,
-    required this.bookmarks,
-    required this.sessions,
-  });
-
-  static const empty = ProgressSnapshot(
-    byTopic: {},
-    byArea: {},
-    seen: {},
-    lastWrong: {},
-    bookmarks: {},
-    sessions: [],
-  );
-
-  final Map<String, Accuracy> byTopic;
-  final Map<String, Accuracy> byArea;
-
-  /// Questions answered at least once.
-  final Set<int> seen;
-
-  /// Questions whose most recent answer was wrong.
-  final Set<int> lastWrong;
-  final Set<int> bookmarks;
-
-  /// Most recent first.
-  final List<ExamSessionSummary> sessions;
-
-  Accuracy get overall => byArea.values.fold(
-        const Accuracy(attempts: 0, correct: 0),
-        (sum, a) => Accuracy(attempts: sum.attempts + a.attempts, correct: sum.correct + a.correct),
-      );
-}
+export 'progress_store.dart';
 
 /// Local, private progress storage (no account, nothing leaves the device).
 /// Only parameterised SQL is used.
-class ProgressRepository {
+class ProgressRepository implements ProgressStore {
   ProgressRepository(this._db, {DateTime Function()? clock}) : _clock = clock ?? DateTime.now;
 
   final Database _db;
   final DateTime Function() _clock;
 
+  @override
+  bool get persistent => true;
+
+  @override
   Future<void> recordPracticeAnswer(Question question, String chosen) => _db.insert('attempts', {
         'question_number': question.number,
         'topic_code': question.topicCode,
@@ -94,8 +29,7 @@ class ProgressRepository {
         'answered_at': _clock().toIso8601String(),
       });
 
-  /// Saves a finished simulation and its answers in one transaction.
-  /// Blank questions are not stored as attempts (they are neither right nor wrong).
+  @override
   Future<int> saveExam({
     required List<Question> questions,
     required Map<int, String> answers,
@@ -136,6 +70,7 @@ class ProgressRepository {
     });
   }
 
+  @override
   Future<ProgressSnapshot> snapshot() async {
     Map<String, Accuracy> grouped(List<Map<String, Object?>> rows, String key) => {
           for (final r in rows)
@@ -179,6 +114,7 @@ class ProgressRepository {
     );
   }
 
+  @override
   Future<bool> toggleBookmark(int questionNumber) async {
     final removed = await _db.delete('bookmarks', where: 'question_number = ?', whereArgs: [questionNumber]);
     if (removed > 0) return false;
@@ -189,14 +125,16 @@ class ProgressRepository {
     return true;
   }
 
+  @override
   Future<Map<String, String>> settings() async => {
         for (final r in await _db.query('settings')) r['key'] as String: r['value'] as String,
       };
 
+  @override
   Future<void> saveSetting(String key, String value) =>
       _db.insert('settings', {'key': key, 'value': value}, conflictAlgorithm: ConflictAlgorithm.replace);
 
-  /// Deletes answers, simulations and bookmarks (settings are kept).
+  @override
   Future<void> clearProgress() => _db.transaction((txn) async {
         await txn.delete('attempts');
         await txn.delete('exam_sessions');

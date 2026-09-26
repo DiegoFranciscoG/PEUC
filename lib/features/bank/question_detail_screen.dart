@@ -26,7 +26,7 @@ class QuestionDetailScreen extends ConsumerWidget {
             tooltip: bookmarked ? 'Quitar de guardadas' : 'Guardar',
             icon: Icon(bookmarked ? Icons.bookmark : Icons.bookmark_border),
             onPressed: () async {
-              await (await ref.read(progressRepositoryProvider.future)).toggleBookmark(number);
+              await (await ref.read(progressStoreProvider.future)).toggleBookmark(number);
               ref.invalidate(progressProvider);
             },
           ),

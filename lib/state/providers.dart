@@ -20,13 +20,25 @@ final databaseProvider = FutureProvider<Database>((ref) async {
   return db;
 });
 
-final progressRepositoryProvider = FutureProvider<ProgressRepository>(
-  (ref) async => ProgressRepository(await ref.watch(databaseProvider.future)),
+/// SQLite store when the device allows it; otherwise an in-memory store so the
+/// app keeps working (e.g. a browser in private mode that blocks IndexedDB).
+final progressStoreProvider = FutureProvider<ProgressStore>((ref) async {
+  try {
+    final db = await ref.watch(databaseProvider.future).timeout(const Duration(seconds: 8));
+    return ProgressRepository(db);
+  } on Object {
+    return MemoryProgressStore();
+  }
+});
+
+/// False when the browser/device blocked storage and progress is only in memory.
+final persistentStorageProvider = Provider<bool>(
+  (ref) => ref.watch(progressStoreProvider).value?.persistent ?? true,
 );
 
 /// Re-read after every answer (the screens invalidate it).
 final progressProvider = FutureProvider<ProgressSnapshot>(
-  (ref) async => (await ref.watch(progressRepositoryProvider.future)).snapshot(),
+  (ref) async => (await ref.watch(progressStoreProvider.future)).snapshot(),
 );
 
 class AppSettings {
@@ -42,7 +54,7 @@ class AppSettings {
 class SettingsController extends AsyncNotifier<AppSettings> {
   @override
   Future<AppSettings> build() async {
-    final stored = await (await ref.watch(progressRepositoryProvider.future)).settings();
+    final stored = await (await ref.watch(progressStoreProvider.future)).settings();
     return AppSettings(
       shuffleOptions: stored['shuffle_options'] != 'false',
       fieldCode: stored['field_code'] ?? 'M',
@@ -51,7 +63,7 @@ class SettingsController extends AsyncNotifier<AppSettings> {
   }
 
   Future<void> setShuffleOptions(bool value) async {
-    await (await ref.read(progressRepositoryProvider.future)).saveSetting('shuffle_options', '$value');
+    await (await ref.read(progressStoreProvider.future)).saveSetting('shuffle_options', '$value');
     final current = state.value ?? const AppSettings();
     state = AsyncData(AppSettings(shuffleOptions: value, fieldCode: current.fieldCode, career: current.career));
   }
@@ -59,7 +71,7 @@ class SettingsController extends AsyncNotifier<AppSettings> {
   Future<void> setCareer(String career) async {
     final field = fieldOfCareer(career);
     if (field == null) return;
-    final repository = await ref.read(progressRepositoryProvider.future);
+    final repository = await ref.read(progressStoreProvider.future);
     await repository.saveSetting('career', career);
     await repository.saveSetting('field_code', field.code);
     final current = state.value ?? const AppSettings();

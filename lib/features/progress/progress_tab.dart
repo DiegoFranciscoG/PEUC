@@ -132,7 +132,7 @@ class ProgressTab extends ConsumerWidget {
       ),
     );
     if (ok != true) return;
-    await (await ref.read(progressRepositoryProvider.future)).clearProgress();
+    await (await ref.read(progressStoreProvider.future)).clearProgress();
     ref.invalidate(progressProvider);
   }
 }
