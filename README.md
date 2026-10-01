@@ -194,4 +194,4 @@ cd tools/bank_pipeline && python -m pip install -r requirements-dev.txt && pytho
 
 ## Autor
 
-**Diego Francisco Granda Zhingre** · [GitHub](https://github.com/DiegoFranciscoG)
+**Diego Francisco Granda Zhingre** · [GitHub](https://github.com/DiegoFranciscoG) · [LinkedIn](https://www.linkedin.com/in/diego-francisco-g-61b793254/) · [Portafolio](https://diegofranciscog.github.io/)
