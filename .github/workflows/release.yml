@@ -41,7 +41,7 @@ jobs:
         run: |
           flutter build apk --release
           mv build/app/outputs/flutter-apk/app-release.apk PEUC.apk
-      - uses: actions/upload-artifact@v7.0.1
+      - uses: actions/upload-artifact@v7.0.2
         with:
           name: android
           path: PEUC.apk
@@ -64,7 +64,7 @@ jobs:
           mkdir Payload
           cp -R build/ios/iphoneos/Runner.app Payload/
           zip -qr PEUC-sin-firmar.ipa Payload
-      - uses: actions/upload-artifact@v7.0.1
+      - uses: actions/upload-artifact@v7.0.2
         with:
           name: ios
           path: PEUC-sin-firmar.ipa
