@@ -13,7 +13,7 @@ COPY web ./web
 RUN flutter build web --release --no-web-resources-cdn --no-wasm-dry-run --base-href /
 
 # ---- 2. Serve it with an unprivileged nginx (runs as uid 101, port 8080)
-FROM nginxinc/nginx-unprivileged:1.30.5-alpine
+FROM nginxinc/nginx-unprivileged:1.31.7-alpine
 COPY docker/nginx.conf /etc/nginx/conf.d/default.conf
 COPY --from=build /app/build/web /usr/share/nginx/html
 EXPOSE 8080
